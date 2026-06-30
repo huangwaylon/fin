@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stock Research Terminal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <aside id="sidebar">
+      <div class="brand">
+        <span class="brand-mark">◆</span>
+        <span class="brand-name">TERMINAL</span>
+      </div>
+      <div class="search-wrap">
+        <input
+          id="search"
+          type="text"
+          placeholder="Search ticker or company…"
+          autocomplete="off"
+          spellcheck="false"
+        />
+        <div id="search-results" class="search-results" hidden></div>
+      </div>
+      <div class="watchlist-header">
+        <span>Watchlist</span>
+        <button id="add-current" title="Add current ticker to watchlist">+</button>
+      </div>
+      <div id="watchlist" class="watchlist"></div>
+      <div class="sidebar-foot">
+        <button id="compare-btn">Compare watchlist →</button>
+      </div>
+    </aside>
+
+    <main id="main">
+      <div id="welcome" class="welcome">
+        <h1>Stock Research Terminal</h1>
+        <p>
+          Search any ticker to pull a full research dossier — price action and
+          technicals, fundamentals, analyst ratings, earnings, ownership, options,
+          news, and SEC filings — aggregated from multiple sources.
+        </p>
+        <div class="quick">
+          <span>Try:</span>
+          <button data-sym="AAPL">AAPL</button>
+          <button data-sym="MSFT">MSFT</button>
+          <button data-sym="NVDA">NVDA</button>
+          <button data-sym="TSLA">TSLA</button>
+          <button data-sym="AMZN">AMZN</button>
+        </div>
+      </div>
+
+      <div id="dossier" hidden>
+        <header id="ticker-header" class="ticker-header"></header>
+        <nav id="tabs" class="tabs"></nav>
+        <section id="tab-content" class="tab-content"></section>
+      </div>
+
+      <div id="compare-view" hidden>
+        <div class="compare-head">
+          <h2>Compare</h2>
+          <button id="compare-close">← Back</button>
+        </div>
+        <div id="compare-table"></div>
+      </div>
+
+      <div id="loading" class="loading" hidden><div class="spinner"></div></div>
+    </main>
+
+    <script src="https://unpkg.com/lightweight-charts@4.1.3/dist/lightweight-charts.standalone.production.js"></script>
+    <script src="/indicators.js"></script>
+    <script src="/chart.js"></script>
+    <script src="/app.js"></script>
+  </body>
+</html>
