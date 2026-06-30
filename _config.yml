@@ -1,0 +1,11 @@
+title: Stock Research Terminal
+description: Multi-source equity research and decision-support for analysts and LLMs.
+theme: jekyll-theme-cayman
+exclude:
+  - node_modules
+  - test
+  - server.js
+  - lib
+  - public
+  - package.json
+  - package-lock.json

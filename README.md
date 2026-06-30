@@ -1,67 +1,59 @@
 # Stock Research Terminal
 
-A multi-source stock analysis and research dashboard. Search any ticker to pull a
-full research dossier — price action and technicals, fundamentals, analyst ratings,
-earnings, ownership/insiders, options, news, and SEC filings — aggregated from
-several free data sources.
+Multi-source equity **research and decision-support** — for senior analysts and LLMs alike.
+It gathers structured data from several providers and turns it into a transparent decision
+layer: a factor scorecard, a valuation, signal/backtest evidence, and a machine-readable brief.
 
-## Run
+> For research and educational use. Data is third-party and may be delayed or incomplete.
+> **Not investment advice.** A human is always the decision-maker.
 
-```bash
-npm start          # starts on http://localhost:5173
-# or, with auto-reload during development:
-npm run dev
-```
+## Two pillars
 
-No `npm install` is required — the server uses only Node's built-in modules
-(Node 20+). The frontend is plain HTML/CSS/JS with no build step.
+1. **Gather** — quotes, full financial statements, valuation, analyst ratings, earnings,
+   ownership/insiders, options, SEC filings, and multi-source news (Yahoo + Google News,
+   with full-text article extraction).
+2. **Decide** — a six-factor scorecard (quality · value · growth · health · momentum ·
+   shareholder yield), an FCFF DCF + reverse DCF + multiples cross-check, walk-forward
+   price-signal backtests, and a structured **brief an LLM can consume** (`/api/brief`).
 
-### Optional: peer companies
-
-Peer-company data comes from Finnhub, which needs a free API key. Without it,
-everything else works and the peers section is simply hidden.
+## Quickstart
 
 ```bash
-FINNHUB_API_KEY=your_key npm start
+npm start     # http://localhost:5173 — no install needed (Node 20+ built-ins only)
 ```
+
+No `npm install`: the server uses only Node's standard library. The frontend is plain
+HTML/CSS/JS with no build step. Optionally set `FINNHUB_API_KEY` for peer data.
+
+## Documentation
+
+| Doc | What's in it |
+| --- | --- |
+| [Methodology](docs/METHODOLOGY.md) | The factor model, valuation, backtest, and **known limitations** |
+| [Architecture](docs/ARCHITECTURE.md) | Code map and data flow |
+| [API reference](docs/API.md) | Every `/api/*` endpoint |
+| [Analyst + LLM playbook](docs/PLAYBOOK.md) | A daily-use walkthrough for forming and validating a long-term thesis |
 
 ## Data sources
 
-| Source        | Provides                                                            | Key needed |
-| ------------- | ------------------------------------------------------------------- | ---------- |
-| Yahoo Finance | Quotes, OHLCV history, full financial statements, valuation, analyst ratings, earnings, insiders, ownership, options, news | No (handled server-side via cookie+crumb) |
-| SEC EDGAR     | Regulatory filings (10-K, 10-Q, 8-K, Form 4, …)                     | No (descriptive User-Agent only) |
-| Stooq         | Daily OHLCV history (fallback when Yahoo is unavailable)            | No |
-| Finnhub       | Peer companies                                                      | Optional |
+| Source | Provides | Key |
+| --- | --- | --- |
+| Yahoo Finance | Quotes, history, statements, valuation, analysts, earnings, insiders, ownership, options, news | No |
+| SEC EDGAR | Regulatory filings (10-K, 10-Q, 8-K, Form 4) | No |
+| Google News | Multi-publisher headline discovery | No |
+| Stooq | Daily OHLCV fallback | No |
+| Finnhub | Peer companies | Optional |
 
-## How it works
+## Decision layer at a glance
 
-- **`server.js`** — dependency-free HTTP server. Serves the static frontend from
-  `public/` and exposes `/api/*` endpoints that proxy and aggregate the data
-  sources (this is what gets around browser CORS, Yahoo's crumb auth, and SEC's
-  User-Agent requirement).
-- **`lib/`** — one client per data source plus a TTL cache (`cache.js`) and the
-  parallel aggregator (`aggregate.js`).
-- **`public/`** — the UI. `app.js` is the application logic, `chart.js` wraps
-  TradingView's lightweight-charts, and `indicators.js` computes SMA/EMA/RSI/MACD/
-  Bollinger Bands.
+- **Score** 0–100 → rating (Strong Buy / Buy / Hold / Reduce / Avoid), with **conviction** and
+  **data coverage**. Financials and REITs are flagged `reliability: limited` ("screen only").
+- **Valuation:** 2-stage FCFF DCF discounted at WACC with a net-debt bridge, a reverse DCF
+  (market-implied growth), and a Graham multiples cross-check, plus a sensitivity grid.
+- **Backtest:** walk-forward, look-ahead-free price-signal rules vs buy-and-hold — descriptive
+  risk context, not a buy signal.
 
-### API endpoints
+## Principles
 
-| Endpoint                                   | Returns                                       |
-| ------------------------------------------ | --------------------------------------------- |
-| `GET /api/search?q=`                       | Ticker / company search                       |
-| `GET /api/research?symbol=`                | Full aggregated dossier (one call, all sources) |
-| `GET /api/snapshot?symbol=`                | Compact metrics for watchlist / compare rows  |
-| `GET /api/history?symbol=&range=&interval=`| OHLCV bars for charting                       |
-| `GET /api/filings?symbol=`                 | SEC EDGAR filings                             |
-| `GET /api/options?symbol=`                 | Options chain                                 |
-
-## Notes
-
-- Watchlist and per-ticker research notes are stored in your browser's
-  `localStorage` — they never leave your machine.
-- Responses are cached in-memory for ~1 minute to stay polite to the free APIs.
-- This is for research and educational use. Data is provided by third parties
-  and may be delayed or incomplete. Not investment advice.
-```
+Transparency (every score traces to its inputs) · no fabrication (missing data is `null`, never
+guessed) · no look-ahead · the UI and the machine brief render from the same computed object.

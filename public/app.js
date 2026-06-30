@@ -12,7 +12,9 @@ const state = {
 
 const TABS = [
   ['overview', 'Overview'],
+  ['decision', 'Decision'],
   ['chart', 'Chart'],
+  ['backtest', 'Backtest'],
   ['fundamentals', 'Fundamentals'],
   ['analysts', 'Analysts'],
   ['earnings', 'Earnings'],
@@ -196,6 +198,8 @@ async function loadTicker(sym) {
   sym = sym.toUpperCase();
   state.symbol = sym;
   state.chart.bars = null;
+  state.brief = null;
+  state.backtest = null;
   showView('dossier');
   $('#loading').hidden = false;
   renderWatchlist();
@@ -283,7 +287,9 @@ function renderTabs() {
 function renderTab() {
   const fn = {
     overview: renderOverview,
+    decision: renderDecision,
     chart: renderChartTab,
+    backtest: renderBacktest,
     fundamentals: renderFundamentals,
     analysts: renderAnalysts,
     earnings: renderEarnings,
@@ -523,6 +529,244 @@ function drawChart() {
     return;
   }
   window.StockChart.render(c.bars, { sma: c.sma, ema: c.ema, bb: c.bb, indicator: c.indicator });
+}
+
+/* ----------------------------- Decision ----------------------------- */
+const FACTOR_LABELS = {
+  quality: 'Quality',
+  value: 'Value',
+  growth: 'Growth',
+  health: 'Financial health',
+  momentum: 'Momentum',
+  shareholderYield: 'Shareholder yield',
+};
+let briefJsonOpen = false;
+
+function scoreColor(s) {
+  if (s == null || isNaN(s)) return 'var(--muted)';
+  if (s >= 65) return 'var(--up)';
+  if (s >= 45) return 'var(--accent)';
+  if (s >= 35) return '#e8923a';
+  return 'var(--down)';
+}
+
+async function renderDecision() {
+  const host = $('#tab-content');
+  if (state.brief) return paintDecision(state.brief);
+  host.innerHTML = '<div class="empty">Computing decision brief…</div>';
+  try {
+    state.brief = await api(`/api/brief?symbol=${encodeURIComponent(state.symbol)}`);
+    paintDecision(state.brief);
+  } catch (e) {
+    host.innerHTML = `<div class="error-note">Could not build brief: ${esc(e.message)}</div>`;
+  }
+}
+
+function factorBar(key, f) {
+  const s = f.score;
+  const w = s == null ? 0 : s;
+  return `<div class="factor-row">
+    <span class="factor-name">${FACTOR_LABELS[key] || key}</span>
+    <div class="factor-track"><i style="width:${w}%;background:${scoreColor(s)}"></i></div>
+    <span class="factor-score num" style="color:${scoreColor(s)}">${s == null ? '—' : Math.round(s)}</span>
+    <span class="factor-cov num" title="data coverage">${fmtPct(f.coverage, 0)}</span>
+  </div>`;
+}
+
+function paintDecision(b) {
+  const sc = b.scorecard;
+  const v = b.valuation || {};
+  const col = scoreColor(sc.composite);
+
+  const hero = `<div class="score-hero">
+    <div class="score-big">
+      <div class="score-num num" style="color:${col}">${sc.composite == null ? '—' : Math.round(sc.composite)}</div>
+      <div class="score-den">/100</div>
+    </div>
+    <div class="score-meta">
+      <div class="rating-badge" style="background:${col}1f;color:${col}">${esc(sc.rating)}${sc.actionable === false ? ' · screen only' : ''}</div>
+      <div class="score-sub">Conviction <b class="num">${fmtNum(sc.conviction, 2)}</b> · data coverage <b class="num">${fmtPct(sc.coverage, 0)}</b>${b.reliability && b.reliability !== 'standard' ? ` · reliability <b>${esc(b.reliability)}</b>` : ''}</div>
+      <div class="score-track"><i style="width:${sc.composite || 0}%;background:${col}"></i></div>
+    </div>
+  </div>`;
+
+  const factors = `<div class="card"><h3>Factor scores</h3><div class="card-body">
+    ${Object.entries(sc.factors).map(([k, f]) => factorBar(k, f)).join('')}
+    <div class="factor-legend">Higher is better. Right column = share of inputs with data.</div>
+  </div></div>`;
+
+  const mosCls = colorClass(v.marginOfSafety);
+  const valGrid = `<div class="card"><h3>Valuation</h3><div class="card-body">
+    ${kvRows([
+      ['Current price', fmtPrice(b.price)],
+      ['DCF fair value', fmtPrice(v.dcfValue)],
+      ['Multiples fair value', fmtPrice(v.multiplesValue)],
+      ['Blended fair value', { text: fmtPrice(v.blendedFairValue), cls: '' }],
+      ['Margin of safety', { text: signed(v.marginOfSafety, (n) => fmtPct(n)), cls: mosCls }],
+      ['Market-implied growth', fmtPct(v.impliedGrowth)],
+      ['Assumed stage-1 growth', fmtPct(v.assumptions?.stage1Growth)],
+      ['Discount rate', fmtPct(v.assumptions?.discountRate)],
+      ['Analyst target upside', { text: signed(v.analystUpside, (n) => fmtPct(n)), cls: colorClass(v.analystUpside) }],
+    ])}
+    ${sensitivityGrid(v.sensitivity, b.price)}
+  </div></div>`;
+
+  const list = (title, items, cls) =>
+    `<div class="card"><h3>${title}</h3><div class="card-body">
+      ${items && items.length ? `<ul class="${cls}">${items.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : '<div class="empty">None.</div>'}
+    </div></div>`;
+
+  const machine = `<div class="card"><h3>Machine-readable brief
+      <span style="float:right;display:flex;gap:8px">
+        <button class="mini-btn" id="copy-md">Copy Markdown</button>
+        <button class="mini-btn" id="toggle-json">${briefJsonOpen ? 'Hide' : 'View'} JSON</button>
+      </span></h3>
+    <div class="card-body">
+      <p class="prose" style="margin:4px 0 10px">The same numbers shown above, as a structured object for an LLM. <code>GET /api/brief?symbol=${esc(b.symbol)}</code> (add <code>&format=md</code> for Markdown).</p>
+      <pre id="brief-json" ${briefJsonOpen ? '' : 'hidden'}>${esc(JSON.stringify(b, null, 2))}</pre>
+    </div></div>`;
+
+  $('#tab-content').innerHTML = `
+    ${hero}
+    ${b.modelNotes && b.modelNotes.length ? `<div class="model-caveat">${b.modelNotes.map((n) => `<div>⚠ ${esc(n)}</div>`).join('')}</div>` : ''}
+    <div class="grid cols-2" style="margin-top:16px">${factors}${valGrid}</div>
+    <div class="grid cols-3" style="margin-top:16px">
+      ${list('Bull case', b.bull, 'bull')}
+      ${list('Bear case', b.bear, 'bear')}
+      ${list('Risk flags', b.flags, 'flags')}
+    </div>
+    <div style="margin-top:16px">${machine}</div>`;
+
+  $('#copy-md').addEventListener('click', async (e) => {
+    try {
+      const md = await fetch(`/api/brief?symbol=${encodeURIComponent(b.symbol)}&format=md`).then((r) => r.text());
+      await navigator.clipboard.writeText(md);
+      e.target.textContent = 'Copied ✓';
+      setTimeout(() => (e.target.textContent = 'Copy Markdown'), 1500);
+    } catch {
+      e.target.textContent = 'Copy failed';
+    }
+  });
+  $('#toggle-json').addEventListener('click', () => {
+    briefJsonOpen = !briefJsonOpen;
+    const pre = $('#brief-json');
+    pre.hidden = !briefJsonOpen;
+    $('#toggle-json').textContent = (briefJsonOpen ? 'Hide' : 'View') + ' JSON';
+  });
+}
+
+function sensitivityGrid(sens, price) {
+  if (!sens || !sens.length) return '';
+  const head = '<th>r ＼ g</th>' + sens[0].map((c) => `<th>${fmtPct(c.growth, 0)}</th>`).join('');
+  const rows = sens
+    .map((row) => {
+      const cells = row
+        .map((c) => {
+          const mos = c.value && price ? c.value / price - 1 : null;
+          const bg = mos == null ? '' : mos > 0 ? 'rgba(46,189,133,0.12)' : 'rgba(240,97,109,0.12)';
+          return `<td class="num" style="background:${bg}">${fmtPrice(c.value)}</td>`;
+        })
+        .join('');
+      return `<tr><td class="num">${fmtPct(row[0].discount, 0)}</td>${cells}</tr>`;
+    })
+    .join('');
+  return `<div class="sens-wrap"><div class="sens-title">DCF sensitivity — fair value by discount rate (rows) × growth (cols)</div>
+    <table class="data sens"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+/* ----------------------------- Backtest ----------------------------- */
+const BT_RULES = [
+  ['trend_mom', 'Trend + Momentum'],
+  ['trend', 'Trend (200d MA)'],
+  ['mom', 'Momentum (12–1)'],
+  ['buyhold', 'Buy & Hold'],
+];
+let btRule = 'trend_mom';
+let btChart = null;
+
+async function renderBacktest() {
+  const c = state.chart;
+  $('#tab-content').innerHTML = `
+    <div class="chart-toolbar">
+      <div class="seg">${BT_RULES.map(([id, l]) => `<button data-bt="${id}" class="${id === btRule ? 'active' : ''}">${l}</button>`).join('')}</div>
+      <span class="prose" style="font-size:12px">Walk-forward, look-ahead-free. Position decided from data up to each day, then next-day return realized.</span>
+    </div>
+    <div id="bt-chart"></div>
+    <div id="bt-metrics"></div>`;
+  $('#tab-content')
+    .querySelectorAll('[data-bt]')
+    .forEach((btn) =>
+      btn.addEventListener('click', () => {
+        btRule = btn.dataset.bt;
+        renderBacktest();
+      })
+    );
+
+  const metricsEl = $('#bt-metrics');
+  metricsEl.innerHTML = '<div class="empty">Running backtest over ~10 years…</div>';
+  try {
+    const data = await api(`/api/backtest?symbol=${encodeURIComponent(state.symbol)}&rule=${btRule}`);
+    if (data.error) {
+      metricsEl.innerHTML = `<div class="empty">${esc(data.error)}</div>`;
+      return;
+    }
+    drawBtChart(data.curve);
+    paintBtMetrics(data);
+  } catch (e) {
+    metricsEl.innerHTML = `<div class="error-note">${esc(e.message)}</div>`;
+  }
+}
+
+function drawBtChart(curve) {
+  const el = $('#bt-chart');
+  if (!el || !curve || !curve.length) return;
+  if (btChart) {
+    btChart.remove();
+    btChart = null;
+  }
+  const LWC = window.LightweightCharts;
+  btChart = LWC.createChart(el, {
+    height: el.clientHeight || 360,
+    width: el.clientWidth,
+    layout: { background: { color: '#121823' }, textColor: '#8b97a7', fontSize: 11 },
+    grid: { vertLines: { color: '#1a2230' }, horzLines: { color: '#1a2230' } },
+    rightPriceScale: { borderColor: '#1a2230' },
+    timeScale: { borderColor: '#1a2230' },
+  });
+  const strat = btChart.addLineSeries({ color: '#e8b339', lineWidth: 2, title: 'Strategy' });
+  const bench = btChart.addLineSeries({ color: '#5aa9e6', lineWidth: 2, title: 'Buy & Hold' });
+  strat.setData(curve.map((p) => ({ time: p.time, value: p.strategy })));
+  bench.setData(curve.map((p) => ({ time: p.time, value: p.benchmark })));
+  btChart.timeScale().fitContent();
+}
+
+function paintBtMetrics(d) {
+  const m = (x, dp = 2) => (x == null || isNaN(x) ? '—' : Number(x).toFixed(dp));
+  const p = (x, dp = 1) => (x == null || isNaN(x) ? '—' : (x * 100).toFixed(dp) + '%');
+  const row = (label, s, b, fmt) => `<tr><td>${label}</td><td class="num" style="color:var(--accent)">${fmt(s)}</td><td class="num" style="color:var(--link)">${fmt(b)}</td></tr>`;
+  const s = d.strategy;
+  const bh = d.benchmark;
+  $('#bt-metrics').innerHTML = `
+    <div class="grid cols-2" style="margin-top:14px">
+      <div class="card"><h3>Performance — ${esc(BT_RULES.find((r) => r[0] === d.rule)?.[1] || d.rule)} <span style="color:var(--muted);font-weight:400">· ${d.measuredYears}y · ${p(d.exposure, 0)} in market</span></h3>
+        <div class="table-scroll"><table class="data">
+          <thead><tr><th>Metric</th><th style="color:var(--accent)">Strategy</th><th style="color:var(--link)">Buy & Hold</th></tr></thead>
+          <tbody>
+            ${row('CAGR', s.cagr, bh.cagr, p)}
+            ${row('Total return', s.totalReturn, bh.totalReturn, p)}
+            ${row('Annualized volatility', s.annualVol, bh.annualVol, p)}
+            ${row('Sharpe ratio', s.sharpe, bh.sharpe, m)}
+            ${row('Sortino ratio', s.sortino, bh.sortino, m)}
+            ${row('Max drawdown', s.maxDrawdown, bh.maxDrawdown, p)}
+            ${row('Hit rate (in-market days)', s.hitRate, bh.hitRate, p)}
+          </tbody>
+        </table></div>
+      </div>
+      <div class="card"><h3>Read this honestly</h3><div class="card-body">
+        <ul class="flags">${d.caveats.map((c) => `<li>${esc(c)}</li>`).join('')}</ul>
+        <p class="prose" style="margin-top:10px">A timing rule that lowers drawdown but trails buy-and-hold is common in strong secular uptrends — the equity curve and Sharpe show the risk/return tradeoff, not a verdict.</p>
+      </div></div>
+    </div>`;
 }
 
 /* ----------------------------- Fundamentals ----------------------------- */
@@ -861,22 +1105,60 @@ function renderOptions() {
 }
 
 /* ----------------------------- News ----------------------------- */
-function renderNews() {
-  const news = state.data?.sources?.news?.news || [];
-  if (!news.length) {
-    $('#tab-content').innerHTML = card('News', '<div class="empty">No recent news.</div>');
+async function renderNews() {
+  const host = $('#tab-content');
+  host.innerHTML = '<div class="empty">Loading news from Yahoo + Google News…</div>';
+  let data;
+  try {
+    data = await api(`/api/news?symbol=${encodeURIComponent(state.symbol)}`);
+  } catch (e) {
+    host.innerHTML = `<div class="error-note">${esc(e.message)}</div>`;
     return;
   }
-  const items = news
+  if (!data.items || !data.items.length) {
+    host.innerHTML = card('News', '<div class="empty">No recent news.</div>');
+    return;
+  }
+  const items = data.items
     .map(
-      (n) =>
-        `<a class="news-item" href="${esc(n.link)}" target="_blank" rel="noopener">
-          <div class="nh">${esc(n.title)}</div>
-          <div class="nm">${esc(n.publisher || '')} · ${fmtDate(n.providerPublishTime)}${n.relatedTickers?.length ? ' · ' + esc(n.relatedTickers.join(', ')) : ''}</div>
-        </a>`
+      (n, i) =>
+        `<div class="news-item">
+          <div class="nh"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
+          <div class="nm">${esc(n.publisher || '')}${n.published ? ' · ' + esc(String(n.published).slice(0, 10)) : ''} · <span class="src-badge">${esc(n.source)}</span>
+            <button class="mini-btn read-btn" data-url="${esc(n.link)}" data-idx="${i}">Read full text</button></div>
+          <div class="article-text" id="art-${i}" hidden></div>
+        </div>`
     )
     .join('');
-  $('#tab-content').innerHTML = `<div class="card"><h3>Recent News</h3>${items}</div>`;
+  host.innerHTML = `<div class="card"><h3>News — ${data.count} headlines (Yahoo + Google News)</h3>${items}</div>`;
+  host.querySelectorAll('.read-btn').forEach((btn) => btn.addEventListener('click', () => loadArticle(btn)));
+}
+
+async function loadArticle(btn) {
+  const idx = btn.dataset.idx;
+  const box = $(`#art-${idx}`);
+  if (!box.hidden) {
+    box.hidden = true;
+    btn.textContent = 'Read full text';
+    return;
+  }
+  btn.textContent = 'Loading…';
+  try {
+    const a = await api(`/api/article?url=${encodeURIComponent(btn.dataset.url)}`);
+    if (!a.ok) {
+      box.innerHTML = `<span class="error-note">Could not extract text (${esc(String(a.error || a.status))}).</span>`;
+    } else {
+      box.innerHTML = `${a.paywallBypass ? `<div class="bypass-note">retrieved via ${esc(a.paywallBypass)} strategy</div>` : ''}
+        <div class="art-meta">${esc(a.author || '')}${a.publishedTime ? ' · ' + esc(String(a.publishedTime).slice(0, 10)) : ''} · ${esc(a.source || '')} · extracted via ${esc(a.method)}</div>
+        <p>${esc(a.text)}</p>${a.truncated ? '<div class="art-meta">(truncated)</div>' : ''}`;
+    }
+    box.hidden = false;
+    btn.textContent = 'Hide';
+  } catch (e) {
+    box.innerHTML = `<span class="error-note">${esc(e.message)}</span>`;
+    box.hidden = false;
+    btn.textContent = 'Read full text';
+  }
 }
 
 /* ----------------------------- Filings ----------------------------- */

@@ -8,6 +8,10 @@ import * as yahoo from './lib/yahoo.js';
 import * as sec from './lib/sec.js';
 import { history as stooqHistory } from './lib/stooq.js';
 import { research, snapshot } from './lib/aggregate.js';
+import { analyze, parseBars, parseWeights } from './lib/decision.js';
+import { backtest } from './lib/backtest.js';
+import { briefToMarkdown } from './lib/brief.js';
+import { mergedNews, extractArticle } from './lib/news.js';
 
 const ROOT = fileURLToPath(new URL('.', import.meta.url));
 const PUBLIC = join(ROOT, 'public');
@@ -48,7 +52,22 @@ async function serveStatic(req, res, pathname) {
   }
 }
 
-// Route table for /api/*. Each handler returns a JSON-serializable value.
+// Fetch the aggregated research + price history (both cached) and run the full
+// decision analysis. Shared by every decision endpoint.
+async function getAnalysis(symbol, searchParams) {
+  const [researchData, chartData] = await Promise.all([
+    research(symbol),
+    yahoo
+      .chart(symbol, '5y', '1d')
+      .catch(async () => ({ fallback: 'stooq', ...(await stooqHistory(symbol)) }))
+      .catch(() => null),
+  ]);
+  const weights = parseWeights(searchParams.get('weights'));
+  return analyze(researchData, chartData, { weights });
+}
+
+// Route table for /api/*. Each handler returns a JSON-serializable value, or a
+// { __raw, __type } envelope to send a non-JSON body.
 const routes = {
   '/api/search': (p) => {
     const q = p.get('q');
@@ -85,7 +104,79 @@ const routes = {
     if (!symbol) throw httpError(400, 'Missing symbol');
     return yahoo.options(symbol);
   },
+
+  // --- Decision-support endpoints ---
+  '/api/score': async (p) => {
+    const symbol = requireSymbol(p);
+    const a = await getAnalysis(symbol, p);
+    return { symbol: a.ex.symbol, name: a.ex.name, price: a.ex.price, ...a.comp, factors: a.factors, weights: a.weights };
+  },
+  '/api/valuation': async (p) => {
+    const symbol = requireSymbol(p);
+    const a = await getAnalysis(symbol, p);
+    return { symbol: a.ex.symbol, name: a.ex.name, price: a.ex.price, valuation: a.valuation };
+  },
+  '/api/brief': async (p) => {
+    const symbol = requireSymbol(p);
+    const a = await getAnalysis(symbol, p);
+    if ((p.get('format') || 'json') === 'md') {
+      return { __raw: briefToMarkdown(a.brief), __type: 'text/markdown; charset=utf-8' };
+    }
+    return a.brief;
+  },
+  '/api/backtest': async (p) => {
+    const symbol = requireSymbol(p);
+    const rule = p.get('rule') || 'trend_mom';
+    const years = p.get('years') ? Number(p.get('years')) : null;
+    const chartData = await yahoo
+      .chart(symbol, '10y', '1d')
+      .catch(async () => ({ fallback: 'stooq', ...(await stooqHistory(symbol)) }));
+    return { symbol: symbol.toUpperCase(), ...backtest(parseBars(chartData), { rule, years }) };
+  },
+
+  // --- News & research extraction ---
+  '/api/news': async (p) => {
+    const symbol = requireSymbol(p);
+    const r = await research(symbol);
+    const items = await mergedNews(symbol, r?.sources?.news?.news || []);
+    return { symbol: symbol.toUpperCase(), count: items.length, items };
+  },
+  '/api/article': async (p) => {
+    const url = p.get('url');
+    if (!url) throw httpError(400, 'Missing url');
+    assertPublicUrl(url);
+    return extractArticle(url);
+  },
 };
+
+// Refuse to fetch private / loopback addresses (basic SSRF guard) since the
+// article endpoint fetches user-supplied URLs server-side.
+function assertPublicUrl(u) {
+  let h;
+  try {
+    h = new URL(u).hostname;
+  } catch {
+    throw httpError(400, 'Invalid url');
+  }
+  if (!/^https?:$/.test(new URL(u).protocol)) throw httpError(400, 'Only http(s) URLs allowed');
+  if (
+    /^(localhost|0\.0\.0\.0)$/.test(h) ||
+    h === '::1' ||
+    /^127\./.test(h) ||
+    /^10\./.test(h) ||
+    /^192\.168\./.test(h) ||
+    /^169\.254\./.test(h) ||
+    /^172\.(1[6-9]|2\d|3[01])\./.test(h)
+  ) {
+    throw httpError(403, 'Refusing to fetch a private address');
+  }
+}
+
+function requireSymbol(p) {
+  const symbol = p.get('symbol');
+  if (!symbol) throw httpError(400, 'Missing symbol');
+  return symbol;
+}
 
 function httpError(status, message) {
   const e = new Error(message);
@@ -102,6 +193,10 @@ const server = createServer(async (req, res) => {
     if (!handler) return sendJson(res, 404, { error: 'Unknown endpoint' });
     try {
       const data = await handler(searchParams);
+      if (data && data.__raw !== undefined) {
+        res.writeHead(200, { 'Content-Type': data.__type || 'text/plain', 'Cache-Control': 'no-store' });
+        return res.end(data.__raw);
+      }
       return sendJson(res, 200, data);
     } catch (err) {
       const status = err.status || 502;
