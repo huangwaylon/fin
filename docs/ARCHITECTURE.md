@@ -19,8 +19,8 @@ The browser code is hand-written ES modules served as static files.
 | `lib/quantutil.js` | Math primitives: `scoreUp/scoreDown`, `blend`, `clamp`, `cagr`, `stdev`, `isNum`, `raw`. |
 | `lib/signals.js` | Price-derived signals: SMA/cross, momentum, returns, vol, drawdown. |
 | `lib/factors.js` | Six-factor model, composite, rating, conviction, sector masks. |
-| `lib/valuation.js` | 2-stage FCFF DCF at WACC, reverse DCF, Graham cross-check, sensitivity. |
-| `lib/backtest.js` | Walk-forward price-only signal backtest + metrics. |
+| `lib/valuation.js` | 2-stage FCFF DCF at WACC, reverse DCF, ROIC vs WACC, Graham cross-check, sensitivity. |
+| `lib/backtest.js` | Walk-forward price-signal backtest (total-return) + forward-return study + metrics. |
 | `lib/brief.js` | Assembles the machine-readable brief; renders Markdown. |
 | `lib/decision.js` | Orchestrator: `analyze()`, `parseBars()`, `parseWeights()`. |
 | `lib/news.js` | Google News RSS discovery + full-text article extraction. |

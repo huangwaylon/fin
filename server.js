@@ -1,7 +1,7 @@
 // Dependency-free HTTP server: serves the static frontend and proxies the data APIs.
 import { createServer } from 'node:http';
 import { readFile } from 'node:fs/promises';
-import { extname, join, normalize } from 'node:path';
+import { extname, join, normalize, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import * as yahoo from './lib/yahoo.js';
@@ -12,6 +12,7 @@ import { analyze, parseBars, parseWeights } from './lib/decision.js';
 import { backtest } from './lib/backtest.js';
 import { briefToMarkdown } from './lib/brief.js';
 import { mergedNews, extractArticle } from './lib/news.js';
+import { assertPublicUrl } from './lib/ssrf.js';
 
 const ROOT = fileURLToPath(new URL('.', import.meta.url));
 const PUBLIC = join(ROOT, 'public');
@@ -37,9 +38,10 @@ function sendJson(res, status, body) {
 
 async function serveStatic(req, res, pathname) {
   let rel = pathname === '/' ? '/index.html' : pathname;
-  // Prevent path traversal.
+  // Prevent path traversal — must stay strictly inside PUBLIC (the trailing
+  // separator stops a sibling like `public-secrets` from sharing the prefix).
   const filePath = normalize(join(PUBLIC, rel));
-  if (!filePath.startsWith(PUBLIC)) {
+  if (filePath !== PUBLIC && !filePath.startsWith(PUBLIC + sep)) {
     res.writeHead(403).end('Forbidden');
     return;
   }
@@ -52,8 +54,9 @@ async function serveStatic(req, res, pathname) {
   }
 }
 
-// Fetch the aggregated research + price history (both cached) and run the full
-// decision analysis. Shared by every decision endpoint.
+// Fetch the aggregated research payload, plus a dedicated 5y price history for the
+// decision layer (signals need >252 bars for 12-1 momentum / SMA200, more than the
+// 1y chart `research()` caches for the UI). Shared by every decision endpoint.
 async function getAnalysis(symbol, searchParams) {
   const [researchData, chartData] = await Promise.all([
     research(symbol),
@@ -109,7 +112,14 @@ const routes = {
   '/api/score': async (p) => {
     const symbol = requireSymbol(p);
     const a = await getAnalysis(symbol, p);
-    return { symbol: a.ex.symbol, name: a.ex.name, price: a.ex.price, ...a.comp, factors: a.factors, weights: a.weights };
+    // reliability/actionable MUST ride along: downstream consumers (the screen
+    // skill) rely on them to flag financials/REITs as "screen only" rather than
+    // ranking them head-to-head against operating companies.
+    return {
+      symbol: a.ex.symbol, name: a.ex.name, price: a.ex.price,
+      ...a.comp, reliability: a.reliability, actionable: a.actionable,
+      factors: a.factors, weights: a.weights,
+    };
   },
   '/api/valuation': async (p) => {
     const symbol = requireSymbol(p);
@@ -127,7 +137,8 @@ const routes = {
   '/api/backtest': async (p) => {
     const symbol = requireSymbol(p);
     const rule = p.get('rule') || 'trend_mom';
-    const years = p.get('years') ? Number(p.get('years')) : null;
+    const y = Number(p.get('years'));
+    const years = Number.isFinite(y) && y > 0 ? Math.min(y, 30) : null; // clamp; ignore junk/negatives
     const chartData = await yahoo
       .chart(symbol, '10y', '1d')
       .catch(async () => ({ fallback: 'stooq', ...(await stooqHistory(symbol)) }));
@@ -144,33 +155,10 @@ const routes = {
   '/api/article': async (p) => {
     const url = p.get('url');
     if (!url) throw httpError(400, 'Missing url');
-    assertPublicUrl(url);
+    await assertPublicUrl(url);
     return extractArticle(url);
   },
 };
-
-// Refuse to fetch private / loopback addresses (basic SSRF guard) since the
-// article endpoint fetches user-supplied URLs server-side.
-function assertPublicUrl(u) {
-  let h;
-  try {
-    h = new URL(u).hostname;
-  } catch {
-    throw httpError(400, 'Invalid url');
-  }
-  if (!/^https?:$/.test(new URL(u).protocol)) throw httpError(400, 'Only http(s) URLs allowed');
-  if (
-    /^(localhost|0\.0\.0\.0)$/.test(h) ||
-    h === '::1' ||
-    /^127\./.test(h) ||
-    /^10\./.test(h) ||
-    /^192\.168\./.test(h) ||
-    /^169\.254\./.test(h) ||
-    /^172\.(1[6-9]|2\d|3[01])\./.test(h)
-  ) {
-    throw httpError(403, 'Refusing to fetch a private address');
-  }
-}
 
 function requireSymbol(p) {
   const symbol = p.get('symbol');
@@ -185,7 +173,12 @@ function httpError(status, message) {
 }
 
 const server = createServer(async (req, res) => {
-  const url = new URL(req.url, `http://${req.headers.host}`);
+  let url;
+  try {
+    url = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
+  } catch {
+    return sendJson(res, 400, { error: 'Bad request URL' });
+  }
   const { pathname, searchParams } = url;
 
   if (pathname.startsWith('/api/')) {

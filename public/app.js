@@ -30,6 +30,16 @@ const $ = (sel) => document.querySelector(sel);
 const R = (x) => (x && typeof x === 'object' && 'raw' in x ? x.raw : x ?? null);
 const esc = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+// Neutralize javascript:/data: and other dangerous schemes before a URL reaches
+// an href/data-url. Returns '#' for anything that isn't http(s)/mailto.
+const safeUrl = (u) => {
+  try {
+    const p = new URL(u, location.href);
+    return /^(https?|mailto):$/.test(p.protocol) ? p.href : '#';
+  } catch {
+    return '#';
+  }
+};
 
 function fmtPrice(n) {
   if (n == null || isNaN(n)) return '—';
@@ -378,7 +388,7 @@ function renderOverview() {
   if (profile.fullTimeEmployees) facts.push(['Employees', fmtNum(profile.fullTimeEmployees)]);
   if (profile.country) facts.push(['HQ', esc([profile.city, profile.country].filter(Boolean).join(', '))]);
   if (profile.website)
-    facts.push(['Website', `<a class="link" href="${esc(profile.website)}" target="_blank" rel="noopener">${esc(profile.website.replace(/^https?:\/\//, ''))}</a>`]);
+    facts.push(['Website', `<a class="link" href="${esc(safeUrl(profile.website))}" target="_blank" rel="noopener">${esc(profile.website.replace(/^https?:\/\//, ''))}</a>`]);
 
   const company = card(
     'Company',
@@ -1123,9 +1133,9 @@ async function renderNews() {
     .map(
       (n, i) =>
         `<div class="news-item">
-          <div class="nh"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
+          <div class="nh"><a href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
           <div class="nm">${esc(n.publisher || '')}${n.published ? ' · ' + esc(String(n.published).slice(0, 10)) : ''} · <span class="src-badge">${esc(n.source)}</span>
-            <button class="mini-btn read-btn" data-url="${esc(n.link)}" data-idx="${i}">Read full text</button></div>
+            <button class="mini-btn read-btn" data-url="${esc(safeUrl(n.link))}" data-idx="${i}">Read full text</button></div>
           <div class="article-text" id="art-${i}" hidden></div>
         </div>`
     )
@@ -1171,7 +1181,7 @@ function renderFilings() {
   const items = f.filings
     .map(
       (x) =>
-        `<a class="filing-item" href="${esc(x.url || '#')}" target="_blank" rel="noopener">
+        `<a class="filing-item" href="${esc(safeUrl(x.url || '#'))}" target="_blank" rel="noopener">
           <span class="form">${esc(x.form)}</span>
           <span style="flex:1;text-align:left;color:var(--text-dim)">${esc(x.primaryDescription || '')}</span>
           <span class="num" style="color:var(--muted)">${esc(x.filingDate)}</span>

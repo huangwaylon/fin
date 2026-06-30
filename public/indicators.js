@@ -16,15 +16,20 @@
     const out = new Array(values.length).fill(null);
     const k = 2 / (period + 1);
     let prev = null;
+    // Seed with the SMA of the first `period` NON-NULL points. Skipping nulls is
+    // essential: a single null inside a fixed-window seed (Yahoo emits sporadic
+    // null closes) would make the seed — and every subsequent EMA value — NaN,
+    // silently poisoning the EMA overlay and both MACD lines.
+    let seedSum = 0;
+    let seedCount = 0;
     for (let i = 0; i < values.length; i++) {
       const v = values[i];
       if (v == null) continue;
       if (prev == null) {
-        // seed with SMA of first `period` points
-        if (i >= period - 1) {
-          let s = 0;
-          for (let j = i - period + 1; j <= i; j++) s += values[j];
-          prev = s / period;
+        seedSum += v;
+        seedCount += 1;
+        if (seedCount === period) {
+          prev = seedSum / period;
           out[i] = prev;
         }
       } else {
@@ -49,14 +54,15 @@
         if (i === period) {
           const avgG = gain / period;
           const avgL = loss / period;
-          out[i] = avgL === 0 ? 100 : 100 - 100 / (1 + avgG / avgL);
+          // 0/0 (a perfectly flat window) is undefined RSI -> neutral 50, not 100.
+          out[i] = avgL === 0 ? (avgG === 0 ? 50 : 100) : 100 - 100 / (1 + avgG / avgL);
           gain = avgG;
           loss = avgL;
         }
       } else {
         gain = (gain * (period - 1) + up) / period;
         loss = (loss * (period - 1) + down) / period;
-        out[i] = loss === 0 ? 100 : 100 - 100 / (1 + gain / loss);
+        out[i] = loss === 0 ? (gain === 0 ? 50 : 100) : 100 - 100 / (1 + gain / loss);
       }
     }
     return out;
@@ -68,8 +74,9 @@
     const line = values.map((_, i) =>
       emaFast[i] != null && emaSlow[i] != null ? emaFast[i] - emaSlow[i] : null
     );
-    const compact = line.map((v) => (v == null ? 0 : v));
-    const sig = ema(compact, signal).map((v, i) => (line[i] == null ? null : v));
+    // ema() now skips nulls, so feed the MACD line directly — no zero-fill hack
+    // (the old `null -> 0` substitution injected fake zeros into the signal EMA).
+    const sig = ema(line, signal);
     const hist = line.map((v, i) => (v != null && sig[i] != null ? v - sig[i] : null));
     return { line, signal: sig, hist };
   }
