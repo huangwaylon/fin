@@ -3,7 +3,7 @@
 import { scoreUp, scoreDown, clamp, cagr, blend, isNum } from '../lib/quantutil.js';
 import { dcfEV, reverseDcf, multiplesValue, impliedStage1Growth, valuation } from '../lib/valuation.js';
 import { computeFactors, composite, rate } from '../lib/factors.js';
-import { backtest, forwardReturnStudy } from '../lib/backtest.js';
+import { backtest, forwardReturnStudy, priceState } from '../lib/backtest.js';
 import { computeSignals } from '../lib/signals.js';
 import { parseBars, analyze, parseWeights } from '../lib/decision.js';
 import { parseCsv } from '../lib/stooq.js';
@@ -236,6 +236,37 @@ check('ssrf 6to4 to private blocked', isPrivateIp('2002:7f00:0001::') === true);
 check('ssrf NAT64 blocked', isPrivateIp('64:ff9b::1') === true);
 check('ssrf global unicast v6 allowed', isPrivateIp('2606:4700:4700::1111') === false);
 check('ssrf non-global v6 blocked (ULA/link-local)', isPrivateIp('fd00::1') && isPrivateIp('fe80::1') && isPrivateIp('::1'));
+
+// --- priceState helper: shared, look-ahead-free signal definition ---
+{
+  const px = synth.map((b) => b.close); // monotonic uptrend
+  const smaAt = (end, p) => { if (end + 1 < p) return null; let s = 0; for (let i = end - p + 1; i <= end; i++) s += px[i]; return s / p; };
+  const st = priceState(px, 300, smaAt);
+  check('priceState above200 & momPos in uptrend', st.above200 === true && st.momPos === true && st.mom > 0);
+  const early = priceState(px, 100, smaAt); // before 252 warmup → momentum null, not fabricated
+  check('priceState momentum null before warmup', early.mom === null && early.momPos === null);
+}
+
+// --- backtest verdict, turnover, warnings ---
+check('backtest exposes verdict signs', typeof bt.verdict.timingBeatBuyHoldOnReturn === 'boolean' && isNum(bt.verdict.returnGap));
+check('backtest reports turnover', isNum(bt.turnover) && bt.turnover >= 0);
+check('backtest emits typed warnings', Array.isArray(bt.warnings) && bt.warnings.every((w) => w.code && w.message));
+check('backtest warns on single regime', bt.warnings.some((w) => w.code === 'single_regime'));
+
+// --- forwardReturnStudy: effectiveN + lowConfidence gating ---
+const frs = forwardReturnStudy(synth);
+check('forwardReturnStudy reports effectiveN', isNum(frs.y1.effectiveN) && frs.y1.effectiveN >= 0);
+check('forwardReturnStudy flags low confidence on thin windows', frs.y3 ? typeof frs.y3.lowConfidence === 'boolean' : true);
+
+// --- benchmark comparison via analyze: null-safe + populated ---
+const aBench = analyze({ sources: { summary: { quoteSummary: { result: [{}] } } }, errors: {} }, { bars: synthBars });
+check('analyze benchmark null when no benchmarks given', aBench.benchmark === null);
+check('analyze attaches holdingPeriod + warnings', !!aBench.holdingPeriod && Array.isArray(aBench.warnings) && aBench.warnings.length > 0);
+// synthetic benchmark slightly underperforming the stock → positive excess
+const benchBars = synth.map((b, i) => ({ date: b.time, close: 100 * 1.0008 ** i }));
+const aBench2 = analyze({ sources: { summary: { quoteSummary: { result: [{}] } } }, errors: {} }, { bars: synthBars }, { benchmarks: { SPY: parseBars({ bars: benchBars }) } });
+check('analyze benchmark populated with excess', aBench2.benchmark && aBench2.benchmark.indices.SPY && isNum(aBench2.benchmark.excess.SPY.cagr1y));
+check('benchmark excess positive when stock outperforms', aBench2.benchmark.excess.SPY.cagr1y > 0);
 
 console.log(`\n${pass} passed, ${fail} failed\n`);
 process.exit(fail ? 1 : 0);

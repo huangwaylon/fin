@@ -172,21 +172,37 @@ returns are total-return via adjusted close). Rules:
 | `trend_mom` (default) | close > 200d SMA AND 12–1 momentum > 0 |
 
 Otherwise flat (position 0). **Look-ahead-free:** position for *t→t+1* uses only
-`closes[0..t]`; the *t→t+1* return is then realized. Requires ≥300 daily bars (252 warmup
-+ measurement); endpoint pulls ~10y daily. Returns use the **adjusted** close (total
-return). Metrics: total return, CAGR, annualized vol, Sharpe, Sortino, max drawdown, hit
-rate, exposure (time in market), all vs buy-and-hold of the same asset. Sharpe/Sortino use
-a 4% annual risk-free rate; Sortino's downside deviation is taken over **all** observations
-(target 0), the standard convention. Honest caveats are returned in the payload: it is a
-daily-rebalanced *timing* rule (not a buy-and-hold), single-name, ignores costs/slippage/
-taxes, and is descriptive, not predictive.
+`closes[0..t]`; the *t→t+1* return is then realized. The trend/momentum state is computed by
+one shared `priceState` helper (also used by the forward study) so there is a single
+definition of "the signal". Requires ≥300 daily bars (252 warmup + measurement); endpoint
+pulls ~10y daily. Returns use the **adjusted** close (total return). Metrics: total return,
+CAGR, annualized vol, Sharpe, Sortino, max drawdown, hit rate, exposure, and **turnover**
+(position changes/yr); a **10 bps/flip transaction cost** is charged so the strategy line is
+net. Sharpe/Sortino use a 4% annual risk-free rate; Sortino's downside deviation is over
+**all** observations (target 0). A **`verdict`** object states plainly whether the timing rule
+beat buy-and-hold *on return* (`returnGap`) and what it traded for it (`drawdownReduction`,
+`volReduction`) — empirically, timing has tended to cut drawdown but lag buy-and-hold on
+return. Typed **`warnings`** (single-regime, single-name survivorship, partial-cost,
+timing-lagged) ride in the payload for machine consumers.
 
 **Forward-holding-period study (`forwardReturns`).** Because a daily-flip timing rule is the
-wrong question for a multi-year buyer, the backtest payload also reports the **distribution
-of forward 1/2/3-year total returns** (median, p25/p75, min/max, % positive), overall and
-conditional on the entry-day state (above 200d SMA *and* positive 12–1 momentum, vs not).
-This is what a 1yr+ holder actually faces. Windows overlap, so it is autocorrelated — read
-it as descriptive, not as i.i.d. significance.
+wrong question for a multi-year buyer, the payload also reports the **distribution of forward
+1/2/3-year total returns** (median, p25/p75, min/max, % positive), overall and conditional on
+the entry-day state (above 200d SMA *and* positive 12–1 momentum, vs not). Windows overlap, so
+each horizon reports **`effectiveN`** (independent non-overlapping windows = entries ÷ horizon)
+and a **`lowConfidence`** flag when that is below ~5 — a tight-looking 3-year distribution off
+~3 independent windows in one regime is not evidence. Descriptive, not a forecast.
+
+## Benchmark-relative & holding-period in the brief
+
+The exercise that drove these features (see `docs/REVIEW.md`) showed that **absolute,
+single-name numbers mislead**: over the sample, just owning the index beat the timing rule, so
+the real question for a 1yr+ buyer is *"versus simply owning SPY/QQQ."* The brief therefore
+carries a **`benchmark`** block (the stock's trailing 1/3/5-year total-return CAGR, vol, and
+max drawdown next to SPY and QQQ over matched windows, with the excess) and surfaces the
+**`holdingPeriod`** forward-return distribution and typed **`warnings`** (e.g. that factor
+anchors are absolute, not benchmark-relative). Benchmarks are best-effort and long-TTL cached;
+they are `null` (never fabricated) when unavailable.
 
 ## Known limitations
 
@@ -210,9 +226,20 @@ Use this tool as a **screen with a human in the loop**, not an oracle.
 
 ### v2 roadmap
 
-- Sector-relative ranking (peer-normalized factor scores).
-- Valuation vs the company's *own* history (not just absolute anchors).
-- Scenario / probabilistic valuation (distribution of fair values, not a point).
-- Transaction-cost / turnover modeling on the timing backtest.
-- Portfolio context (correlation, sizing, exposure).
-- Backtest confidence intervals / significance testing.
+Ordered by the lessons from the backtesting exercise (`docs/REVIEW.md`):
+
+- **Point-in-time fundamentals via SEC XBRL** (`data.sec.gov/api/xbrl/companyfacts`). Each fact
+  carries a `filed` date, so gating on `filed ≤ t` gives genuinely look-ahead-free fundamentals
+  — the one free path to a *real* (non-survivorship) factor backtest, and a fix for Yahoo's
+  increasingly sparse income statements. Highest-value next step.
+- **Historical index membership** (reconstruct from Wikipedia change tables) to de-bias
+  cross-sectional studies. Note: free *delisted price* data effectively doesn't exist, so studies
+  can be made universe-survivorship-*aware* but not fully survivorship-*free*.
+- Risk-free / macro context from FRED (currently blocked by the sandbox allowlist here).
+- Productionize the universe / cross-sectional study (`lib/study.js` + endpoint) from the
+  `research/` harness once a consumer exists.
+- Block-bootstrap confidence intervals (needs a seeded PRNG for deterministic tests).
+- Expected-return decomposition (Grinold-Kroner: shareholder yield + sustainable growth ±
+  re-rating) — kept out until it has its own methodology and avoids double-counting.
+- Sector-relative / peer-normalized factor ranks; valuation vs the company's own history;
+  scenario / probabilistic valuation range.

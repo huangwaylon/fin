@@ -68,3 +68,43 @@ hardened the article-fetch path.
 - Portfolio context: correlation, sizing, exposure.
 
 All changes covered by `node test/quant.test.mjs` (86 pass) and a live server smoke test.
+
+---
+
+## Pass 2 — lessons from the historical backtesting exercise
+
+A study across **515 current S&P 500 + Nasdaq-100 constituents** (~47k monthly obs, 2017-2025)
+plus index-level SPY/VOO/QQQ tested price-signal hypotheses against forward 1/2/3-year returns
+(harness in `research/`). What it taught us, and what we shipped in response:
+
+**Lessons**
+
+1. **Survivorship bias dominates single-name factor tests.** On *current* constituents, low-vol
+   "lost" to high-vol by ~49% and far-from-high beat near-high — the inversion of well-documented
+   premia is the tell. Conditioning on current membership = conditioning on survival.
+2. **Absolute numbers mislead; benchmark-relative is the honest frame.** At the index level
+   (no single-name survivorship), buy-and-hold *beat* the `trend_mom` timing rule on return
+   (SPY 15.2% vs 11.0% CAGR; QQQ 21.5% vs 14.4%); timing only cut drawdown/vol.
+3. **Long horizon is the real edge.** Forward win-rate rose 84%→100% (1y→3y) and downside
+   compressed with horizon.
+4. **Overlapping windows + one regime ≠ statistical significance.**
+
+**Shipped this pass (all dependency-free, tested — `npm test`, 98 pass):**
+
+- `priceState` shared helper — one look-ahead-free definition of the trend/momentum signal for
+  both the backtest and the forward study (kills triplicated math).
+- **Benchmark-relative `benchmark` block** in the brief (stock vs SPY/QQQ trailing CAGR/vol/DD +
+  excess) — surfaces the opportunity cost of single-name selection.
+- **Backtest honesty:** B&H-vs-timing `verdict`, `turnover`, a 10 bps/flip cost (strategy now net),
+  and typed `warnings`.
+- **`effectiveN` + `lowConfidence`** on the forward-return study; **`holdingPeriod`** distribution
+  promoted into the brief.
+- Typed machine-readable `warnings` (absolute-anchors, single-regime/survivorship) in the brief.
+- `AbortSignal` fetch timeouts in the Yahoo/Stooq clients; `npm test` script.
+
+**Deferred (documented in METHODOLOGY v2 roadmap, with rationale):** SEC XBRL point-in-time
+fundamentals (the highest-value next step — `filed`-date gating enables a *real* factor
+backtest); historical index membership for survivorship de-biasing; FRED macro (allowlist-blocked
+here); productionized cross-sectional study module; block-bootstrap CIs; expected-return
+decomposition. The honest constraint: free *delisted-price* data doesn't exist, so studies can be
+made survivorship-*aware* but not survivorship-*free*.

@@ -58,15 +58,23 @@ async function serveStatic(req, res, pathname) {
 // decision layer (signals need >252 bars for 12-1 momentum / SMA200, more than the
 // 1y chart `research()` caches for the UI). Shared by every decision endpoint.
 async function getAnalysis(symbol, searchParams) {
-  const [researchData, chartData] = await Promise.all([
+  const benchSyms = ['SPY', 'QQQ'];
+  const [researchData, chartData, ...benchCharts] = await Promise.all([
     research(symbol),
     yahoo
       .chart(symbol, '5y', '1d')
       .catch(async () => ({ fallback: 'stooq', ...(await stooqHistory(symbol)) }))
       .catch(() => null),
+    // Index benchmarks for opportunity-cost context — long-TTL cached, best-effort.
+    ...benchSyms.map((s) => yahoo.benchmarkChart(s, '5y', '1d').catch(() => null)),
   ]);
+  const benchmarks = {};
+  benchSyms.forEach((s, i) => {
+    const bars = benchCharts[i] ? parseBars(benchCharts[i]) : [];
+    if (bars.length) benchmarks[s] = bars;
+  });
   const weights = parseWeights(searchParams.get('weights'));
-  return analyze(researchData, chartData, { weights });
+  return analyze(researchData, chartData, { weights, benchmarks: Object.keys(benchmarks).length ? benchmarks : null });
 }
 
 // Route table for /api/*. Each handler returns a JSON-serializable value, or a

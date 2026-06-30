@@ -6,7 +6,8 @@
   "description": "A multi-source stock analysis and research dashboard.",
   "scripts": {
     "start": "NODE_USE_ENV_PROXY=1 node server.js",
-    "dev": "NODE_USE_ENV_PROXY=1 node --watch server.js"
+    "dev": "NODE_USE_ENV_PROXY=1 node --watch server.js",
+    "test": "node test/quant.test.mjs"
   },
   "engines": {
     "node": ">=20"

@@ -21,7 +21,7 @@ in-memory for ~1 minute. Missing data is `null`, never fabricated.
 | `GET /api/score` | `symbol`, `weights?` | Factor scorecard + composite + rating + conviction |
 | `GET /api/valuation` | `symbol` | DCF / reverse-DCF / multiples fair value + sensitivity |
 | `GET /api/brief` | `symbol`, `format=json\|md` | Full decision brief (JSON, or Markdown for LLM prompting) |
-| `GET /api/backtest` | `symbol`, `rule?`, `years?` | Walk-forward price-signal backtest vs buy-and-hold, **plus** a forward 1/2/3-year return distribution (`forwardReturns`) |
+| `GET /api/backtest` | `symbol`, `rule?`, `years?` | Walk-forward price-signal backtest vs buy-and-hold (net of a 10bps/flip cost, with a B&H-vs-timing `verdict`, `turnover`, and typed `warnings`), **plus** a forward 1/2/3-year return distribution (`forwardReturns`, with `effectiveN`/`lowConfidence`) |
 
 `weights` overrides factor weights, e.g. `weights=quality:0.3,value:0.25,growth:0.2` (only
 known factor keys with non-negative values are honored). `rule` ∈ `trend_mom` (default) ·
@@ -62,6 +62,9 @@ known factor keys with non-negative values are honored). `rule` ∈ `trend_mom` 
     "sensitivity": [ … ]
   },
   "signals": { "trend": "up", "mom12_1": …, "annualVol": …, "maxDrawdown": … },  // returns use adjusted close
+  "benchmark": { "stock": {"cagr3y":…,"vol":…,"maxDrawdown":…}, "indices": {"SPY":{…},"QQQ":{…}}, "excess": {"SPY":{"cagr3y":…}} },  // opportunity cost; null if unavailable
+  "holdingPeriod": { "y1": {"effectiveN":…,"lowConfidence":false,"all":{"median":…,"pctPositive":…}}, "y2": {…}, "y3": {…} },  // forward total-return distribution
+  "warnings": [ { "code": "absolute_anchors", "message": "…" } ],  // machine-readable honesty flags
   "fundamentals": { …, "roic": 0.60, "cashConversion": 1.14 },
   "flags": [ … ], "bull": [ … ], "bear": [ … ],
   "news": [ { "title": "…", "publisher": "…", "published": "…" } ],
