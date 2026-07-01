@@ -1,0 +1,6309 @@
+# Financial Times — Analysis catalog (2025-07-01 → 2026-07-01)
+
+Generated 2026-07-01. **3075** unique articles discovered across 12 monthly slices.
+
+> Body text is not included: FT's WAF returns HTTP 403 to this datacenter IP. This is a discovery catalog (title, date, summary, link) from FT section RSS feeds + month-sliced Google News RSS. Links via Google News redirect to ft.com (paywalled).
+
+**Column coverage:** Unhedged: 1035 · Lex: 1074 · The Long View: 316 · Markets analysis: 899
+
+## 2026-06 (350)
+
+- **2026-06-30** · [Section feed] Nike earnings helped by tariff refund but sales decline in China
+  - Sportswear manufacturer reported $11bn in revenue in its most recent quarter, the lowest since February 2022
+  - https://www.ft.com/content/0f0166ed-ab22-417a-9aae-7dd264256ad6
+- **2026-06-30** · [Section feed] Apple’s Cook holds ‘constructive’ talks with EU tech chief over ‘Siri AI’
+  - Discussions come as tech group seeks to avoid fines as it and the bloc have been deadlocked over launch of AI assistant
+  - https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d
+- **2026-06-30** · [Section feed] Alcoa strikes $4.8bn deal for South32’s alumina and bauxite assets
+  - US aluminium group expands as disruptions in Middle East push up grey metal prices
+  - https://www.ft.com/content/2ea39c2c-7b8e-4ce5-8d98-1c8c1050105c
+- **2026-06-30** · [Section feed] Satellite TV group Dish files for bankruptcy to cut $9bn debt load
+  - Parent company EchoStar has surged to $30bn market capitalisation from windfall on SpaceX holding
+  - https://www.ft.com/content/89ba20c4-ac83-4cb2-887c-22e9018ce619
+- **2026-06-30** · [Section feed] Eni and Mercuria to form partnership to trade energy commodities
+  - Italian oil major and Swiss trading house aim to secure large profits that have been notched up by some rivals
+  - https://www.ft.com/content/024da39b-0e43-486a-95ec-d1fac32359c1
+- **2026-06-30** · [Section feed] World Bank to phase out China lending
+  - Decision from global development institution follows years of pressure from the Trump administration
+  - https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26
+- **2026-06-30** · [Unhedged, Lex] US stocks chalk up biggest quarterly gain in six years
+  - Investors navigate Iran war fallout, chip stock volatility and blockbuster SpaceX IPO
+  - https://www.ft.com/content/4ba4305f-f9ea-48f9-a49f-687443bd2f4b
+- **2026-06-30** · [Lex] Europe’s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU13TUhVTFJ1TXhRX1ozRlFvLTZFd2pxUVVna3JVUWR2Y0g1WkY0bXdkUFRoZHBYUlpNQ29iR2ExUzhadWstR1BuMGlOTmtUazROVWZQZjBIaUl0UFA0VjVLME01OXQxVmdFUlM4Qjl1MUUtOEp1N3hxbjgzRDVYZUtZUFo?oc=5
+- **2026-06-30** · [Unhedged] New UK prime minister, same bond market
+  - Leadership changes but the debt market remains in charge
+  - https://www.ft.com/content/b6692ec3-29d5-4784-88dc-c83872b9a5e0
+- **2026-06-30** · [Lex] ‘Unprecedented’ plane crash tests Beijing’s sense of security
+  - Fatal flight of a light aircraft into Chinese capital’s tallest building raises questions about its defences
+  - https://www.ft.com/content/b1fae3cd-5507-4aed-968a-a18ee884e1e2
+- **2026-06-30** · [Section feed] Space entrepreneurs borrow some surprisingly terrestrial tactics
+  - Vertical integration helps to bridge the gap between today’s investments and returns that won’t come until later
+  - https://www.ft.com/content/79da150f-5a84-44bb-8e97-b46b958c9699
+- **2026-06-30** · [Lex] Philip Morris allowed to market Zyn pouches in US as safer than smoking
+  - Nicotine pouches are a focus of the tobacco industry’s push to grow beyond cigarettes
+  - https://www.ft.com/content/04518af1-0294-4ef7-bc24-507ac1197db1
+- **2026-06-30** · [Section feed] Key Burnham adviser pushes back at union call for bank tax rise
+  - Trades Union Congress estimates restoring previous surcharge could raise £9bn
+  - https://www.ft.com/content/fc5aaf4b-3616-46c6-bb38-2b78c4fec7e6
+- **2026-06-30** · [Section feed] Schroders close to selling its financial planning arm for more than £200mn
+  - UK asset manager aims to dispose of Benchmark Capital to Söderberg & Partners
+  - https://www.ft.com/content/1e6a9518-8f4e-4c8d-ad89-8203ef34beb1
+- **2026-06-30** · [Lex] Egg producers settle US claims they manipulated benchmark prices
+  - Federal and state authorities cite three-year effort to co-ordinate bids that inflated quotations
+  - https://www.ft.com/content/55911ca2-9728-48ac-a874-5a3b37d3fb3e
+- **2026-06-30** · [Lex] Vedanta pulls listing of copper unit day before IPO
+  - CopperTech Metals’ market entry was meant to take advantage of US enthusiasm for critical minerals
+  - https://www.ft.com/content/a56d0895-3ce0-418c-b06c-328cb40e0cc9
+- **2026-06-30** · [Lex] Britain’s defence investment predicament
+  - After months of wrangling, Starmer’s military funding plan still came up short
+  - https://www.ft.com/content/420d1f6e-101c-4763-9b63-ffb1d87425d1
+- **2026-06-30** · [Lex] Binance and founder sued by crypto investors in London lawsuit
+  - Nearly 1,700 UK users allege that world’s largest crypto exchange offered risky products without regulatory approval
+  - https://www.ft.com/content/acf42280-a154-4407-a08a-94190d8986ca
+- **2026-06-30** · [Section feed] ‘Kill switches’ could be needed for AI-powered trading, BoE official says
+  - Technology could make markets more volatile through ‘herding behaviour’, Sarah Breeden tells ECB conference
+  - https://www.ft.com/content/61ccaf26-e0cf-41af-afc6-f5eb43e4e568
+- **2026-06-30** · [Lex] Anthropic launches Claude Science in push for pharma revenue
+  - New AI product has use cases in rendering 3D protein structures and drug discovery
+  - https://www.ft.com/content/50c10721-bda6-439e-a6c3-755311e4b505
+- **2026-06-30** · [Section feed] AA shifts gears towards £5bn London listing
+  - An IPO of UK roadside recovery business could pit it against rival flotation plans by RAC
+  - https://www.ft.com/content/e04749b9-f35f-4b65-993f-1cc3809d25ee
+- **2026-06-30** · [Section feed] Supreme Court reminds America (and Trump) what citizenship is
+  - The United States has always been based on the notion of welcoming newcomers from every country
+  - https://www.ft.com/content/829adc4c-f5a4-4af3-950f-78213cc74002
+- **2026-06-30** · [Section feed] Britain should put up more of a fight on the high cost of defence kit
+  - A new mindset for procurement is needed as otherwise the big spending plan numbers amount to less than they promise
+  - https://www.ft.com/content/b5f393a4-a150-4306-8521-903dfc51f098
+- **2026-06-30** · [Section feed] Burnham left with £4.7bn Budget problem after Starmer unveils defence plan
+  - Britain’s probable next prime minister agreed to £15bn funding blueprint but short-term wrangling likely to continue
+  - https://www.ft.com/content/de59198a-767c-436c-a5af-48c3b3c0c1ec
+- **2026-06-30** · [Section feed] What humanistic psychology can tell us about European stock markets
+  - Unexpectedly, according to one broker, the answer is not nothing
+  - https://www.ft.com/content/17edaa3d-9c3a-4cf8-9f9b-837b1bd16017
+- **2026-06-30** · [Lex] Shetland Islands backs £1.5bn tunnels to boost population
+  - Number of residents on outer islands of the Scottish archipelago has fallen by a quarter in forty years
+  - https://www.ft.com/content/fb72b806-b681-47fa-8432-b9e3ea178af2
+- **2026-06-30** · [Lex] UK weighs intervention in Paramount’s $111bn Warner Bros takeover
+  - Any regulatory referral on plurality grounds could delay or halt proceedings
+  - https://www.ft.com/content/a3956609-e4e3-4734-a1b4-76b484656299
+- **2026-06-30** · [Lex] KNDS struggles to convince investors to back IPO at €12bn-plus valuation
+  - Blockbuster listing at risk of delay if desired price tag cannot be reached
+  - https://www.ft.com/content/0280107c-af01-4726-8fe1-0ec21b4e5b73
+- **2026-06-30** · [Section feed] US labour demand remained firm in May
+  - Latest Jolts survey reinforces narratives of robust labour market
+  - https://www.ft.com/content/c0992852-b7f1-4f09-aef7-b630cd0dc61d
+- **2026-06-30** · [Markets analysis] Hong Hao Joins the Board of Directors of Bairong Inc. (6608.HK), Backs AI Strategy for Long-Term Growth
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHNBakdxY2FvT1V2N1BCUlhqempCZHlGLU9RNWZyS3RIempocGRnOEFwRU5Bb1p5TWltUENRV2ZKVXVZZS01WWV3TGk4ekx5a3NodkZsVTJScG1sREREdXhyUzdKNzctTk9oZXdTWVdwdmlYMlZJNTItWnNEVF9zNm1vOUVWSFRuVHRDN2dzdHFaNjFBWFZCUA?oc=5
+- **2026-06-30** · [Lex] German leftwing terrorism on the rise, spy agency warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTJuMUJpUk9jY2Nta0d3a2tnOTB1cmgzNFk2clI2Z1RQQVpSemJlaXhqM3Y4VkVRX3I0cWs1cklNMFg4LURXMjAwbTJOWEVhSnl1bnd4WnVFQW1DTnhMVkQtNGRoNFUtWjdid1h2dS00SHhodmtPX0RseC1VWVBUY2ItNE0?oc=5
+- **2026-06-30** · [Lex] US Supreme Court rejects Trump’s bid to end birthright citizenship
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMERLbVFILVBSZ2QyU0NfblpyOGxEWkFiWkptWnVqVndiQWpVSDF6LXJkVXZ0UmYwbVExeXdUUXNiR3ctMkItZEtUSWQyWEFJVklDWjhQeE1VT3puRVFOaTVhcEphZ0pjUkNJY3hKb0xrRnNfTFJZWkZOdFAwa2p6a2JaX0U?oc=5
+- **2026-06-30** · [Markets analysis] Britain has an Oxbridge innovation problem
+  - https://www.ft.com/content/0180de36-7bae-4521-bcd4-aefb36cb882f
+- **2026-06-30** · [Section feed] BP deputy chief to leave company in latest upheaval at oil major
+  - Carol Howle, the trading chief appointed deputy CEO less than three months ago, is set to retire
+  - https://www.ft.com/content/17f90a69-7c33-4b6b-a92d-eb944a101251
+- **2026-06-30** · [Lex] Rio Tinto agrees new financial terms for $18bn copper mine project
+  - Oyu Tolgoi is Mongolia’s biggest mining scheme and source of foreign investment
+  - https://www.ft.com/content/e976c76a-05ff-4fc4-99f1-2c204553516d
+- **2026-06-30** · [Markets analysis] Globant Announces an Alliance with Anthropic to Redefine Enterprise AI Delivery with Claude-Powered AI Pods
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHVHbk9MaV9NX1RILUVtSmduZ3ZNeXZ5S0Rkdlg4cV9kS1BwVlpKMUp4WjRZZS14c09LSmhNbXZ6YjdTSjg5R0VUazFmQnc4aE5WYVdLOTBSa3czSzF6Z0VnTTVpVHpocFJtZVVsQ3o3elBEMUlpa0ZiUmZ0WkZfOEZwTHBZMFpXLXdVbHdPUVRySWczVncxZg?oc=5
+- **2026-06-30** · [Lex] Ukraine argues it can legally attack Russia’s shadow fleet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORWhLc1hQRVdIWDFEVlNBUDhaaGdfdURFdzZYVE1SQ21lUnJURWdHNTFhRWEzTUczaXd5OTZmR0JrY1g1TjVQS3kzMkJ1eWdfY0l1VldyWWM0WngzTXVBOEFrZ1V4WkRKb0NlTGRUTFpQczZmM09HZjl2aklKTVN1RXNoX1g?oc=5
+- **2026-06-30** · [Section feed] Tech CEOs want AI rules — it may be too late
+  - A deregulated environment sounds good until it results in ad hoc political intervention
+  - https://www.ft.com/content/4e177a5c-5e47-4376-bc5f-09dfaa23c419
+- **2026-06-30** · [Unhedged, Lex] Gold heads for worst quarter in more than a decade as retail frenzy fades
+  - Expectations of higher interest rates fuelled by Iran war help end bullion’s record rally
+  - https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a
+- **2026-06-30** · [Section feed] Battery metals futures heat up as volatility stirs markets
+  - Trading of cobalt and lithium futures contracts has risen this year on the leading European and US exchanges
+  - https://www.ft.com/content/441173ae-125a-4c4a-baa5-97ec0fa6e2d0
+- **2026-06-30** · [Section feed] America’s stillborn 250th birthday
+  - An event that was meant to celebrate an exceptional nation has been cornered by one man
+  - https://www.ft.com/content/1278f6d8-7e56-40c2-a255-0798ba96e360
+- **2026-06-30** · [Lex] Apple and Google app store fees targeted by UK competition watchdog
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHpuOVdEck1ja24zeXNYNUlrY2ZjNTNYdG5BMEl6LVA1dG54djZONlRKRVdQc1BrbDFfa0FlVG5FSmxwWktfdkw0RXVJeUVmZ09OZkdsamRqWVM2N3BfSWJ2anp0TUpvUTQySlR1QkJWeWtDRVRPc1FtV1p0UnA1UGxRZDg?oc=5
+- **2026-06-30** · [Lex] Comcast’s ‘amicable divorce’ unwinds Hollywood’s corporate experiment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHNNQ3lfbWlQRjB2clk3OEZXVzVUWG9LenpLa1NZNG1DYnJmY2JCY1NxMktnMmZCcGhVQ1Zfc3JiWGJxa3JTS0dtODNNN3V1QnpNWjFMLXVLU1p0T2J0Qkt0eW9lODU0ZjlyQVJXUWlzSkpBc2R5bGtENUZjRExrLXdpMUI?oc=5
+- **2026-06-30** · [Markets analysis] Life, Liberty and a Mortgage: The 5 Federal Laws That Turned Homeownership Into an American Reality
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1d0VlFYZERKbVJ2UERpT2pNdHJsLTRFS2EtSVhxeFotc0NYVi1aSU9ZdGtKSlJFb01qcUJqXzFrbnBkbXhHWkFqZXFIc0FfQ3ZZWkJuX3ZMWGN4aGw4QWZ5bXdJdnZKQmVwb3ZVMWhNVHNvV01fVWlwV1RneGxBWGhqMzJRQllIMkd0NVFMc29YeHRGMjdONA?oc=5
+- **2026-06-30** · [Section feed] FirstFT: The great wealth transfer
+  - Also in today’s newsletter: corporate AI users’ staff hires and China’s ‘ghost cities’
+  - https://www.ft.com/content/20cd94c4-9ffe-4068-84d4-c776e26cfcdc
+- **2026-06-30** · [Lex] Local government is a mess. Here is what Andy Burnham must decide
+  - Prospective PM’s challenge will be getting his devolution proposals functioning by the next election
+  - https://www.ft.com/content/9caeda06-c042-4680-bbd0-20b91a9de104
+- **2026-06-30** · [Lex] EU to increase steel tariffs on trading partners
+  - Decision to slash duty-free quotas and double rate to 50% follows similar moves by the UK, US and Canada
+  - https://www.ft.com/content/f7cc6193-7587-4ee1-8648-27ec0612cefa
+- **2026-06-30** · [Lex] Tech founder sentenced to 10 years in prison for Chromebook ‘corruption’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3p2T2d2YUlJMlh0VEtCZXpGR19XbzZFSklYb0ZhRDFCNjN0RWN0ZklHdGQ4R3EyN1dVNE5EOFhvbThIS3djc2VXWXl4MjRtSWdKSEJrRC05d29VSlgyd1RYV1NrZkppa25hd2pNM3JQZVFDUGVXX3pFRDFwUmxlb3FiRFQ?oc=5
+- **2026-06-30** · [Lex] Germany’s shock World Cup exit sparks reckoning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXJ6QTM3dVFRazdpYm1KcEJpOERvOHBQb1NYcmdKVXhkend6ZEpxMzRvakdMWjlLa3V6MVpaamhtNTBqdUx5dHpfX3ZtdWVWbXg5NnRHRF9FUzBLcFRIUlU0V1M1aE1WQkY1NVBmdmF6YlNkLUU5R3FyRnpxcEtGZ01IZ3I?oc=5
+- **2026-06-30** · [Lex] Barclays buys Canary Wharf HQ for £750mn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzJFQ1JlNUp6S1JQSkx0TlcxNlJOUU5ITTRLTk9OWVZFczNFeTN3ZmRiVzd6SEFoS1VsYTdkdVdjRUVUQXVMLWczNGlSQmlyUnBfbmF0V2xwNkdrMzJPeDdZSk45RS0yMi1hcGdqMGF6TkhyeHVzV21vOU5HakdkMTBmY0Y?oc=5
+- **2026-06-30** · [Unhedged] Figuring out the Fed in the ‘say less’ era
+  - Plus, small-cap vulnerabilities
+  - https://www.ft.com/content/3bf7ec7e-63e4-4fd6-b43c-15259c48f3ad
+- **2026-06-30** · [Lex] EU must choose which sectors to protect or face exodus, warns Covestro chief
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQl92NllMaER4MXNQcFpQMDF6REU0eVRaUnMycTdyTmVYd0tDY1NVMmJodE9jTGNVMXFEemRad3VuajZaTjV2ZnZybnluUWpzWGV1Sk1oX21hdmZyMDYxeHlIVUR6cjFvLWZaa1JtOFZMLWxxR0d2TGVRTUNCT0IxeFV6M18?oc=5
+- **2026-06-30** · [Section feed] EU and China buy time to avoid trade fight as Brussels demands deficit cuts
+  - Also in this newsletter: Far-right petition pushes Meloni over mass deportation plan
+  - https://www.ft.com/content/7a7aea1f-fbf8-4640-9a19-df545b00efb8
+- **2026-06-30** · [Section feed] Analysts’ Views: hawkish Warsh fails to spur Fed rate rise predictions
+  - Our June survey sees the Fed and Bank of England on hold with the ECB and Bank of Japan primed to raise again this year
+  - https://www.ft.com/content/e544b9d6-0d4a-46ae-a8bf-0d14ae6da9df
+- **2026-06-30** · [Lex, Markets analysis] How the great wealth transfer is rattling Wall Street
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjc2TlJNemltZkc4eGY5TFRXekF2b0syTjNsOXNiM3FXbDVOZFFzZjlFSjV1aHRZRVd3aDBqSzhLU3BsN3drMXBoU2wtTTJ2N2ZTUFJacGtoTnBBRWp6SXlsZmhQZEt6V3kyVUZjQm1KNnJjcV9xcFY1TGg2akNkVl9vT3k?oc=5
+- **2026-06-30** · [Unhedged] Magnificent Seven stocks shed $2.2tn in Wall Street tech rotation
+  - Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending
+  - https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174
+- **2026-06-30** · [Unhedged, Lex] Paul Singer’s activist hedge fund factory
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1dpZVRucVAwQVU2TlhCNGVhaFpNUWVCYm5lR2kwWmQ0c3NBQUlaaHdHRkFpU2w0YWotdTBwR3F3c2NNTkhreG5QN2U0MUVCWmFuQ0J5SkJicVBGRk11WW1qbDFnblhTMTNzR1NOUGtnWHBHa09OdnFoTm5KYlg0c0hWaWE?oc=5
+- **2026-06-30** · [Lex] Putin ties himself to ruling party as war fatigue bites
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnp6V010Qy1Zc3JqbjVqUXBNN18zUmNad3RVZ3p5bFhGMEQ0SzBkTzdpMUtkcG1uMkhldUhnSjM4ZDZCbmZwSzBTTWZjWm5PQmRRUnFtV3Q5ai1UUnpERjRjR1BsZW16bHFrTXpZZ2F0dEQ3elpDVGxwVVNOWHBRMk42Zk8?oc=5
+- **2026-06-30** · [Lex] Heavy corporate AI spenders add staff faster than peers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2NyS3p3a05jMVhReFBrYnVCdFYwb1hIQkF6UjJhWFd4cUdSRkdIV0JEcE5NcGQ0TnBpREZRMDVtWjNSNUdETmlSSkdtRzRRdDBhUlZGYzkwdmc2SndENktNMG1qb2x3ZGg1MFZiaHZNZWNMcGlocmQtdTNRdkp5eXR6akQ?oc=5
+- **2026-06-30** · [Lex] US Supreme Court blocks firing of Fed governor
+  - In separate decision, justices said President Donald Trump can sack top regulator
+  - https://www.ft.com/content/bc7263bb-6aa2-4ecb-9e4f-e5dd856e3639
+- **2026-06-30** · [Lex] A different type of G7 central bank divergence
+  - Fragmentation risks economic and financial instability unless accompanied by government action
+  - https://www.ft.com/content/4ecf5280-28c1-4129-801e-b2db47d9cb66
+- **2026-06-30** · [Lex] Private equity fund investors turn to debt-like deals in downturn
+  - Backers of buyout funds agreed $9bn worth of ‘alternative’ transactions last year, up from $6bn in 2024
+  - https://www.ft.com/content/4675b8bb-4047-458a-be01-90c2aff29219
+- **2026-06-30** · [Lex] Private developers lag behind public sector in fixing cladding issues
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUpYOWk3ZmNSSnJFcDFNWmFBbURxS2NGWFhhVVdYdlMwOVh1cUJYSVpycnhRX0RsQ29jSm1KTTZYQkJrS0VkQzBVb2ZLaWdWYkpQSVRmSjNzU1ZvYk9keDRhdnd6ZHlJcnpZb1p1Y0pTbUdEelc0SFM2ZDJZTmVsd3lScFg?oc=5
+- **2026-06-30** · [Lex] What would multilateral ‘AI arms control’ look like?
+  - Given the competition, it’s debatable whether a US-China safety deal is even possible
+  - https://www.ft.com/content/7aa4b53d-2e07-4971-9e30-8b0c63eb4ff2
+- **2026-06-30** · [Lex] Elle review — Legally Blonde prequel is sickly sweet and stifled by nostalgia
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWTQ4eDUtOVEtY2pOdkZtcURyQWNqNl91OU1FZ2RQRU1NU1Y1UDUtSVozS0h2MWkzMWJ1QTNnYVRRaUczNU1pZkQzR05kblZhMWdKV0I0NkxhRXZNSjFxdEJLeS1BbjBOYTZ1VGY4SXQ?oc=5
+- **2026-06-30** · [Section feed] Is AI an exoskeleton for the mind?
+  - Technology that helps people do things they couldn’t otherwise achieve can also lead to atrophy
+  - https://www.ft.com/content/b2eeb915-90db-4308-9a1e-f3c29553403c
+- **2026-06-30** · [Section feed] When Groove Armada met regenerative agriculture
+  - Wildfarmed, the grain business founded by Andy Cato, is going mainstream
+  - https://www.ft.com/content/c6e03b18-3c38-4b22-a46e-8f0b0f69630d
+- **2026-06-30** · [Lex] The siren call of the nautical jewel
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9GSVZqbU5lUkVEal9mZ1FiMEVkQmhnZzlLY0lGU1dlTXRtRDh0UWtYclF6U0w2V21ITHZzT0prVXlhaE5pem1BRGpESW1iME5hdVkzTzNmZG5rbWwyNDVZeHBaTm9mMHdCZTRsajIxLUE?oc=5
+- **2026-06-30** · [Lex] It’s not just the super-wealthy using Lombard loans to buy property
+  - Asset-backed lending is increasingly being deployed to stretch budgets and jump queues
+  - https://www.ft.com/content/0aa2d132-bc6f-4fa7-933c-5e7abfa4cf3d
+- **2026-06-30** · [Section feed] Can Kazakhstan’s oil boom survive Putin’s War? | FT Film
+  - Central Asia's largest economy depends on an export pipeline that crosses Russia
+  - https://www.ft.com/video/458bc0ad-cd4b-4963-8280-4ad7362d1c40
+- **2026-06-30** · [Lex] Businesses face up to budget-busting AI bills
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHJvSEFYRW1KMUVQZk1jUXNsRUhIeVAtYV90NTMwMjNNd3c2TlpYN2NONXAzZWRPQ2NoelR3UmYtX2wzSVVIT25tZHcwSEJGc3dJc2xOM1RvbThOdGF0RWdPZTI2Z3lhOGVoNGpzT2ExLW92S1Z3Nnp0MHJVZ1hiaTdORVQ?oc=5
+- **2026-06-30** · [Lex] AI drives a boom in new games but big developers dominate
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5KbjdKbEF2YlZoMlNEWW8tUTNYQ0NaaU1zYUl0VG4wMFpJZ2d4SHQ4V3JqcXFHTzNtdk5leWtxSmlUc0hpdnVNQjF5ZG9YMEl3LWVlSURqVlo4eEItcUxzcTVxdVNhdFIxQ0RYb3pqZk0?oc=5
+- **2026-06-30** · [Lex] Holiday industry prepares for the agentic travel agent
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBHVGVDMVRkWFI4cWdXb2xkUVRNOUhjQ1hHUnZaZW5uRnZMSlZHM19xbkVTZkdYZzUySGRteEl2SldsR0FaaFpmcFRLOFljMFhYTmdETzI3NGMwVm5UVHk2eW5tc1hqQ01TOFltVFNNSzNJdGN3YU1VLWtSV3FmNGpRWjQ?oc=5
+- **2026-06-30** · [Lex] How AI and an astronomer’s laptop can bring new galaxies within reach
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2lSanE0UjViSDA3Si1YeVc0T054ZGJqWTVmd1JRQnh3ajNvVDcySmlLZTBBZExlLWtDdGZaUms0SnNTYmNjbkZvdFhTSnJiRVlHdG9sQkZaeUtJZEJpNFBEQW9QXzdqdWl4WDNQMXAzeVlTRklKQ0JHQXZzU25QMVM5QkY?oc=5
+- **2026-06-30** · [Lex] The young Chinese choosing life in ‘ghost cities’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3JhUk9pb3lST2ppQjhJV1d3dEE3NmpQdEVjVTFyUnRqYlpTYUVnOE5CcVBPQWJJdUpKVXpTYWtSV0QtMTBSeG5xWnd0dWQ5MGw0Y3VMeXE5UlY3ODZTdFJ0aS1nVjhWb21jT29lQ1hnUE9jWWdDTEd3V1l1RjI5WG1PcnE?oc=5
+- **2026-06-30** · [Lex] EY employee charged with accessing Australian prime minister’s bank details
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlFpWHlremZfbDlKUG5ENlBZdUJhcjROeV9UNFNPdHBsTS03NkpVMkZGcHFIMWVrWFhzaWpWeEVRbkZnOEdma3cwSlRrbjBfTFlwbFJLUlB0NkFhYTFiRWpsUFhjWGhUdGt3TVpoamhiSmt4XzRqOHNrNzhFdVBPbm9USVM?oc=5
+- **2026-06-30** · [Lex] Yen weakens to 40-year low
+  - Japanese currency slides past ¥162 as Federal Reserve’s hawkish shift piles on pressure
+  - https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510
+- **2026-06-30** · [Lex, Markets analysis] Letter: EU should resist calls to water down its methane regulation
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE93cWNwOGE5OU8zbkZFTmN2dFhTMkFTU0k5QlJqTHFYQ090TkZzc1YzeXNFZTROWkpkRXJJTDJBSWhyUkxzZFN2bGhSSVpURjAzREdGZWR2VHlDRkRuREozV1VpLVRlSWRoMVNtT0tQTDM?oc=5
+- **2026-06-29** · [Lex] UK regulator waters down landmark crypto rules
+  - FCA eases capital and disclosure requirements after complaints that incoming digital assets regime was too onerous
+  - https://www.ft.com/content/c2ace628-7bd9-4f3b-b835-970d6dd930bb
+- **2026-06-29** · [Section feed] ‘Tooth fairy’ payout nears £5 as UK childhood finances overtake inflation
+  - Annual survey also shows the average child gets £10 per week in pocket money
+  - https://www.ft.com/content/95e9ac59-4aff-47df-860b-7ecdc3bba271
+- **2026-06-29** · [Lex] Chinese exile Miles Guo given 30 years in prison for $550mn fraud
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3d0X2JDdF84UF9vMlJPU0lhVG55QkFVd1ZWcUplQ0RqTTVmdGFKRWJsQmZlY1lXcWRLMHllLUNhLUhJRGYteUlydnZ1RGhJT0Z0dlNMaGYzNGhVRF8zOE1vRDU4WWpaYTVZbWpMMFhEdHNsZ1R3OF8zOFp0bHhVS3h3OXE?oc=5
+- **2026-06-29** · [Markets analysis] Climate Capital
+  - https://news.google.com/rss/articles/CBMizwFBVV95cUxNYW1YUTRNX1k3QXlfS3I5R3RQTnk5azFJR0JZZTBtTU0xTnlndm1pRUttdEdQX3duMzBzTFdLNTNnM1FlUEc4aWZ6N2g3VS1aZVhFcDNQZEYzdXhMbU5FdV9SWnRPUmpVUnc0eG1JVnF0VnFyS3AxUExIeFQxTjAzYkFTUG9XcU5kVVQydTZCTlZEV0IyanJrekVpSWhkZm9HcFNCU3ZQTzRKV3JyaEtVTElPSE12UVlyaUJrY3JFRXZWbTRCUnZsdVNnM2s2NTg?oc=5
+- **2026-06-29** · [Markets analysis] Silvercorp Announces Filing of Form 40-F Annual Report and Updated Technical Report
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxOTW5ZMGlhVUtOYk40VmNMbW1lejVHcGdOVFplUEZFVDFkNUtGTm1mWThscmdOalNVeWFyOEw3RVVqbXNadFQyRTg1dFczSGNGcUE5ZEhwYS1YXzgwOUdTeC0tNTA2MFBGNDNROC1NQ3NVWHJLcmZxS3U5emdVZ3JCc0tPUE5PbHNOV3JKT2VJV2ZEX2d2QWc?oc=5
+- **2026-06-29** · [Lex] Foreign investors fear Japan is backsliding on reform
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHU1VVVleDZBMFk5dDQxVWdzOWZ4Z1BDQ1dRVThVQjZ3STNYSFZEaHk5MlZ4eGxMT0lxTzBra1NxR0tBb1NoWS1hWjFkSkthMFlULWl3VE0yTGU5Q3ByUVU5WWN5d3F0S3M3WmdjS2Jyei1KTVdJVmRJR1BnMk5vN3BmcjQ?oc=5
+- **2026-06-29** · [Lex] Maersk raises profit guidance as new US tariffs fuel demand
+  - American companies rush to stockpile goods ahead of fresh round of levies
+  - https://www.ft.com/content/44094a86-b170-448f-8305-55625b16bd29
+- **2026-06-29** · [Lex] Supermicro Taiwan offices raided in chip smuggling probe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc01jbHBHLS1BaUYyOHdzVVJ1eUhtRXdZUzhMTlJBTURKbmVHZUVhQWtQNHlzejh1R21rWHVhNWFjNW5YY3ZoNTBvU3V2cWZsX2lnaHMyZlRMUXF1SGdrdVZKd2ZKUTE1aERZb29BdG94QTkxQnZNamszSFI1OWNQTXVhU2s?oc=5
+- **2026-06-29** · [Section feed] EU sets deadline of October for reduction in trade deficit with China
+  - European commissioner Maroš Šefčovič demands action after meeting Chinese commerce minister Wang Wentao
+  - https://www.ft.com/content/75313f1b-10c2-4ec8-9e5b-ae098a5f9677
+- **2026-06-29** · [Section feed] ECB does not need to fight inflation with ‘same force’ as in 2022-23, Lagarde says
+  - President of central bank signals that there could be a modest increase in interest rates
+  - https://www.ft.com/content/b88c0d88-b4b4-4191-98e4-3edc51a9b41e
+- **2026-06-29** · [Lex] BT’s turnaround is in the home stretch
+  - A streamlined domestic business and the end of a hefty investment programme mean it will soon start to generate cash
+  - https://www.ft.com/content/a8d3173c-127a-444d-8701-7e2faff6f8a7
+- **2026-06-29** · [Lex] Comcast’s Hollywood break-up marks its GE moment
+  - Owning glamour businesses might be fun for the CEO and board but is not necessarily useful for shareholders
+  - https://www.ft.com/content/16b80794-3898-4010-b7d8-5c8cf59dd7ef
+- **2026-06-29** · [Unhedged] Bitcoin hoarder Strategy unveils $2bn buyback as share price tumbles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDVpOXNRLXBaSmppbDlfREZ5YnBoVndKVmlXcGdqMHlSa3ctUEtodTNsekNiVUM5X2JmSDE2cW5wZUN1dTB4MlZ5Z2R3dHA2QS1BYXBUdW1WdHZOSmpXbGJabDBpeW9LMUwyM0NuZDJEeGZCRk9HbXdYR01pSzJvTGVyYXc?oc=5
+- **2026-06-29** · [Lex] Burnham’s radical localism alone won’t fix the UK economy
+  - His speech hits the right political notes but fails to offer a clear roadmap for growth
+  - https://www.ft.com/content/4e749ab7-51e4-4acb-95a0-7e260f463b52
+- **2026-06-29** · [Lex] Supreme Court protects the Federal Reserve, but what about everybody else?
+  - While the central bank’s independence was upheld, other agencies were not so lucky
+  - https://www.ft.com/content/b4c27cf9-f1f6-4709-b2b0-7c6df47531b1
+- **2026-06-29** · [Unhedged, The Long View] Ethiopia makes deal to cut payments on $1bn bond
+  - Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
+  - https://www.ft.com/content/90770782-517e-4b23-aaae-4b5a20720878
+- **2026-06-29** · [Lex] Strategy’s last-ditch strategy
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBVb2lDc0hZSExCcGRjbmJ2Q25FVVRFcGJkNFBIb3h5SnRSZzI4ZHB0MlljSUtudXpnMlhKaVBzTzFHNUtUZ0RScER1RkttWmV6eVRIdVBjUUk1bTdyZnkxYzVnMEgxbUd1TXZaamZUSnI?oc=5
+- **2026-06-29** · [Markets analysis] Argentina’s warning for Venezuela on debt restructuring
+  - Caracas must secure the backing of the IMF in order to rebuild investor confidence
+  - https://www.ft.com/content/9c15e960-a74b-4ac2-8776-29bda8fe5bed
+- **2026-06-29** · [Section feed] Burnham’s devolution plan fits the corporate zeitgeist
+  - Centrepiece of prime minister-in-waiting’s speech involves a strategy most executives would approve of
+  - https://www.ft.com/content/2136eb2e-1518-467b-8af6-b523c433262e
+- **2026-06-29** · [Lex] ‘The risk of a deleveraging event is rising’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1IMkJyOHJOSzlxcS1INjlSZFBnM1NrYjk1ZDNrNjRxV1dubk1qeTZSX2w0RkFGWU8tbDlUa3hpVVZiZkJyd0JBWkl6SW9QMUwweEx5MkZwUFVhNWJZUFNvTVRTZ1VnMy0wTjhNQ1owQlc?oc=5
+- **2026-06-29** · [Section feed] Burnham’s Middle England challenge on devolution
+  - A boost for town centres and cities against the suburbs could come back to bite him
+  - https://www.ft.com/content/8ca4994b-375f-4062-95f1-f57b016eb26d
+- **2026-06-29** · [Lex] US Supreme Court blocks Donald Trump from sacking Fed governor Lisa Cook
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUhBMUUtMjBqSXNJNENraENTNmV1d3J6X3NHQ2ota2pZRGRrT0hmdVVHTENlUW0xaGVnMG5XdDZYTkc5SFY1TlJrRm9qS1h0X045dGxzcWVDZE5jbV9GOHZfcWV5WG85REpZRUo1WWRiZnZQNG5GNU84RllfT3dyaWlaTlY?oc=5
+- **2026-06-29** · [Lex] Atom Bank sale on cusp of collapse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYURFeTJWbzhOVEJaQzBEd3Y4Q0Fpd3N2TkJaejVqLWduT292akxOTXJrMFlFT3haUUM2S3d1ZmZ0NlJFNkItWFhUOGFsWHFYOXZSRVNTQVp5RXdjYlhNT0NFZTRIcm5uOTVOangyNE1PbFlheUsxM3h0VHdPNmNyaVhVRUQ?oc=5
+- **2026-06-29** · [Unhedged] AI money is going to swamp the midterms this year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHE2Zy1jMXM5U256ZlpLSWt1d2ZZV0lnYjJReW1SMHVZN1BxR3pmaFpkQ043UnZDY2MzLXhIYkJIanRVTG1JU3dwN0NWNWdPdzRCSHlJRmNLU1lxa2hrWGdVdWhYWGhOMVZPay1vbmdjX1lWVElXc2kwX2ZSZy1DS1NGSjc?oc=5
+- **2026-06-29** · [Lex] Has the McLaren W1 redefined the supercar?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5BYlBPZE04bEFydlRJNk9vZ1FKQy0xelN3QlUxZTZEbkJZNjdFWFZPbUcxUWhnZTFSY3h3MWJNTVBRQzRIREJTSzhTMkRSQk4xYjNMWXNXQUY0eXlaOFAzRDljc3JzS0s1aWZGdVdNM3M?oc=5
+- **2026-06-29** · [Section feed] Head to tail: business grapples with 100% fish initiative
+  - An ancient habit of frugality resonates with the US Midwest culture of thrift
+  - https://www.ft.com/content/9e75d917-aa0c-4d9f-be98-7ee68f37f902
+- **2026-06-29** · [Section feed] How China wriggled free when Trump closed a tariff loophole
+  - Chinese sales platforms and delivery services have adapted to survive the end of the ‘de minimis’ allowance
+  - https://www.ft.com/content/d0897dfb-c94d-4b62-be82-7ec05a645726
+- **2026-06-29** · [Lex] Donald Trump and how strongman leaders fall
+  - The downfalls of would-be autocrats in Hungary, Brazil and the Philippines hold lessons for America
+  - https://www.ft.com/content/a1f9bae6-35a6-4875-ad5a-e5fa3c1de87d
+- **2026-06-29** · [Section feed] FirstFT: AI fuels record number of power sector deals
+  - Also in today’s newsletter: Venezuela’s government faces backlash over earthquake response; and how top executives stay fit
+  - https://www.ft.com/content/1efdddb9-e72c-43c4-bbe5-d5e2aba00c1e
+- **2026-06-29** · [The Long View] Britain’s case for meaningful devolution is overwhelming
+  - Andy Burnham is right to argue for a shift in power but he has to manage political risk
+  - https://www.ft.com/content/4a5a4764-8a17-4151-b819-72e3e3d807de
+- **2026-06-29** · [Lex] British American Tobacco slashes 9,000 jobs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQanhuN2tqOWlxejRaR0lCaU1BSDJ1NDhMd2hVOHB1OS1LTTUzWW40V0ZZaVNHa1RjX3o4eXBhT3RlU0VZeWlyVXN1ek43UVhKa252akMwWkNzV3k2MWotMDI2V1RwTTVPcVdET1NDWDZxRHJaSHc3V1JiZ0RIT1FITDZrRFM?oc=5
+- **2026-06-29** · [Unhedged] Samsung and SK Hynix plan $600bn chipmaking expansion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFZzaW03bXlSSktxdEtyUVBNT2wwUjRac2o5a2RKTkQxdTRtekRBZE9mMHR5T3BXMHVoUHQ1TXV6NHdjMHJNQm5UM2piLVJ4S2tWYjFTcHBvN1B6d0s2QUJ2QklhTWl6dmJ6ZDV3SHpTamZCbTk4RW9xR3pvUGlnWWN5RDc?oc=5
+- **2026-06-29** · [Section feed] China targets more Japanese companies with export controls
+  - Further restrictions on sales of ‘dual-use’ items with both civilian and military purposes
+  - https://www.ft.com/content/9ca19c7e-bd25-4518-81e2-0b133e8dbed6
+- **2026-06-29** · [Lex] BT and Verizon to combine international operations in joint venture
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTU5QV3JKengtaThZOWhadFJiR1I5RGRRUzVJNDN1V0VwYU1VeTh3NE9xYkQ0SmtRWE15Z1ZOS3g3Tk41N19ldXprRkdfaHdEZWFTQW9zeWNHTVFudW1XLWtJeHduOUdRa2ctbXh4ZGpHeDZxMXZsLXd4UlRTYzg5VHhGclo?oc=5
+- **2026-06-29** · [Unhedged] AInflation is real but tiny
+  - Plus, European stocks ain’t cheap
+  - https://www.ft.com/content/62a3e2df-ec52-4023-9142-95d13b19e69b
+- **2026-06-29** · [Lex] European producers press Brussels to shut Russian aluminium loophole
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnp4VXZvRGxObjBKdVNHSGtKTlJjQTFLNUtaUUxYMVJKMjhSVVc3MEFsYjZIck9RcjFmM1EzWEtpaTl6U24waUdhWmxoUGJsbWVfSlJWR0EwNl9fSm1YSjJyYlp3N2hDSzNtcTZyR0xhbDUwMGpoZHhlUlZORzJOVGs3VXA?oc=5
+- **2026-06-29** · [Markets analysis] How Citadel became an energy giant
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGdXbmZpZlFVVERra0J6Y2dxMk5aaG56NDg0TFBtaTZpVnB1bVVJYUxxeHB4WFhOSmtxTG00U29mcS1NMFhLeV8yc3ozcGJhaUZKTE16dXNfUFJyclU4WHdaVEkwWWFGT1JWa2Uxazl0czkzMm8wU1NZNDRKNUVDZEJpY3g?oc=5
+- **2026-06-29** · [Section feed] Warsh’s Fed communication is adding volatility to rates markets
+  - The downsides of seeking more fundamental information from markets will be in greater surprises
+  - https://www.ft.com/content/774f8385-d983-4af6-adcd-4db60e711d3d
+- **2026-06-29** · [Lex] AI wakes up the sleepy US power sector
+  - Companies in dealmaking blitz as they seek to build the energy infrastructure for data centres
+  - https://www.ft.com/content/6511c0de-6baf-4592-a3ab-b6fdfa7e7ff6
+- **2026-06-29** · [Markets analysis] Can the IT sector solve the UK’s growth problem?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZThlaTdWR0N5QVlraEk0RXJEWVM3dl93dFU0UTktRmQtdXJmbW11V1hpWVJtUEFsWlYzNUgwSms0OHlzN0xDOXFidW1RSEdHYlVOMzVtTHJOTHhzWFdPQVBWRGE2c0owX0w5aHFWV0ZoX0ZRU2lqUTJBUFAyeGFFQkM3dkk?oc=5
+- **2026-06-29** · [Lex] Volkswagen’s brutal jobs cull sparks prospect of sale of crown jewels
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU82RUNiYVZ6c2w0MnZ0SDQ3QjdvWV9SR0h2c0VqeFZ2Z0tRZnhrLVE2ZUtCWmluam1CdW9XU2lKUjE0aGgtTmRYWmFaMUFQanRBWElsWjhiZExiY1VvdS1zMlJVcGR0VVJwWE5Yc3BpSVc1UjNLSW0zcGlleE1xcnpaUFg?oc=5
+- **2026-06-29** · [Lex] Europe risks starting winter with gas stocks at 15-year low
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXlJOER1cGxUQ2lrUDRvOXBwSHBLbHZUWVNiVzJ3dzZCSThqTUk1by14d3J0VXlCR0hkMFZQR1J4ckFZRHRfTHRvQjJzeFZmb1haZWNoSm80MndIUEVIeEhBemxFdnlMTFF0WUlva1JENlNOQTRBMFZrZV9XeGRPT0tsWGQ?oc=5
+- **2026-06-29** · [Lex, The Long View] The leap of faith behind SpaceX’s mega bond deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzgwN1NXLXBrZy13ckJBTjR5SVdITWtNYU5laEF3d3hXN3lMZ1pCamlDdGtMeUh0S3ZmNHlaM3hKQ3h5Z2M2bXlDa3NGUFF0Wm8tQnFRWGlQcTdXbzdPelJCU3RJTExCeVZSRVM5dWlCbmI4akV1ME9Bc3dPNF9rY2hCWS0?oc=5
+- **2026-06-29** · [Lex] AI fuels record $200bn M&A boom in US power sector
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFBaOGpOaTF1ZklPcHkzVmxGdC1kZ0dVaUlObFhXRW4zZU9CdjBVUldUS2JFNEVubElheGsyd084dDNVRDUxeGpLM2NwazViMVFHLUtaa1lQV3o1V1VyU2FJWDFTYV9pblVGQ2h5QlpSWVJrOGx2TWdqTnpNYThQR2lVaVQ?oc=5
+- **2026-06-29** · [Section feed] The ONS: an Outrage of National Significance
+  - The UK statistics agency plays a vital role but has been beset by errors and poor leadership
+  - https://www.ft.com/content/fe043c3b-d961-4e39-9206-422bab1b90fe
+- **2026-06-29** · [Section feed] Freight shipping costs surge as companies race to beat new Trump tariffs
+  - Rates reach highest since 2024 Red Sea crisis in anticipation of fresh levies from US
+  - https://www.ft.com/content/8bf7cfa4-5412-41d3-b84e-e89f84265fe8
+- **2026-06-29** · [Section feed] The new AI-based world order
+  - A single factor is now dictating the hierarchy of global returns
+  - https://www.ft.com/content/ce505663-9567-40a1-ab9d-91b6bdb90a17
+- **2026-06-29** · [Section feed] Battery start-ups turn to spare Asian factories to avoid Northvolt fate
+  - Western outsourcing to build scale risks China’s increased control of critical supply chains, analysts warn
+  - https://www.ft.com/content/e00b5bcb-8fc8-45da-9b5d-00602c408535
+- **2026-06-28** · [The Long View] Andy Burnham sets out ‘10-year mission’ to raise living standards
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXBUaXphOWpWdXZEbWFXSUhkVS1CS2MzOTF2eDNOWUtQd2ZSVF9XUEhHOTJmQ0xDVDBOVTVDcDYwTGtRUzEydlY2RFQtSElMamhoTVdyekR5S0wwUVFlSXk4NDlHaXUxaF83RzA5aU5Xdl9YNFRRcEQzWWptU0ZsQ0VHRzI?oc=5
+- **2026-06-28** · [Section feed] US dominates news as 250th anniversary celebrations approach
+  - Plus, Andy Burnham is centre stage with a speech on his economic plans, Wall Street tech IPOs and US labour figures
+  - https://www.ft.com/content/fb6fb1d8-30fd-482a-a7a3-c708fe88c973
+- **2026-06-28** · [Unhedged] Robots, not chatbots, will realise AI’s potential
+  - Factory-floor applications of the technology could significantly enhance rich-world economies
+  - https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8
+- **2026-06-28** · [Unhedged] Are AI stocks headed for further turbulence?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNm1zbVlSc2l4X09RdUN4S3VXaHI4YkhWQ2FfZEs0SDkzdlNOTHVXUUpYOXg0RTV6c3JrSHlnamM2Tmx3M1ZoZ25tOHEzYXg0R2Z5X0NFQU9YRUdYa0JvSmNwQVEtdjFsMXhGdUV6MThlQnpUSWZ5Z3YxVmdsOG5MRWRqdXI?oc=5
+- **2026-06-28** · [Unhedged] AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjdqbVZkVWRMR1o0M2dBal9ENFoxSWRWVVdKZm9GeG5PRWIweVNZaTgtQkNJcVJTak1HOUhVai1uN180T0FJMlFhaXNtdVI4LVRXZ2dOMFZ0WGdnZm40aG5GcHF6Snc5SUFhWlJlQnJ6Qkl0dFBSZWV5b3oxMEg5SG5ld2w?oc=5
+- **2026-06-28** · [Markets analysis] No, we have not had enough of experts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnV3QTRSekMyMlRTYUhLLVQwQV85MzgtdWt1WEFndm1pS19rVHFqdXFEaEF2bmhfV2xScTJ5LURvamlXM3R5cmp3UWJTQWFqb1pDaXVsYlJ5OGQzZU5MY2ZQYW9EMjBTNThtWWhub0x4Y2UxTnFQbER3bmU0Z2pjc09za1g?oc=5
+- **2026-06-28** · [Markets analysis] This town received a £96mn post-Brexit makeover. It voted Reform anyway
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjdoRFBncTJnZG0zVC15RGwyeTAybTBZWjhmdGFVbDVram82WHBhQ0Y2Ymd3ZmVsNHdUdjVaRFRvMG5zbC1qcU45X0NyYm4takVFdUxobUhZYmtNNjRjT2c3NnBtdGZMTjgtY2NpbERiM0VDWTE0X0VLbkFoemVHRU02OXg?oc=5
+- **2026-06-28** · [Unhedged] Google caps Meta’s Gemini use as AI demand strains capacity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpuX2dJV05JSzJMNFcwdkZfV2tOTlFKdExuY1NqSHU1SGdOTnNCMmpVc1A0TEpzQjZSUUFaUkVpREhITUlmb1BocHkyRlNfdjFmeXFTMXg0bTRHV0FLMWZpYlBXVUlvZ2ZKNXUtcnJaaDFlNVlFLVJ0NS0zQ1kyS0VJOGk?oc=5
+- **2026-06-28** · [The Long View] Rival parties see Andy Burnham’s northern focus as potential weak point
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmhrVVB6SjI5dTZyVF9KZWY5NlIxZFVUNF92Tl9xYzFCa1N3Ny1ObU9tWWtQQnVJMFQ1VzUtOHg5MVdNWjdUZHBCMFZ1RkN2am1MWDhlVU5XVFFhbFUyWlVwRkh6Nm8wNy1rVGR4QlkyYWF2R1B1QkZRSTA0d2RuQkdKcUw?oc=5
+- **2026-06-28** · [Lex] Why keeping Europe cool need not be a luxury
+  - In the clean energy system the continent is trying to build, air conditioning basically comes for free
+  - https://www.ft.com/content/e66860fe-bc24-40c2-93f6-400a9e28ea2a
+- **2026-06-27** · [Markets analysis] Venezuela earthquake death toll climbs amid anger over slow response
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBHQjRRY2tObGhrNkZMU1JvbzMzTzRCdWlSR1F3WGwwbW1qeWVsVENaQkVNSXcyMllxSEhWcWNLWmVBZmQzRDBlS3cxdFB3YXM2WFhKV3QtY01jMFAwUERkSmZIbXJVVU95YkdYaWphUlU?oc=5
+- **2026-06-27** · [Lex] German carmakers embark on historic job cuts as Chinese rivals flood market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2d5cl90UFRyMTdPNUFwVkxvN3ZvclY5UEFweF9haVEwVU92ZDBubXp1Rm1aMG9pZ093R2ltYjNJcndIMVFNN0R0T1ZnRWR5R3ZxdEFBUjhXcWIxUDVCRXlGblp2YjJEb0w0eXJISE43M1A3V1JMQVJYbmZHSVV6eTdzWWU?oc=5
+- **2026-06-27** · [Unhedged, The Long View] Chart of the Week: Chipmakers are expensive globally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRU9DazVBWUxHSDhYMm9zV3VpbHI2bC1YQ3BkZTJ5QmNScHFyMGVJZFdsSXJqalROT01NMVBGTVp5bjU3OUNXc0hiNVVWTllVLXVSUENneGZoZnVoZHp4UTROcjdMbzEtY3p3RElmTlBCMHNoaTlSX1p3YnRWaTZ1cGhiS3U?oc=5
+- **2026-06-27** · [Section feed] Chipmakers are expensive globally
+  - Valuations are high for AI-exposed markets
+  - https://www.ft.com/content/e5aa937c-bc52-4973-bf21-bfb6afd1d95d
+- **2026-06-27** · [The Long View] Burnham catches a bit of luck with gilts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLV9LeF92aGhoQnlvRzh6UWhaQ1dMX21BVS1nSWdhN2otcktRZVJvbEt6Y2gwWHNfMkt0dUYtcFNabFJIWnhjcURfWjJjMFA2VVlIZ0hKa0hxS0x1ak1YM0xRcmdVbmxCVjFLQWJuMWh4dTIyaTBxb0J6NlJ1NW9VazI2SHA?oc=5
+- **2026-06-27** · [The Long View] Extreme heat elevates national security risk at London climate week
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGt6N2dFSkx3YUtUZFlOczJZcFBDMFZGR1preHQ4N2dpT3NSVjBpT21YYktyRVozQzROMl9DdVpaLUUtcHpTTGRibVIyd2t5ck9JeVRoWjM5aHVYVEZXV0U1VUJmNnBPclFUQUZMTGE3Q2xIbFRQVzdDWnlmN2t6SExFdTM?oc=5
+- **2026-06-27** · [Lex] Indian snack giant Haldiram’s cooks up European expansion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHN0TVJ4TENJWDVfbWpwVnlGMkZFNFBuTlZJeU1DOGJEcUI0S2t3WnU5QS1kSkU0YWdPUElvSTJkdkpEQUFHTjFVYXBIZ010QlJaZ3ctLUI4c04ySXRGNWowM2JzbHBpYUV4b0Q2MmcxSHFWdEg2UE4zeDNkVGZkMWJ1THI?oc=5
+- **2026-06-27** · [Lex] Luxury may be in the doldrums, but perfume passes the smell test
+  - Fragrances are among the faster-growing areas of the beauty industry — though investing in them isn’t straightforward
+  - https://www.ft.com/content/8a88235d-93ab-48ad-a748-278585b8c3cc
+- **2026-06-26** · [Unhedged] SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjBVR3NfaE5CZmxmUXpHb0VLLUo0SUZRX3kwX2NSMGQ5Ym1KYXptTXA3NGRHOWZUcngya2MtdHhwbENmSElUZDJ2amdqdDJ4VDk3SkdraTlSdDdSMVphREtJV2J4N09HdVZERjR3MndVTlAtYXFlR0FLbzJlcFpLWXU4aGI?oc=5
+- **2026-06-26** · [Unhedged] S&P 500 notches longest losing streak in 10 months as chipmakers slide
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjYyYUt3cTRPQUlqbG9jRGhaYmZPbUJTNGlpZWRNbmZXN3V2NXAya2Z3ZWxyV0NjcFVCM1NDY0lndmZlNVB4NkdyRHNHUW05YlJHS3JiNUQ0cjB4YTdWaGhIYlhQT19HLVlETktBdnIzXzgwdWlKQW8zd2J2WWZ4aWN5Z24?oc=5
+- **2026-06-26** · [Lex] Hong Kong billionaire explores sale of Harvey Nichols
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWdYVlR4cjZMR0NBbGpsYy1NZlNjbVJ1UFlQRk1YM0c1QndYN1lpV19XcTZVU1RzTGdVODdBcmdNa3hiWmZwV250c182b1hYOXdRSXFFYmJ6Tld1aEZ3eWVfblh1S0V0QzJNejNKdXpFRWFPOFl2X0RvMjJHWDNZNFF3dlM?oc=5
+- **2026-06-26** · [Markets analysis] Brutal nights and humidity mark Europe’s record June temperatures
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHdGSUFXNmtyaXZvR0VQU1N6RHo1Q3BlSjFZRWpZSkFrVm5GdThmQkFXNUxDTF9kbWxIMEZUNFp6LUxLem1qTi1EOHg2cUJvOUlJZVpaR3RQOG9Sc09lbWUtOVFibjU0bzZkY2lJLTl1R0NabDV4bGRTMzYzUDNJdUZ3UWc?oc=5
+- **2026-06-26** · [Markets analysis] Ill-timed deregulation is weakening bank resilience
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5ET1dDeHJOczA1ZVFIdkdJaUpMWHp1RXJOLTFEajVDaUs4cjZody1mMHhwenh3Wjg4dlRXVVNqMkRxbFpfdnRCV1UzYmNoRVh4RVJTY0pIQlRZQWU1VkhZWFUyamtYYlAxcm03Y2QyV2k?oc=5
+- **2026-06-26** · [Unhedged, Markets analysis] What Kevin Warsh can learn from Alan Greenspan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUYyRnB4QU9EckNaZEsyWGgybGlRSy1JNmxtTUdoeHZ4QjRKanNhOWV6LXBnNzlibmZLb0loYTl6SWY5M0pLQTJiMEZkbUQtYWM2bGZSODN5WnVrenRaTnJDNUtzVzZacld4NmJUY013SXhhV3Rrc2l4N0x5a18yUE04OVA?oc=5
+- **2026-06-26** · [Lex] Walmart’s ad deal smartly puts its customers in the shopping basket
+  - Retailer looks to monetise its deep well of consumer data and insights
+  - https://www.ft.com/content/bc95ca91-0d97-4025-97cf-781f1964904e
+- **2026-06-26** · [Lex, Markets analysis] Volkswagen’s mass lay-offs are a call to action for a sleepy EU
+  - Carmaker’s move will ratchet up the pressure on European policymakers to slap restrictions and trade barriers on China
+  - https://www.ft.com/content/ccea8285-11f9-45c0-b642-1efe9ef0c1da
+- **2026-06-26** · [Markets analysis] Small plane crashes into Beijing’s tallest building
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZF9yLU9iYkt1NWg2Tnd1UGxSRDZNS1NhQjRUcHllX0NsMl9oZ2xoS1dUV196LWNQUmZzRGxIZm1qdkZPWUV2N18xenBOTFRiSzNPd0E1Vzl4Q1pJRXFEWm9MbzBLU1FqLVh5R1BDWERYLXdpY201TkhkNm9hUTA3bW1ua3E?oc=5
+- **2026-06-26** · [The Long View] The hole in British politics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmlTV1RnVDgtcHgxUmVJUXVjTmY2Z0ZjemN6anp2dmp4YlR2SG91MGtfSmZQelFXdmdjUXlDVWdlem52TW50V2dQTlFxbkdhWlQxbWNmeEJIeWZaLXYweUVyc25yQVNITmlRM1ZlXzVHN2xvX1RCZ2VsOFNxSGlJZmdMeTA?oc=5
+- **2026-06-26** · [Unhedged] The Democrats’ DSA siren song
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFlpWW1oZ05ZWTQ0dVR3Sms0N3JDRThxdkliNE8yaGxmQ0dlOGZjamtZZTVDRnhTbGhydnhxZTRGZnBQdjAyXzhHd2MtYzhjQUF3cXFCZkkwcHEyY3ZjUjN0LTYwcHM2aGVLbFVhdldGYVlxMjRYY3V5RzV3X3c5OW5vRTU?oc=5
+- **2026-06-26** · [Unhedged] The stocks doing the earning are mostly not the stocks doing the rallying
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1BU0pzNVlBd1lrRWR6cEc5NHVhZlNkRkVROTE2Z1NKOThfb1dFUW51ZS1fUUNabzh5Smdaa3JXSHRQNHpKMHN3d1IwQ3JQeXdlaEo4SllCbjdoU1ZOVzZOemUwYWl6RWpXYk9IaERvX1k?oc=5
+- **2026-06-26** · [Unhedged] FT recommends - FT Professional
+  - https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjVManFjcVpSNFlsdF9sTzAtT2FLN19XRnp0Z3pBMFh4WVB5NEtkR0VLRlF3QzZSODljQVNCOGJlNlJ4V3dCZXRHZmlmX2JZakozbmU0SF9jTHNyTWx6V0NsY3FiNEZFb2ZPdGVhaFNkX0FMdHBYdXhmQmN2MkJORDBWOA?oc=5
+- **2026-06-26** · [Markets analysis] What will Europe’s heatwave cost?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2MxNkw5YV9VXy1SWVhSZlU0T0Npc01QUlBsb0NSbDg5VjVNTGp3STZMRVRFbllJT3RmSnd5SnpzaE43ZkhUekJQTFFDR3NiSlh3RjdvMFExM1YwX3RXV25NRzcxU1VQenc0QjZhdjVJSVdYWGpfRzJsOWJEeHF0VUptd2U?oc=5
+- **2026-06-26** · [The Long View] Hopes fade of Keir Starmer delivering Hillsborough Law before leaving No 10
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFdBc3piRUhUa1pKN0Q1UlMtT3JGQlFfS0lDSUFsbDNkQ0dTdGVRMmVDT0FtM2habEV6THpTMGJaX2FHaGZvYldaMjNHYXhPNk03VExReHItbl84VE53bjlhMlJQSUw5NW9lTVZLNlBIeDUyV2hIZ2hSajZLQ3VDQTctdUw?oc=5
+- **2026-06-26** · [Lex] Brussels launches antitrust probe into French drugmaker Sanofi
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2t4UWVuZzdIR2I2aDlUR19hQ0xPOVRzb2ZmZUFwODB4Qkx5N0NHSDNqUWwzbkFiUUpEcS1ScGx2SEFxTkxqUUo5MWJpS1JRRjdoLXl6VVJKNU1PNDlFVjNOTzdkVlJKZ25faGVXc2VMS2hhLWVCS2ZBRzZUM3doa0NOMFc?oc=5
+- **2026-06-26** · [Markets analysis] How quickly should a battered Venezuela restructure its debt?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYi1GMVZLakI5aDBGOVd1b2YzZ3paX3ZZZE91NGozUEdjUUNYNWN3N1laOEcxOTJVRWtfMFFPRjVBMmJuSW5yS1R5YUJqT1QwRGowTWtPV1JrTHZqeGh4MVowa3R0WGZaQXRibWFuNkNsYVFQU0J5LVhzYnRPWjdLb2pNcE8?oc=5
+- **2026-06-26** · [The Long View] Why poor countries won’t restructure
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAxa2JBWVJKc1piUC1SRktDT2owOW04bUlpcEducGlJdVBobGJjY3FLZ05UUkZMTjkxVnhhQlJ4OVRsMDEya2djYVkyX2daTE9hejk3RTRyMjI0N0Z3Rm1Mam9UdWZDZ1FkdE1FLWhENlY?oc=5
+- **2026-06-26** · [Lex] Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3NWMG1kZVdzTkJRVG9KQkw0ZC1CaUUwSFVFY0RuUjhRY2Y1YVhFRjlkNGNkZGxuTGJJQm9DUk9zLUhXZjVwQlVTcFZrWVBnTjhiV0VfTFVnd29oNDh3aHBZMmNDWTlNUHRhVG5HOERMM2JHbkVoSFhadnNUampWZTliR2I?oc=5
+- **2026-06-26** · [Unhedged] The leadership change in US stocks
+  - A market seeking direction
+  - https://www.ft.com/content/42420d57-f466-4b01-bc4a-4d68f9e0b6c0
+- **2026-06-26** · [Unhedged] Elon Musk’s SpaceX plans Starlink mobile push into US consumer market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWFZLVl1aXBxOUpDaHhDSU5icFBWd0NHd0N0eHR4VlBsZ3RhSW11SzdzcGpMY0hIbzdsbU51WXR1UG8ycHQ1bDJIVDg0a1ZjdnI4UnZOcEoxVUtlUGRwQlM5d1hwTE5vcjJYWFNKdXZpYUJaaHJieFVzNVNqVFlwRVZ2Mzg?oc=5
+- **2026-06-26** · [Unhedged] Kevin Warsh’s tough talk on inflation reassures investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0FUeDlMbU5NNzBQSTEtRFFzaEFIOFdDeE1lMzVhQ2pqa3dOa25kRlhjMWdVNVhxZDJSMW5qX0FsMnlrOW5KMkg3bkRxLXExYkZFSmRod2k3UjZHQkVKeTRiRm9nNEpSamE4clAzZHotUnN5TURXSjNOb3dMR09oeEs4cEE?oc=5
+- **2026-06-26** · [Unhedged, Lex] How JPMorgan became Jamie Dimon
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0lMWTdTTXBUS2xVUXJlMmI1djhPaFhES2J0QzZHaENzNEhTWk83MTRfOWZJR3FZYS1URkVMMU9Nc2owMzB2RkJMQzFLZGZ4c21uWmc3Q2tWZkZENW4yQ1hzVEg1VzdwWEN5a1RKSjJDdnM1eUo4SXlpZXJ6MTlzYXVmVnM?oc=5
+- **2026-06-26** · [Lex] Bending Spoons tries out an odd kind of financial magic trick
+  - Italian conglomerate is an emergency room for critically injured tech businesses where returns come from earnings alone
+  - https://www.ft.com/content/89354fd7-cbb7-4e98-87c5-68fbd7b46a46
+- **2026-06-26** · [Lex] Swatch seeks $170mn from Samsung over digital clones of its watches
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0lrTTBrV2h2ZFJNV1dqdUdxWVlqSXFXWTNzMm1aYUtydFdZZkNRNFFqVERkSkpSMk5sYXBrbTg2bUNfYVU0OXBKRmd5Y09oYUk2eExMLXI4ZDRuemh3VkhjZXF6V1kzVlNGV0lLWEZGVjNiOUxpemFjTWxvNDlmT0xzdEI?oc=5
+- **2026-06-26** · [Lex] Chinese carmakers ‘knocking at US gate’ from Mexico and Canada
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkpsNkVLcFhVV2oyTUtOa3VBRnNFOEg0cFZ4a18wUzlDNWE0ME1COFNWQWNRUGk1RkZTT3JreGpzdUpHUVVVaXlGR3R2UEo3dzUybElrQ2ZHLVMwS0hINVFnaDZCNFRNSGVtTFZESHNmS0plS0w2ZDZRQ3RKZktaRTRic3E?oc=5
+- **2026-06-26** · [Unhedged] Transcript: Tech shares zigzag
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0xNMENRaHhWN2l2WGlabk9MSHhQSGZrTEVwU2RGOW04LTB4N1hoZWhVVjJURFpWS2p1bzZORnhKd09oODBPVkZ5REk2VWNLVHJ0eHBjLXlaXzhDeVZ4TWNiMFpOQnA4OVF5b0hGNHg2cWR6aHVReThLUjJqeHprSDIyTDY?oc=5
+- **2026-06-25** · [Lex] Jamie Dimon upends succession race at JPMorgan again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNE9DckhkRzVfU3N1dmlfYVJzeDFqVnVDNW1oSGc2dFhZUUp1a1hfRkxsb3FUOVdpMDczYzJTT0hsTlc0bXluRzhwLVVwbThnVkZmMmZPa1paUFJraHREUzdzWE83TXBmbTNQdUhsekl5MWUzQVZmWXk1WDA0cEVWNkxzV0s?oc=5
+- **2026-06-25** · [Markets analysis] Meet the FT Law 50: shaping the future
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3RFWTFJcnkzZjBpWTJWdld6elRRSDdZYkdNdFRxRTFEdWN2UlhOSHRvbUptWFhTbkRpS2RHbFRHdEZjN2VTSGFjcFpVdDNqNTVMUUs5SUhfSHhaRHVmUUFkS1NTekpUeTlibWNPNkhoYmN0OEd1cjlIV3VIeG42Y0xSa2E?oc=5
+- **2026-06-25** · [Unhedged] Tech shares zigzag
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTk8yOGlMT210RHlaSGgwcnl4VUJOelNZV3hUUHpjTU9hWnRPQ1F4V0FrTzhJbUZQMERoZkNFNzFkcDhiNko1TUhZalhDU1BjcW9GbXVJdzBTT19HRWF0R1BTckEyWm5VOXdhOFpmSkhRdjhGMFJCWjFRcUNENWZGVTNkMmc?oc=5
+- **2026-06-25** · [Lex] VW’s Everllence sale shows even ailing carmakers have hidden charms
+  - Deal suggests carmakers may have more value packed away in the trunk
+  - https://www.ft.com/content/5b8fbc5b-4369-4fdf-b47e-f7dc71feefad
+- **2026-06-25** · [The Long View] Andy Burnham planning new ‘devolution department’ in Manchester
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTNEeDZZWktzdkZJWmhkb1NHZGY0MktkdjZrTHdqOV9RaVlpRnE5T1dOVUFtdXVMOElZNVBXMEJtbGtjOEI3aUowY2Rma1RSZDMwTWZzS3RkMHpWSXlGejlJdG5lYXEwUWRobTNQaThJMGNVcXd1MjJnTGZXWjNpclh5dlg?oc=5
+- **2026-06-25** · [Unhedged] FT Podcasts
+  - https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcnNTYkJrNGxZaHZwVmNaUjF1TFdtV1hreF9UbEktMDdaN1NVcXhhWW9PSmk0VWRHZkh4Mmg1ajB3dHdCa2V1N0kxVXd3amttOG5Kc1pOMHkzbm1I?oc=5
+- **2026-06-25** · [Section feed] Tesco’s return to broadband should be a profitable side hustle
+  - Retailer has a good chance of snagging market share thanks to its brand recognition and captive customer base
+  - https://www.ft.com/content/060238c7-3d48-46d7-9c8d-f4d8e27e762c
+- **2026-06-25** · [Unhedged] Competition intensifies for Anthropic and OpenAI ahead of IPOs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFBkYnVTbU5JOThELUFmY3dabHFPYzVrOHI0YjA2Qk5RMDV1c0kxZHVQd2VCaEJTcEx0V0xPdXlKeEhDT1BNZW95Nmp5SGtLY1IwSjVURWdpYkxRdUxHTHVsNllFR2xvc0V3b1pqYkJVMXJuZzUyNU93cHpuYWo3VTBLWHY?oc=5
+- **2026-06-25** · [Markets analysis] Oil price back at prewar levels as Gulf flows pick up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0FYYUpSTTVRTTRZNUJpemtOeG1IYU8zc1IydjZxVjFZQlBQMWNySUVNQXhxcnZWdjNGVE5XMnNPLTdvU284X2UyUVk3UmRFQmg2ZEhYQUR4M2Vvd0NGeGxNUHZHMlRQM25kWkx4dF9vOEp0WjlwMG5iblEya211ZXNsV2w?oc=5
+- **2026-06-25** · [Markets analysis] CAE included on TIME's List of the World's Most Sustainable Companies 2026
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ05iVG1JWTQyelhQclFzM3FIcHhZTmE5ODZMZkdxRzBodVNtNDJtYjNwRVduMXFFaXhfNWxkME1oU1RUdlZ6dU8tUXh3OUtwZE1vWW1YYkFJdUVoRkZ0N1JjT3NYMHdzakdHWGlMNHJvODhWTHpwaUlicERkTEtZU1lDalN4T1B6TWQ4UktBYWdNTmc5N1E?oc=5
+- **2026-06-25** · [Lex] Untethered Goose Game
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5lNm5pVFRBS3M5eHZ5YmFRbF9UNHhncklmVHZYNzNrUGJBa3ZKVzR5SDdVSnYweHlGemV4N3BvUlNrLUhvR0ZILUxILW9aODhvWHVyRjN5YVprelRPc291NG5EVExxTkJqUnJBcmRudFU?oc=5
+- **2026-06-25** · [Markets analysis] The ever weirder world of venture capital
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGRFcFRrclFCR3lMa2xFU3RxVU1GSWlmendBb1pUY1lGVkV3dkp5d2h4dVhNTHZDNnhiRWtGajNrV3dMMkRRY3ZfeWJIZWh5dWJsLWIwZk85QUhCRExiamMxSDZyV2ZaWTllOTVEaHBmRjVBZHY5bm96b21XSmIzMm1Qamk?oc=5
+- **2026-06-25** · [Markets analysis] Mercanto Holdings Inc. Reports Q3 Fiscal 2026 Financial Results and Provides Operational and Market Update
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0ViREVLNEhNblo3eUtYY3lZQ1dSTVhJS185bkVocmJ1Q1JHdTJtQ0lIeTR5SVpIeVFlZjgyWWlhVVpkay1NZDRnSkhwUkJiRlN4VF9qQ2NUVVFFTnY0MkhCRkw4QlI5MjlhX2RyMjc2SDR1Sy1MQ2hzN2lmcXhGZ1NVTXY4MDFPc0xmTVc0d3BqYUZ0MUE?oc=5
+- **2026-06-25** · [Unhedged, The Long View] What bond markets want from Andy Burnham
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB2S3pxSHB4QVR0Z1BmUjJKcDZXNGswS2VzbDRvOFkwLVRDMExYWXdvVExjdHpJVzhfaHRrOTFyR2lLem1fWG1ZQ2FTeXAxSmZvZVl1dlFzeG5pckhJSmpPa2xRT1BjcVc5YTJ4VzUxRnM?oc=5
+- **2026-06-25** · [Lex] Jamie Dimon promotes two potential successors at JPMorgan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFFVZlJDbkJ5aGswMVZfcUZQWkZlMDBUaXJXT2JrRjZwUzQ5Y1hRNVJFbVl5WDNYdGdpdXdrNllfNkFZRC1CejlFNXFOT21aS2U4b1FvTFJTWWNreHkyQlJXTEs1ai1LSC1IWmkzb2FfX0JLY1lYSUhleV9vRUw5U0llV0k?oc=5
+- **2026-06-25** · [Markets analysis] Why aren’t more companies adopting AI?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnQ2TW9KSW54NnN2a3JVOGhFMXlpMjA4ajQ0a3JneFZ1eHR4aS1LcnJBSkQ0cUw2d1AwY2N4QV9fYnpOR0hkbUJselhDQ3hpUWdBeXpzQXBWeUdUb1lSSXdvZ3NBR2UyMFl2MzJudjBnYWI1dWt5WTJqdXlSdjFJOEhpdFk?oc=5
+- **2026-06-25** · [Unhedged] SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1RDXzA4VjR2WHNDMjRZaXlNZmpXSFJIaWNXU1ItdjJNSDZlMXJ3TUpHSWNYYTNXeC0zWm1PZm1FcjNDYWJCekZZTlIxSzJpTnk3Zk1VNTdCUV9kclZoYnR3bGh4c0MxTFVFNmlzWDFfVTBpTVI2UEVjVV9KV1BOQWU4Y3U?oc=5
+- **2026-06-25** · [Markets analysis] Donald Trump — EV salesman extraordinaire
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9VVE5jaEFrWldkZFlaVk1WNV9oSDJNbndzWnkzRmJVWDB5T0lCb0VuN0xVUEtzWVNDNThrOVZ6TVJoVE84ZDZ6LW9kU3VJcHNNNGhiUUgwRERvdUg2ME5lMDE3Q1VTOXBsZlJFOWhLVm0?oc=5
+- **2026-06-25** · [Markets analysis] Market gloom reduces number of homes facing ‘mansion tax’ in England
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1ZqcWY3STRoc3JJSHFpREZGWjdzOGZlSE9WT2pzVW9tcURQNE9VMUs2VXdibHV1NlI4ZUw1WUxjUVpGVDVjSDNhaUlJLWZFamNadmFBX1puclNZTWhiSk5TMWhnUzhZSWZMclBGenFhT1JGNVBaVFY2cklRTGROZDlSTFk?oc=5
+- **2026-06-25** · [Lex] German group Merck to buy Bio-Techne in $11.3bn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnFpb0RzRjhQZXVRZGZTNmo2Tlpua19JWnRoU1ZDeWoxSWdPSWhlWDdocVlNZ1dud280dVJEbUlMclFGcUJHSmxJMlE1ZkNsOFkxQmlVbi1WTTZab3U0LTcxYzlXVUg2WmwzVUdhU01lWU95eXJxdmRscU9BSndtbHRNOGY?oc=5
+- **2026-06-25** · [Markets analysis] FirstFT: Oil price returns to prewar level
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWhKQXVHbGtvTHBNYXF2Z1IxMGZQZkVhcXZwcUV0RFBlc1o0RnY2UF80OVJTTnZQZlluMkp0NWZGbHpTb0pleVhxb3BsM2hKRll0X0JVdkJGYjVXTnhidXJ3QlA5NmlJTEJpZzVxTkxrUU83OEdlb1ZrSDY0eXA1d2NtM2I?oc=5
+- **2026-06-25** · [Lex] Cheat sheet for an EU financial geopolitics plan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmtUdklxQ2VhdFdwanQxb0hyT29oNVZpRzFjSzZSNzlyQzVoNjlWSUJlYWdmeDFFMjNFRTUyYlVrOG54T0I0Mkxzc01oa242OWxYMS1hX0dsdXpLaTl1UXFwNnd4S011b1dDVnFrNGR4Qk9QaUN6QmxmTjVHTTZPTUpHcmQ?oc=5
+- **2026-06-25** · [Lex] EasyJet in talks with Castlelake after rejecting £4.9bn takeover offer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnlSYXdLOXhXdkN6NmRtSlg3N3RzS2VGclREeS1fVmk2aXUtRmtuNFdGT2Q3VWJ6aGFvdzAzWjVObTZJYmZQRWg2Z0w0TjB2YTNwTi1GU3h4V25RYmRGdTUwVnhrMDJtVmY2WkVvZjJsM2RwajlqVGNHMG9NNlF4OEZGMjk?oc=5
+- **2026-06-25** · [Unhedged] Micron shares jump as blockbuster results spark Wall Street tech shake-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGMta0puaThLX25YZzE5d056RmdCTEt2UWd5c2dNelJRV1MxeUliaVQweDFlVUFsR1c3TE5jX0FmZE1PWl9ROTJxODdrUVZod3VLUnhXNGgyRXd1YmVncFlPM0gwSENtV1JkR3V3WmtrbkZkUW5aYUl1amJQQlFjdkVZaXo?oc=5
+- **2026-06-25** · [Markets analysis] Lessons from Brexit for the world economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGhLcFhQdXVINDAyNG9faHBmVVpNN2lNdk9fbUtoengtS293OUdPd0NLb3ZEVjVNNEFGWTFNWVlJcS1nTlNCTzloY0dXazNmb2pxb1BtdHlmeTJSZE9aMkQ4clBEa3FuVUhvRFpwa1cxS2dZblZZZ3hnV29aSVVSMEVZdlE?oc=5
+- **2026-06-25** · [The Long View] Donald Trump says UK’s Andy Burnham ‘extremely liberal’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0lpZ2ZrN3FCUm5GdEduYW90SlVudnl4aTFIWnFuSGFUdXJQN1hrbVRCVzZxeGt6cHdjTUNMT0pNSGNIR09sbVpjNTFvQk9Uby1iZGo1SWxtWVF4RHdXLU5URHRacG9xcWE3M0c5dHFoYXhWZXM0RDMzZ29iY0JCcDJRYUw?oc=5
+- **2026-06-25** · [Unhedged] They think it’s oil over
+  - Plus gilts on the comeback trail
+  - https://www.ft.com/content/410bb8e5-dc93-459d-af41-bef7eeafdfc8
+- **2026-06-25** · [Lex] Brussels picks up pace on Draghi economic reform agenda
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEI4QkNZVEU2ZktCbFIzNkR1Z3dyd1dOaGlaOFRhX3JZdDRYVlFDN21jWjNPeHRCME95WEViZHpGQzZxUGtTSVlmdFJWUDMxS0lOd2hSS0FOVktFM2pnaDJTZndZbEkwbUk0VkNxM0FSOUlhZjJzT1pyc2Yzc1c1MVlURGw?oc=5
+- **2026-06-25** · [Markets analysis] Twin ‘super-puff’ planets offer clues to cosmic evolution
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYS1rREFKcUNuanRjR2hLeXd2Ql9mNnhGczU2SnRvc2pfeFZXWDNPaTlGdkkzLTBabGlDa0hCbC1wcTBvSzFXdW5oNzZCT3dwODFEelM1SFRwc0NvZVlaUlZhaTJMdkNtaU1wdGtDaXNzalA5Y2xWcWJyRlNuYW9qTVVZRGQ?oc=5
+- **2026-06-25** · [Lex] Boaz Weinstein is half right on Workspace’s valuation rut
+  - London’s commercial property market is lumpy and slowing
+  - https://www.ft.com/content/5ac0f4fe-5289-4871-8e36-86ba32470600
+- **2026-06-25** · [Lex] Shareholders push Ocado board to oust chief Tim Steiner
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE1wWG5tYzJTUjhFZFRhQW1hcHhPWEZ3dENwTWdNM25Ta2UxRDBnZ200TzVGQ2JlWlg1U1h1M3RxWm1JbGpQa3JfUVM3aEVhZjh1NVIzM19UdFAxRGhXWjZJd1FieEJPeFN6OFRGUV9OVmVuVVluV1QtSnREQ1cwLUJqWjQ?oc=5
+- **2026-06-25** · [Lex] Patent cliffs aren’t the only driver of biotech M&A boom
+  - Many deals this year have been for early-stage assets
+  - https://www.ft.com/content/9e79e41b-707b-47ed-9c75-1779a7978f68
+- **2026-06-25** · [Markets analysis] NHS England admits key data does not prove Palantir’s effectiveness
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSzdyb3ZBR1Ffem9naFRpcm1xaGdMYjJiZV9jTURxbVNzMmh4Q2N3ZmN1Wm5VNmxsdWQzb3NFb213NzBFME91dkdrZU4yTVNCNXgtMExld1Z5X0g3NFFkMnd5TkgyX2k2RTNEcGFEMGpQMmJFTUF1cGVtTHMtZldhWGt0c3A?oc=5
+- **2026-06-25** · [Unhedged, The Long View, Markets analysis] The profits boom is a mixed blessing
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9oX3FRVERsbmdSUzlHVFF6UFV5aFprOXI4MTNIUlU1c3AxVXhiSXliYW1NLVZYVnYxSlFPUkVvODBNOHlSNy05QzB1RDBfcnhXdXNzZk9xWkVMVV9DcWlaRHdEaGk0MjV0OU8yX1N4eXU?oc=5
+- **2026-06-24** · [Unhedged] Anthropic accuses Alibaba of obtaining illicit access to Claude
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmtZVGxybWM5Y0p4YjJwZ1BsUWM5dlU2dDQtdjdFc2NuSkQ0eHVHLXpza0ZVNGN6ZU8tdXJoZjctNjg5eVRkQlVDX0pRM3VkSFR3SVpjdmhONGp5QVVBbWdzRXkzZVJLUzdPZ1JmM0wzSjU1Unk0eUxPTHNfckJlQlZGdlQ?oc=5
+- **2026-06-24** · [Lex] Bain Capital to buy majority stake in VW’s marine engine unit in €7.4bn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG1TVGQ3ekhWMDhxWUdvRWZoWk1wVThrcC1HdWVuaUNDc194S1owZFNtQ21NczdXanZIeWlTR2xwNlFNck1YcnNoN0xSRWdwTWJ2TXZRVWJEeFNYeXFwUkFQTnlCbEU4czZBQ2c1TnJhTkxoQjdaT2Z0V2ROM2xWNFBOeU8?oc=5
+- **2026-06-24** · [Unhedged] Bitcoin hits 20-month low as market sentiment sours
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGVlQXFBa18zRUoxNDBXYllIN2FCV2hNSWZJWXkyYVc1UnJSdVJteWtIdmhZcmVaOXlzWlp6cnFpZlBKUF8wVWxJTUdNelFkNUVwNkRnMXg1M01GWWZ1QVlCMnY0R3phSXVzN05MdlNjM21XUHN5Szg1aXROZXo0V240bTM?oc=5
+- **2026-06-24** · [Lex] Disney draws viewer support in deepening fight against Trump administration
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk5RZXdEcFFWazhRS1g2LUIyYldxSjJ6LXZ2MEJacklpRVB2czg2WDQ5VFF5alRyb196azgyUjRod1lCaC11UWlIWGhBOFhXRXVnbTdHNFl0SVhOeXBuZnIwdDJHQTFjeTMxSWdNanNKYklNRVBMTWROZ19Lcm54OGs3VjI?oc=5
+- **2026-06-24** · [Section feed] UK takeover targets are right to set the bar high
+  - Rejecting bids is not a riskless strategy. But this time boards may have a point
+  - https://www.ft.com/content/53a64d7e-bb3b-4ec3-bce4-3cd4d61ac9fc
+- **2026-06-24** · [Markets analysis] Why is getting to a World Cup game so hard?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkVzM2libUxxNGpxX09tcHU2cHF5SjhCbFVpdXVtUGJqWm10RnZUT3ZMVEdQUlhGNE9jXzgwSkZ3aFdRYllnLXhNT3VjckZJcklKTzZJOWRjOE9mRTVWMzFrSG9hUXZnNThWS1M0NXBfa0pxUG5TMU91WXl3bUVaQUEySVU?oc=5
+- **2026-06-24** · [Markets analysis] BorgWarner Awarded on TIME's List of the World's Most Sustainable Companies 2026
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUx2YWdGMDZ2WGQyVmc2Z3huZDRGNHM4bUM5V2ZLWUJfaWxhSGtVb3FRQlcyVmRVZDM0dVZCTGRaTzdmUjhsUk1fM1ZVSFpMQ0JHT0NRb1BNMW5wcThHT3c1cGh1bHFKd3YyMC1vaWNmSC1oX1kzVGFMci1PSnFHT19EZ3gteERpOTR6Y2s4ZXk3TUhfVlZsUA?oc=5
+- **2026-06-24** · [The Long View] Andy Burnham looks to move part of Number 10 operations to Manchester
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2FFYnhGdlNBMzdhYjNlWHRvOFR0QmxGdE93OGZyaEtwR3hvVzBXTDZvSGsxelJSYmFHTFpnek1KNEZYY3I4QTgxNGdUcVdSeUc1TG9jLUVyUUZldkJwdjNFLVFscnUxZ2R5WkRqLTFYOHE4QlZLeWRqM20wMEVYZ3hiLWc?oc=5
+- **2026-06-24** · [Markets analysis] How to power data centres
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9KV2pIeGd6QVN2cng3cGpXYll4cjBPdWJ2WWR5WS0xcUNIdHpZaUpQUmc5M2J1bHVLcEJCNFBOZFlDR1hfU1JkT0tRb2xrT3lmY0JDT2ttVGExbGxoR0tyLVZFYmZuZnlIY3dMV0lGSFg?oc=5
+- **2026-06-24** · [Markets analysis] How AI is transforming natural disaster prediction
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUIyQTFmWWFJM3dPTHBGc19LRzVldGhFc0lVNGNHNWdISmpxTWdaTW5Nc3RuY3pQNzIzRW9Kc0FYU1BrT2t6dmFqakxkNnZULTctMUtPOXQ4dldyUTdYY3pCUzVZdWNRZVByRG5LbzQ1OTRUSU9vRTB5cURSMldmYVVIZjA?oc=5
+- **2026-06-24** · [Markets analysis] What happened to Keir Starmer’s ‘clean energy superpower’ plan?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXplQ3dQT3hiVW1lbzllTEdjRHNaRG5OYXZsenBLWGdOWWJBYUEyMURSZnpxM2FRem1nYUl1Vlh2RXZuV1RjVkR2aWpuU1J2OUpXMFFTM3MxdjBLRU05WGNTQkVPOS1KV3o3TVVqSlduamhRVTVraXpteS10a29FX29KYWE?oc=5
+- **2026-06-24** · [Markets analysis] Livestock Feeds PLC, LIVESTOCK:LAG summary
+  - https://news.google.com/rss/articles/CBMidEFVX3lxTFBtWlQzb2JNU0txcXZjbzhKQjFlTHBfdm1sV2FxYlBFdjk3MVprNENTc2R2RUVES0FiV1Ixemo3VDZ2S1hrT2xUWjkxS0VsM3hZeVV0M0lTUVFnSzhWZ3NiNlF5SV9GajBjWi1aWXd0QlppZ3Zu?oc=5
+- **2026-06-24** · [Markets analysis] FirstFT: Venezuela to initiate world’s largest sovereign restructuring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVQ4OTBvYWtIU1J6ejRmekdxWklXeklCcU9ZNEJVaXZRNkw2UFVNU0diWDJJbV9Nb1RBckx2d2ZpSGdQVFVXcHdqanNjNDFzYk9YSGduRGdSa0g0MXFmMmVQZ0U5cUQ5emhqdjlaRVRZRnZSWTZBdkMya1BXLTFYaDBnQkk?oc=5
+- **2026-06-24** · [Markets analysis] The Indian entrepreneur who will lead WhatsApp
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0lldjlQbWQ4eFY2OTJJcTdOWk8tbmVTTTd5MG1OMDN0alVQT3M2cHBlTmdwUGxVWVVSSXUxS3NhWmdQenhacGx5elhDb2hXckdEZWc3Tm9QYS1hZW5Cbnp1UE42Vzg1T21fdmxrcjBTYnFtTWVYaE1rbEYtdzRvSHYxRUE?oc=5
+- **2026-06-24** · [Unhedged, The Long View, Markets analysis] SpaceX stumbles
+  - https://www.ft.com/content/37bf4703-f441-4adf-bd68-9131299c4171
+- **2026-06-24** · [Markets analysis] Private equity’s move into youth sports brings some truths home
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSTB5MkZqVTR3dmQtMFQ1OUpBVUgwaXhvN1ZmcUlCOEltVVRtRnRCb3FpRmk0YXlHdUk3YlRlMHVsRDJERDRreXB4cmxYTFAtNUJfQTJ1M2xhNk1CYUxucUVFQ2J1Mmo5ckpCcWVTWlBReVJURVBfRFUyX2pXeTZUOU5hMlQ?oc=5
+- **2026-06-24** · [Markets analysis] How Gen Z is rewriting London’s literary scene
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9CaS1NOG9rSGdQaGRXWXNFRjZXY2V4QmdsYkd2aEx2TUtNTHpHVHhqaHE1Q1VIV3NRY0JIMWYwdzdleVdCYmZKTUN4aFBCWVNXQjIySnpqZXdDUE92TVFqSkxoclFJaVhvaExXaEhqYWI?oc=5
+- **2026-06-24** · [Unhedged] The scoop on the largest restructuring in history
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmVPSW93VnJLTkdTY2JyWFlIbVFyRzVxZzFDOVRadEEtdlgzMFdMMEVka0JyNlNQdmZzVlhKdEdCN2RkZDRYdUkxdkRjX1lpTGFuYjFHbE9DOGpxdWdNU2dPakQtM0l4OHBLNkJuX2VkVW9YMndRUVh5RXJ3YUt5YUQ0T0M?oc=5
+- **2026-06-24** · [Lex, Markets analysis] Struggling European carmakers have options, none of them good
+  - Forging alliances with China would help the struggling sector offload some of its bloated costs. It may be the pick of a bad bunch
+  - https://www.ft.com/content/d6af558d-c6ff-4f1e-a92d-91b46084f405
+- **2026-06-24** · [Markets analysis] Venezuela to reveal $240bn debt pile in world’s largest restructuring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcTFmNEtidnNCNHkwWjVWRk42LUdMdU1PaFNWRktxM2ZCT0k1dE5PdHlkMTN2eXVYbmhDZWVMblFFVEtvLURIMmdyRVdzcmItYm1HSy04RGJENmRpZmItTWE2RmpJRzI0ZHJGRFFmVWR6N21UaHNPWF9KeDlKN0sxaUxiMWM?oc=5
+- **2026-06-24** · [Unhedged] Nvidia’s banned AI chips double in price on China’s black market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXpqZ3Z1Mjl2QmVnQmFLT3NWYXMtWHR6MDRoei15NWhqVWFrOHhfaFE2dnB3enQ3NEFUWk1mbWQ4VWhfbVVhdjNRc2JOYVFpNkZlcnlXMEUwMG52SEZtUjJnMFFGYjI4b1AzRGxwT2t0aUVqMHB6b2ZjS1ctR04xQ3EzQ0E?oc=5
+- **2026-06-23** · [Markets analysis] British households not electrifying fast enough, says government climate adviser
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPME9FVHdkRGtNOEZnTVczUF9vS0VidGJQX1ZJVWluR2hiYXZ2SjA1YlNoQ0ctZldtWXJJV0VFUFlXQWZCWHd1UU5IWDROLXhWZUVldTh1dXZRd0F3dWNwTDNMOVJsSDh2YXJ4eUlQQmstT1RWYkdWeEpUa0pxOENxTnpBYm4?oc=5
+- **2026-06-23** · [Unhedged] News Feed
+  - https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSEN2UmRrOGdZaFYzS1N2WVNla1I5bXlLV3dnSlVJeURsZTlCMEY2UlB1S2o5dThWZGxYcWtWQkI3N0M4dVk4UUZLQ3BEdHF3VV9zS0k5VTFGQlpzUkY5NkhTemVnME5GWVhqWmdmZlBsSGpwUURERFE5c2tGbDA1X0txM2RUX3g3VTJNNlI0MHRjM3pRZi0xeGQ0WURfeGxkMjczQVNmSnhsVjhMdkQ5R3BkdWcwalVjNmppQnFXamRfcVhUSGF1QXR5TmkyYWNJSnJyT3c5ZlpoTDg?oc=5
+- **2026-06-23** · [Unhedged, Markets analysis] Transcript: How to surf turbulent markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHdWckkxeElVVkJ2enN5UlRDR294S1E3R3dhdEhFd2toeGlOWmNTS1k3eWxScnEwMXNPNVNLVWlmbW1Zbk1PUUFTaER3aDFOOWhhR1FNVVNnVXFSS0s1VjdKVWtXTGlDeDcwUDlZalp6QzA4MjI4XzJNV05wbkN5YkhDZ1I?oc=5
+- **2026-06-23** · [Unhedged] How to surf turbulent markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbktsakVBendYZFRUQ2tvOE9FX3ZoYUJJV255YU9EbUNEWm1yeXdFVUl3bjZKcjNMbG9JdG5mMVYwMWhZVVdvR2hQTTFrd1hFQUVMZTF6aU9VeUdMd3JYcWFTWVNsMFY4dGV3TVc5UHdtVFRrbVo5bDJtYVFlTjF2LS1PQlQ?oc=5
+- **2026-06-23** · [Unhedged] SpaceX pitches investors juicy yields in $25bn bond deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW4yeUxlXzBlTVRCVkZ3TnRKS0F3UzBYZjVJR3dLUGlES0xLUDRzXzNFOUlkWXJJR3IwTDJCeGlVR0xjZWptVUVjbjUyVEtBdk1GUHEwcm5CV2pwOWg2ck9JOXU0VHR0TWZYWGJieXg4WmhwaGpPeE4xNXN4b3hTb0RydU8?oc=5
+- **2026-06-23** · [Unhedged] SpaceX tests its reality-warping powers on bond market
+  - For some buyers, a solid rating can act as permission to buy; the lack of one can put a security off limits
+  - https://www.ft.com/content/9669a946-be26-4790-b52a-3ca7df055cd4
+- **2026-06-23** · [Markets analysis] ‘Successful foundation’ set for new US-Iran deal, JD Vance says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGstRkVGTnNBdkpIZkducGtrZmg0bHZZbGhvTDVwVU5ncXh2UlV5NWtXOUZuelVMaFFrakRrVmVlM3F4OTRTU1hPVldmdXRYYm1uS0JPaHBkX21HTUNoZnhMLWJ1NkdpdlZMazQ4Mm5JMUlCTzNUYnhwck01Q01sN3dhT1c?oc=5
+- **2026-06-23** · [Lex] Things look bad for IT consultants — but not that bad
+  - Current selldown underestimates the ability of companies such as Accenture and Capgemini to fight back
+  - https://www.ft.com/content/619e3bb0-759d-46b6-99cd-389aa13c5480
+- **2026-06-23** · [Unhedged] The Three AImigos versus The Magnificent Seven
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE10ZTVoTFBiakZlQWRYN21DcVdMMW1kTENTZGl4MWhtM0Vxb3B0eUdZblczYWtyUnRDTTh3ei00MTBZZHYyMk1pVFlIeTR3b09uUWxLZnlDZ1l5TExhclhtNndyemYyRzJ3ZDZ0c3dUZXE?oc=5
+- **2026-06-23** · [Unhedged, Markets analysis] Ten tensions in the Kevin Warsh Fed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdUYWRmR3pMSTZmcWNrOU52YTc1ZENSeFlCbzA5Y1d4dGplRzdRVGRYYnF1UlpnM2NRdl92N1d0UEpUclAxOXNDVjNRNUg5aUNPVTN3VVE3d09Qc0QtWHV1T0Q2dHI0SkZNNjZZLUdkYUVHYm53QzBreHc3NVdkLWNPSFQ?oc=5
+- **2026-06-23** · [Markets analysis] FirstFT: Global markets slump as tech sell-off deepens
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmhjcWc0U0VrWFF3eThnWlZjaGJlRE91MFBSMmVhWEpxMks0aTFNNDVweVQxeS1HTzhjOEVadlp2dW9WRC10MzVzZ2VKMW84bjZKcF9tRU5xdXNoUVlMME1OY3pOcE5pWEVxMW1YOFpmdTBXRGFSQUY5WGN1QnF3UkFWNl8?oc=5
+- **2026-06-23** · [The Long View] Labour’s Burnham sceptics don’t have the numbers to stop him
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhucF8zZ3JEWTlrUnByZUxlazhjQ1VPeHU5Y3lBYk0zLWFWYmlJYng3dmNDVlV2MkZYcXpwSHAyS0Y2YWk5bmpGYklsV1Y5VndFZkxtQTl4aFVWeWx4Wks4RUpsTTBFT1VwR3hxV2ZBR0s3RVgtVDJQT0hOcnhMYlJENUU?oc=5
+- **2026-06-23** · [Unhedged] US chipmakers lead Wall Street slide on interest rate rise worries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPekt4U2xCdjFCNlVtZW1ZWWVBSXAtWGdrZ3AzT3RObG44VjZNZWNJZTU5Yll6MWNITWdWcDkzRUZqUmFhMGxvdGp2cEt4Um1WN3B4aDgyamZJM1hnbnJiMDcyYTlSYW9PVF9paHRqOGJvaXdWN0ZSa2lIa3RKT1FzVnFVM1g?oc=5
+- **2026-06-23** · [Unhedged] Kevin Warsh is throwing the reaction-function baby out with the dot-plot bathwater
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9xUU9GSnZveVBnenU2M3BFWVFpanRpZlBRMlhib3gtU3VERC1kUUo5S21kZEg0WnlFX1N0MXBITUZ6dXRISDQwMUhfSXRpaW5aRWNad3oydjEyRF9QcFhuRERIcG9MaVQzZXlRX1FGUWc?oc=5
+- **2026-06-23** · [Unhedged] An AI venture soared as it touted links to Donald Trump. Now it’s fighting for survival
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVFBaEdVejI5RkpOUkF6b19HVGNHY1ZidzV5bkc5dnpKVUFWVXJHX09uNDBuMnkyTEZRVWZYTExpMU1WWk9jd192TzZsdWdodUtUZDJzbU9zWjR1N3UxMDFOM2dySnkyYld3akNxUTBWNE1zSHIyV3ppUGFHQjBTN0FyTl8?oc=5
+- **2026-06-23** · [Unhedged] Private equity’s new vibe check
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0dlRXBBdllXRkMtMV9tWEJrMGU1OXM2VmZVcF85cHVpSy0zczRrdmRuaXRLdFVLU3gxUV9jcUR2Rlh0QWlFVGk2Ykt6ZHBLWG1CcjRINmk3cm1KSHZSc2xzTjBRa2RCMHR2dWdWS2l6dDRwVFNHYWVFY3ZsTFlfWGVfck0?oc=5
+- **2026-06-23** · [Section feed] Getty Images shows the inimitable value of an OpenAI photobomb
+  - Having fought vigorously to defend its copyright, the picture agency is trying a new approach
+  - https://www.ft.com/content/8bf60277-d0c0-4ed8-b9b0-5fd3ec640f6b
+- **2026-06-22** · [Unhedged, Markets analysis] SpaceX sheds $400bn in market value as debut rally hits reverse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1JCWXU5UnlESnV4Yld3STNMdktCQ2pyNWNUQ3lBcXRxOEl1OVlKUDhLa3JXRks1emNhekxjeWVDdzBZbmJXajdhcnZhWGlVYnZnUmgtUURjeUlxTWJ4OXJOUWFXZS1uNGRYWGd4NlBNLU9uWkZFSGdPcnNOajlPWVNaWlc?oc=5
+- **2026-06-22** · [Section feed] CRH digs deep for a bigger share of the US construction boom
+  - Irish building materials group’s deal for Arcosa is worth doing
+  - https://www.ft.com/content/49fbcd77-28ff-4089-85b5-04f57555dae9
+- **2026-06-22** · [Section feed] EasyJet should hold out for a tad more from Castlelake
+  - UK budget airline has minimal debt and is expected to grow operating profit sevenfold from this year’s depressed level
+  - https://www.ft.com/content/b7dd6eaf-02b6-496c-863a-cb8e8fba6936
+- **2026-06-22** · [Unhedged] AI-powered threats may succeed ‘within months’, Five Eyes warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXVGWU5WZzQydUQyWmY0UzZmdU01OE9yUnl6X3RzMks2Qzg3c1pXV0pQY09jUWxFWDBRMVRLNGJ6V3JybG1fdl9xT2hHRXZaNDFpeHJ6ODlaUGR1cDUzYlYtb3NVdkFKa091dnRETl9kVU1lSklyV0pTdGNLUTNXbHpZQmE?oc=5
+- **2026-06-22** · [Markets analysis] Alan Greenspan dies aged 100
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2hONVU4QVJIYldXZi1YWVdYclM5SWsyLUNFUmpRdkVCNjlPUVNFNTJXTEpseU5reDRvMURmLTNzc0dOQXdiSkczZTZSUlp6SE4zMlRZQTF5dFBZampzNFZmbi1qTi1zclg3ZXhUUEtLcnVsaDNka3JlX002eEdlRTBoTlY?oc=5
+- **2026-06-22** · [Unhedged] Higher rates and US stocks
+  - Plus, real-time data and the Fed
+  - https://www.ft.com/content/7076c493-7cc7-48df-b5ca-fadd3dd90b6d
+- **2026-06-22** · [Unhedged, Markets analysis] Warsh has a chance to enact lasting reform at the Fed
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAtWHVUMVotX1RjTm5pZTJoc1JuWGxtbC1WY0tlNVp6OThJNDAwc0RYY0ZRcjVDeEtsS3ExVWdvT3ktS0ZFUzc2UXVpSUNIWDFXNG1rdVhicE5yd1ZsN3VRVkJ6cTdzeldGY1pSaGlhWG0?oc=5
+- **2026-06-22** · [Lex, Markets analysis] Eli Lilly deploys weight-loss cash on ‘App Store’ for scientists
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVducXVTVGRSMklmaDkxMVVkaHpMV1VLTGI1bWcyb1g2SW9KRUJyRG42ZkFycF9QZDcwU2tiVW9FOFpqZVN6REx0UC0wc0NWZ2JNX2tJR3plbHk3Q29OMmJWTVpleEFNV1ZPbDVhZkRDaE9jay1TendQMnRqRV9LT1JNMlk?oc=5
+- **2026-06-22** · [The Long View] The revolving door of Downing Street
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2V4NXZvTm9KbXFRM2VEcU04QWNUX3BvWjFzOXN3YmdmRVNWOTl5RGo0LVBsLXNhOVlzTWZiV0xrdlg1UHlDRm1tWWxCa1FtRVlPLVNVU0Zpdi1YX096SnFfMVd1SUdTVGlIZUJtcGFaeWZmMzFHWkFocHoxSFVWd3ZYWUk?oc=5
+- **2026-06-22** · [Markets analysis] Slavenka Drakulić, Croatian writer, dies aged 76
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWFxY2tVREMtYWU4R0syYmJ4LTkxeHpoWUU1NnBUSGxCTmpXM3c2YVh2emJ4T0dfZ1B1ekNYQW1iWm1kNnZKM3N3aHQ5TFBkVGdXMUFSWkNnMVNkY2k5Sk5rVDhVREphbFRHbkNjejJnVXcxbW55WUlZMHE2NDRCVGRGS0w?oc=5
+- **2026-06-22** · [Markets analysis] Germany’s spy agency comes in from the cold
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUC1hSE82ZlJxMG4wekU4R1g3SHVmM0JmcXl6Rm1pdFhyZTNDLUdoLV9xZ21HaDMxT2NhQXJ5V2lXYU5Ya3p4Y3NqY0xyWmJ3VDM2MkJXSzBfd0tRTzlUdl9ocEdTQmNaX0piZ2ZUcDVQY2piQkZLVzh5ZUdqSTlXNWQ0Wjk?oc=5
+- **2026-06-21** · [Markets analysis] Reassessing emerging market equity allocations
+  - https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUpCOFN3M0NQOVg3V2ZHOWszVUhMWmRud1hEMnhkbV9vSjlQeWJxSFI3dHhwemdSTC1IMGlLb2pveF92Y0ZIajFDamNOdEMxVGhnZzROYlFLdzlEaVJVMzM1UkRmNmhWMlR4cmdqbDVjY3B1a0hvZmhUdEdrTC04OURBQWQ3aHppOEtib2dHQnVQU2FUNThaS0pta3M?oc=5
+- **2026-06-21** · [Unhedged] Leverage in the financial system, revisited
+  - Plus, the dollar comeback
+  - https://www.ft.com/content/8c8c090b-4a91-4de6-8d27-80c3372a59e2
+- **2026-06-21** · [Unhedged] Kevin Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN19hVE9BNzI1eVc5anJnbnFoRnBwNnRYTlpURk13LVU1RUVqcmNpRmNmZS1Oek9mQ0x3SDUzODRqc21idmJhbXU0OGFrb2w1VGZxZkZLNXVCdUdqem15ZDFzZGpOd1gyVW1hak9weHBoWXNid2NaUHVjcGVuNllsMlpMUVU?oc=5
+- **2026-06-21** · [Lex] Nike CEO on the race to revive the biggest brand in sport: ‘We’re here to win’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNd29oWmd1OGQteGRaX1ItMDJjQkE3YTFtT05PTl9SVXhTN04wRklnd19sc0NMTlVFQXlJS0UycElTNk5SVFVyaTgwSC1oLWNNdEF3dElSMHBSNTJfVU5yLW5vakRoQUpXUThWdklFbWltcXhTWHFncnV2cXNScWNTbVh0aTk?oc=5
+- **2026-06-21** · [Markets analysis] Michael Bloomberg arms green lobby for fight against oil interests
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORks2TTEyN09YZ3FGZzhaenk5U0dHVEVfbEI5VDV2VVViaGVhOC1ucm9GV3RaU3BaSEJkZU9sWjlIempVcnA4dmFqWUFPUzAxTTk3OURKUGtqMUh2ajlkY05HRXdJUWVQZjR6WFBpX01IZzBOemlXcm56N2FqTnlTODBGbzc?oc=5
+- **2026-06-20** · [Section feed] The new chair effect
+  - First impressions, priced in
+  - https://www.ft.com/content/fdc6c97e-c1a2-4c28-8147-a58ec6231082
+- **2026-06-20** · [Unhedged] Chart of the Week: The new Fed chair effect
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONW52T1k0bjZ2cm1OcjJaVEZRa2NXYTh2YjREQXBGUXF2Z1lSZ1RWbkJTUmFCSGVJZGZwUExMUU9aWUc5cmdKQXpTODRNY25fOEZSWlg4dHRsMEpvLWJELUR3eVRiOXUtTndMSFN3dE1kSEdRelVKejZyNUxPT1UzeVl3alg?oc=5
+- **2026-06-20** · [Unhedged] Workers are emerging as the next big AI logjam
+  - Big Tech wakes up to need for brawn and crafts skills to build and maintain data centres
+  - https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c
+- **2026-06-20** · [Section feed] Europe’s stocks offer a peace dividend their US peers can’t match
+  - European companies have more to gain by way of recovery if energy shortages caused by the Iran conflict ease
+  - https://www.ft.com/content/13deea29-7603-4c6a-bbf1-1beb57f1d149
+- **2026-06-20** · [Section feed] Rathbones’ blunder boosts banks in the race for the UK’s rich
+  - An internal review that found regulatory compliance shortcomings sent the stock down 17%
+  - https://www.ft.com/content/38b74f7b-a075-4a5a-a8b6-647d20faa6d3
+- **2026-06-19** · [Section feed] Medallia’s collapse turns private credit into a private equity problem
+  - Private lenders that once fancied themselves as ‘coupon clippers’ had better be prepared to run companies as equity owners
+  - https://www.ft.com/content/f2add1ea-ed58-4925-8904-340ad1117043
+- **2026-06-19** · [Unhedged, Markets analysis] Where should I invest? You asked, Stuart Kirk answered
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEtkNlAyUXpkZzVHNFNLMm9USFB0aVZxX0Q3ejlpRzZvQ1R6aXNFaVRlZUUwTGZPXzdGQ0NTYUh3MjVya003bmZsYlVmeXZZYkRSWkVteVdXZzB3YzBNVkE3MUpQQXhHd0xIV2xUZXRIY3dJZVYwRVpXRTFNdVZRSk5PY2U?oc=5
+- **2026-06-19** · [The Long View] Letter: Artificial intelligence is giving diversification a bad name
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVFlqUDV5TkhFeGJiTzdEdk5vN2ctWUs2OXMtMkp5MTZjVXVWOHZUaWZyN3huYnlVLXJIbXVjVHJ6TFdxODVvdjFHTnRnZVBCaDRzRENjTVdzY1QxSjI1Wm4yY2NhY0UtVzAxaHF3Q0Y?oc=5
+- **2026-06-19** · [The Long View] Markets get the measure of Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUl0ZFluN3NpSFRKRnNlYjFiZ2NtTW80X09QWUs2cXJpZE53dlZJTFc2MThZd0ktcTlwWV95dnJNSFNLNFZXLWJTOEk0SXFoSUhYRlotRE9aN2hpU3EyNXdBRDVqOHJlakJYUzQzQ25wYWx3WUlDS1ZzVElYWE5hSGF3VTM?oc=5
+- **2026-06-18** · [Unhedged] Kevin Warsh’s first remarks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjJUSlFEVVpqSE1zbnl4QnNtVE9Nek40eHR0QzE5UElYTGZ1b09jMDJWWThfVXRkaThCYkZ1VGFhdkNUOXlvYnpPMnVtUkVZdHg1d24ycVpmQTRvRm1jaDdIVW9WS1NOaDlGb2JRM1l1M3J4am80YTY0ZnpBNzB6Vkxkams?oc=5
+- **2026-06-18** · [Unhedged] A reprieve for gilts
+  - https://www.ft.com/content/94bc7408-5be8-48a5-a0c0-b07712ce8694
+- **2026-06-18** · [Unhedged] Transcript: Kevin Warsh’s first remarks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0RQdzBCVV9xZFp4cWd4aHI5cGE3dHQxUlZES0ZSOS13UzgyOGV0Z3FSemlaR2xQNjk0aVA4VDBDa2NfQnZ6NF9mRk5qeWFGOERQWXVqMExRSy1IRzhoYmZXdkQ0RTFaX1ptM0Y2azdGa1JYYkVPLWRKWC1FTVE5dWJLSHY?oc=5
+- **2026-06-18** · [The Long View] The war is over; why aren’t bond yields lower?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1uOXhuOG1Xa2lyWkRsc00yMWRDUFdfRVpiVzJGdnhsZkNubDJqb2Y1MTlYT0trMzBsY0lvYUtKRlVHU0RLVVc2LWhDNGtVeU5VS3RnaVByRlZBU1FrY1BjVXhRY2FyZC1YVUpRX2F2LUc?oc=5
+- **2026-06-18** · [The Long View] BBC cuts will damage broadcaster’s crown jewels
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmdGRTc3WGktU0ljbkg3M1BpakNZRDZ6MGF3c28xMmVNbWd0MDZoeUpfQktFM2ltNXM3ek8zZFQ5Y1hNV2RMbDdDYkpYenh0QThOQW5oYWx6S1B0aXNUamZwR0lXWjMxcVFSVzdKNFdlWEozNUhHU1BtQkIzaGxjd0ZzNC0?oc=5
+- **2026-06-17** · [Markets analysis] Federated Hermes launches active ETF offering investors access to leading international companies
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxOTlpZRXR3aTNTNFFJSEk0ZHFxUWk0Mmt6aGJWNXhFdEFtT256TFg4cllIOF9EOGhRMmdmQnVja0hMZFYyNDA2OFVuZG4yZ3FGSlJVODR3N1NNeE4zc09zNi1Td1ZBNWVIUDNULUlYQjZsSGxYTk5CM2tCWmtWeldFenBFQUVwdE13RFVqdWdybHQ2QXJhZUZ4cw?oc=5
+- **2026-06-17** · [Unhedged] Kevin Warsh’s debut
+  - Hawkish overtones, dovish undertones
+  - https://www.ft.com/content/2fb2e603-0934-4f99-af71-1c1d06d5be1e
+- **2026-06-17** · [Markets analysis] The electric vehicle transition gets heavy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORlRFYmpQd1hRemNseXFJWVQ2em1VMUZSYzFuNHlsMC1xVVp4WWt4S01valNwaEV5aVFDZHJnY3BoaElNcGstc0pDU0MtWFJGRnNBbUQ5azh4MHQ2RlB6UldETmN2R1g2TUJsY2RnSzdYb2VSVkQ0TTd1ZG5ydklSQTJMZ3I?oc=5
+- **2026-06-16** · [Unhedged] Transcript: Notes from the FT Global Bond Summit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDRtZ2dKQ2FObFZSVVBVblZEWERlZWdQMF9JRTBqNUJCZ01kM0IzVDZZMTV1LU1KdlZ0YmdDNjM4aV9pUF9DaGhJU01nZHg4ZTdxcjJVYnk2QmRDRFhya01McFplVWRaQlJzeklzbHlSWmctRGJnR3dBUlJWUXk4TURFSGc?oc=5
+- **2026-06-16** · [Unhedged] Notes from the FT Global Bond Summit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmlCVFF0V2xhaHMtN3VQSnd1Rjg0Mk9RU0k0eFVKVlNoTVk1SmU3ZVphSy1Td0VOd21UUzRNMmNHd0Y1Y2hSbTBxeGVkTlJ2VlZ3X2M1cFY4a0hoSHFkcWlCNEM0TUxfczFYdTdzbkVmQmtmYzVGZTROLWdCVHVsNkp0MjE?oc=5
+- **2026-06-16** · [Unhedged] Three is the new two
+  - A dispatch from the FT Global Bond Summit
+  - https://www.ft.com/content/f17ea104-8386-446a-8169-2ad1250d4186
+- **2026-06-15** · [Markets analysis] Carmen Altenkirch - FT Global Bond Summit
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE15dmE3QmllNnJOaElYbFA4LWlIT3lpcWdINDBPSnQyaUtLZkx3aGtpYkpMeFJHQXdsWUNDWDdyZ2FhaU83bnc0STdWcDduYmVGZ2dVem5JQ1pwN2F2WFA3WWNEMGNwbEFpSEN6ZmVrOEc?oc=5
+- **2026-06-15** · [Unhedged] Treasuries shrug at the ceasefire
+  - Plus, tech sells bonds because they can
+  - https://www.ft.com/content/9a39912a-9c11-42fc-9595-0b6949afbc6b
+- **2026-06-15** · [The Long View] Hedge funds bet against European carmakers on Chinese competition fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPajBXOWFIUk5OeElMNHB5bGJxSlZ1TVFtVENWa2daSEJYVldnX3pmcGo3ZmQzWlh3ZE5QZGNUVVNIdFBSLXNCbFJHN3RBSU80VWtXdU54UGpRUW5QOW5fUldmbVpLRTR6bmtkM3lMdHpzbWxWSVphUWRnSVBUai1HTnhKTXM?oc=5
+- **2026-06-14** · [Unhedged] SpaceX: no crying at the casino
+  - https://www.ft.com/content/8e4af8b4-34df-427d-9ae5-0944c3bc2ad7
+- **2026-06-14** · [Unhedged] Kevin Warsh enters the arena
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHd5NnFwOFE4UDRWTzZrSnBVT1c1dHM3aEtnY2xCZllKVDlGZFRtbkJ0NnF6dVFVdi1sV2RkUWR5TjFVZjdQX2N5YmdzaFIxWURQWTE5Ui12eDk3Y0xHVHZYZWdraVRpMFpzMFQ1RklSWmZ4cmhwZTRuU0hHNm9wWThkbzE?oc=5
+- **2026-06-14** · [The Long View] The inescapable return of an old financial framework
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaGprLVNfbV9NbVVPWUZ2bnlvbmFodVk1SGk1cFRyWFdrdGdCcUk3SkJSSzZqTHFOZVVhZXlTUTctd1k3X1RUNUVNblducUxRanhfU0FOd1l5RHF2a0RoR3RIMnphRmV4dW9VVWR5YUxnckJ6M3A0bnE5Yy10ejFfSjlCc3c?oc=5
+- **2026-06-14** · [Markets analysis] The winners of Brexit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjV2bTBESTAxVHpaZGZaVmlPSnc2TG9WenpiVUZOZVhEa1l4WVBZSHFLYlVSSThlbktCQTRiRVJlTlJvM2ZHNHA0VWxXRzlFaFhNT3cyc0kxWlpqV0dIUWc3dEFqX2hqdEdRUUtxQnRDc0dPdlpRYllCZ0NyUmpqUC1yNkI?oc=5
+- **2026-06-13** · [Unhedged] Chart of the Week: US headline inflation matters to consumers
+  - The headline annual inflation rate hit 4.2%, the highest since April 2023
+  - https://www.ft.com/content/20509c5d-e995-4670-83f5-d3d705671ee1
+- **2026-06-12** · [Unhedged] The ECB tightens course
+  - Plus debt restructurings and de-dollarisation
+  - https://www.ft.com/content/f1abefcb-387d-4da0-9586-98eff2e0a0eb
+- **2026-06-12** · [Unhedged] How to tame the inflation python
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEpaUXNsQnEwOXlkUTZUeUhyQzZXbVhTSm1SbGxnVjhZZ1hXbkhVOU1OUjZSRW55NHladTBmdzAzd0hoNDhaR1ktVUpkN2lTT1pJaDctQ2tWWC1zdjl5QnY5dGdkd0NDN0tOVERPZmNPdFFGRUo3b29MTGdHWjQ5bmpNT2Q?oc=5
+- **2026-06-12** · [The Long View] AI is disrupting investment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3ZsOW11UU5yVFAwZ0dFSG9OYnZZclNnOFZ4LTd2VkJPT1owd05fYm5uZldVWG14T1Bzd0JIOUpmeWh6UkVCNEw4bUpMZ0FqT0plTDlaSVJSdWVKZU1qLUkzVkV6bTZzMDIwajZzcGdFVEVaWlE3S2Rpb3VOVHVWWW9KTFE?oc=5
+- **2026-06-12** · [The Long View] Oil touches three-month low after Donald Trump says US close to Iran deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX04xWDJfSGVsQUZHdXoyTktXbFlJalJRZ2FjdlpLQjhnZTZ3WXc2WWRIYkNIZm9ZanhsTGhnZ2hySmhOM2g5RjBQWk9xRHlmMmxlTXJ5VWRvbS1hc1NhZ2gtNEttN3A0enBDRzExQ3ZNcFl3SkhVNGxycjA2OHVDc255U1Y?oc=5
+- **2026-06-12** · [The Long View] Trump’s bill threatens the singleness of money
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE83MFlsNWRDSVZsbnpWUEdZck5lVmN3RHE5V1A2ZUZ6dS1sX25rSlpwaVhUSjdVeVRkNFhsYjJvYzFjM0hDUXhOdEpBV3E5YlZaSk1selJDZGk2ZFVnZEI5WjA1blBOTEU0NDBlc2l3Z1I?oc=5
+- **2026-06-11** · [Markets analysis] Moral Money
+  - https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnl2cEZ2THNPYzRrM1A0b2UwYUZhdDZEZDE0UGNKTk9fbkJOd0g3OVBoN0FaaVZIMUkyWldkV2lZaW5YSTdjdGtadlVlZlZVNDJCcXB4UjNBOHBhaDIyQzVvTjdpVmlsT1lZcHRsOUc3a3FMS2NQVzBFbFM4b0VCN2V0ZnhLUnhLOWpqbkV6TGZwd0twdUNzMEQtQVNRRmV3MVhOeWp3UndRVWEwTDhET1h1ZzVWWS1yeGVCSmRteGUyYVVXcWF4Vw?oc=5
+- **2026-06-11** · [Unhedged] Unhedged Reporter - Financial Times - ep.ft.com
+  - https://news.google.com/rss/articles/CBMi_wJBVV95cUxQOFJZZ25aZXNnQzFkLWNBNHhvWW9Oak9vUDQzQUNvMkdjdnF0ZUFfV3ZvUEJuN2pBRDB2N0RkdHJhcmZ3Zkt0MlBUcko3RlJ0RmRsank5eGRMaXhtNktsZGptZ29JX1hDUHlNRzA1WkZoMVNla1RVNG1ZOEl1M2JlTmdaWkE3Yk9VVFdSc2pCVEhwMFdDNkRMYUxEZXhTbklCQmtJX1I2S0dtbG41cmlBNXVLMm93ZWJMcU5kT2ZZLS1WczM2Wi1mQmdfa012LV8tTUVQU0MtZ1dkNWNyMHQ2U1B4ek1hQU85X0FLNWdjbXZzR1FvMHN0RGhCTWxYRDFNYXZLNnItU0ZOMWxsb0NiN0NkeHNlcVBnNjVtMHAwdUo1VDB2Um9pTVB3elpndjFpcjY3cklvZHJmYzF0eDYzelVmNkhYa18wVVlyLUFIMl9iX1J4TE5WZUU1UG9vQXF4Ui1NRFdHT2lPcEJZZG1XQTZpbENFZnR6OEQxTl92RQ?oc=5
+- **2026-06-11** · [Unhedged] Can Trump make a deal with Iran?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEJQRFB0Nzg0ak5UYTBlcDlFMHBoTU5wY1FKVERNSlZPc3dyZ0xuTU1CMlpjTVhsWF9SV190RFVqVkwzRDFsZnRWbEViT0JZS2pMazNHb2xSTlFPR0N5ZGE1WUlJS3RIQlhneUZtZVlkb1hNMElfenVRSmZnQ1JMS2V5YTY?oc=5
+- **2026-06-11** · [The Long View] How bond markets can learn to love public debt
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk5JYTFBaEdfbWZvRmJ5NTRfazdPZGRwZUZmQjJkWTJkOUhwWDJwWFZWQTJteVVKMF9jQmthb3liZ3I4QUd2VUFYRGN1NTE0Z2gwdG9CaU1MN1N0Um1Pbmd4U2NEQldaZk1talFpOFpsN1ladUhxNUFRRnZiZFFIMEVTbGI?oc=5
+- **2026-06-11** · [The Long View] Robert Jenrick aide met US businessman accused of illicit donation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlRlLV9Oa1JINWdSRHJlYV9CSHlJOThKdFktbk5MT2g5bm9SalZuOXVhQmFnOE9LX2FRSExLV3M2bE1kRV9zWm54T09rWTluanlRTUJFWUlGSjBfaEt2Q2pCS2NhZlZkdVdQQk9FTS03enNMZXlQb2RTTXc1S2J5XzlIWko?oc=5
+- **2026-06-10** · [Unhedged] State-owned AI
+  - https://www.ft.com/content/6212a1dc-5ebe-4037-b136-e1c29b061f8b
+- **2026-06-10** · [The Long View] US tech stocks sink as volatility flares up on Wall Street
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXlBbEYyZld5S2tNQnZBSkxxUjg0U3h0ZVRSbmJrd1BDTXVKcUEtWjlVcWRxbWo0NDFVWHpDbl9WazkyV0ZzdEw3T2tWZ283R1EyWEdTS0dvMF9ZSDJrQnQ4cHE1UEZDUDc5aGl6SURuVHhudUstWUxMWklHT0RXQVFSZ1U?oc=5
+- **2026-06-10** · [The Long View] Leftwing British MPs quit X — but rightwing rivals post more
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUMtN3ZKbXFYVUR3Y2FoZzNpREJFWEtWc1VxTjVHb0lTRzVyNG5tNlVROWRUM1JQT2Fqc0dVZkZzdXpHY1hWMzNORWpCSzJJampLdGwxLTNuVXdTb055M2FoSWdIbUZpcmdQbENYdTZVbXZIMXVQWk5ka1N2b2JzMXVfbDU?oc=5
+- **2026-06-09** · [Unhedged] Why are investors so jumpy?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGZteXNoa2luNDVuUXhyMU56cUpUUkJJTU4tMG9oOGFZbFpiMUU0NkVRWXJOTmdDZ2FDSUFJSE1YeTdHVi1zUXdXbnR1MlV5ZVRHTDZ0TG42c0p0UjlYX2xZdGVBZmh0Y1Jsa2FJbnkwb3VuWU45TWhOMm1wNkFXVGx1YmY?oc=5
+- **2026-06-09** · [Unhedged] Gold and bitcoin: the assets the rally forgot
+  - Gold and ‘digital gold’ both feel like yesterday’s Fomo trades
+  - https://www.ft.com/content/830cacfc-cda7-4da8-acde-49f6079bc524
+- **2026-06-09** · [Unhedged] Transcript: Why are investors so jumpy?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXV3RFlBVlBmZ3RTTjRIOEhUMG9CZ2c4eUEzc2pGRlZMd28wTzVwSmJ6RGU0clJpdkVZcWNvVnJyd3Y4VVhyby1Pb2RvRU14U0JHN3M3N2tod2FjRUhvRmRSZVc5OGRHc1Y3REt0VU8xR20wOVJDbXo5VnZaYzNWZEtDaHo?oc=5
+- **2026-06-09** · [Unhedged] Nasdaq slips in volatile trading as 2026 high-flyers pull back
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVJBS0ZvTW9NcW9Sek5mcFFpbV84dGg3VEE2OGlFS05UOWF4eUthZzlteEtEcERiaEVLRS1ITGc5WWp1amFfZUVLb1Rhdlp5aDk2ZVFqOHF1WW5yTVI5WGo5VXFhNFZkQUpJZ3Y3eTgwbkRITmc4UzcyblQ0Y3Y2WF9BbUU?oc=5
+- **2026-06-09** · [The Long View] The Fed might yet again take the punch bowl away
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVJKWFAzeUxmZ0hNWlNsYzRkRGlyZFV6RE5EVXRKVG5QMnZLWXI2T2hCa1RIVGNqYzRhZmlYYkFHQ3hnMkdFN0QzWjg3U2VYNl9DeVRIbWJtMXlwb19kMXZJNmZUbERiaFpwNVIyY3MtZFZ0NHhRU0tUd1ZtSlhzMmJlSTc?oc=5
+- **2026-06-09** · [Markets analysis] Oil market defies predictions of summer supply crunch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeU5TYmh3eWN0MmVMMUg1eVVVZjhCNEh0azRfOGROSnRfWm45V3ZTUGdiQnhjanVIVXF0SmNGemtsNjNoT2JmcVByOGoydkE4eWtrMWRUeDRnQV9JaUwzVWV3Yl85X2tVcGtmT0E3R1ZVVDV6OUtSSFB0ZFBWWGNoeXFzMEs?oc=5
+- **2026-06-09** · [Markets analysis] Letter: Fifa gets off lightly in your analysis of its finances
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbkNIQkNGdU1UOUxzZWVuSGZkZnNsYzcyY3dhQnAySlV5VnB6MEtrWWdsOXU2cXZEcEFlbVZlWXZPckVtQ3JzRkFVTEctTW1pTlJjQjZzdDY4UWd1MjBmM0pBVk9XN0ZwR09ldFpvbzg?oc=5
+- **2026-06-08** · [Unhedged] We’ve died and gone to volatility heaven
+  - Plus non-dollar stablecoins
+  - https://www.ft.com/content/8b339aea-3a57-48d0-96b5-9e7da87ca253
+- **2026-06-08** · [The Long View] FirstFT: AI sell-off spooks global markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVppd05SVDZBUWZxMVhmeEZkc2pTc0xhSF80bjZidmRKaGF2ZTVSLUl5WHB5SUR3anI0MmpUN2s4ejE2LTFWTHVhOTY3RnYwdm16X25nQWhKRmg1eEJneEVjZUdOTEs0NkNfMVN3NVlLQW9FbTZvSlVhWF9MUzI0U0h0Smo?oc=5
+- **2026-06-08** · [Markets analysis] Fifa faces empty seats as 180,000 World Cup tickets hit resale market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTBHVGZMZ1B5bzlfeldvT01SdjgyRlVpcEd6RFh4WVJfQnE5cHZ6ZkVFQXY2QjhZMUtHb25xcHlPd25kTkFuMzhINEtqYmFDOWt5WldUWDJPc0diNDRQanA1RUxaNmMtVEE3Vl9ZLUxQQVhTUjFZTC1pbGFvblRsTnJ0ei0?oc=5
+- **2026-06-07** · [Unhedged] Did jobs just kill the bull market?
+  - The AI trade meets higher rates
+  - https://www.ft.com/content/86503ff9-3535-48bf-bc2d-75d8dafb02f1
+- **2026-06-07** · [Unhedged] Donald Trump piles pressure on Kevin Warsh with call for rate cut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXAtNEd3WGFoaktfd1VsZExFMlJEREZLcmxQYmdrMHAtQzB3VzBwZXhrelFFbTA5RGpya1prWHBVZ1R0OHQyV2h3WkpyVWV0MktjYzdKU0U0OHYzN0pxZmJJOFpPWDFBc0U2ZElvdU9faFl4b3FsTWR5NEtrRVBLNXBUdS0?oc=5
+- **2026-06-07** · [The Long View] Britain’s questionable reliance on Palantir
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVIzaUJmam91Uk83OFdlNnpUaTFTLTQyWnVNR3cyVERsX3pZR1NIb1lNMjBfTVE0d0VKQl9Xc2dpT2FmOVIwRjF0aTlBdUg1MzZYYTVzNmlSTnZJTWs5MHdZVnMwSUpsMngyWGtmYUcxQktBekU1ZE5xNWZzZHM5V1RUdU0?oc=5
+- **2026-06-07** · [The Long View] Plan to tighten healthy food rules provokes backlash from UK industry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWl3cTg3eGt1c0VyWmZidXRWRTJxRUZpS0hXRzFhU0NqRE95VGFLUGhLZW81NWhMUS1vUUpiS2lNOUpNajN5VFdfdmQwT3lFaFZnbHltU0tteDVIUjhxNmlHTW5VRDk5R1F1eUhkY1JNOFpGei1fZXBjcWpmN2F4alcxUXM?oc=5
+- **2026-06-06** · [Section feed] Pricing the oil inventory drawdown
+  - Could Brent crude hit $140 per barrel?
+  - https://www.ft.com/content/c9b5b0d3-e9f8-489f-b85a-835ded2837a6
+- **2026-06-06** · [Unhedged, The Long View] Chart of the Week: Pricing the oil inventory drawdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmM1Qkx2bXljbU5IUEtCQ3JuVmo1aFRCOWpwR3E3QzQwX21qMktlWEhfTTV6a19aZWJLTi01N0V5SGZXT1ZSRlZVYkcyV2txWklZdENhUDcxNVFUbkVYYUpnczVoTk5MeTVDem5wb3NhdnpiYS1iNWl2UHBBV2lJVklpU1A?oc=5
+- **2026-06-05** · [The Long View] Are US Treasuries becoming a financial chokepoint?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTElnN25ydF9ISnh0aklrcWhuMUpjaFpsUUFZN1NsMDhvSVNrU2VBTktfSzVhZVZnTC1oeEdTdFJLRE9adkdKaTRVZWlCd3BWb2VMNkJQRFk3dVJSa0cwVzFSQjJidzg4bm9leDN1c2EyRnVDR1VrY1A1cTJJV0dGM0g3ZDU?oc=5
+- **2026-06-05** · [The Long View] The Tories, Restore Britain and their ‘shared enemy’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXhQVGwtYzBZbHYxMUdSQXgtMlhLbGxuRHJzQXRpR0FoeGk0d2JqWGFzcVNEbUl5amJMWXdPcUNyMkJxaGlaLVNsY3Vmel9DZk51UVF4SFBjNWlOZ0FWUVJrSWtVTzNfY1BOTHRDWDdLaWpCQ21CLVhXOUJfbGFnQzRvdEk?oc=5
+- **2026-06-04** · [Markets analysis] S&P Global Launches Agentic AI-Powered Credit Memo Builder™ to Streamline Credit Analysis
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWNIckRsR195SGNKdU1GUjA3YzZSVFpXaS0xNGI0Q3lSV1N2Y2loNW9NZmg3cERXZUZjeHQ5bGs2RThWRlc2SkMyOWt4NDQ3QnFpRnA1QnpOR295S0VCVkl6WlRLR1NRYW13Y2NOVDJ5Tks3UEFUTTgwZy15MkdacGFqa3VneXlzWTZkdVZtaFdWQm1SSDJ5Wg?oc=5
+- **2026-06-04** · [Unhedged, Markets analysis] How much value is AI really creating?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHhaTEVtc0tBVFpCWXY1NTFidUhkWUZJS0lCVHNxaGM3blRFaGRabVpaWndZVzNkWWF0eUVmeVFCTlhwaW5IMkxLSmZoRGs3YS1lYVVWQlVPTVlRa2V3Zlp6ZTZuU3lPTV9pbVhENlY1X1lYajNBN0tCal9kcmlmVlJGMnk?oc=5
+- **2026-06-04** · [Unhedged] Big energy getting bigger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWk5c1hvQUhHVXFIUjdPMHBpc3lNRFo2c0xqNmVMREJWZWl0dENtSkJOUlhXbnFEX1JPd2N5eTNQaUpMRWFpRWtqbFhhRC11ekhhQXE2M2thOEZxQXlVUUE3LVpDalpxckpTQW5TTy1fTWcybS1uc1ktM01ORXp4RHotcGg?oc=5
+- **2026-06-04** · [Unhedged, The Long View] The CPG blues
+  - Bad luck and bad decisions in consumer products
+  - https://www.ft.com/content/d7d701b9-ead3-4a45-b213-3cc183b9b1f7
+- **2026-06-04** · [Unhedged] Transcript: Big energy getting bigger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVU0xMTFWczFmRXJRbEZ1aXZkZjlRUlNvVFhOQ0U5MW9lVlhaVExrWk1GQ3drS1BpOG9HNmRfWEFCQlp2dWNVY2hkYVFRUWRoZXAzNGpvTXlwNUtPTlNYa2RRNGpiOEtpZHBaYjNjRlFxdnYyVEhGeWxwaWpQMTVOQUV6ZWw?oc=5
+- **2026-06-04** · [Unhedged, Markets analysis] Broadcom suffers $285bn rout as revenue outlook disappoints
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlQSU5BSkJEVXhLWmJNNXpaVkR1S2FnN1BEaV9nUk9IQ05QQlNNVTRqbXdyNl9mbkt0anRyYUhoeGd5d0lWYnFQVl85ZUtGZzJjU3lNQ2Vnb0JjYkVpVE8wRWMwRW1sNkJLanMxSTVoX2dWa0dmb3BndEhoSnhYendDdzY?oc=5
+- **2026-06-04** · [Unhedged] Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGZReGY3b2VOdDNyeEdwUmg1Nm1JMWQxNmtOQUdmUERqVU1pOVFzT1pPdEhsQVBvM2ZkX2t4RksxTlVacG4yZlFzb0FLRWY4cTlJaXItdVRidE85YjRPMFgtV0puTHdJallidXVtNlNwVHBKXzd4VVg5M0FULUEyYzU1TFI?oc=5
+- **2026-06-04** · [The Long View] Keir Starmer blasts Elon Musk for trying to ‘whip up division’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOem44b3hDTzgxbUU3c3BrSjIwMlhDa09oOFpNYS1xRkRoVnh0TmdvOEs0dXFVZk43SzdBVFJWbEt5MUVUZUh2WjNteFRNQTZmMWxRc2ZEN0NNN1JNS3h2QmVRRjV0S0JaZDhJaUVzMW9SeU4yR0w3aXV5c2ViTThIV0FLSWM?oc=5
+- **2026-06-04** · [The Long View] Disparities between ethnic groups are not always cause for alarm
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcE5adnVtNGFpelpiTFdsT2JQU2pTSGk1dVBpcXd2R1g1WG45blVSZFJ1cWE4b2ZTZG1NSVFtbUVRRGlHWUhERmQ0RkFsU0NlMVFEQVhjOUpCOTFyTkw4eURkYmNlZV9ISHA1dzZoaV9qYlF5WkhueUY2cEc2SE1yQlN0eHA?oc=5
+- **2026-06-03** · [Unhedged] Japan’s bonds
+  - https://www.ft.com/content/6d67410c-0445-4d3b-abb1-42489e2b9af6
+- **2026-06-03** · [The Long View] Barclays hopes to boost UK economy with enlightened self-interest
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0RpVUVTdG8tQ1pSelgyMDB5MnBXX1pkM0VtdnZyWkdESHpHY1YwSHVfbHlIakZ6ZnpJMjFRX0NOODI1SmlwaFFfQ1pLMmRzRmNjcGZINjB3RDFNTlc4Y1N4cy12Tm8tWUdsSlNfbGpiUFJ3LXRYSlFISlFkNzRCeExMU0M?oc=5
+- **2026-06-03** · [The Long View] Elon Musk’s SpaceX pitches investors $1.78tn valuation in historic IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnRuZ3NTcG1tQkp0a0ZtZ3MzVWxXTk5GWkc0TTJnV0ZmRnFYMFJQS01EQ21wZ2tJSlc1R0Z4ZGc1OFRfcTNnQVVXRFl0YjlDUVlScDl3ZHpIMWtQZFJLU1M3VXNvcXNPZ3FiMnF0YnJTUjQ2ZWRZN29uSWxFaEhIWHhYQWY?oc=5
+- **2026-06-03** · [The Long View] Starmer pushes ‘bucket list’ policies as fatalistic mood descends on Number 10
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRld2dWNIdG9tLWhwRkpHU003RUpWQzl3eTFwZ2RoeThINlQzU0VZUkZRMGlzQ0tRTGoxWVMyd1pxVWlJZDZHVlowTVBuQUs1dU9nS2ZwSHJOUEtzaDJVUmVtMUlZRmFXblNUZjJEaUtxRVlZNjZ4Mk9ZOWlObEZsUkFSUkE?oc=5
+- **2026-06-03** · [The Long View] SpaceX wins tax exemption for $55bn AI chip plant despite local backlash
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0zRHdPYXF3T0M2Y0lZRThwLU0xdnh5Q3FZZy1YbDRyYkxlVWtoX1hyRTRfYzVGU3RaWERLdm5DY3BuMS1GWkNyZkJ5NWhvUms0Q0doZ1RXcGUyZXRqUFZrVTJEWi1jNE1GSklvb1lhQjQ?oc=5
+- **2026-06-03** · [Markets analysis] Tom Lee's Fundstrat Capital Announces May 2026 Rebalance for Granny Shots Large Cap ETFs
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxQemN2dlhJNDV3R0sxcl9STlpJZWh1d1VSS0RjNVhfenRvRFhMS0lBdGJGSl9nSklpdHg0ck9xVjJSVy1Wc3BzXzlDU0gtaElsU1NUMjE3N3VVZk1WU0RtZ2hMYnZPTFVGaHJfUlpVNzRGQnRFM2ZLUGxRckc5WlV0cVh6dDRoeTQ4STg2Y3dMLWNfVWpNdHdNag?oc=5
+- **2026-06-02** · [Unhedged] Could we interest you in $675bn in tech stocks?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXBXYXBKZHV3NEJCZjVWRWpfTjl1RkQyVldZZGZ5VEhURjRWQU1Jb2FQeXJhM1g5SGo3SDFaMUlxVnVzNDd1YmtPek53RnpmYVg1MWJIem92UVpGZ3NCcWtwV28yWUtrdVR3aElZRzI4WTFBOXZHZEtJVi1lQjFuUThxVlc?oc=5
+- **2026-06-02** · [Unhedged, The Long View] Hyperscalers and the equity tap: more to come
+  - Plus, corporate culture and returns
+  - https://www.ft.com/content/c9d562d6-1448-4a40-8198-0cb1f0dc2032
+- **2026-06-02** · [Unhedged] Transcript: Could we interest you in $675bn in tech stocks?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2RaYTlYUjlrOXpTU3h6YnJXbHpCMEZiM0J6RHlURUhEbVNiWm9NRVBQYjlMckVZQTh4YW1QeENjMmFfV05XdUVhY01tTGo3M0ZFZk1nVS00cGpTc0F1UzhlNkF2Y2N1UVpmX1A2djFmYXo1MVhadDFvelh4REhNbTBtQno?oc=5
+- **2026-06-02** · [The Long View] Starmer and top ministers used disappearing messages in exchanges with Mandelson
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVRhMHp1aEV6aEhOZm90LWVONHlOYXRkMTNfOXJyYWhSdTluTmd5c2x3Ujd5QktXVnhDY2VNNnR2Y083eEtOX1lxZkhFeUZjaVJndzh2TzVha1JtSUZMaDZtMHp5elZCc1lfd2hYVVFubVF5RU5kdk1qbjlnNzAzTHdMY2I?oc=5
+- **2026-06-02** · [Markets analysis] Bank Leumi Recognized as Israel's Leading Bank for AI Adoption in EVIDENT AI Index for banks
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFdsazdHRmNNMTE4eE5tUGxWNW1RSzJjVFFCZGFmcVRROEpzb2Z0WGVnbm5RZFY0dUVYd1FHQzY4bVY3alZBNWJBUkpuWVVRSTdWQUJ1SlItYTI5UXhPR0tXZnNfQ29VUi1zSEZwWWliRzBma1pndkFTQWpqZHhuZ2tNRWgyeUVCLTVzTjQ2aVhDNlQyeEFyRA?oc=5
+- **2026-06-01** · [Unhedged, Markets analysis] IPO boom, market doom?
+  - https://www.ft.com/content/ec8324c1-f55b-4ea0-8372-e32c6fca0386
+- **2026-06-01** · [Unhedged] This will be an absolutely mammoth year for IPOs. Probably
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOGx0UmlXLWQ1UGs3RG9HX210MURlMnVqTVRnejRoUW9lbW9sb1BCRXZobExSVVlIcUF1RXp1djZ4OTQtcF9CbHZpWmtJRmhfczFoM1BJRFo4ejgyeWhhcThkTEE0Z0RnTWVLQ250ODE?oc=5
+- **2026-06-01** · [Unhedged] Anthropic offers EU access to Mythos
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWd4em9MMmFLQ3lNRDBPLWlSV0w5YnFPQXprQXJHZXF1TnNJNEFHYVpjNC0yZS1kbUwwZDRjQ1ktYU4tTXljWjVDMnZGX01YSmF4SWR2LVlVaGZuSXJvWU5fdzBqYjNKSEhIdnRQM3EwSWUzcnAyMUMtRC1RQ00xVlAyQ1g?oc=5
+- **2026-06-01** · [Unhedged, Lex] US convertible bonds set for record year as issuers harness AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2VIS2ZQS3FZcXJlSENtZWVoRjA4OHRmTkNzUmg2RF94VHdwOXBKcnRnWjJBcXV6NmZzZTJ6TFNHeEVUVWhROW9BZ3ZRWjNjdERYaUFOend2RE5STEtvV0NYSVV2ejNYWG5YVU1SRVNyeVNRNk1rQlJad0NPWXd2RkVrdEM?oc=5
+- **2026-06-01** · [Unhedged] HPE shares soar 37% on booming demand for AI infrastructure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1luUS11WEFMNGZWWTJORWpwcTFSeG45UmVlUjNMb3d4c0F4Q09aUEgtb0lCSzRoN0Q4VS11X2wxU3hZaU4ySGxuV0c1S2FhVnZOaE0zSUdYZTJDa0l3dkVyVkcwYS1ENFFxWTY4c2VSQm01YWpGLWFzcG9reTBWOEhraUg?oc=5
+- **2026-06-01** · [Lex] EasyJet may be budget, but an acquirer won’t get it cheap
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU3F0T1N0clRRVjdINmdOdU4xNmNmOFA0U3Rac3JsYTE3Rlg5S1FENmVkaWdLVU93N1F3b0ZWcV8tX1QtZUwxbzhublRLQm96ZXh5TkwwMG9XaVduT01FVnc5QmJ3eXJIRUNidDZ1VGZXQTBwSVVLVVNGbFlWX0NScDRoeTU?oc=5
+- **2026-06-01** · [Lex] Uber faces Prosus challenge in Delivery Hero pursuit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGNLWE1taFNYbFRiSHhZdTJFR1JOS1Jqb0RMdWwzQTZTM2cxeVdGQUtncUx3SGtnbzZveWQ2RWFpbl9ZWTFwNjNQRUNUenlaZ1FHbHY2YU5GT19fSkVCSXpoelJCRjRhYmV6Mlk5dmt2UElJZFY1S2tpUDdBOWE4ZDhYNXc?oc=5
+- **2026-06-01** · [Lex] SoftBank data centre offers France AI sovereignty with strings
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUNUNXZnNS1MNmE1SC1scWRUNmF6RWs3STJBcnFDWmU0RmhhT1RHTlVpZ2FOV0VTMWxIc1F6dXYwZVNnekxPNnVWNEdOaTRjQnk3MFF1STlBeHpQV3JpNkRSZE1uRXpUc1A5VGRHWkJ1NFVfT01KTEUzdWJETGpWQUhCSmk?oc=5
+- **2026-06-01** · [The Long View] America’s AI boom is carrying more than investors admit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVFiMnVmQzR4cUxWRGI2dEtDM0RKLWE4dUVxeXFLdXh2eWRZcENERFR2Y1NZQkY0S2tkc1hlUVp5bGF1bHZBczh1R2NiTFNwdks0VG41YTB2TjRlV3VxVlZlRGh1QXN4dzBNYWFRUFpBbnpNbmNDSUdqRGcxeUtFQUVZamM?oc=5
+- **2026-06-01** · [Markets analysis] Nagarro recognized by ISG as CX Star Performer and Leader in Digital Engineering Services for Midsize providers
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0FXM09xcTB5ZWd4Z2t1Y3JxRnF1cnBESFhKcUtOMXltRW9ZQlFCRzhScGdEUzd5WmkwNnNZM09TNURUV21JSHNhVG9PUkpzVWpLeXUwVFZaRHZQSU0yblJsRGxxVnpfenZUQUZmS1plZkJGZVpLY1RNc0RiNkJpc2tZWTlmdnVrVDZodTh4aTZzR19JU0JsaQ?oc=5
+- **2026-06-01** · [Markets analysis] Chinese firms’ market share gains driven by subsidies, says OECD
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGN4UENlZWh4N2ZSM1gxRjlnS1FLNHhSNkJQTHFVMEUxc3NVaGJPb0pzVzc4Mnc0ZjdOZ1VjaWRid3ZjUGFUaFF3X0tObkFHN2Y5Y0lHZjRuVzJQNjZSZVJWMWhtT1FySW5RZHk5bkh1aXdnY1RoT3N1Q0FVWWQ5MnE0cE8?oc=5
+- **2026-06-01** · [Markets analysis] Cadence Unveils Industry’s First Fully Autonomous Virtual Engineer for Chip Design, powered by NVIDIA
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxQSndNdDVPS053SUsyWlpkbjk1bl9PZ2FLLXFUVnB5RTF4QlhXd3EtY29zYjBoOU54eE5NUktQZjRzU0V4MHdIRXZXblExTi1KbWlkRGUxYnNFTnNIaFozZkd4blNfRWdWejNEYmtsUzFIb3FhQ1A2Q19HRHplanpuVE5KYXBTdEhDZ2I5czRoSG8tbzlpZWI4ZldYbmJic0d5UldRU2t3?oc=5
+
+## 2026-05 (248)
+
+- **2026-05-31** · [Unhedged] AI and real GDP: how big and how fast?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmRBamo3NGNuWmVlQURMV0xBVEpJZEdrUGRwRTZLYVFjTDdNV3NWdF9MMTBTYjR6VW9CbjhuWGxtRUdaMHNxWm1EM28yZndFS1FkRzc0NzBTXy1adUxnM1pqMnUxWUFScE1kWm96VHdvaFhIRXA0Skd2ZGhMNWNFaHFXUFo?oc=5
+- **2026-05-31** · [Unhedged] Nvidia unveils PC ‘superchip’ in challenge to Apple and Intel
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2t2UnRubTRsZ3dVZTM5R2NodVE5YmRWTmtMQXhrMXpwaW9uWXhWajU2WEdaYXZobGNFZEtfa0tSb2twSFlTOGpuSEthaVRKUmdwYTZIbklfMDdsbC1PTW5IY1VMMzdfYm1mbFlVU2p5emhBazhydkNXWmFXX3N6NnN4d2M?oc=5
+- **2026-05-31** · [Lex] FTSE 100’s likely new entrant puts a British spin on the AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORk42V2Y3YU8tN1M0WnUtUXFXLUdwOHo5X2ROTVN0Qjg1bmxtWFlHYS1SQ0VZa3lxcFpFTnhqdEtJQ0pMRUlRZ3J3cmg5bS1WdkdhaHV2S2RMMVFhQ09hbEpVT2hmVGl4c1BWNTRrRXVVbDhpSldrcG9La3FyQ3pCdHdwUnc?oc=5
+- **2026-05-31** · [Markets analysis] Iran war inflation shock set to fall short of 2022 surge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGlNM0dpbjBjZmxvcTJhZTlLWUlEcGV2bGcycV9oYVZac1NYeVVaeDFqbDRSb0RUTGNNajBWcmF1UDZmdW84M3BQSV9weWhjMloyMVlHcmJOU0hzWVA0SlhjZVZzWWxGTHJpSXQ3R1VHUXhNSkY3MVVjWDFfdUo0Nm9HWE4?oc=5
+- **2026-05-30** · [Unhedged, Markets analysis] Chart of the Week: Dotcom bubble IPOs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPckZOS1paZ2IyT3hEb0xwSzVMM2o4aWoySUVYTFlFS1ZIYlBlWjB3dW9rdnI2aTFLMGotOHFSRHB2XzdxX0NMSTBRWmJyT1pHRGp0dnMxUjJyRXpQSEMycWlTemkwZmVUM3lNR3ROQVFYc01ZU0otOUFJb2VNY0lTZzhBVHE?oc=5
+- **2026-05-30** · [Unhedged] Stan Kroenke's gradual Arsenal turnaround - Financial Times - ep.ft.com
+  - https://news.google.com/rss/articles/CBMi_wJBVV95cUxPMHFfWEphMWxDREFsMnhmWHdnQklhWnl6UGdmV1YwM0tYWVJGdTQ1aGhFNE9FbnVYcXU3VXBhanJlRlRIMVJzMmYyMXc1XzA0MWliSGRDa2gwVGZfbjVHT2RCdEZBb3djMGF1X0Zibjd6TnYwSEl6Vk4xbERxMGtiNHBIYkg0ckloM1c3QVZlY0tpWnRTVUFnb25femR3ZmZkRHBxLXJKUVhUN2RwckRMbS1sbGZtZ3UxcjhieGdDZnZDa2ttVEFiOGM1Rnk3aUMtS2RMTnVnLWYxTUMtYi0wTEJuMkhFN2VyS21LcGFhNTdIczBwcFI0REVscnQxckdWczFISEJleGJqYl85LUlYSFBRX0R3aEw4UUdueGtRXy1ZTXhmSnptVG15U05SS1VfZGJXZXBwclY0N0ViQTlLUFlUTXlLRHIwMjhSTkUtRnk4aVJiOF9PTldUaS1ZS3M4dHNVLTdWWWpjWjh2Tm9HVDVHUzVtemVlMVFXRmhHMA?oc=5
+- **2026-05-30** · [Unhedged] AI is here. What do you want from it?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0FrcGJGbG5BaEVKT1hKcjRPdTBnU0pQNVRVZS1DT2pjS19nVlVSdE9YdjlDa3VIeFY1a0V2c1hQbHdhd1ozb1BfeTdoNWlEY0tjOXY0djdRWjRmclhfeVVhbEZYTW85cWhQUGxIOGhuME9TRDV3dGpKZzJ2bmJDTG5Dajg?oc=5
+- **2026-05-30** · [Lex] Ferrari’s Luce is a free option on a whole new market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGN0X1RtYzlEb0hLMHdQYzJpR0tlVnNBdWpuaEo1ZEVLVE1xNTNuMm1iTmhjbnJEYy1aTHJSM1VMZU11Zm5WWkIxaUV3RHR3b014TTlrTjN1N3E0S21ydTRzVnkyclZvWkIyOWZTOHJuenpCU2dINmpZdnVuT2lpQk5malE?oc=5
+- **2026-05-29** · [Unhedged, The Long View] SpaceX and the ‘enshittification’ of markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVpheUFrOUU2TU1ETVNtbkdyS2tsZU9SZWdNQVB5T3dYMFI0cnRWTEtvdkUyYjN0cU9Id1BETF8xeGVfaUgtTEdfd2JheG81bVdQbWQ3OTY5VjhIT0pHUmJqOXk3SFV2MDN6MmdGbXNZcHRnZWRucl95RmhRTldkYUpXM2o?oc=5
+- **2026-05-29** · [Lex] Asda might help break Ocado’s supermarket stalemate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmtCM2VPSjY5V1hadVdKLUI3OXk0Q1FsOWdMdFhwRjFkN1NNVzhBeGZKNnZ0c3J3Sl9ES2VQUXhRZ2JUNFFhQjY3YjFiVDV5MlZNQmJkUmxPT2Z5T0Q2UlNmaXBtZ3g5cUJneG9KNDVZTFFyeC14SUZkRVdXcHZ6OExVM2o?oc=5
+- **2026-05-29** · [Lex] How the Enhanced Games tripped over its own shoelaces
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcGRSeFMwNk9lNGFoTmpNSlE2T2RyZ2MzUnFWQzdmaHA5c0g5UUd2WDNkeVRWWWhpalNmQlh2TFZSbkU0QndRUzN3dlRtcmZBUTZhTVk3SXlQSGZjT1V3RUJFWkh0ckNQRlBrT1JNdUg4Yk9EQ1VDQl9NcVpiU3RZRVB6QmE?oc=5
+- **2026-05-29** · [Lex] JPMorgan chases retail banking’s golden fleece
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNREZLMXYtb3J2WUEyTC1KbmVUdmY3MkJSOFpFMzB3ekVJS2VPYVBaRHMzdzRkNWduQWVhajJrVms3NV9zYmltYjM1dzdiV0JlUVYxYmhXTHpGZHZ5RUdwVWVEVndnOEJ6OVRudHB0MGVPMUFPV1FmQ2dLakg2VUM3MFNXY1U?oc=5
+- **2026-05-29** · [Lex] Ferrari’s new EV sparks Italian angst over Agnelli legacy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNamhHZGNJdmp0d1V0eGxJMnJFblYyRThGUmRpUVlkTi1MQnEtMnAyOWo2WDNSQjFzWU94Nm5DZWRnRWZTNDliY2E0TWRpMzVqbTVvX1J2OGFQS1FjajdUTG9TZVBqckpuSWdvMVFPemZZS3BxVERmT3BIYVdOUlFfc2Zza2w?oc=5
+- **2026-05-29** · [Lex] CVC buys IFF’s food ingredients division for $4.3bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWVaYmZaOUd5dDExYWp4dHZxOW9HeWlWTVQtQlJQME01VzN3eG1uekoyVlVJUWZXVnY5RXVhaDkxUmlwcnIxa1AxT0hFT0EySmJDZjdETkZabTZEM3RqdzkxVEZqZlIwcldBSkU4bzBmYVFRd3JJWWdpWHVVTUhxekNYSG0?oc=5
+- **2026-05-29** · [The Long View] How Andy Burnham adapted his politics to skyscraper city
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUVuNlhjYzBiS0dBck5EbzJydktRU3lraXJsdVoyNmh4TDZpTkt3eTBrWDBPS1NIMS1JeEliNWJncUFxcnJkbm9TV25VSENIcHZ0Q05hMl9kdkhyWTJuMWktcG1mQ09HRlZjT2FLbTRIMEZ0WURBSmt0TzhRYV92WnFXVXc?oc=5
+- **2026-05-29** · [The Long View] Letter: Bananas, unlike bonds, make good distressed assets
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZDFlZlVDcVhfTVNCX1AxM3Q4RDNKV1lCc2ZBMDB6U2lBVHRQVzNqTy1yNmlJMWw2ZTJFWVlxaDJnOXpsOTZYRWE0elZ5NG1ERDRjMUNnNUFNeVl5Y2lmOGViS3JVOFhqRk83ZHQ0cEg?oc=5
+- **2026-05-29** · [Markets analysis] Goldman Sachs: it isn’t coming home
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUEtFSFpOY2loZFJ4QmhpZ0xsM1pUenhUb1dmNVpBM0RwVk5YTTlqdERFSkg2S05OZTl1SWtJbk9KNGFzU2ZtakdNRnNLdldsZi03clI3b29uZ1FsM3FDUG12NWFmUGl0RGxYR0FwQmg?oc=5
+- **2026-05-29** · [Markets analysis] How the global EV shift made Ferrari Europe’s most valuable carmaker
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHZ0OUp0LUhvang0a18teGt5dlV1R3QzcTFwNjhNeERvQXpQWU1vcnpORHIzc2ZtblhLN1BRenVOeXIyQzhhZmhOMFEwVnd5TWFkRWtCZmxDcFFPQ2ZhbDJNMlNuSWhrMkljb2x4akFMNnNZdFRCLUFQNFo1b1d2M0FuN2o?oc=5
+- **2026-05-28** · [Unhedged] The chip and memory stock frenzy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3B2YUhvVlJSalJwN2Q4YTZXakE3Q3VlUGxpV2xhS1VWTTdGRFg1RWhEVGJBX1AzTWg5Ym9tR1NoY3NIWmlVa1I3bGlWU3IwT2VxcG9jWXQ1dkNMUjhPbjgwbTY1YzdnN3J0NzZUMEcwVl96UndNOURBbjlJVXdSTXcwQXE?oc=5
+- **2026-05-28** · [Unhedged] Charles Goodhart: ‘Demography is going to make life worse and worse and worse’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXlqYzVLSXA0WHF2eHg5WmRvRGU5bHFlUmYtOXpKQWl2OTc2ZGtVZTBRSGdiUEYyQU9rX0FqVFlUcGVoVGlXTjU3NnZzT1AtR3hVOUNMWHJ1QzlrSC1lTzdoTlItNnBPNTdVWm01QWdjNGdyLU9MRDJJQXhhcHI3Zk9JVWg?oc=5
+- **2026-05-28** · [Unhedged] Transcript: The chip and memory stock frenzy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVY5VGFkRE5VT2trUm44THlpSG9HTnFDTTFhQmUzaEVGWC14ZmItak8xRlRMN2NSdXJhM2VtaUloM3ZERllTbzdncFFjZmdoelZOcUhXdjVuYllNWUlUM2dYNTVOdk5oeUpUdlBWWE1uUlBwNWlvSEJXeUUwS25sQkhjZW4?oc=5
+- **2026-05-28** · [Lex] AkzoNobel should avoid painting itself into a corner
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmo4X3dQZXB3QmtrVnotYjlHNlp2a3ctNk1sVmNnWmVQMGM5ejRFbzBTeWRIcEpON1lkM3V0M1ZGS2dqWXV0RjYtWVY3bDRQQTNRZkdlSk01OWt2bkcwYUx6WWR3NU1WaEYtU1hPeWE4RGNPcWN5eGEzeVZNV0RxSjJkd2I?oc=5
+- **2026-05-28** · [Lex] And just like that, the software apocalypse was over
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNamRkWDAzd3M5bXJ3YXpIUngtaGZYSm1wVzJjRG1hZ29wUTBrTVhpd1BIaTY1MW1yenNZZk10NmdUMDdLN21SelBrN1R0ZHN0MGJnQm9faVIyU0dGbDJuTnZFODBDdTBaLVkyTXFZUE84NnFhRmhaa0piMjBzRmJXckxvYTc?oc=5
+- **2026-05-28** · [Lex] Caesars’ billionaire buyer hopes luck and leverage go hand in hand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXpWTWZXYUs5dGVURm55LVNLeVZlV0hOWHQzR2RURmd4eXhuQnBKTFY2aHRHWTY3cXN0ejc2WEhCWm9Nd2Z1RW1nTUp2Wm9GWkVOTmFVLURNVXJ1SWZDN0JYamt5cVd4NFduSzVNSmhfUVRqc05lTUp2aGdXNnQtN2hWTWc?oc=5
+- **2026-05-28** · [The Long View] Not using AI in public services would mean ‘choosing decline’, UK minister warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVFCOTBWYVNYcVBsb3l3WHVvWnIwbGFZVloycHNLTDZXbVZJcGthdWpCT2pwUzdvSGJONWdWLThLaXg0ZlFIcTU3akVOR2FqNzY0Wl9ldU00Y3JEN1FzSHpibThjRFNySnFNSXRtaFM2MnFfa1J6U0xzUVRDTGo0MDU3Tmk?oc=5
+- **2026-05-28** · [Markets analysis] FICO UK Credit Card Market Report: March 2026
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxONzNaV2p4dW9Kc0VQd0h2N2x6R21Mcjh1Zkk1QldLbjF6RmoxUnlMY0QwakNmRG1SUHpYTFRBb25DTnNYM1FyQzJ6X0JXS2JUU2YzbExBeFE1VE00QUZLcFVKa1BDdmVqYnh3a1c1NlplRk1ldG5SSllOa1pyTlozQjhHdE9XNHNJM3pIZGN0bzFPQmhGazdYcGRrb1J3MWhDdklsSnZB?oc=5
+- **2026-05-28** · [Markets analysis] Don’t bet on Trump reining in the prediction markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHJ0ZjRORUhWbUlYRHdMSGJBQzB4dnV2YzlrTEpyYk90V25VNVdpOU96T2FoRFBqTTNQdUhHVlZzcUpSY19XSXYzdXQ1XzJUYTYyYmlINDN2WG8zYlR3bVpyLVJaMUZINkpGenJmbU5uTXBfNE15Ukg3ODRRTlFhcHBXaGE?oc=5
+- **2026-05-28** · [Markets analysis] Urgent clarity on policy needed on the energy transition
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5TalNHdVBZQnVFYkpJNkJ5UVNFcnlZd1ZTNXZicmo1eTQ4N05WNlFMNE9RenI3V1FxMVFjc1RqanM0aXlUeTdKMHdrd3BpTUR4ejdTVFBqc1NWZ3dEdS16SDMzWVhpOU9icVRkSnhkblg?oc=5
+- **2026-05-27** · [Unhedged] Semiconductors: supercycle or superbubble?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYV9jZTVrblE3OUt5bExwc1p0LURuQTZmM2NqMWdpa0N4YW1WdmUtcDd0SldJSi1fRUdfRlpwSWZqZVZJVktaaGJrdWpIYjE0OEV1bkFzcUlUdTR6bHgtOFFzNnI5SjdNcTA1ZHpEM1NXd3dMenV3YS1BYXo5N1FPd0wxRlE?oc=5
+- **2026-05-27** · [Unhedged] Memory chipmakers ride AI boom to join trillion-dollar club
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTlHREJhT3VxVTdMWFdHdS1PUjJNMnRjUkU0OHo1VFdCSGVheXlwR19oMmdYdU5ZMmFXUS15emZ6TUtBaWo2dmV2VU5PVFB3ZENoYU5DZEVwaEZHS1BTVmhDZzRsUnExdDFIWC01aVpWSnpwWGRjYzB6aXhNS0ZXeXl0RFc?oc=5
+- **2026-05-27** · [Unhedged] Et tu too, FTSE Russell?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9GREx5Qk5KRkR6a0Y2eE12ZGZYQkVDdUdMRzNVZDR1eU1ENnkwa2ZiOEFxRFlKR3Frb2p4ckp2WDBlMjVfV0tLdTk3cC1NR2ZyOFZ1Unk4YkVYT1FhTzdUTVJaNnZua3VweU55dlZoSUw?oc=5
+- **2026-05-27** · [Lex] For ailing Lululemon, going private might not be a stretch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMW9hdXBmeVR0Z2hoeHVWNnVlZmowczNDeG85YmFkQXo1ZEFkVDBUUlIxb1EzVVpBTVdfSjZwRW5IR3Y4dUpBV2tCMHhWRFVRbWNLLTFPQkU3Wk1Pa29tU2ZvcDhSYXl3OVJKdGdZQ0RlQXpHdlZoUHZubG92QURBTWpGSnk?oc=5
+- **2026-05-27** · [Lex] Superdrug IPO would put lipstick on a drab UK retail sector
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFhHWWNhX1duamRaalpSd21BNENUZlFQb2V6bU8wT2FUUmctRkhZQ0dYNVUyOGtRRUJVS2hHcnZ6ZWFzcURVUkVkOEFKVGdibGl1RTFsMVpFMGNmZHlnS1BHZml4b0UyTG12N1hldzFqU0dOOW1YOENncGhLemFnWnlyR2g?oc=5
+- **2026-05-27** · [Lex] Uber bid for Delivery Hero would be an odd route to superapp status
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOURpSW85M3ZzOVlacERmV2dGY1FwUG01R2luXzJoRHI3OG5mdEZyQ1hENGdhQmhhUjNCUWJtRWRhNmdDaGphREdOUXp0T2VzSEF1eWNRRmpqRkZUMWZleENYNm9HZU5lQ0RidUFNSi1Jb3BTdlpha1pXSjhGYkdsWjJVd1o?oc=5
+- **2026-05-27** · [Lex] Dulux owner AkzoNobel rejects €13bn attempt to gatecrash merger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGt1QUNJVkh4NHRkX2c0dm80TDhuWkgwLTlJQWFuc2xsSW9hcmVfNVhHQWlEbEt1YWQtYlAybmJRT1hvaERQVnVGbTZMbDl6aGZfZ0tadVZnWnd0NGUwWm55MEF3WmhvVzYtZlM3aFhGaWszeHA5c2FLdXJkaEJuQzJKWG0?oc=5
+- **2026-05-27** · [Lex] Robinhood to let investors use AI chatbots for share trading
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjJKSGE2QTlVbHR1bU5GRTBrZ2RHdzdTNmVXbjhidmZKUGh1RHVWSmlkZGp0RnZXd1JXTkYtVGx5blFsMUNtUUhhNXBYb05QQ3hrbEdPdWZDMVVmZjY2Tll6SnppeDNsTXUwTUY5bFh0MGcwbGFqSEdJRTdMX1c5ZVRaYW4?oc=5
+- **2026-05-27** · [Lex] Lululemon shakes up board as part of truce with founder
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWFZbXF3SzQzM250dHVTVFdwQTFqWlhNMDl2X0NoaURIcnE0VFVPa09EREhlZWY0Mm1OSE9ySFRoQUxXT0pUR3FhQVJUNEpYSU9lRDloWFg1R0FFTUI1RzFJRC1vbjNXRkNXOGJNcTQxOVlTVDlobldYZXd4Q01LblBlZTI?oc=5
+- **2026-05-27** · [The Long View] Senegal’s increasingly domestic debt crisis
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8xelh0M3UtVHk5M1ctOWhhb25Ld2VMNjJ2ZFliM1hfa01JdVc2c0JPSUpyNXRFZUhZQ0NXbEFBSVlhaWtOZmJaemQ2ZUp6M1NNOC1ndzRZeVlJYXNWTmp1eHRwbmtwQ3RNWmNtajI0WmY?oc=5
+- **2026-05-27** · [The Long View] America’s hegemonic glory is under threat
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5fMDBGNFphUkdxVnpIcXN4TXBmOVpjeU9CTXFRaTdtSTJhazZIcm96YVNtOUExbExaZWFDN1ItWXJWWTl4bHU4ek5YaUlndjMyb1lhaUlrZFBpOVB6RUlTRnFQd041OU01S0RnLU93OG4?oc=5
+- **2026-05-27** · [Markets analysis] Cushman & Wakefield Appoints Leon Ikeda as Head of Advisory & Transactions, Asia Pacific, Data Center Group
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1h2Qmc1aXdHTWNVRi1yZW9xd3BQZldKZ24xNmhidjJ1NHVfRWMxV0dkdGEwQjEwR1FRUEJCcGRzV2gxSmE0blVfR3lHV2lBSFpUMExNTVpNbHNYellRbjRXbnh1Q01fMGN1NTFSdVNJS0hGYllFeEZiTDBwUkhUQU9aVE9Jd3NnMGp2dVlWRUItMzF3eUtHNV9meDNLTHg4aWl1RzNB?oc=5
+- **2026-05-27** · [Markets analysis] Renoworks Announces First Quarter 2026 Financial Results
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFJUb2Y1bVNmcWRfa1Z2eDFOYlRGZjc2bEphS2ppYzBVdFZ4WUNXTjBzNEdTSlJqZHd6NDVsaUVWVWRPQ2NPcHFoZndRdTNkM3lScS12VVRVZF9CM1A2VTJELUNZUTI5NFNZbldSQU00Mi1CVE1vQm9IcUpQb0xqYVRNbzVWZWJoWWlZaGNvWWRQVkpHaVE?oc=5
+- **2026-05-27** · [Markets analysis] Analysts’ views: forecasters dispute market view of likely policy at Fed and Bank of England
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9GNnIzTXQ2OG8tYjcyZzBIQTlFc2cwSFJHRjE0RnNVaGg3VUQxek96U1FobEVIVkJMVkpjamk1eGMxNUZvME5NX2JOQzYtYmdhUi00dU9ZU3hsQVlaaThLdVE2aFQzNXpnaThfUXZZR1A?oc=5
+- **2026-05-26** · [Markets analysis] Tribe Property Technologies Reports Second Consecutive Quarter of Positive Adjusted EBITDA
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxQRllmNWtuN0c4V09tMmdIN09ldFExdGJGUXc1X1JsaTFVZlgyVFVrVzBrZWx5V0oyTXF0NGdRam1WZWpyM3V4ejR5Z1VSUXFqYzVkWTFkSFdya3k1dUpndkdsUXFNZGN5bENRVXBSYU9hdnVuMFBWZV95YTNSODhjU3F3QW02dEFEVmliTlZIQVJtU3RqNmc?oc=5
+- **2026-05-26** · [Unhedged] SpaceX nears lift-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPazh5NnJxYUNmazlwTm9TVFJzR2x0NTF2TXBRQlpyYlNsbERLZmprVFdVNEl2ZTJ6bnYxQWdqcXd0QnlWTVdYcDl4Vy0wQTBsNDdMWHY5Ml9rNXFBS01YQ0xrV3VXM3RlcWxtVUdDd0MxZmNLTk9OX0JDejFoNFQzeUxSY3M?oc=5
+- **2026-05-26** · [Unhedged] AI’s mixed economic signals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0V4LXhMb0R0ZUNXX1BjLWhxTlcwSlVDQ0o2NkdiUEhRVGlmdDhYRTQ0UkF5cE02YmFpaHZkTzNOTUhMR2xmUlRicDBkYjRQa3NlQUZwQ0F6Sk1wdmlyNVZSdUxrdk40SkdJTmlGRU9JeVpSekNqTmZlTmNfZHZWWHRTanY?oc=5
+- **2026-05-26** · [Unhedged] Transcript: SpaceX nears lift-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQczlVQ2l0M2p1azUtckJRME1Fb1dObkZ3TlVTTThKZ25GZFBzOGx4TW1jdkMwWS1QSkpVV2RyQjRvR2N2WDlhLWZqSU5FTnV3enpCa3pXZXVTQ1hHY2cwai14ZFFXaVVQRllNTXlaZDhYZldONU1DTlZ0Vi1na2UtdW1fNFk?oc=5
+- **2026-05-26** · [Unhedged, The Long View] Eurozone issuers turn to non-euro debt in hunt for new investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObWhnY0ViU0NnWjl5RkJ1TjBybDIwRVJweE1LS0hBbVgxRm85cHJleEtkcjJXLWxveXdEX0liOFRDWHVRRnp2enFkS0ZhakNyRXpWYU4zdUoySTJmZlNfTzk5TlBYRXczbm1HOVpvcWgxaHpxSEVTcDVPVFJHakEtQkVyTnM?oc=5
+- **2026-05-26** · [Lex] For failing water utilities, nationalisation is not a dirty word
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUJYVjlxZmRZNXFnbG1UNXpTanZER1JvZjllS1ZieEREbkhJRFFoVUlzVFBjVEswWnVzYVAxelBWb2NkRUxrWndzNU1tSm5va3lvX25xSTBlYXZaQ19HejZ1MXc2SEdKRXdFU0wtZU4zOXdteVBxbkNJVkJ1Tm54UXBHcUs?oc=5
+- **2026-05-26** · [Lex] BP is deeply dysfunctional, but it could be worse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnlFZWhwZ0wxVk9Gd0NWUHJlYWRBMERMZDd5eC1XdXJwSW1sOWZYSnZBdjBYOGNTZ1dTVUhvXzQxMXlZQVc3SWNsV3BLM0JYM3Bjc3JaRDJlLU94djNMYW1QY2Z6MXp5NFpzb095SndFSklLamd1d1BGdFZEX1NBQmxleUY?oc=5
+- **2026-05-26** · [Lex] Halifax and TSB have outlived their brand-name usefulness
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTThwT05Vdm5mNTZPMU9zalR1UFJaN0hQbUd4WFlxRmpHN0lIVDNVUldDQkw1VVN1dzVLQlFCVnVWZjQ5Z0wxMzBtQnFGUldvSGFzTzR5NTZWYlhyZHQyT2swdUloc0xpUzNrWVBiRkF3ZTUwS01SWXk1d1pfaWVzS2QtRUw?oc=5
+- **2026-05-26** · [Lex] The pizza oven start-up that came through the fire
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON3ZVY3p5bDBGWGpqQWRINFV5SGo4LUNnMEVvLTNLTHN3RTJnRHdxaGNSRmNmZTdsSHhXYjFweWdvNC1TRVljajNDYTkzajR2b3IwdUNDM1R5TF9wS0tVQ3BwR0M4bEpuUm5iUnVubDVPQ3dPYkg0dXFkQ0pBenh6MnVJX2w?oc=5
+- **2026-05-26** · [Lex] US car dealers face backlash over practices as prices surge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFNNYTdLYkl6cGFKVE55ZF9jZ3RTZTdYUVlHQnp2N0tudDdkWUZOUWRLVEJHeXBTRDZVNDlzc1ozc25GMFFmNk5xaHlDU1lQTzF4NjBodjhPMzE0encyTzY5WmpzajY1MWppWGtrdm8yNDBkclZjam5uRGZNTzRVUThoRGM?oc=5
+- **2026-05-26** · [The Long View] Tony Blair criticises Labour’s Andy Burnham for leftwing ‘delusion’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3JJVi0wUHdfVHJRazVSa1U4S2xqTHBjSW8xaDloaU43X0xVT3kzdk5UUWNFRTFySnFpWG1sTUk0STFRcVdmZ0tMb1FuOHUtTlIyLW5EV010U0htZ1ZqYjRCNFduTjY3VzhSQ1ppT2hBRmVfdk5TZElER3kxTjN4cWViYm0?oc=5
+- **2026-05-26** · [The Long View] Turning Neets into engineers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHREcVdjbExxa1BwR29INDFHYVJROWJ3OGdqV0lWSVFHZXN5SFpkVHNZeFlSX0t5SXlwYnMxQkxDRGFtb01pNUsxWXhsZWlzeFd5dWhLQzNxcW84bEs4NzZzcFJyemZVMXRpNV8zUkF5aGZNbER2NkRBamNrSXYxSXhDY3E?oc=5
+- **2026-05-26** · [Markets analysis] China overhauls world’s biggest surveillance network with advanced AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUlVajZNNWJjZUVEazNyN3dYZ1d4N2pCVDF2Z3VlVktodU11N1VpTHFnTmxpVlc5OE1lX0ZOOXRUOUhHWS1GXzRoeEp3NXg4NWJaQy1uSC1Mb3Vxbm01cENWTWJTdVFwRnd3bHBKdlc3NnM5V3BBY2RsMTEyS2l3X29HQlE?oc=5
+- **2026-05-25** · [Unhedged] Stocks’ unshakeable optimism
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjBadEU0cm1OYUhVWklQSTZCenNBaTVTcWhheDdYazUwR01iUHVpNjlWNWlPcWh4eDJSTGU4Tll2bk90VF9hbFJ3clpvMTN1SUhUQUFVeHpSRnlZbHRkNVU0U3pheHI4X3l1cmpXUTRxSmZ3UXBjeklPcXNpODRTZ1I5c24?oc=5
+- **2026-05-25** · [Unhedged] AI and the brave new world of deals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQenpsOEFVa2xodGpnVkMyQWhIY2xKeHN3SXI3UHk4bVpNU0d4d2xscS1Kd1lTa21DTFlsY21kcjlTR2Z5WUt3b3RDYVliR1RJMWJnZFIyWElFS2FLNGNvc0ZwTHcxN21aUjdUbHVkb29ueDh0TVIySUdhUXFPakZ2a2NKSEc?oc=5
+- **2026-05-25** · [Lex] The UK’s best-performing bank is probably not the one you think
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmJiMVNSSlcwMlJIR05rcUFtWEkyLXQwNjZxRUJlRVZOejBUUEY5N2dxbDhEdW85cS1vY29xTkYzLU14N01CaVRBWWxGYjEyRWxPbW9ENm5zRDRTVktWVUE3TDB2di1DMDFIeVd1dVJia3hWVkltMU5KcEVMelRpdHg4ODI?oc=5
+- **2026-05-25** · [Lex] Prize draw businesses have better luck than the average punter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRy1GYU1relRUMThGSGduTlF2WUluVDJnbTNaZENhc3JJUHFUcUdvU1M2bEhSRVM3OXdsaEhtWk55OUI1NlZsMGlTQi1TNlFRQ3FFQlZ6NWxqQTd6bUhSMEQ3dkMxMjVYV3RFX3hRUEcxQzJpbjd4TXVvZHRxUHl2OTZLMlQ?oc=5
+- **2026-05-25** · [Markets analysis] Lufthansa, IAG and Air France-KLM each exposed to €1.5bn-plus in EU carbon costs, analysis shows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGNlM2lTdDNDSk4xZG0zcmhrQi1fUlpDUFNRQXd1OXF2emRZVUp1VWFULWZQbzhOaHZiRkowMzJoQWFveTY2OWFIZHpQcGRKelpVTzlHbUwwdTJiaUljcFhDQk0zd3FVNU9kR01TNFZXTnVlOUlPbW1aSk4yVm9tOTUxaGc?oc=5
+- **2026-05-25** · [Markets analysis] Zero Candida Announces Corporate Changes
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2pzQ3dyUm5zM09QNnhQMVpUMFlmX3pDaGxaMzFSR2xBQ3pmNWNwZDU0R3JlbDNKRHZuRU5oNjhnZTIxdVl4aV9nTWk5bEdaenktSms2R3dMN0pLcDllWFhNNzdrT0poS21OTE9oMjMzU0s5UUlGczF5MTRGTkJDN2VxV1JKZVlJRGJlT1Jyb0hmT3FQRnlkSg?oc=5
+- **2026-05-25** · [Markets analysis] China’s change in maths on carbon emissions masks growth, report says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVG84ZlRMQ2FFT0JoRENreWdTYUxzQ245VHlfaTdUOTZiVU5HZ0FfZEZTUDQ3clAzVkh2bU5idGMxbmE0SUhPcGZ0WFp4WE5SeGsxRklNSUwtQXNhTDlxLXV3NDRpU1JqcXg4YzRaRFo1Z2lWZ2N4T1hKMWk0UHl0aV9odDg?oc=5
+- **2026-05-24** · [Lex] It’s not just SpaceX: Big Tech is dominating bond markets too
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGNITGF1M2ZYWDdUazJCQy1rNlNQWFR1d3NQMXg4bWh2U2puODFIX3M3RktLR0F1Z05Gc2N1dkRFUmNTUXFKcENreGtVMmwxTkppMmZId0xhQU1pUmpsR0Z6WTE4ekVfRDdyT2U5ZldITFc5bHVkN09hVGFkdlY3Tkg5anU?oc=5
+- **2026-05-24** · [The Long View] Investors can no longer rely on a ‘policy put’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3hWN3JRSFRTeldIc25BTGc3djk4MU53VlBtZjNQcTRJSzZvaVhxTmVpdThKd3ZtN3FXSkVMdUZlU0lkenZKOUtiRkpXaDdRYkdlaFZRZUNKbnRCbWFGLTBTRGNBYUlVTTI1M3F6eUxQN1RHejFfLVFMYm9mSFNJS3RDd2E?oc=5
+- **2026-05-24** · [Markets analysis] Why IPO mania could signal top of the market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2ZqbzFZSnhEMGFBelZQNk9hU1A3UGdIWVRLMWx4c2VmSDI0bW53R0FZdG1Kb2NNTjlmS1BrZnJTY2M4TExURndXTTFlRDlmQ2dlbkRSc2RjZ19yaEttczh5aDVEYWRnLUpqSnF4dG91RW8wYUdVUWVLWjJXZGxHamZpLVY?oc=5
+- **2026-05-23** · [Lex, Markets analysis] How AI is forcing McKinsey and its peers to rethink pricing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMjJrd0NaVFNoMzFrM01vT25NWGEtMWVXUkkydUFCT0pBWkVMMlFDTHBXOW9Ea2JGeVl3WnlrUkFjZjhJWmlKZkl1RTdTbjZ2TUR1Y0szUnhQV2RiNTRZVGhsZkwwcm9sOUp3bG1kMjg0NFA4X05YeDl4bUZJbnBtYkhpVkw?oc=5
+- **2026-05-23** · [The Long View] Keir Starmer’s EU drive put in doubt by ‘rejoin’ calls from leadership hopefuls
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTVRc1pSenZmU1ltRjNpc2lGTlRmVWhmbFhsMURMZUpPS0RIVEFORkVIdklxUjlBY2oxMzIweVk1NENueF9mWTBwTmgwQWRodDhpS1RhSjZ2bVN3YU1wLTkwc2w1TTFFaGFvMUI2Z2oxaVhVVU1EbDZiM05pOUtSNkdhbk8?oc=5
+- **2026-05-23** · [Markets analysis] Gap between London house prices and other UK cities at narrowest since 2009
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWFmZWc0WkhjRXc4MnFnempwWVVEclNvV3ZucUQwMklzb01aRkNtX0xnNlFPWGxyQWZyVlpDWkZVaEozRXc2YWsxOTBnZFYwcm1kS0tZamtha2lzenlVSi1FYlVESmRWOS1IZENaNjJ3WmhSUFRPOVVKS0JJcW41NnMtRHg?oc=5
+- **2026-05-23** · [Markets analysis] Biggest UK mobile groups suffer worst year of customer losses
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNajBEVEpyT1NRNHVxd0V0ZlV4Q05XRXdCV0llVk5aQ1FuMWxBZUxla2oxVUl5RDM1YXBMazdBYmJxSnhadVZYR3NadFA4SHpBUFp5UkpLVXdFT2RTb3l0NTRPTG5aTkdpby1lVERwd2pKQS1sVng1Rzh6WENXVmRXbEw4Tzc?oc=5
+- **2026-05-22** · [Unhedged, The Long View] Gilt relief rally sends yields to biggest weekly drop since 2023
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmxUdXVZaGZuMUJ3MDg3bHg1R2pTaXRFM3Yyd3pCYzQ1cTVEYVdhMHJfZmRhVlNjTnZzZXBuOHZKYW9ZcWx4X3FNX284cFliZWZ5MTd0UmtLVFByeTFOay15UEJIaHdOTDFheFZ3cWhwQ2ZtUENaYktpR0IzeWZFTUgtcE0?oc=5
+- **2026-05-22** · [Lex] Get ready to take sides in Big Tech’s giant IPO bake-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkhOZ0xYMXB0bE5kVk9YeW5fTG5zTGlBRWw1U1ZPODFhc1JtNU41dlhNV2h2aVdiY21Ma3F6TzRPaVA3MmxURnZlNUpZTWxWblpZM1dwTjBuOWM3NVFSV0tZbURkcUhIN3ZzeGNKUmtvandIS0NuXzhlRkhRT1dKaTdwWU4?oc=5
+- **2026-05-22** · [Lex] The boutique bank that eschews blockbuster bragging rights
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWlHTHotT1V4VURSbmFiZ3RxUGRJS2FuSHdTUDFHWTRhcklXV183aHFJVGxFQVVjbUs5M0ZDVVE4VVBrRnNGVWFRNUhBUUVUVjd0TUxZWl9adWdDeGZnNTVxWFNZcEdZN3ZET3FaeVB0TWUyNTZ2UDdHUkxIOTlOWHd5VHg?oc=5
+- **2026-05-22** · [Lex] Swatch and Audemars Piguet’s collab provides a much-needed pop
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLURRR0NleHgtNERiQXgzQURQbDN5VTFoTERzTFVqQ3NWcU1GcFRpYW9fMHNLRi0yV2JiWnFpT3N5MTdFUHE3SzdIUkF2RjJHbExyQk1naEZUanBnMUJjVHR6UGFRN01idElTcHJrLUZFdlQ2VzR2OTRsU2t0TXJPY19ydGM?oc=5
+- **2026-05-22** · [The Long View] Bond slump stirs vigilante fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmpmSnlDQWd3cmtmNERKMW1reXhYZDBPek4tNk4xZHhEaTR0dUNJaWdpbDF1c0NoTXlidjZfZWFRMVVIZ0QyYVFPRWFPWF90OEk4VnVPbjMxMDJWTDBpeWlWNFJGSXY0T2RKQ29rNHh0SV9jVHpxR3J0d2dvcFNqN1c5Snk?oc=5
+- **2026-05-22** · [The Long View] Andy Burnham says land in the UK is ‘undertaxed’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXhUYW5XRDRMRXlfbS1aX0VFdmNQMjZUREdLWlJid3JXU0hUZk42UW5OdzR6Y0hpME96XzJ5Ty1VdHRyVEpSRXBEMV9PcXRMUS1SQTJ0QWJCWlQ0NHNfMlhuY2d2bHZMWlo1WUJuOXdROTUtUjlFal9tUThsT2lYN254dkM?oc=5
+- **2026-05-21** · [Unhedged] Carson Block: ‘Maybe the dumb money is the smart money’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDdleFplTVYzMDFuYzROTTh2aUQ3bVpJMHVNdjJfX3pWWkdMVGptZ1JrNnF4Y19xc2ZHOGxobkNZY1FqcDVndHRleVU4c1BBZ2JzZzFPNE1qSGVYdFYxSTY5ZDVZcFQySW90MlJQVklBdUNPTDM4ZTY1Rnc5VjRxVGYzWTc?oc=5
+- **2026-05-21** · [Unhedged] The oil reserves dwindle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjRxemhjd0gyVG1rd092bUJ6djFpdS14SzR5dkpnQXl2VHNnLXEtOVhTcWlLT2k1RC1TazlHQ1F6dEo3TjRtWVhISktPNVFic0tXWWh0bWtzTjZwenNmdjM0dHFZMFlLUmpGUVNZSzI2UFJ2ajBFNTFnTkJDVTVLYUllbXI?oc=5
+- **2026-05-21** · [Unhedged] Nvidia fails to dazzle investors despite lifting dividends
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOM21vdkhJd05LRTlKc2JHcFhHdm5fSldfc18zSmUtZXAzRXE0UW1DYXlib1pJckhhdWtPY0JKNG9KdmNFOEJSQ0RYZ09BbktPSGNFdzNKQnJyLWU1aDdfS1VmdG5lNW1Vdm54REdLVjNHODJ1V3VWbDhzcTRpSURBRm5mSnk?oc=5
+- **2026-05-21** · [Unhedged, Lex, Markets analysis] How to make sense of SpaceX’s nonsensical valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHd5eC0tVkkwaUlwTjByU1MzNmRqclFfZEs4d2g4WlZILTVtOVZsejkwcm0zNGpaWnNrWGhtYVhBU1oyQUl6YnBBRTRkZGZaZ3JoeWhwRDVFczNGdEFlOXpMcDJrTFFfanU3WFdFLU9WMHpVdXFuOFlXR3Nra3ctck9fZWw?oc=5
+- **2026-05-21** · [Unhedged] Musk, SpaceX and Muscovite fever dreams
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzBPOEtRa2xya0dzSVQ5RmdYRTg5SW9tSUhycE0zNHRlYzJ3LWQ0bVR2dkNSSEtnMFhYbTE2ZGgzOEZ0dWNkeXJEclliZC1sOEZBRmQ2WWNLd3dKT3ZGRnNreWlzR0xOeHR6eDZiUUtObnRFcnR6QTVVY3lnNGxSTlF0b2g?oc=5
+- **2026-05-21** · [Lex] The fragile maths of Uncle Sam’s energy self-sufficiency
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk9tU1ZwVVVLeDhMYXhnckJzRnBRcUQ4Q3lKZlo4cjBEU1ZLdkFBNDIwWGNYUXo1NFhvdVVnN2NhQUdqWWV4MXd3WG5ic2tRVVFLNlV4UkViQ2xjNUZsaGlRaHRzZkVieU1WdFN4UVR0djQ4bmV6QkVLLWZtUzNpZDFodkU?oc=5
+- **2026-05-21** · [Lex, Markets analysis] BT is finally getting on top of its altnet threat
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnF1QUJzeEdha0lITDZxczV6MUpUaWZodDlsLVJoYU5MWFdmRUFLdHFKV3dLUW5xWXNDaW9BdWJZLUtGeUhITFhKUGVNOGxMVGxyYkVHRFBRaGJtNkVkczB2R0hRbXNCU3EwN04tN3V2aUI4Qnc5a3pLRlhWWFNVNjY5MF8?oc=5
+- **2026-05-21** · [Lex] BT chief warns AI boom will push up mobile phone prices
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1QUzRxczRiQ3U1NTR4dHFJQ21PUnNXTVFXLVBWeVMzQXl0Rm92UjFqZFhSaU5sQkIxU0hIY1dtSVczUDhHNVJjc2FfcEJ0TWF5bnRwcTIyYmJqNHNITXZYeE1KMnlfRFJLazNwYm5nZlU?oc=5
+- **2026-05-21** · [The Long View] UK business activity fell for first time in more than a year in May
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObUNXN2Z4bFdGS1JVRFo2T0MyQnMyeGNjS0ZPRFllaU5yYVFvRkxCclBBenZIR2lyb0gwUnBpSWItLXNLSFRPQ1JFYzdkaHEwUDVVYzZSNnY5dTF5UzcxbmlQOXNDbEk0TEtZN0pVY0pFNlFGcVdLaDJmX3ZEYVpaQ2tCYXo?oc=5
+- **2026-05-21** · [The Long View] FirstFT: How Goldman landed the SpaceX IPO lead mandate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWc2Ym5weC1IQ3N1aFljc0Q1LVFoTmk2eEYydnRIWURJOFNTVjIyd2VldmdzMl9uTF9WV3BLSjg2YkwwT19ickNJcXIxSUx4WUE3Tk1fQkpCNUV6ZXZuRnFNOHpWeEhRcktUZnhNajBMSDdGUWhSUVRCRnQzMzFYWXFoSDA?oc=5
+- **2026-05-21** · [Markets analysis] MSCI Announces Dates for 2026 Annual Market Classification and Accessibility Reviews
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmJpdG9ONTgxVEh4S2xNTFZoYWNNTjQ5MjRyS1F2V2tGcmRKMUxpdVIteUdPMkpmZW5MUG12V3ZTTEdRbEFsc0hpUXBsSHI5WEpNMVBRNXN0NVlrM2JhQ3JGMzBaSDk1OUgwYmVmZW5lZU5fUVRxdTZWOW13NDh6WDB2d1JNd1BLNkFvNjhILWFWRXpkR1N0NEVIM2ZuS1BiZG9HWE93?oc=5
+- **2026-05-20** · [Unhedged] EMs don’t panic like they used to
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2J5V3RQQXpoMjBKOUtHMGxXdFhILXVnbU1CbGxaNXlFQV9GVkhHWUxTNUt4SzdjQ3UwNW9pUGQtd2UxX0FGdTg2aERJLWdpNUhCdXF5aGJrTTA2YXBtRkZTVTh2ZzZlWWwtRlpoSGR3bkg2M0tkZ0x5SmpOVWd6RkNna00?oc=5
+- **2026-05-20** · [Unhedged] China banned Nvidia’s gaming chip during Jensen Huang’s visit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUlSWms3SWdwUnZ2MmlpY3R4Ny0xX0ZRS2hIalJPV0pWa3BGeFZSbHZwY00ySEV4cHJFSUVlN2tud0hwWFJFck5MbF9JcF8ySnlxNjcyY2ZUWW9US2pSNW51Y0tzWGszWGtWZmJFWGhVUmNKVkMtTUx0NnJCemhUYWwtVXA?oc=5
+- **2026-05-20** · [Unhedged] Elon Musk’s SpaceX sets out plans for biggest IPO in history
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3hfYl9IeUVlb3NhU09raTRGUkhtbldWUDRHeW5oSDRVa05wSUdVbHpIV25uSUhWdTY2QnhJZTJTbjVPRWZVQWE2d0xqMHo5SE9LQkszTFNJUFhjaXlqejIwWnkzYko3UjlSVVZNVEt2U3FKcS1TajYyYmlBQkxQNzYxQjU?oc=5
+- **2026-05-20** · [Lex] Blackstone’s $5bn data centre plan melds creativity and necessity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT201eEphUmlObkhURjVwb0lVd0lUY1pBWDhnWlRIby1MbjA5QV9vT2VTandqRXpTV3JBSXhTYmRHcWJ0dS1VOHpPenN5Z3ZscFNwdXBqeVh4ZWE4anFsMElTS0FncmZpdFZDRHZBeW1LVnlFQU5oeWo1U2Uyc2FyeGFfWHc?oc=5
+- **2026-05-20** · [Lex] M&S has won over fashionistas but not yet investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFB0LUtGUGg0c05CNENEMmR3cmtKeW5jTXlORzlGd0w4Uk8tWThuVmJ4RnkyZjJVNFlSYkhQMkxlVUYxNEZvbGluUWJYZDFVOE9XSzVLcjVheEtFZFRfdlJTODhPYllhczJraUVwdjhjTVBlS2NIZmN1TGg4UGQwd2dFNHk?oc=5
+- **2026-05-20** · [Lex] M&S boss slams ‘preposterous’ proposal to cap food prices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmF2VWpMOW9vc0dlbVQyWFhlZFlfdV9kbkVDU0U4VzJuZWM5S0JvZjRhZ3pGS2x1T0RDUnhDMWZUS2xNY2N6TzFweXp3eXpwdkEtdWs2ZlB4YnVPUUxzdUp3eDVFN21tenVhLVRNMk1lOVVBUk1BTDk4V2JQb05yaHNrN28?oc=5
+- **2026-05-20** · [Lex] Starmer’s crisis lands on UK housebuilders’ doorstep
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUc5Z2t2Ql9IeVQzcDNHWHhMSWpiajNrY3pKZDFqMkRzZ2V3MDBQeEVmdkVINHZHRjluWnJIR3FRWWhOZl9ENS1oaWtQbGxqc2JBd2pxYmVMbXJDelNQT1ozVHgtVWd5SWc3YXBTcXFLYmtPZTFYSXFvWTduVTNYM3lzVDU?oc=5
+- **2026-05-20** · [Lex] Jaguar Land Rover plans to develop vehicles in US with Stellantis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUE2ajlhdklXLU1fZ3J1OGpaZ3k2N092MGFYbGZGSVp5U2dNRUZpa3ZMbTczejViUWdSQzBfQVBvOGVBUTdtTFVYbG1tNUZ2UjRXRjNCTEwyQUNtZ21hTlZMMWVyNjBsMENtc3A3N2ZiT01DTmpJb0UxUUhLdHkwdjVUSTk?oc=5
+- **2026-05-20** · [The Long View] Rachel Reeves drops push for food price cap after retail backlash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUV5Yy1vRVFiSDJ4dG1QM05TMzh3aXlvSzlGZjFFVEd0NXBmOU8yR0wyNDZTYXhRcnZzQXluSS1EN0tGZHlvRXhhMlMyOHFPM2VBWUgtUUJHT0wyTktDN3dHZTNHbS00UkJOZ1lDUG5WU2lFa0htZjE4T2N1UVBjZWx5Z1E?oc=5
+- **2026-05-20** · [Markets analysis] Americans beware: markets can be out of sync with reality
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBwYktabmdxQ1dmYkc0Z3VuNEJHLS1vaVdQMWlXWkNKMTBuU1NEbGFIU2hTMnhvN05jSUFSbHRSLU45OW4za3NWbm0xNm9EUGVXd0Y5eGNPc0ZIYVN0b014NzNSVWUxeVJOUE80U2s2LS0?oc=5
+- **2026-05-20** · [Markets analysis] The benefits of an investment bubble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmZJM0c4ZzlnQmNUTnd3UjMybmM4LVlJVV9ka2RhWVFCS0tQYWdGOVFTRWJSMkJYOWhoWlBqZmpLWjNHRXZWMkFpU3lfYXYzR1I2aUE1aVBjT29UVzRyTC1ZeTJjX3lvb2V6MVV1LW9GU1dWWFpwMXdycUtid3lMaHBwa2I?oc=5
+- **2026-05-20** · [Lex] Energy is now a business KPI in the age of AI
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFc5TXRQQ1AtNVFRbzRCQ04tUklGbTlQbnM5QUtuU291OEJUS0hKMWt6R3EyQlNRUkpDb0pBdGdhRnlNS0U3emlaTDQ3dnNGck8yMkVjLThyX0NnU0pYWElqeGFfNmV4NXFOcWlHWUM4djNUQ0dTSDVNQWhvT3BDLUc1YzBpRUd1LWdXWWMzaFQ4MW9CVGpSdg?oc=5
+- **2026-05-20** · [Markets analysis] The corridors of global capital: how flows are reshaping markets
+  - https://news.google.com/rss/articles/CBMivgFBVV95cUxORFI1UzEwcUFuZGNGaUM4Y3NTdndseFo0d3dtbmpfU01UdjM4b0QzSHVkUl9pMXZkb3BRWnBrWXdoMnY5ajg2MHFoejFKcVhHc2Z0blRScGRYNXpVZWVodjg5dlh6b2NOcWc0UjNlWGpNdTAxVHJtbEd0NFZwc0d4bGlfVF9pVzhfMzR4UHRFYnlQOVU1OGpfZ2ZTMlhidmNXbDg2ak5COUxoQXdma1lFVDVaYi1heEkzRXB3dHZB?oc=5
+- **2026-05-19** · [Unhedged] Luxury during wartime
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkUyVHZFRXczU054U1RFcmV2bF9tSjhpX0Z6czFOb0V5a3hEV181SkM5bV9zekZVcVFGNXgtdGtIa0lLeTEySzBJb2Q5LUd1N0dTZmJmeVczRld4X0hXLWhiZWVEWVRYNS1ON2RvQURqbHo2R3JYTDFFVmduX3VQdXNoYjc?oc=5
+- **2026-05-19** · [Unhedged, Markets analysis] Why the BoE will not ride to the rescue in gilts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTBjX0daUGc5cW5mbWhHSkd0ZXMxQTFlcEFUeUVDbnZoNHJMSXJJSEl1bzhYOEJIRGJxckhxNUVvOWF2RWNTQkpoV1pCOGtHelppTHdYVkY1cEg1czhjSzN4N2JOa1oxcVN3emRnUno1YVBRNl93WmNLNmpIVXprRF9FaGM?oc=5
+- **2026-05-19** · [Unhedged] How to shield your money from inflation
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE01Ym51VU1VVXRQbmpxLUU3NHVVV2pEX1EtZUhDRUFFYzNKTjZUaGpoa3NFc0dqU19jWFdONGtNOHIwelFaSFpIeWdRV3Z5MXdwbHR6QjhfMlBKeEMtWGhhNVVqMEwzX1RUd0ZfZUJmbG0?oc=5
+- **2026-05-19** · [Unhedged] Nvidia’s Jensen Huang bankrolls AI boom with $90bn deal spree
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGdsRFdhckdacDNuTXZqbVplWm1QNURXaEJ5VVVKamdUTkNlb0NyUVh1Um1PTnZGSU1sa0x4bFpoZkxVMEZFMGxXbjBJMEVrZld1RVE0eW5TQTQyUGY5Y3RJM0wtM2dwMFJwU0NNX1J4a0JNYXlCb184ajdHUU4xRjNJSVQ?oc=5
+- **2026-05-19** · [Unhedged] Is Nvidia too big to fail?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8zV1Z4cjVaWHFIdERwMVk2dlFFY0o5eW5zUF9mNF9SZEtWNmNwTjhnMGllT284N2RSUm1CTmJRSzRTeHRQU0RQU1VYbjlaQmNnbnF2YzRjUm1vaVc0MGN0NEhlVE9XbzVTY2ZiTEVOWS0?oc=5
+- **2026-05-19** · [Unhedged] Inside Jay Powell’s turbulent eight years leading the Fed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHFsR3h5UE9obXNSMVd0RDliRnNrZmQ0RURSRFJTdE1NU1B4bGhLNHlrYUZFa1pXQUdHMnA0anU0MnhnUUhFbDBPckxCV1AyWngzb3h5NTBCNlcxeWFkVkhacU9EcFlaTXh5QXRzR2RYbmpqVDNxWUNQT3R4UlR6Y2l3Vlk?oc=5
+- **2026-05-19** · [Lex] Merger spirits could lift the UK’s languishing mid-caps
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1RsYURiS3Y3LXowTGZ1TGN5azRjR0JuNDd5Zk9hRnVwdHFMa2hqTWZ4Qi1CYzljRU5wN2Nmb0Q4MFcxZjBvRWhxM3c4dXFsVFhGeW9CZ1hiZGJHaE5udUoxejJVR05idHBRT0VLOTFsTEJ3eHYtQ29lbkhVVDQyZWJ5QzU?oc=5
+- **2026-05-19** · [Lex] Wendy’s is a prime candidate for the Nelson Peltz activist special
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEo2N0hyOXlCLVlLWkhBVzA4TmZfYmNPenIzMnd6S1hFZHVqWkxVQVJ2eEl4Y0lQaWotMU1IUHR4NHQ0WWRXcndfbVJsOFNqTEgzUzU1YjNqT2c2TlNNeC00THYwQVBqRmplbXZZdkJ6N1h3djNycGk0RlRfYkRvT1k3NVY?oc=5
+- **2026-05-19** · [Lex, The Long View] Stock investors are high on hope and low on cash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWndOYzdXRXBIUDZBZU51akFKcEJqM3hjUFBvOUt3N2xCa282VXc4aDY2akVmQnBMMFMxZEI1LUI3Y1ZYbGNpMGF0QWV6ajIyMU1sV0tReHhZTWVoT0F6a214UzhBVlIwUWtFdm9rZ3Vad1ZGTUx6RUFWQ0s5eG51cmlTM1A?oc=5
+- **2026-05-19** · [Lex] Monzo boss pledges European expansion as profits jump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkhGbW9mSjJ5NVVWaUc3NFpJclBhaXV1d2NJcVAtclEwSS1RZ0RHekpPbEx5UnNxWWNiZ2RvaUtYMjJ6RHpiaVFBem9fa2hDd2FYMWtKN0JPTVlQR19hdUlRVHMtNWw5WC1FRDBUZ2VPRTBaWnR4bEFRcjBwUlNQX2lCczI?oc=5
+- **2026-05-19** · [Lex] Crest Nicholson delays results as housebuilder seeks leniency from lenders
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWi1BUU5zQ19jVG9UVzYyVkZFMzEyUHpFWGY4YnhIcGtqc0p4b0x3bnhnWmRmREdBbndIVG1Va0IyM2RNZW10THlpS1hYb0tKNldVaEs0WjNjVXZxWjlWT3NlZXpJeTZQNXRBbENxV01IYnZXRjE4Uk5Rbnk0cldTeEhGVVE?oc=5
+- **2026-05-19** · [The Long View] London’s economy loses its lustre
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXYzeGN5b3VqWlROQk55QWhYY1hQS3BtYVpxV3NEZ3pyY3pFZ1Bqb21xMkl2YzJ0d0lEUVVDUnBpQTFvNDZzQVphQlNEeGhLN2x1OWpCUUc1WGNIdW95VW5PNHlia1BDTHZCdWt5VmRqOVphN3BVQXIyOXc2T2V0Rl9IcEM?oc=5
+- **2026-05-19** · [Markets analysis] Barclays Research Expects Humanoid Robots to Fundamentally Reshape the Real Economy
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjFOSmFFNlBRdWxJdmpkLVN4eFp2ZVk1a2hmMmYxUEdwSUdTQ2ZkRnZobVl3dGtBX1VEQ2pBQktwMGViUHVUMzB6b1dIY2V4WFpDcDRxcUpqR005Tm5PcS1YWmZXVUNBYmtuTldvTnpIWXEzNktCeWNNaEtSRlZfWjJSTVdkcndsSzBaSTFiV1JIbDBWOWw4czVUVnBJLUZxZUM0Q0R3?oc=5
+- **2026-05-19** · [Markets analysis] The energy crisis may just be starting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFcySTJxZ0dwSEd3U2taV3VfUmthRklIV0xJeHdEQ2xqOXpobGwtTjZSWnpoUWt1dlFJd242blJ2bDVNVHpJWnpWZ1hGb29xb0tGQVJsUzVUOC1COWJDcmpibDVoVmJIcVhSeUphV2pza0VzTVVjUmlPdUJhOEZqSnA1NW8?oc=5
+- **2026-05-19** · [Markets analysis] FirstFT: Elon Musk vows to fight on
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0dKX0YwWURZa3VVOG1MNktOWDJFOWNlaUNoYWNBdlFIQm1wMGFBQmFnZGJ3RWphWjE3N2VTWXRhVDU4Z1NkN0pmM2tCOHVnMlp3bEw5QzFSMUdDVlFQamJ4OHNVTkxnYUZJX3phWFo3anZPQ3FzY24zQWRGaDhLSC11cHY?oc=5
+- **2026-05-18** · [Unhedged, The Long View] Vibe shift, continued
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUlpVV9hSXV0ekIzNnJCNG5SdEdidk50NnQ3WkNKZFB2eXRDQWdLRGY5dFg5MmhCalgxbXJNcDFDY1dZX0c4UENuQkhKRWpsWjBEN1I5OG1VOHJPcm1QbndaWGVYbjdPTEZmTnVxTUhKaExVaTZyWlBENjVWZk02aEM1VzU?oc=5
+- **2026-05-18** · [Unhedged, The Long View] Worries on gilts point to wider bond market vulnerabilities
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ01wYjVIQnY3a2dlR1V1dzNNWUFwVTdIdTZMYUpiMkNSWTZCcjR2cHF4bmFVSzlmMlZqeHhmR0Q3eXpKa0lGNl96YjJrTVJEODFvaGJwc0lNWnliLVJYN1NTOS1CZThLb0hpdE1za09RZDJTTU9mdzNfS01SaVJDU1B4YWk?oc=5
+- **2026-05-18** · [Unhedged] SpaceX IPO set to hand $20bn stake to one hedge fund
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmh2bk5lNmxLMERJRTQycEVVQXA2YWlWS2I2c3FGczMyREdiQnpIQlFUWlVmd1FCVFdhSHJGbThTaDR4SDhudWxuM0JQekZlaFU3cF9uNE1ONUF1OFl2eWtESHh3ZGJxOG16M0pDNG82SDRwLTRFSVlYZDg4LXloTDNCZDQ?oc=5
+- **2026-05-18** · [Lex] SpaceX IPO adds air to the Silicon Valley ‘genius bubble’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNU2lHOE5GTTBZVDdTZGRwZ0ZIM3lZTnhYQ2lnMVF0MkZJT292Zkt5M1VXYXJHTktnNXR1Q0JGaXdZTnNIVzh1RFByYkRrMTc4MEJHem1Rc21ha25XSmYySlY3UXc3VHJyU0VyNUF4ZU9tclNabnMtSENhbmdYdHh4VlA0ZEs?oc=5
+- **2026-05-18** · [Lex] NextEra bets there’s no such thing as having too much power
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMHdPT09TZG15eUozaW1JOFdENldYMWhxRXozTXlDck9OQ2VweE5OVHd6QWxqakJMcXdDZ3JYQW4tWjlISndPUmJtOHVfWGZIbjZLUmRVNk02V2w0bUxPZnNpMUhqQ0dIajZITEU3NDNYTWtOS1RNd3pqRWtMOGJxRnZUVE8?oc=5
+- **2026-05-18** · [Lex] Tank maker KNDS comes late to European defence boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGUxMkNqbzV2SFFTMTVpbEZFSWpqclZnRnpmRGE5SS0xaDFwSXh0ZzJBMjBHaG00MzN5dWR4eWFHU2xjN3dieVl0MUhjTjFMbFBlMkNtTE93dFZEcFlLRzlUMUFCeVdYOC1uaGxNNk9LWE9xUDRlSV9TUkNFOWhDcTM0VWc?oc=5
+- **2026-05-18** · [The Long View] Bonds extend sell-off on inflation fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTB2YVNINkhlNzJyeUlRZ0ZCbjY1QXJoeGRSbVVZVWJqdmtsemlObE9DUDktMDRkTm5PS1hreVd0V0ZwcF8yTjJYUlZqdDItcG4zOGI5NTlxY0RYcHJ6YWxZYnpuOWdzZk1kNjdfSVhxM18wMmx4QlBlZFRoYmM4d3FZU0M?oc=5
+- **2026-05-18** · [Markets analysis] US-China summit: postgame analysis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNXpPYjNkS3RpTnpZbjBJSElYM1pOTEtUYWMyV2wxcFgwQV9mTUNEaXFUUk9YYV9wQXpjQk1Sa0d4aGFmTkttUFhuRFl0a0RtT211dUgtVTUzSDR6UUcwdVNGQk9PVDN6alk2dmo2eTJ2MlUxR3hUWXd5cHlNcDFOeUNxWVQ?oc=5
+- **2026-05-18** · [Markets analysis] Big Four post more job ads for AI specialists than auditors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGw5QUE0T2pKVGdoU204b2VyWHMtNlQyOG9vX24tUTU5Uk9nR3ZEWEU1MDNEX3VCdUJXbHJDUElERXdzRWtwemNLZVVnZDBiMTNfeHN1QkpzNFBndEFMSk9KOFJkQWlkMDgxTThhNFYwVHhFMHBEbFVnaG1mODctNTFUcVo?oc=5
+- **2026-05-17** · [Unhedged] Bonds bad
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlFXTGwtLWt5ejFoTm83YTk2UHlVTG5XRFo0MGstZlZFMEFOSUxYdzlUNE9xTUJmaFhWQXNBVVFYNDNSYXNlZjZWaHRhLUpOejBreEhheFRMbHJGUzU0Q0gzdjltZDZTMlhjNmVVUTNJMXlmY09RR2ZHaWdVcG44T2dRLUk?oc=5
+- **2026-05-17** · [Markets analysis] The looming energy crunch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFRYZ1FQV3hIUFgxWFliS2lKcGF1SUk1WTFCS3h6cWY5M3l3TS1LVkhib2ZkNUplNGZXTU5HX05rQUdQSUJnOWtQaWtmakxmWWlVdDJxZ3pDNWZBZWV1b0hWUVNJeXM3ZHRhejl3eXRVblh1bVcxeFkwSGNLUnFWNy1mY1U?oc=5
+- **2026-05-16** · [Unhedged, The Long View, Markets analysis] Chart of the Week: Gilts, not so bad
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWl4cDFQdkpQekQ5VWl0V1V5cnk0aEhhNVA4WjAtdmhPQ2tjQ1NyaGpoY1lUdEZOd3pOM256NlZKSnVMUUMyTlY1OHhuVXpYOXVvVVRxWUlKRl80OGRDcTRmdE1ldUt2dkkwSjVWcWZ3aUdxaVhhejc4MllCdW84ZkI1TTI?oc=5
+- **2026-05-16** · [Lex] How Britain can tackle its mountain of unpaid energy bills
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUpBejI2MWpmX0hUOWxmaWZtYWZFZjhUZFZERDVfZDRySkcwSndJTld2STdBVEwyU1FLWUE1d012YmtrUm1sb1RwcDh1X3hMajlwT3oxZ2EzZnA0emdJN1h5RHpfMEZJNGZFX09MUEMzejVwZGNWVXV2OXBhY1NzZllSUVE?oc=5
+- **2026-05-16** · [Markets analysis] Birmingham braces for chaos as multi-party vote leaves council rudderless
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2R6bDc0SFl1bmVnVTVkODV6Y0RIV1pPOEx4ZTZqdlM2aDVLdTg4XzRpSFdGUEVOb3lId2N1SGY1TmtWY1hqZU5FbnlyYWcxVDJ1RTRnSzZIbWtBVFoyVldNRU92UDNsVFFYVHdIbFhLV21RMjJqNEpnMWl0dlRYckgwbFQ?oc=5
+- **2026-05-15** · [Unhedged] Transcript: What’s bothering bonds?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHpmLTNqRThtSHlaaHkwOUJ0b0owUnhKbXJZWE5pVVJfTDdXdEVhMWRaR1h5bURxbFI2ZF9WbUd1SlE0X25pUUhOYXVMRDRYQ0lXZ3FMMlItckVHNjM4SG45TGUxaVdqc245bGMzMEJKSHo0RnNmUFQ5Y0w1Z3JPQ2pxNnQ?oc=5
+- **2026-05-15** · [Unhedged] Global bonds tumble on fears of inflation shock from Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWthZS1LbU8yenZiMlhXcUNpMFR3M3JkTW1fM1B3Zk5GWDVGTm5BRzFzajIwNUlMcFBoek1CV3pvSlBxczF1TGd6MV8zSndRWjg5WHlNUVRJY2p6ZmhZbmtHQ1JHTHRhNWtBdzJZV1RpaXBWZGlxR096OUVsQkdoai1CWVQ?oc=5
+- **2026-05-15** · [Unhedged] AI boom could end the de-equitisation ‘put’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1PakNPTEVZbWdEU1FWbG5KX0lBUHZXWWhXZVVYMXZKUVZfYVl2TkdTeUJWeHV4eWpyMEt1ZWlFaENrNDB1cDRWY25LSzhNd2VIOWRzUUcyM0NzdjB6dWZHTVhnc1g1c2UzRXd1MEJiYjU?oc=5
+- **2026-05-15** · [Lex] QVC’s creditors have a nasty case of buyer’s remorse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ19MbE1TMGdUbG45WGw4Q1RoSnRSNnNtNGZpTXVldUFGT25WTDQwRFNfbVdYS0pjekxHU2M2RFNtTkFoRmNyOWlzNW9JTnRlTFA5aVcydldkcEJrZW9HcHlqV295QThfRUQ4czl2ZU42QmdqOE5EcHZhdmIzSVNWemhlMzI?oc=5
+- **2026-05-15** · [Lex] Why the IPO of bike-sharing app Lime is no lemon
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNemNGa2Rkb2sxY1plaFZyWHVjNmQwSUNfRHFIWG95NE9rRHA4SnpGcmFxcjhSUU1tM1EwRkwtZWNXbXN3ellHcDhGOXVWQ1lTV2xCdFFoUGpyeHpKS3I3VldyMUNhMGstWDItVUtsZ1ZucV9CQ2VCNVRmYXIyS1h5V2taSlI?oc=5
+- **2026-05-15** · [Lex] Jamie Dimon and his peers should beware of ending up on the UK ballot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeW84Xy0tODZYUW1oRGVaeUlHWG9KdmpzeXA2amVVR1FnSjZQa2ZheUduOUk0Z1JQNEh5SWJEU24td2c0WEdKU24xX2NsRkxqZzRvNDdCNHhKY3pGVmJDMVVHUDZReXluNTg1MVF0SnA5RXZ0Z05NQUVPNVVDaV8yX2Nydlk?oc=5
+- **2026-05-15** · [The Long View] Party time for stock markets cannot last for ever
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFRfX2w2dnFlN3dvZGpPb1pmWHNEVUQ2YVVzSkRPbDVFdzAzMHVHUFlkWjJBd1ZTUlQ1TndjaFVmZ3k4RHJhSFFfS3dnYldSLUV5ZDhEeHV2Z3U2QnBSNmdNM3pZZHlJWDVDR0kwOVRZRjdVMXE2aEtmRE04X3RjNU14MGk?oc=5
+- **2026-05-15** · [Markets analysis] Bond market freakout
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1aUzBGeWlrM0U4UnlNc3YtczVxUF9yQlFrYXprWlN2cWE3Z1dvRTZ5ZFkxRS1PUXYtc0p3WXlhMENqM19hWV9uemc1bmRtNWhNbFl2cWV3TTUzSVk2blZjNkxLQ21rWUtLSWpjWDB4VFM?oc=5
+- **2026-05-15** · [Markets analysis] Trump discloses hundreds of millions of dollars in trades in first quarter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnVOSzRWRFl0N1JuVE05RDRCR25hVk5ldlNtVE8xdWQwczFQeXA2dkp0QTdoWjk5T1BEUzRZZTE2WkJxamlKajNnLURwOXdWSkNqa1pvUGJJZnpRdzkzdnQ0WFJVWjNuU3ozUUVmMjBvckZucXp3aVhtMzNjM3NDeGdoT20?oc=5
+- **2026-05-14** · [Unhedged] What’s bothering bonds?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFB6OGtxc1ZkN3lZMkMyUU1xQkVYcTRHeExTTC1qZ1Zoa3BVdHFTMmg2enZtd1Nua3otaXpWa1NBeTlNWUZtTHljU3pFVnkyMUdPVWg2V0dOLU5HOWtITG9yN1lhUW1SN3ZGd3kwdnRUMzRTWHlPZm9HeWFLRWVMdXFJVHI?oc=5
+- **2026-05-14** · [Unhedged] The great global bond freakout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOa095SWtQV3lnZG5zbjBXT21tc2cteXd2TTBCWGVVQ2Y0bFNnc1psekpxX2hvU0ZOY0pZb2lGZms1bzZ3eHRpdnduYTI5YVlFOW8xc3pBRmJkdk92MjNTekYyQlZFd1JHQkp4dzM3NFRLM3hHem03U3dWWDZXbEI3QlI5Mmc?oc=5
+- **2026-05-14** · [Lex] Burberry tried to be Louis Vuitton; it should aim lower
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXR5SjdpeEFjWTVkWmNidHNsSG1EWkkwaHRwSDJLdEMxRUNJX05HdGZycHRJUC1DcVdRQnlaMG0zNHdNT3Y0dlR6ZmE5Mk5HR1c2eEpyMWJla1JJVS1Sd1R1WTVoZTFCOUNCblViRFFZNG94b3I5SmZ3Unlxc0pMVDdEZ3k?oc=5
+- **2026-05-14** · [Lex] It could be time to bet on airlines — including unloved easyJet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS09DMXZLZHZDS1dhOHNpYmFUQkVxUnpQcVlkODNzaHdZSWsyQk02OHJkQ2dWY0x0OXRMdnVEaktvUlZuX1ZaRldkaXEyckQwTGk3dmZHT1pIblFEYWhRalhWdzg1dFRqQ2N1YWkySFYtX0JnZG5JVFQ5WTU4THBNQ1VFcEU?oc=5
+- **2026-05-14** · [Lex, Markets analysis] Emerging markets face Iran shocks with more debt, and less danger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFhSZEp1Zkc5Wi0wWEszdDhMX01CZk4yWlZwRFZaM3RlY2ZSS1hTcmJGd081YWI2UENVRlhZNGN1dERBbm55YUJRR3RXN1hPMks3MDVoOEd0dXpoUXNnSUJvalJMaDB4a3g4MldqaDYtalctZ2RMYXR4R0xHTThRdUxFOW8?oc=5
+- **2026-05-14** · [Lex] Banks line up to back hospitality billionaire Tilman Fertitta’s deal for Caesars Entertainment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmQ4ZF94cFg2bjl1Z21kVkFrTFk0b2RNdHItXzdiZHNTRHJvSFBvN0xLU2hPYXBZQnJKbnFnR195WTJaMkIwQVVJczlmUHhWQjROcHVZVHE4QUp2ZUpzdENGLWxQbDA1dVFKLXNGS0lHZzAtcm5hV19yS2hQT0lPUThYcTg?oc=5
+- **2026-05-14** · [Lex] Xpeng in talks with VW about buying a factory in Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWxUOE4zLUgwcUNDMDFfc0VDZFFpdTJqaTJ3OTR5cEJZMDN4VlB3XzJXOWlGeVo5TXg1S3NkTzR3Wk5JYl9GWU5ENzkxRVVVTzI1Y0ZhNGppbEFIQjYxRDdqR1BfOWJQNmY0bXBrdDdzbHpYSDd2NU5GM1A5Vk43Qi1sN18?oc=5
+- **2026-05-14** · [The Long View] Britain isn’t ungovernable. It’s just been badly governed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlhCTUJhaGRmOTFNWFlhdkdzbGk0RVdZUFd0ellId0VYdnFkblZWS0daOEhxZ1lMYW5oQ3Z0Q2lZYjRrNVJkcE83MDJaeUVySnM3VXpCemNxQVdEa2xqc2NPN3hmTTdsZk1nTVEzTHRybFNBOHBDU0VIeHVSVWRVVUZBQWM?oc=5
+- **2026-05-13** · [Unhedged] Mortgage refixing, longer lags and eggs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2hDT2tyX3gwR3ZsSDBRdEhGQ0VfSDhnYXEtQmh0RlFIMXBlOE9BUXhidG0xWW5QVTA2VGR6d0RqT3ctNjhSdkgyYklRZDFZdkFfQXhxOFRJd2NxNmxTbDNlbUVubF9lenl2eDAyS2hqdm45ck1YWGtLZ3N3UG9BajlrZFU?oc=5
+- **2026-05-13** · [Unhedged] US sells 30-year bonds at 5% yield for first time since 2007
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVpPV21sWm5iaU9iN1paSENQMldsV21La0NUZWVZd0ZILUE3TExvOEhGLXFRbElzODdYdFdNbUZ3QVRJZzEzNU5GTUFuSTljMXJGTWg5SmNDZTdrSVBQYzlHdkJOS3JmU0hZM0pOOXBzLTlqQ0hDakxiMUFHSEU3ZExzV0s?oc=5
+- **2026-05-13** · [Unhedged] Why Big Oil is opening new frontiers | FT Film
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1DZXNGXzRhVmFsb1cyenM0WE0wWjc5eWdHN09lRmY4MFBmUFdyd0F2YlB2SGt4bENlWk9iWjlIQVdyc1lRVVN5OG44SUNheEthVk43OXdhUHdmQmFzVVVXc1JZZzNPV0dQcXg1RXY0U1U?oc=5
+- **2026-05-13** · [Lex] GameStop makes big bet that governance doesn’t matter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORko4M3NxU20tencxVGwxNkFIYlFsR3ZJVUl2b1c3ZFZ5RXRHZkpnUDA5YktKbmdIUnpVTEZ2d2REMUpCWWxEazVMWkxubGtwY1pVZ01GY0NOZmV3MmowWnZ4Zi1LV3lfNjRHSzhyQzNWZXREUzJLNHZHUWFzamlUb0lVX2g?oc=5
+- **2026-05-13** · [Lex] Brown-Forman’s $17bn bid rejection leaves a bitter taste
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkl2N0VWaDVKSjlUS3JfMkFKQnBoS01aU2xyS1BHLTFJRzhhaUlXajlpeWRQSmNyUjlOb0FNR09sN3hHWHA0VXVkSlJrZFZfX3JqVHpRTXVkcFVXU05FMzJIM2NiQlJZNmVtVHh6eENtME5yRngwclBTU1oxXzdVazRVcEs?oc=5
+- **2026-05-13** · [Lex] UK’s financial ambulance-chasers are running out of road
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON0xZVmpLY2k1RC1Pa0NlbHBjQ3ZNdTRLU0Q5RkJWcHVxVTZ3dkh0dmJFdVd3MEhRZlQtd3h4YXlDVXhZTlRqWDVZbUMwenRYbERNemc5cVgya21NbTQ1Vm1VMlFfMHpQb01TOXRGSm5SNUNEdWc4eUdFb0ZVM0tVRmJNdk0?oc=5
+- **2026-05-13** · [Lex] GameStop’s Ryan Cohen threatens to take $56bn eBay offer to shareholders
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV196SlF3R29XSXdocUN2TVA3a0Z3dHVTLTF5YnoyaVVpRTFrVlZDeDd4SkpyaV94bXA1a0dvUW84ekxXNzF2VGd0SVB6MHd0ZWRzU2Q4RXZwcTNyRVRra3NfdjhXRXFpcUtydU1Fei1vUmZ4ZmhZeWxqU0dVb3pJbGxXazc?oc=5
+- **2026-05-13** · [Lex] Boots to appoint outgoing Currys boss Baldock as CEO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVc2b3d3WFVXUVRUZTlrbURITVQtcTJwSkNhU3pLQnFrU2NvVGh2TzQ0VjN2Rk9tbkJZTkpUekFCdWFCekx2ZWI0a0dZQzZ5Uzl4N05fMkdZQkwtRGVVNDl2LTBkb1BqSVVEVXJ5OU5ZZkhPaW1zMFFXRUpQdEJjUEQyQ1A?oc=5
+- **2026-05-13** · [The Long View] The battle for the soul of Labour
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmFkbjJwNmg5UXBPMURzUmV0Rm5BcDhJQlVOYkZ6Qmc1Y1BnNVFWQ2VFeWtieTN2OE1lc05kZjJ2RFR6VXhPMW5NcUV2SDY5MENud3pEVFJuVF9USXpLVmxkQzV2R2Y2ckxIdFhmTTFyNlM2aVFaWDB5MGx4QWFjNWVwLVc?oc=5
+- **2026-05-13** · [The Long View] What was in the King’s Speech?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVM5VWxCVFZVWnlJcnE0N2o1M0plY2tDZFlxTWQ1T0Z3V0hyaVpFbm1yZlBDQUhJSzNnbkcxdFAzWHpkdl9jelZULW9TWVhJTzdxMG5odlcxeXFaek9IeWFaMGdrSnoyQzIzX0dwQ0hVa1JpRUt4cHFRYUtXdFVuQy0xVkM?oc=5
+- **2026-05-13** · [The Long View] Nigel Farage faces investigation over £5mn gift from crypto billionaire
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXJqeW1jMVl0c2l3WDVtVWh1UExIVmdEbkVuZEZDUlRCTXUzV0M2d1ZjcjZsV0RiYnpIZUc3WlVTWGhIRmM4Mjg2Z0E1eXhtbkN6Z3dZblRaUGxYSkFJX24zMnVGaDA3eEROdktRaU1sQVVlMF9uNEo1VGN6UDlfUERjdEQ?oc=5
+- **2026-05-13** · [Markets analysis] UK estate agents at gloomiest in two years amid Iran turmoil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFMyLUV2Z2FORm9mODNsVS1jYUxVbFR2ZXhFVUdlNWE4N2FpRG9seGxYZW9TQmw1SkQ3ZFVHUTE5QmRWLWxtNGpIS3pBYzlGX09qckpPVDJJdTZ1R1YtMm1fVTJxelNEbnJNdDRtTV95S2I1RGJMbGg0SUxsTFpmRmdLanc?oc=5
+- **2026-05-12** · [Unhedged] Can GameStop buy eBay?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0pPai1OcU1yU2tJejdaTUg4bTJuT0ZQN0ZhOVRFaUZCTkVrZEFkeERzcDNtMk11TERTSS1fODBUWTJRMjZkczR0LUlYbFp2Q0NyWmI5TzRaUFl0dHU1YUhWOEg0eFlwQ1BZckxHTEhQR0VwZ3p1UEJ6cF9BU3dCbzZaVTE?oc=5
+- **2026-05-12** · [Unhedged] Disinflation disappears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hjZU1HU1V3dUZpMThNQ0oyLVdHaDBpYkE3UnJfZ3BZRkg5RWRvM3ptQnI4WFZtbjk4czNHd1JSbUJiUjB3MjNtOTljd2l1Q0hWMVZhZkZpbTExUVBacWMwZTJJYXRVUTIyUFhXOWl5TDNHQ2N1LWItOENOckwtT0pLVG0?oc=5
+- **2026-05-12** · [Unhedged] Transcript: Can GameStop buy eBay?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzYyMXpwZzdTazRhWkNxNzRMZS0yR0dLVUZJSFFRYjEzN1RwT2xfVURyRHJ2Zk1wY3hsY2ViRmg3cW13Wm9pYXlfYVpOOVlPZm13XzdSdGd6X0wwcHVYTjdkWFVodkpFQmZZdWtIdnV4eGxqV1daMUxsZGNnSWVyYlNoWlk?oc=5
+- **2026-05-12** · [Unhedged] UK borrowing costs surge as Starmer leadership crisis rattles bond markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1RoaUVNT2hYYW0tYkhKMzJpUUpIVmRsUmY3Wng4OWZ5QVQwMEJNOVpMWmFweExpVDdGel9GRjNmaEZQSXRBVkhTd2lWM2RyX1Q4QjYyY245a2xRSkxVU0JMbkpXZm02em5sSDFVbTNYZEZnaVZGSjJmdTA5N1VpenVaV18?oc=5
+- **2026-05-12** · [Unhedged] Scottish Mortgage defends $1.25tn SpaceX valuation ahead of IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzc3WE1faUozVkV3b1FJelE0cDRGaWhXdnltUzdXS0VzSU1iSUw2aVRfTW5rOGk0bHV1d0xBSUZka2NSQkJyYXpPeE5fS25ndnRIS3dVSFRneWFLN1RZR0lURHcyaU5oY3JhQ1Q2QjZNVnF0dkh2V25fOEVaRXpZTDh3dzc?oc=5
+- **2026-05-12** · [Lex] A reluctant Intertek risks testing investors’ patience
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmJ1YVh5S190SU9XNjVCMUJ2NHB0Q2w1MWhxZDRaUVZWZFl1VXNZYnRiaHlYVW4yaDJVRjg5dWtRc2xxNFA0VTJhMEZVeDd5Mk95R2tFT0UzdHVuSWo3dzduT3RyRFR1Mm1PLXF4V0loWTVfMEhWZmUtSlJ0UVBuRVFWYlE?oc=5
+- **2026-05-12** · [Lex] BuzzFeed and GoPro learn nostalgia does not pay the bills
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0xGT1R6T0YyOVRsQWhQWllYNTlKZmxQamVHVFg2eUxUV3JHN0RhXzJ6aWZQeTBEMXphdFpTOUdYWHBocE1QenVrZW0tNEt6OUtwejJhSTVfS0U4RE5GQllmM29abzN2MF9kWS12dmJDQUw4RUkxLWV5SVlCMndyT0xhdEo?oc=5
+- **2026-05-12** · [Lex] Chipmaker Cerebras joins OpenAI’s inner circle — for a price
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3lRd29xOHVFa2F1SkNycDF6V1pNNUlOdE10cG5HQnd3YW54N1RkTUpDb0tMbUNJcFlLY1NOSVJhM2QtekhfNE03ZDNWQkhlcE5oN0pJSUhydHFFR3JpQ2VpOEhqZU9vdEhtQ3l2MXk4YWRKVnQtbFV1bDZiOFB4OXNNdUE?oc=5
+- **2026-05-12** · [Lex] Ebay rejects $56bn GameStop bid as ‘neither credible nor attractive’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjJ0eEVHbkFqRG5EbklNWmw1ZGFvbmJTanYxd2pqbFZEUksyZTFCTDdYOWNNSWdaRmtNaDJRQThwWlBKaDVzMzZXa1llcDQxWEY5UWtmWVBxa3NuUG5JMjJDTm1DTEtQZ19iM2M5UGR3a3RkMzlOSEVQWHhBTkhVd1hKVnA?oc=5
+- **2026-05-12** · [Lex] CEO and Managing Director of the Transport business
+  - https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEV0ZGLXRtNExIRFppUGdsaGJqMWlWa21ZSmdfSTVadmp5V09CSjZxVHZSekNvU1Zqbk8tYVZOZE5YZjNiZzhSa2o5MEtZTGFRTFA0NlZMYzQyaEk?oc=5
+- **2026-05-12** · [Lex] Commercial Director of the Transport Business
+  - https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TS0dDTHp2c05Kb1hjcl9KOWhsSmlqTXN3MlR4cXczVFZCTjBzWExNVXk5N2FBZnRrMHdVai1zODdJUXdtelhYTVdSR3hXTERRTmx1MUtsZmk0azg?oc=5
+- **2026-05-12** · [The Long View] Keir Starmer’s premiership in charts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHkxY1NJWWxITXBmenB6ZmdaR1VzTUctTWNGZmxWX2x3YkpNWWpqcXRzakhTQ2JyUkIzcTVEMEd6aDJ6a0pUQ1FUNkNzeFFHVERaVHFFdUF6UVIyaEt1RG5PZ2ZZdXhoaUxhNEhUTVNuYzhVXzNlbGdnSjBIQ3Y1ZU1QV1g?oc=5
+- **2026-05-12** · [Markets analysis] ‘How long can the gilt market act as the UK’s political police?’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE52eE9vUFU3Q29ldjI2VWFyLTV5RWlxMEpNWmZwcF9HR2J0QWFrVlFSVkpxQllmcnNoMzhEUC02YmxLN3FQZFQwcjJYSnVmWVVSUGxvVzE3Sl93cE5faldpSnVDRmRNZXpKRUhWa3ViVXY?oc=5
+- **2026-05-12** · [Markets analysis] Miami got NYC’s billionaires. Will it get their businesses?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE90eVFYWHFyTk5GRkY1RVZScEFiQ0Y0c0R6SnVlQ0JtcHpmZlYyMEU4RFRfa2ZwakRGc3pWYWJ1dXJkV3RHOS1DWmdIOTByOHdORWpwR3BtdHRjc1gwUDgycThyQmptYTFaNjZ4eWdZMjM?oc=5
+- **2026-05-12** · [Markets analysis] Pimco vs Apollo: public aggro over private prices
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaXZvdXI3UWstbGdoWGZOZE1yMEZ5X2wxYU5HV2JtZ0FnRG0tdWhJaWh1ZUotWVNJZ3NlUVVjNEFfdWZHVHEtTWVRYmMwVzN4eW5fb3FuY3c5bGlHQkRDbmk3SnF1MHhTaVY1bVFXaVc?oc=5
+- **2026-05-11** · [Unhedged] The Trump Trade 2.0
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmR2QTFIMXhmMWpqWTVyMjNqaS02dklyZ1pUSFlqd3pzcXZEa1RWZWlBZl9VNG1QNVdoSzhHYWZXRW9wc0FLQVFFWUQtbnlKdWxrUkYwVzY4U3VXR21fckdCaXg1WHRMaThlc2pQOEZwTVpxYjU5M2psSU5WWGIzNDh5eWI?oc=5
+- **2026-05-11** · [Unhedged] Fuel, munitions and food: Trump’s Iran war rips across US economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmZtaEtDd0JYaTlDM1ExMmRDQ1NjMnEyVVM1LXI5aEV0ZWJSLThwMW5DZ2dmN0VXZ1BKWjV0aHBXVmJTN0liUXQtc1MtYXVyYnFIb3Bnc2w4VWFxWURpb2Uza0s0SXo3cHZHY2l0OEVNS2M3WjVZbElDZnBHNkxQbzkyWnk?oc=5
+- **2026-05-11** · [Lex] GameStop’s bid for eBay is wild — and it might just work
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0xVa0RRQnhDUDRfaEVYYldUVEhCQy03MjhyVW5GVXdvZktaN1ZMRUxUVF80c3dGTHItRVNER28xR2dXbzA2dlpGSjRnbGtUaHkzRTR3RjVDdjlyNnh4RmNsNW53cF8zdi1PcG9jWV9IcW10Wm9yODd0VE5tNmxVOWxoWEM?oc=5
+- **2026-05-11** · [Lex] Why personalised pricing could be a good deal for shoppers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWpvYm9HRUk5SEJnMi02MHlrcUFFMmpUYW1CWXZGS0c5dzlPLUNORmdSY1pzVGUwQTNNejNaS2l0R1hraGV3UEZGYlk4RnFMU245ME44MjNOUFhwbkw1Nl9JcmxhQmtkb25ZVUNSYy1uS2Z6Rko0Z2N4TDZPN3hkcHBWNEg?oc=5
+- **2026-05-11** · [Lex] BYD and peers make strides in every market but their own
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0V4d2pNRzhqVjNqM0RRQkxBYkxpTTVCTGQxNXhoT3dOUkMtODVidjdXdXJGRGhqaFZEZ2pLYzc5NFFBLVVZVWR6bjJSWjBpMjQzTlBiQkhfMXhsYnRNbFdnUmJsOTlzNGRpRGR1VWdqeTJtV3NlZS05TDhaLXk5Znk4aDE?oc=5
+- **2026-05-11** · [The Long View] Hudson River Trading generates $6.4bn in first-quarter trading revenue
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb21ZNzA0Y3JoVnR0ZmUxQkc2dFJpTVNPZnBFdmNadkt0S1ZwVnRuWHNOUUNrNklxLVBHeG9PY3NaWUctaS11Q3RORUt4YTAyemxSY29xc1FLUWpsUVNWejNsd196YV9aelZxOXFORkFPbmFfLTdzOEVQU1E2YnR6Z1hIMGY?oc=5
+- **2026-05-11** · [Markets analysis] HSBC convenes meeting of UK banks over climate risk
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHpJWTBLa1VWaFhpekN6TS1VZ1VjLVBFQmFOd2VqOFdzeE00N3V3MU5EVVozR2o3NTcyaXpjMHNDSE1FNk9rS0FPbS1BY0cwbUIwZnZhelZZeDVaMnJtUW5JejFScGtDVFF4emUyVUVQVk9SLTN0akR4ZUkxNTE5R0VQbm8?oc=5
+- **2026-05-10** · [Unhedged] US jobs: two in a row
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUFXLVdHelZhTkJxVGJCYzFYZDdHY1BuelVMODNLaGRLMU1TRGhRYkxnTHplTWlFTUdIZm1temhfTUZLY3doOXd0UlhsSUUzeldtQWstTVNrbmVkZ1dMQXJJVjFtTmFSSjRiTmF0Tl82Z0F2SDlPaWJIbE9UQ3Q1ZTh0TXU?oc=5
+- **2026-05-10** · [Unhedged] Iran war could prompt Federal Reserve to raise rates, Pimco says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzNMZFU3LVJaZERiVm9HUXpZT3M4ZFlLaE81bGVDUFNyR1NMbVItc3NLR0JvTzUwRkg0LThJVlZBN19ST2RKWkxKYlZHSk81ejdFbG51ZklvUTlDSjJDR2Fwa2M2aDNPbnlkUEhtNWVnellvd1JjOWRjNndRZFNyQzk5Y24?oc=5
+- **2026-05-10** · [Unhedged] American agriculture is broken
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjZ5ODBseUpFOHplRVFVWks4TVpFdlBDWlFpUjlEQnZDSXBnU0h6cFAwVGt5QTNvVEpCVnZzV0N1cVFiUXhyZGxldVZsQnJKOHMyaElfdHpqekFNczRYVWRUWjFPWFNLMG81WnlBQzdyY2NJTXN3aldQbWUyM3RLTjNoZlA?oc=5
+- **2026-05-10** · [Markets analysis] How AI mania is disguising big companies’ hit from Iran war — in charts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObERBaUliaUF0YlVfRFBTc0RTamFENUplWFlCcWotZEVPT3hvd3ZXeHBxd3RrTW1VQmpnLWMyakxuY0xHS1NRbmswZmJGdGtUaFBMZEdVOFRob0xqVWdNOE42TnEtanFGOGpsSWI1cEZnMkF3TnVOSlltVmhZTDJVdDNaYnY?oc=5
+- **2026-05-09** · [Unhedged] Chart of the Week: The narrow ceasefire rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXdKbl9EOFRmdk5ZRjdMZlJwYlQ2V0hZRFVfZlBJNVNCS1VlR1Q3bmhPWV9ILUF4bGkwamJtdW9SYTg3cjZsUW1EMml2SDl0Y29heDhKcDFxNDVfRGdJLXlPRkstc3k1QVJDT0p0cTFfM1pyUGx1eEdET1dnaDRzbWdndEw?oc=5
+- **2026-05-09** · [Lex, Markets analysis] Buckle up: plane tickets could still get much more expensive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkVzSGgwYW5yQldmOWE1RU1zNlhjZ1dXR3FBN2hKX1ZGVEdtWEJWNkVzaGZObThRUXU4MXJvX3RvYzQzMTU0RnVRQlhBaW8waG9BOVM1YW9RNUEtSjg1c21DNnNKZnFhZUl4Y0gxMUMtV3NkZFNKRnFOVkdZZ1ZYX2x2Zkw?oc=5
+- **2026-05-09** · [Lex] European carmakers take €8bn hit from Trump tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVklQZU5EOGl4Yk5vTHlKLWZXaUprX3NNVXJrSFp4X3BMYlJtdnU2ZXFIVUR1cy1HLVE5OE80VlhfaHpSUTVORGdkRVhJOEdtbjRocDlEZWVyTHc0cjNuQmE4c2xjMWdnZFdNTzlmMHdUdHpwcmF5b0ZsSXdyYUktSjFraDk?oc=5
+- **2026-05-09** · [Markets analysis] Retail investors cool on private equity as jitters spread
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFR2RU5oOG5PdVJrMFdWR0FHbU5pbUttZ2QwQWJIT1dFWWJkeXdKdHNEdEtIVnpVbm5PSnJIVFVSeWc3dmQ0WXRWZmRObzFMb1hKSWdRd1Y0SDZib3ZFaFFsNmVxM2YzZUpQY0hoVHdncjFoM3F5RXo3c0JBRlU5ZUlIeU4?oc=5
+- **2026-05-09** · [Markets analysis] Greens score some urban goals but undershoot the wider target
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON0VIczgyQUd6NjVNcTIxMjMycjVwaHhQeVFHNUpEd2Y5NjlhNGVlYXhHcDFFa3NiaW9CRkMwanVDZ1JDRG9ZbU1NamRCX0xWbHR3ZjJIaHY3aGNDRkxpdWFhaC12SHhVZk8xMUlGb3h0eEhHNE5MdUxhM2ptNGt6b1Vwa00?oc=5
+- **2026-05-08** · [Unhedged, The Long View] How politicians should talk to bond markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUEtwNXlNUXVwVUdYY3RObFZMNC1iZlRsbGxHY1h4QXVORTN0NExjUzFucWduaUNtSTRYejk2TXQ2WXV5RkF0VDFoWEEtU2xfX210VFJIb1Y4OGpLUnBkMlJtNml2cmJLLU9wWUk4WXUzRUpkUGRCQTg3d1dYYUR2MEVpMF8?oc=5
+- **2026-05-08** · [Lex] While AI pumps up portfolios, some companies sound the alarm
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHNabDc4Mjk0cUd6YnpKbUo1NmlYNUYtTzVKeTNyaEw3WnQ5dVNtTmVmaUJUQjRrNDBnOGlORlNjbFVtNzUyR2RlOWlwc1VnZDJFb1NrZjdhYXB1bDNEczVNN3ZOZ04tZWF1WnFDcklrU3hwY1BWZWU2MkRtYW9lazNSWFY?oc=5
+- **2026-05-08** · [Lex] Standard Life and CVC square the circle on defined-benefit pensions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWZSOFdobEI1dDVlWThhdTZCUHlkSEx3S3JWWlVmQUsycGJuVlh0d0x1NTFfZmYyX1hoS21zYU5rVDlwOTlkd1BWT3NIU0xTRmtZOGJlSk9oQW9MSl9fekM1UTItWEZhSDk5SklkQ3dmTlVnVkV3NEQtMFpydEktRDhZZjA?oc=5
+- **2026-05-08** · [Lex] WHSmith’s new owner makes a contrarian bet on the UK high street
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk5iZVhmTThoT2NZWVkwR2ZocWVHS2hFOUdxaEN3cko5NHhpb2FVU1F0a1hyY0Voa2VGUWg2VTF5SHh0ZzhlY09mdy0tMnRPaXRaVlRmN0dJNk9paXc4VE5mMVkxZkpfMFlJVmc4Z1JYS0lZQ0xXLXBmQ2J5OW1sTkJEZGI?oc=5
+- **2026-05-08** · [Lex] Nintendo raises Switch 2 prices as profits disappoint
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3lUMzQxOFNNb05ZLUl5WVBpSXRVdV9oMkhSX3FZVzlLRDQ1bGNIS0JjMmRMSWs4Y0NfX2R3TnlUREE1Y2lqcUVwLW05cERRcGsxOFhyMndEQ3M0bUJqdWtObnpDREJFaFk3SFBIZkxnd0dpQWxuaGJ6UVduaWQ2bTc5NUs?oc=5
+- **2026-05-08** · [The Long View] FirstFT: Big Tech’s free cash flow plummets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWk3alJ4VXdTSnJlQVR6eEc0OUlJN3JfTGZTWFRlOUgxcW4tSERocnJWU3N6a1QzWERrRkVsei00SW1YVWdJUk0yMzNyamgxa2NJT0NQZHVLV0VzUVFSS215QVFwRzU0a0JaVGxXWmxhQ0dMUmhRZUhaNmRrQ1MyWlVhVEk?oc=5
+- **2026-05-08** · [The Long View] The new politics may be more like the old politics than we assume
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2dLUHVBRVNxYjBTQThfZDc1Mi1KRzR3QXJMUFpreVVSYVZhQ29zOVMyb3hNekplQ1lDbTZSOTlFTzB6OTVpVW5PQi1vbWxkYUQ1NV9LQlBYNGxFMTVwaU1Td0lJTU5RT0lIMmxzdGx3bHYyU29wS0FYSU52OEJEeUo0dUM?oc=5
+- **2026-05-08** · [Markets analysis] Election special: snap analysis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDhhWmw1S3M3TFR2ZGg2UnJIZE9VczJpbGh5MWZTVWk5VkVfMHQ1T29UZzE2U2d2SENnYTJ5U3NNRDQ1SENLUEs0UlJjOFNIRDlGTG9oSGtKQ3Q0VkdzLVB5akJJeGhOSHphMlJjc0ZkNGkxemMzNlBIQUQwMFRwX19ZcHg?oc=5
+- **2026-05-08** · [Markets analysis] Farage’s Reform UK still has electoral obstacles ahead
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk5PN1U2SUxQYXJmVGd0SmFOZ2F4Y2hyOHdnTURFZDFKZlVXZGRpLWFyMHlPU0xhRFdfd1UyUS1hc0p1UUlCdTdvSjNUMW1lR1k5SVBIWTJQU2ZxbzVCelRseXU2ZFVXNWMyY1B5YTNLSHpVV2ZaeFVGT1BRRUlnOGlrY0Q?oc=5
+- **2026-05-07** · [Unhedged] Transcript: The Buy America trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnNkZTBpVDVHcktTYXBGdTJPT1FlcHgxM0JKSHNZd1lkVnh0Yl9za3RlXzlPMTVVWVJOZVhTVUR6OEpVRkJBRXk2V3pCODF6MHk1SHZqQUZDSnJ1LXJpSFFTYUs1WTJKaTM4aW16bDVqMTI0OVhTdTctN3NEcFNFblhIZlc?oc=5
+- **2026-05-07** · [Unhedged] The Buy America trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFJqQTVCMXVNSUVMek1GU0FjbVZpQmNiNDlHU3dnejhQWHNTc2xWQUhDbzlGajBhSXFJQTU4dUpnRVdKQ01DMDdaRWliVXhfX0RMSmpIVFpSNmpQbW11ZHpBTjlnYzJXMGVlVnFOZVNJUUs5VlR2ekl3bENpWkRTZS1qWWI?oc=5
+- **2026-05-07** · [Unhedged] Quarterly reporting: when is less important than what
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDUxQ19teDl3Z1hjY3Z5UWFJSFdOMkRwUm1YM0VmaEd6eV9sUjk1TW5lZGloQmJERDVTWGJXc2E0MkVxbVhUVVpDMG1INER1cEJWVkxUQ3dVYTVXcHBkM2I2aC1zbHhzZEdfTkxWSnRQQjEtYWtUTmtLM1RXZmdkUXNsR3g?oc=5
+- **2026-05-07** · [Unhedged] The affordability problem consuming Donald Trump’s presidency
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGFEWDNrcTJLRVFGbUZNd241cm1feDh4N0ZNMElwc3VHOHhrcVo0OTBpYUZzcG5KQzBjRjNQOFJyWVFQYXB2Rk5UMzNEbjIzZXNCNVRmQjA0WlZPSDRXTmxsTmZTN3cwUFNIdDgtMlhNd3NEb2E1OVVCc1hsN2FjcERIcXY?oc=5
+- **2026-05-07** · [Unhedged] Wall Street rebound driven by smallest number of stocks on record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNY293SnhLUno2SE85VzkyaHdKbnlGaUpoWHRVV092SGJYNzZ6dVhURjRYaDJXZ1pXc0NDV2VWbktiZXZtVFRVQ09ZYThQY3ZyUEpSRFAtczFzX18xYTNDRkljc05vc0lCMXFoNXZFZC1RanAtbGJCcmRsRVRLOC1EdHFRdUI?oc=5
+- **2026-05-07** · [Unhedged] FT quiz: the week in news
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTZ1YjJPTXJVaURCNXF2b2ZDU2lLX2tMZWZpclNyR2pPdHZLMzE4S2tIcUp2a3pYdWszLV9Fc19vZHdBQlhuUXI3bTF5WTcwZGQzenZzTTgxOVRBYmR3a044a2gwTEstOG1lekl0ZDNWRFlteDlKQ0Voek10TzEtaG1kbGI?oc=5
+- **2026-05-07** · [Lex] Let’s stop blaming retail investors for wonky markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjljT0RTb0phWDFQWWZoenBVcmo1WnJWcU5BNXJJUnV6ak9zcEFkYnQ5bVBLVGZEdTh6RWZHbjlwOFotcnZqZjNTSTlWcTNGeVdNQnJWcFJpT1R0QnprMGtkbzlVRy1vNnhrdFdOMWZOSXA0XzJ3cWlhdHlMWHkyYTlxelE?oc=5
+- **2026-05-07** · [Lex] Tech boom brings emerging markets and their rich cousins closer together
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWw1d25VVHlHN2FTZ3k0RVptSVBMSEtPNS1QWUNZTlhGS3ZoTFdWSUd0SXJQS3ZicldrSmNkWVJsTE5hZXE1czllbUMtUG9qd1M0YVpiMTJZUUdpYURpWlBOT2V4Z0ZSdWVSanJmalNqSHBCOU9KRWtTQy00Ul9ZVVU3eGs?oc=5
+- **2026-05-07** · [Lex] Why software firms are calling time on the SaaSpocalypse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFVCVnNWWEN3M1FCZ0FGOUcwZnN4eGd1QnU3SldHekt3cXFtRU1FeHdnd3ByQkZCMG9tS2hwdlY5b1RuMURQWUhvOFVOdENRUFpDUTV6S294bFRibmpiLUJjaFNKQVBBODI5QWNhU21nVEdIZkZoNTkyUHMtc0d5bTBtMmc?oc=5
+- **2026-05-07** · [The Long View] Why I don’t write about the Liberal Democrats
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVlITUJ5LW5TV01CSDhFcUxhMGJ1d1B2b1gyY3Z0bU5jTDM3ZW1KVURMU0NjblJxU2k5V0ZXbExuaHBlN1NWa21lLVMxWEdiX1BNQ3ZjNWpPY2tscDFrd0NkY0d3bm5KV3BqbnFZc1JqNFF0ZDI1NnczYTFXTEpWdkFWeEo?oc=5
+- **2026-05-07** · [The Long View] Police arrest man on suspicion of selling Morgan McSweeney’s phone
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcmdjbG1wek44clBxLV9CaGlvWTRfZVY0UVRPMnVFRTNkcEVic29GLXYzRHVqUDEzSlZQdWpJZmVMN2NOa1FwdzhYWFhaVUJfQzdKanZvR004OFl4R01TajRrdVVGcmtocURTc2Fzd180RW43ZWtWa3l6N3l0OGl1czJHSlo?oc=5
+- **2026-05-07** · [Markets analysis] Planet Signs 7-Figure Enterprise Contract to Power Greece’s National Satellite Space Project
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1BwaUVMRmJQOUE3a01kNzM2MjBCcWN2bW9rMkh1MWhFbThqUV8wYzJXa0lCQWVxSG1lSUhoRk5lZjNaZzd0ZkRRU3JBb3VDcGpjOWlLVGEteFVGdks1cmJqUUNKVHhuOWg2Y2pLNU1UUER4cHdUS2VucVlxV2JQaFFlS000VFZQcW02LVVCNU1STEJmcHp2R1RVUTJJQ3VmQUNLQTFB?oc=5
+- **2026-05-06** · [Unhedged] Trading the trends in GDP
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1VNeUxfWW1BM1R3SVQxRTNrMk5IRmNiWjU1dDhZRmVoMkNhak9fRVVlbHBoZjVfbVdnbVd6VlpJdEJjUWRSRzcydF85dUdlc2xxb3FPYkptS1BXYXVlR1UyS0hjSWVwVWRIZnZUNzk0QkhhdG1GZkdOal9sRTdhSzRSOXk?oc=5
+- **2026-05-06** · [Lex] Novo Nordisk gets a second chance at weight-loss supremacy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG9FSm9kUTFjbUsyeDVWUnVHT204cGxSOFJHRVR5RmM0al8xenota3lvanRaWE1zSi0tTzdKYTQ2ZGFMMnphTGI5ZGRha0JCZXB0QUtLLWVtSVdaVVBQdjZUM2ZaUmRsS2ljZXhXLVlGdVNTZy1RT0E0Y3FSbEM2UDVZTV8?oc=5
+- **2026-05-06** · [Lex] Europe’s banks hope ‘friendshoring’ will apply to them too
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb19RQlNlYV9JMXY5WHN5RklUeGtrcHJ3Sm5adUdKTTVVOFJnQjFKRE5hMXRiVXFrbmtseGI1M3ZYQjlhVEdQWEZfc1BhWThIQTFub2lzVW1rMDBXU3BZWFk5TS05c1NTZDJnaWs4WWhacldTVDM2Rm80VGlyanoxTmVnbEU?oc=5
+- **2026-05-06** · [The Long View] Why the shift from savings glut to grab is good for investors
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1FU08zaWtUUUFaSDN4UlhLLTFfQ0ZmTzFfQzctMTZmdjZIVUhDS2RjSjhMOWZHeV9GQU1Kbjh2OXo5ZE5vTWxDclhWSDhGaFY4Q2wyeGNWbHVLTWxma2FHTV9wNFc4cnFIVmw5aU5ROFA?oc=5
+- **2026-05-06** · [The Long View] Greece wins High Court ruling over 2012 sovereign debt restructuring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmFqLVY3bFJWaFdtQmdLZ0J0RjRsRmFhcHJaREEyeFI4b2xOVVMyeGlkQlhObk8wbm9HY1JITmRZRmRqYktFUXEteUVxLTRaaUZ1aTZRYnZUbmo1YlBJTEl2bGd6ZGJvLTREeDJZM3NodVZuRkgyUGZpcTM1SHJmcmo1T2g?oc=5
+- **2026-05-06** · [Markets analysis] Four ways Europe’s big immigration experiment has changed Spain
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTU54UHNlUjRVNGZ0cHdQOTV2dUtNcmxBMm5aTjJMbTZTTUczdnZpbjB3aGRyWlE0UnQ0dFhJMGJ3NkZFTHA5NTlBakRPUTVUOExETVFCUWtpYnpoN00xa283azQzSmxULVdsLUo5eGJqOUVMUmpBcnM2U0FPVmgySm4xTHI?oc=5
+- **2026-05-05** · [Unhedged] Are AI stocks the new railroad bonds?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkFfODl4UVlqTzJOb0hkV3VjX2ZoNVVSTkdLX05MNnJkV01GbWJLQkxsTEVLOUVCS0pBamo1dTR2M3p2WVNpZ0xIRjEtU3gwVVdSY0ZfQlJ6UUdWSDBlWERka2N1ZnU2NWp3UmxRcWVGak1jWW1jVlo0NFA2NHo2M1BRMkE?oc=5
+- **2026-05-05** · [Unhedged] Gilts and UK local elections: Bad vibes, bad timing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHFYeTN3NmNydW5jY2RkNTR1eGhMaFlDTkVzM3NpTnZrenhGVnhxSlpweGxCZzJfSi01dmxUanFqTEZ2eWgtWTUyRmpPaEgxbWwxek94UndPZXhVSmxDdkZLUGRQb25WV0d5YXB6eU4xS2hDYXhZV3JRQVVyOS0wNEVEYVY?oc=5
+- **2026-05-05** · [Unhedged] Transcript: Are AI stocks the new railroad bonds?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3JtdGwtUVc1TWNEVmxDNGV3T2l1N1lFZmFsamlnNHRLbDhQUDNOLUVIVHQ5c0VFTUdBQlktb1o5RDdNRnJHRnBTajZpQ3dUcHUwUTZFd2k4SVVmN1NUa25mSlN0LVJjcl9XSWRSN2R1N05sdHdrWEhqZ0ZsMmF5S1dvNmQ?oc=5
+- **2026-05-05** · [Lex] Public and private markets vie for gains from AI job disruption
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnRMWjJEakxpOEJuRkJfdEREa2J2b2ZHV09JOG03RGd3OEQyZHpQdE10dDhXWFhpSmZCM2FDMlN0RlJaOHFoc2RjMDhBdUpQS3hnc25qd0h4cFVObHpqbWQyOERDamlQZTdJNllLSWZQc3pOamo4c0JxMFBRSVhkSTR3U1M?oc=5
+- **2026-05-05** · [Lex] Uzbekistan’s London IPO brings frontier markets closer to home
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV21DSzF6RGlYVGdwQ3Jfd0dqb2dnMjd1d2ZENzY1OURYUG1raTkzbGNKUUh3dXRIYS1BUjdrR191c1F4bkRuRnVwajZiTjJGQ2wyMGJnbklQTlBxdTlxSVN2TjFHOU9JX2ZuWHZoX19pYkFiYXIyQ1hRaXdIVkxYR0JRbG0?oc=5
+- **2026-05-05** · [Lex, Markets analysis] Vodafone’s slow-burn strategy is starting to pay off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDdjNUdYenQxRkpBR0N6ajNsTS1ZMjl3ZzBRbWhsMkk4ZVN2U083TkwxQmhiVmtXcEc2aWhtMWpNNUlxUGppdXR2X2NKZ0VEUktiOUFDMnZQcXZxZ2syVEczbUtGWWZsZHd1cEhSR1oyQTBtZTlSY0dOZ0RLRzRkRkpfUUc?oc=5
+- **2026-05-05** · [Lex] US shale oil producers are wise to avoid the temptation of higher prices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3BUckFwa2N5Q1lUektHeDREbkZ6bmFqR2RLOTZWbUM1aWlvNWdjVVYwLUdtNE40WmZSQjJMSjA3WVVhTnRDSnpJWEhyYmpwTnVYQkJLRkRUUHIwc2tSOThVRWlma1pldTl0b1JHRjA2OHFqd0RHamFNOGhKYmdfQURJajU?oc=5
+- **2026-05-05** · [Markets analysis] ‘Worst’ still ahead as oil price swings darken global trade outlook
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjBNaGg1WklPQlhJeHduQ3ZEUy0zRHhFZTVIY0k5SVVXOWN0Z1pjd1JOVGtzVUtERmtCUnpTRUtQeThQSHFhckJGNDFlVkxmdXlZWFZIZmVjQzQ5UXRXNVVoS19peXRXc2lNMktKZE13NzBKT2FaUlEtVUtMUVdPM1ZjbXE?oc=5
+- **2026-05-05** · [Markets analysis] EPAM Showcases Production-Ready AI-Powered ServiceNow Development at Knowledge 2026
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTlXMk9UUUpCV19CZ29OZkRJLWpxam1kZjNIc3N4OWY2eHFERmJST25MMWtaNEtXRTRZM0M4ZERCRFNFWUdObUxacXFBMDJFMUhFTHdPdmpqYkh3T19IXzFMWlZsVHhIeTVVajVxZk94OGpzTFM3U3FiVHBzeGxPYmpfSGNJeWEtdjNKRkl5aEhJSWUxQkY0NA?oc=5
+- **2026-05-04** · [Unhedged] Great expectations (for earnings)
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTl0S1VfV1hCSGc5ejd5UkFFRkh4SWphdEhwSkZyREJkbV85S2xiVGRlZHdoczR5RDFWR2ZDRmtXb2JsdnlzREwxdm9vc1cxcjczVzgwT3hHSE4tMjczT2pOS29qYlVxMndsc2Ytd2Y3cjRIQ05NZ2VkNEs2LVk4T3Y5MWg?oc=5
+- **2026-05-04** · [Unhedged] The US decoupling from the global gloom has limits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZFMktWTllUeFlqdzh5cVVoelVzaHQxZ0Zpa0F5bFp4bF9fajlfSkR3ZEtlbG9NWlVaakdLM3dqMXdNdHR0VEpXckdSZEw3Y3o3SUxDR0F3VEZZazg2dFdxQUMtU29qOGh3eVNuWlBpdWFfN3pQN25WTHFLY1JqZHF5RF8?oc=5
+- **2026-05-04** · [Lex] Scotch truce should give US trade partners a dram of hope
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTlwU2hWa0V6WEJoWmlfOU9yMWVfaGs5VV8xZWlwZm1MaE95U2JrSk1iVU1jRkRJSEpwLWNYcHFPWHVJNTM4TzdocTU5bjhnVGJGdVJsel9fLS1DT1g2Qm95T0hlME5tb21uSEg5dG85ZzEtaDlIemNCZ3hiMHRqWTQtenA?oc=5
+- **2026-05-04** · [Lex] GameStop’s Ryan Cohen is either the new Buffett or the anti-Buffett
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONnhuaWdOQWxNdzFTYUczOFhqa3A4anVfSi0xUDhEWmZkcVJqREhVdGxHd1RtaDFHNVZTMkszd3NxXzFoVHVYUXljRzJxWmdUU2c1RF9YMHhWNDNkUDF4WTY1XzJnbGVfWUtEQTA3dW82ZTJFTVdXS3FUZUcwVjNtVzBPSEU?oc=5
+- **2026-05-04** · [The Long View] FirstFT: Iran warns US Navy against entering Strait of Hormuz
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUW10aTE3c1Z3LUp5bkRzNVZHVW05b3ptcmE0TlY3R2E5b2tUcnZ6VURLYy11ejRRSDJzX3NSQ0s5cV9wcm85TlRweGFycHJYQU90ZkVLNld5M0tXWVZfY3Z5QUFfSzJHakJtYkpLNkNwalgzUHExVDM4YnM3UnVpdkxBaWM?oc=5
+- **2026-05-04** · [Markets analysis] The oil price crunch is looming
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE02UGVCXzlaX3B2MGZ1elRGZDRkeHQwcU5rYjQ5RHhWMW5QRUt5WUhNd05XZlNFSFBYN0FlZjgzOW9aUHR4aHRNYnJBWks2NHJyZDBacmd5b0txVVpEOHh3VmcyajIwQ21JSHhFaDFidXk?oc=5
+- **2026-05-04** · [Markets analysis] Private equity firms face reckoning as £31bn broadband push turns sour
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBraFhjZjdsN2k3X0lxaTJRZDhYeklzYUdZR296TU9LWjFoS1RNUjVSRWFjdWR5Qk9ITV8tbEtENS1tam9NejMxT3BWM3V5TWtLVGMyem9TLWRPX3pPbkFFMDFwRkl4NFhEUlR1aVNZWHg?oc=5
+- **2026-05-04** · [Markets analysis] Consumers face more pain as companies threaten price rises
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFVzMGdCd09sMmlfNUlEaGFERkIxdVF0U05MblY5MHJDaGdfR090TUY1VGF5eWM5elkwLUJBVTlYdWJUZXNIV1o1RmhzRVBhTjhwZ0NFRWIwd2N1YW92ME9nY0dMMG91Ni00OXhkclh0bVdzNmxWVlAzenlFUVl5d0pralI?oc=5
+- **2026-05-03** · [Unhedged] AI + Halo = $$$
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVkwWi05Ym9rX3RjZVF3X3IwTmJSU3dha3ktZ2F1VS1rNnZTakFZNXphaVhRNlJScWFNamJERHJrdklKWEZTRWtaR1BuODNCR2gzSHBieHNZQW5Mam8xVWp1NzY3QTZQWGVETWNGZmtsTnlhQ2Z6S2NLdGdHbUNEemZJTnY?oc=5
+- **2026-05-03** · [Lex] The land of milk and no money: UK farmers are in a fix
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWJSZVg2UHpjc01qXzNLOVFZR1c1TWRQMWRFY1kxeVBRUWZ4YTU1dy1sMHJDUDNUaEEtZVpYSnlvUERJZF9NRnAwTmFiQTdsQjQwNG5CRVZmQUV4ekNEeTN5NmloMUVsLWhRbEp2dVFBb2tyUkx3UW5NeWxiSURMZGI0OU8?oc=5
+- **2026-05-02** · [Unhedged] Chart of the Week: EM’s vanishing diversification
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnlLT3NtbWUyQzEzWlQyQ3o4Vjd5OGlrOXhRLW1fV2pWbzhFZmw4RUR0X29xVTI5bzdISWZ3b2NndUh1S1JoUXIySS1LSjBaQnNqWHQxb1QyaTlEY3Y5NGJlZXhhektnbGlnb3JidEY4SEhyMV9TVmxkV2dGaW1WS0ZmeGY?oc=5
+- **2026-05-02** · [Lex] Vinted challenges the threadbare finances of second-hand fashion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGNOUVFnTXptakZKdkZyUm5oTHk5aVpIWkdsM2llRS01bVhUcHN5S2t3cXlod3lEakhpZjFIbmFUYTJnc1VWaTdZLTkzcERXakNKVm1XMmxoLVg4bW1adTNOc2NacXFiNXhHTGpHX1BXM3JMQk5OOFhlYTU4MHF5X3JFUG8?oc=5
+- **2026-05-02** · [Markets analysis] Everyone loves Nintendo — except investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWJFQ2NmNDRMSGREUGJSa0s3VFZVQ0xyekV6S1RqOGdrVmlJU1JjaVFJSnNTRlk0enF4LWdFNzNFeGwzSEhUUnZ5eG4yYndXd2dpdDNpMHRjZ056cHByMXNKTlVPV1pURC05dFJ5enBLa2RHcnJWcDE4NXpQTTU2aUFZVUE?oc=5
+- **2026-05-01** · [Lex] Big airline bosses’ confidence should trouble their investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFdZVzBNQTN5clFuckU0Vl95eHNiazJFankxTm1EdjhUeG8xSHA3ekdrMk5hYTBUMThYaGlHTlNnRzZVYW1nVkptalhfeXd3MXdGMGVaTTlENjVYejRnWUNqZGZVVnBSVm9GcWpoNnB0NG5DTmZ4V1djaC1LTWtGbnJ1Uno?oc=5
+- **2026-05-01** · [Lex] Theatre investing could benefit from a venture capital mindset
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVhSRFRNOUYybmN1amdYdjMwWU9NXzJRU1QwbkFDLUhtdnlMbDNYQ0hQa0hadXp4QW9EbS0wZGF0c19GNWtkS3JHVTFOejRJLTVNQW56R1kyU01lNFJYQmlfRHNxRHVTOWFMN254WDE5RDFaR3VnZGpGczF0MDI2ZnZMdkc?oc=5
+- **2026-05-01** · [Lex] Meta stock might look cheap if it weren’t for Mark Zuckerberg
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGJaMkdEWXZ6dWJWTldIenBuQmtDUFhGNHdzbHJKWWQ4NldXSGNIWXRaRG5ia3k3c1BFR1hNYjNIQmhyQWJTbVM1R3pLalBidHU5Mm9MbG83ZWtoRU5HT0ZESnBQMmoyQUZnVlh6ZzNwWmoxU0FLWEk2YzlBVzlHYUFjSWM?oc=5
+- **2026-05-01** · [The Long View] The euro’s urgent need
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnJvQldlSUpVU21yUE5RME9manVTNUdjUEM1YnVoc3FxcnRQLVljU3gxdzc0bGtRRUR6V2dXd0Q0LURLclBOMFg3YUg0LWNGT1RaN1kwSHdXMDVwU2JBQkp1UUM2NkN3Q0dwTFhxWldUYWQ5NlgzakpZNHJKX1dzRTYybk8?oc=5
+- **2026-05-01** · [Markets analysis] Why markets are surging in spite of war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWxFQXJDUEZnSjd1dklmeHJZRlNNRjlqaXJqazVHYTAtbHFVWGFOeHJzejJCTm1ZWXhmeVpQeGF2aDB5NUEwRXZFNnZMUEVEcV9uTkRXdF92MzBhcldPaVBpeUxFODZFSXd6TmRpdWlDci1idHRIOEVDLWxwc2RwblZhNHE?oc=5
+- **2026-05-01** · [Markets analysis] How robotaxis will reshape the ride-hailing market
+  - https://news.google.com/rss/articles/CBMibkFVX3lxTE9fajFSRW9zaVFyM3dpNFVyd1ZBaXVJSmRhR1RIR1FtSmRmSTJTZnpBOWJmYTRMbWFNRTdBZF8xWTFoOUNaY0R4b2NnY1lsQ0I2dFpaaWczOFpESk5VT2VhSTdmWWpyUVA4R3NRV0FR?oc=5
+- **2026-05-01** · [Markets analysis] New Nasdaq rules offer SpaceX free liquidity
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1ocmJrbnludjhMWHlYOUdSVDNvVlNjT25jVEFmQ3BudExHM21TSV9xY3d5cWZOUmN6bmZuUVgyN1NNb1FTcUliWFBoYmxWN1NfYkowbTQtMzh5SmVJZG5iMXhIQ1kwVjdOb2xrR0tvb0I?oc=5
+- **2026-05-01** · [Markets analysis] UK goods exports to US have not recovered from Trump’s tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb1BkNjQtaUJwV2FMQ29BU1FOTVp3OXMyUmNTMWcxMW1ublpDSU1GcEZJU2R4ekNaVVhMOURaUkQ4MlFqUXBHTWtPZ254ZkRqejUwZ0tjUEttSnc3Yml0SVZzbWl6Xy1HTmlHSFUwV2QzU2xYRmxSUEQzeF9POGlnWVRMeEE?oc=5
+- **2026-05-01** · [Markets analysis] Deere & Company Board Elects Brent Norwood as Chief Financial Officer
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGo4VXE2bmsxb3h2cFNtcEhrTG9JOXVXeExHX0xNaDNVNEgxOG1tYU41WmVrTjNZYjd1REt2MkljTFdhUjhOS0VKbW9NWXp1bmFJaXptYXpkNXNTVUNESEJ1REQ0dmFLbGtmMkRHaUE3RXh5UVZCNU1FZjd1Qy1HNnRGZVFFMzNrT1p2N3h3Y05KRmotY1E?oc=5
+- **2026-05-01** · [Markets analysis] Is China decoupling on food?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE12VUhpSG0wWTNabjZIdmdJR1NtVE5VaElLOS04c2s5T3pwUngxTUR3cDdIdVpOTDczTHpBajJZcHVGbjFFbW9aenQ4aW1DNGRsRlVIZ3N6T01NblZUejlBSkZiZmJSU3VLbEQxV3BGUE8?oc=5
+- **2026-05-01** · [Markets analysis] The problem with healthy life expectancy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHBXeTN2Q3QtM2ctc3JsVUlFMG1iSk9jZFd4NC0wRU5LaXl5a1NMcXZBLUJrR2ZuWmNySXNHT0NPb0dkQWlhNVJ6Zm5aSXMxWXlTNlpOQzUtNUR3ZTVxVm9EZzhhTG8zT3k3X0ZubmtIUlV0ZlB6RnJMVkVNel95MHdpRTQ?oc=5
+
+## 2026-04 (271)
+
+- **2026-04-30** · [Unhedged] US GDP: still ultimately about the consumer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFlBNUpXeEJ5eG8ycFMyM3dwWEhaa052Vy1FM3A0V2JFaE16MXZseEVLZHo4eThOcHlkajBja1lPNDUycGlDWHJtQ004V2NCRGpkanF1bEMteER0aDJ4VmM5Ri03cjFrT3NKZDBfWTZUOEt3aG1iX3RQeWFySjcwWV84ZEI?oc=5
+- **2026-04-30** · [Unhedged] Air France owner increases prices as fuel costs surge by $2.4bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa09RdnhmZFRHTDRqMHNxbVE1RTF6bFg2VC1RdkhFRVpja3dyTjRHN1VrNEhtNExvRkVlYV9ZSnV2TldzWWNvdjlfRWpnMmctLS1BQms2YXdURG14enNNU1VCVFpucW4tNFl3TG1CMnJjZmU4b2N1S2lVNkNFcjA3dWgyVGY?oc=5
+- **2026-04-30** · [Unhedged] Huawei’s AI chip sales surge as Nvidia stalls in China
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQy05d1UzSnZVRm90NURLeEVNbDkyZG5ESTJPQk9KQW9sY0NSeDdDdThBNUVwS0lPTmtyaXpHQnA5SXpLSkxfTDhuN3dLc0g1Q3FuX2VORkZEYlBKMmdnNGNubjJYZU1NYVFIaTBuMGtJUjhPRFhBZFVIZmtGOEQxa0k2Z0c?oc=5
+- **2026-04-30** · [Unhedged] In praise of tech troublemakers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGo0eF85XzNFUFh5a0dFVXVCcXpVRFhkR1A2UEk2a0p6TUNaZlZfc1JyQ1VkeVktNFFTUFhybEdZOUpLeEplNWlFV1NqSWJyNnZRYThid3M4VTd6Vmx3QzREdmhCaEdlSmhwX25rd3l2RVFTOGZwdVZjVXFBR1JQeTh6eTI?oc=5
+- **2026-04-30** · [Lex] Disney’s skirmish with Trump’s TV watchdog is no joke
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkJtZzJHMlVzTXZ6RVhPWEhkLUIwQzJCZktGM2JDTkNMNkQxbFhfZ25sYTByd0gzRUsyZ3M0RjVZblZGcG41ZktqMVhmemd6eDJCa0tTTEwyWERsZno3d0Q3dklUN21zU21rV3kwbk5xaU1nd0FWNFZXTGRvY01kMWtZS28?oc=5
+- **2026-04-30** · [Lex] TK Elevator sale shows private equity’s elevator pitch still works
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjV6ZC1paW9paXotb2NLZDFycVdJQUNPd01UbTdaaDVfcjlEVzlzQTJJNXJpWGdRQ09WUHpaanR2UUJGY3dIUHU5RC1NTWdYei1aMG1tNnZkenR2cm16NFpoS3loblRvRTJxbl9tSUF1UElGYko4S2Vod1hTWThHQ2JTUGg?oc=5
+- **2026-04-30** · [The Long View] US stocks hit record highs in Wall Street’s best month since 2020
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMy1yc3B1NUliZEl2VmVTUEFlaTBiSUdMMjdrZWRjUVhLZlFRTXpFSXlJalA4RUw2TGtaUE02dmJnR1ZMUnZQblRDQU1ybTZiR3lsd3AzWUVyclZ0eWF2NEJJWjYzenRBbC1OTG1OQlZQUkFNbGVVckdKcjZOMmQycXZ6THc?oc=5
+- **2026-04-30** · [The Long View] The problematic inevitability of Andy Burnham
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ3VVcVJfcWdSMmZBYnB4UlBCRzB0TGlQa3hfYnlkU0N6UUxITkRkQnZ6ZHY2Xzh0LWhKOV8yaFM5dDRqaVduS0cxZlZBUEs0MjZZakw1QjB3bE4wU3doMmpDdjBPT3NQb2FBN0xjME1WWUd4Y2dfOEdubFVYbXlOa0FCbm8?oc=5
+- **2026-04-30** · [The Long View] What to expect in the May local elections
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONjlOdmVpMk9UZTVuaTBJWnMyVHh5endDNENtckhpMHdVTmY3Uk1VdVcxVkZJdkctU0lWZFphOW1Xa2NGNTBjaUoyYW12eHptWHhIbk9JNy1MMGR3RFFIdUMweDlZR0pUU0Y5WDRNS3dCN202NDlMdDVSRUt0Qi1KVjBqazE?oc=5
+- **2026-04-30** · [Markets analysis] UK terror threat level raised to ‘severe’ after Golders Green attack
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNrSl96eVd2dm9wMUhkaWRON05DbkZxcFQ3QmxwcjZPM1d1V2pVUUlQREdLMEhGcnRGbjRzTllKeFN4emwzeDF5S3FuQXd1WGF5R1NvcjhDdFY4djFFUlk1M2VJTjNVNk0zXzM4ZXhvcUZWcnlGQXJFbHo2Z1AzQWtQN2Y?oc=5
+- **2026-04-29** · [Unhedged] The Fed’s balancing act
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDRXZkdBN3ZsOUd5dDBWWDRWTGRhZHlpYllhRUNaNjU4VFcwa01LSHRfemlaaThTUV81V1B6Z1R4ZkNrVjVWVmF0S0JuM0NTMFcwUzJyTGxwV09zZmdkY2tyVlA5WlhDbXAzRmlwME94Tk1Fa0tPRHh1UWlrMHdGcms0b2M?oc=5
+- **2026-04-29** · [Unhedged] Fed chair nominee Kevin Warsh secures Senate committee approval
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2QySXhSa1J5aEI3TlYzaDFXUDRmUFVOdTNsTGtEVkFoMDVZaVYxTmVBWjFGY184ZlFqTFJKSlozbTdhVHpPT3pHYWJ3eEEzaVlTcm9WR0xzZVlNM3ZCci1uRzhYRk5EN19ROE9SYUpGZzVPVG5SYzlMQ2NVOEIzQlFGdkc?oc=5
+- **2026-04-29** · [Unhedged] Google told staff it is ‘proud’ of Pentagon AI contract after internal backlash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORHFXU05KbVczc3lZUWk4TWFkVTA4ekxURkc5dmc4Ulp1ZGMxa3lYdkRBNUd1b0t4LUNnei1SNmJVaVAya1R2SW40MGlaY0VaaldxakQ0emtwSDlWZDJVYjBpVExoRFU1T2lXN2pSWTlSUlFDVVVadVp1YkZHR0lsM1hHY0Q?oc=5
+- **2026-04-29** · [Lex] GSK’s game of catch-up might just work
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXZnMU9SSG5mVmxHaG40X1VNU3F2RjZKN3g2MnVBMkJyMTJBN1dMN1I2anBhV3dVc1hrYzZZTGZjam93T21EWnZtcF9FVkY1T00wNzZEZk1ibzB2STFGQllrX1hMV193TkxwN3YzVnlNZWYtNDRab3ZBNGdTYjJubEd2enM?oc=5
+- **2026-04-29** · [Lex] Big Tech’s earnings get ever bigger, and ever less useful
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmlraW5rT1RnSG5STkY1cGZFV195eWd0dmJQV1BEUHA1SU1MTlMtc21BZ09KVDVHa2tOd1pxRnFnN1hsc25VRmRLbm90R2NJa3dRTWtXVms2d21ubG1Sb3dJMkVOaVZzOE51YktqUFNQMy1BQkd4ZFhmZFdiTjhPakRSWVc?oc=5
+- **2026-04-29** · [Lex] UAExit adds momentum to the Opec doom loop
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWEpfOXRJMGZoOW41eHR1QjVSRkVLMm02UXhTT3M1cDRCMFptV3RxWVJoSlR3QTBmNGxUVWJOODRtem1lRF9xbTZHVnpHRTNkVl9xd2ZRVGVYaVA2OEpqNlhoSkFnMzNhdmRnYk9fY2VFTVNxM0VhZVZkMENOaE4waFRXNEs?oc=5
+- **2026-04-29** · [Lex] UBS’s bumper profit both helps and hinders its case on capital rules
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEM4bEt1QktWeGJXanhJemg2aXVyQkd2NnM3bVBKM2N6OWpkb0NZM25HZkkzOW5sY1ljYUIzN3lqMWpwN0pBUUVldHVQNzBTWGpKakVjTWZVT29BR0htcWtpeUdjcXYtVnIxWXhzYnl6b3A2WGN4RWRXYmpfaDg4cFdTNjU?oc=5
+- **2026-04-29** · [Lex] Volkswagen rolls out cheaper EVs in battle with Chinese carmakers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEE1MHVoNzFHSVhsMFJtQW4yOVJxODktcVhUanJyWUJ1aG5scjE4cUljWVZUdDd4YUlJbC0xZHJyTmZGNEdLQmxZNFd3Q0lpYzRDbkZkaFRQbnV3V09XQjJaUFZVWU9UNTZHWDJtcUo0QklXOWhGYVpNWENmNzdkSVhmSlA?oc=5
+- **2026-04-29** · [Markets analysis] Half of ‘long shot’ Polymarket bets on military action are successful
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGExNEdrV0M5Yy1GMnd1X2tSd1JEZ21iLUJ0WWVISGx4djJWdnFqN2hPUjJxRnhKUWZma2tON29GQmxoOWtCRDYxVUFWOXFRRFNOZGt4T2FoT3NleXpPM1V6MXU4aERjV3VIamVfR3lkRWVLZFVIRnFuWE1ZWTdwdm5wM20?oc=5
+- **2026-04-29** · [Markets analysis] Why electricity markets are stuck on the gas price rollercoaster
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1RseFpZMFVUSFViQnRnVDRjSVBUUjJ0NUJ3SzQ4dEhzVm00bUc3a2hNVjVMMXJ2R3FsT3BvTG9qQnNjdFBMUVJTRWdVTzNEYldqbUM0WndGNkVJc2V6TEZWZGt2VDlaV1BrekUtVVJSMlkwSlNFLUdvb1UzRW9JZ3p6Zmw?oc=5
+- **2026-04-29** · [Markets analysis] The 50 journals used in FT rankings
+  - https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FTzk4YTR5b3R0VHNSMTc2YjhNNDI3ZXNielhUdy02QW52cDgydXVLc1FaU0hrNlJTeEI0MWhubnFJTUdZUHdB?oc=5
+- **2026-04-29** · [Markets analysis] Spain either hates short sellers or wants you to get up earlier in the morning
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSDhoTktzWkYwc2dZZmtqVGtPMERzeGdZQ0QwTE54a0F4bXp4ZzQzOHhRbkVKS0RjYWVMYjAyQjFvSVhxZVA1UWxOWmh2ajFURTg5VXUtSnFNakR3aGV2TTdKR0Y0cllvTkVCNVRNODQ?oc=5
+- **2026-04-29** · [Markets analysis] Warsh can bring a much-needed trade-off on rates to the Fed
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5Gc1JoWVpXcFF0bzdReUJ4cS1sOEZKQmRkcU5rZVlfVlNPeVFhSkQ3ODFIb0U1aEJhVE5hMS1KbjVpRTNOTVVSLVFqYVd5bnhFaG5DVHFHeVV1MW1hSzA2ZkY0ZENEdGpZbW1uSl9SNnI?oc=5
+- **2026-04-29** · [Markets analysis] Azenta Announces Fiscal 2026 Second Quarter Conference Call and Webcast
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXBkNmlhWGhpaVpGUlNyTk5JaXl1OVkwVzdLSmFqNXBtcFhKUGVhckNmUDkxZFE2Undsd3BFcGc1d1RKUzZDMTQ2anZuLW9ieXJQVzZLeWxYRk1QUUc0YzdKYWZNaFRBdFV0d3RIZnFoNkR1RjBnMkdNUlJtd2h4bTVoMlRVbjc4V2JGWFhTWWNUbXVPUmU4OQ?oc=5
+- **2026-04-28** · [Unhedged] Gloom and boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUJtX1kwWTI5al9PeGxLMjBGZzhKWXQwQUVwWVZaaEV6S2NWU3hTcjIzcGFqWFk0QmxOUDJ5Qk0wZC1YQS0xS3dRZHNBTEFWZ3FEdG4yeFJuNnB3cE1LQzEzbnlzSndkdzJDakpibUhaQWtPU0NqcV9XdWtOTllaeU5zMUM?oc=5
+- **2026-04-28** · [Unhedged] Opec without the UAE
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzJudXFoQ3pCZWZZMk9aVGNYcVVxRVNrblVOeEJlLWtoNWdTS3J1QzdZLU9QZTNiWkFVdEJRRWJnUGJuUjhBVGxtNnVydFRDZGh0eGJLUlZHSDZMRDNWQUZqeHNoOHM2ZHlQOW1aVGNRZVphdEVFYzl1c1dXNDd5UllyZmY?oc=5
+- **2026-04-28** · [Unhedged] FirstFT: Oil price rises as US-Iran talks stall
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2VxaGhnZ09SX2dVdVNLYmdDNWJxRTdfbHVlbXFqME5ibG9iMUljQ29tOHQwdU91c1FYQUlYSWFHOEt5b1hBVnpTWFY0b3JEVjM0V21KVUh1RDJnMzNnaDh4aTc2NV9mOWdZaG81VElhMTQzNHJYSjV0ZmJUN3dDbHpKaDQ?oc=5
+- **2026-04-28** · [Unhedged] Memory chipmakers hope AI frenzy signals end to boom and bust
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWR6ZFZLYlVtUS1NanAwV25iZWtaOEZvQ29hbUR2TnFrX3dDSW9tOTFGSU5OSzJxNmE5ZmNqREk1Zmc1dFVZdzhxRHlWSVJjNWRXSDZDSHZOb19YVHUtcm16Q1Vyd0VFQ1JWVDFBRGMxdTVRTHZuSjJCWGcxZGx1QmtfRFk?oc=5
+- **2026-04-28** · [Unhedged] Coffee, fuel and houses: why Donald Trump has an inflation problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW9odXhIOEt2QU9lMUlVYnN4YnFUV0c0cm1FZWVENlozRlVkYV94a2dkNVFLbGIyRHNxbmUwMFIzYm5EUjBfU0k1RElSTnhnTzdzbXRwTDlvOEx0eXh6bWNNTDlaZ3Y0WnBGNXBFOUZidU5Nb3dGY3NmVHhqdVF1ZW1VS1Q?oc=5
+- **2026-04-28** · [Unhedged] How Jay Powell repelled Donald Trump’s attacks on the Federal Reserve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2lJcVc1aWJ4TGNGQWxSemx0SGFyMFQtM3VzWDJZaVJsa09DbTlscFpYX1BmRjZCQlBCNTRFOUNCLUlETjVxcl9vMGM0UVNyaVRpMHBJaTluRnM3Z0U5cHJiQXlBcURWSkl1YlJzYkpJMURpX3U1QklTTmtkYTBBTXl0RW0?oc=5
+- **2026-04-28** · [Unhedged] An optimistic outlook for Kevin Warsh at the Federal Reserve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUNTa1RhajdET3hqN29pODN4eHRXVi1SdXphVFlZN25fVFJRVjRYSEo1U2lHcVM0VlFVVDktX1ZiTF9sSE5JU2t1d0lVSWszcTVObE9tcjZVWkw2clY4eEVKdGpnU0lYNkg4OGxEQ0tfd3I1MURudjJhanY4VEFTMmhfUG0?oc=5
+- **2026-04-28** · [Unhedged] RAC pumps the brakes on £5bn London IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDU0RGFOVkM3bFpMZm14d3pMOWdPZHRsMzhYZDNyQ0d5UWJ5VVRaYVJXRlJ6aVNpZjJua3U4bFc5WG5uSDFQYTlzelByQjZhcFJ0RGRJMVJaNHdOMnBsVTg5UU9wdUFIWVV0STQtcmJRcndtZGpUeXd4Zk0zOXNkV1hJVmk?oc=5
+- **2026-04-28** · [Lex] Brown-Forman’s choice: straight-up or with an M&A mixer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWdjcjJJeHJSMXh6LUN2Rm44T1VyVmpPX2g5MTU2NURaYkZPdDc2VTJFMlJPdHlwMzhDWjlWcnJJUUY0dlU0YXEzc05UMEtOTldRMkU4N0Y4dlotWEZmbmdlUHpOcGxkME1fWTgtOFhxZU9HVHpLN2NScS0xbEZTYjBMVjQ?oc=5
+- **2026-04-28** · [Lex] Spirit Airlines’ dismal prospects could soon be everyone’s problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVllEX3p4SWJEUVJDcXh1XzhtTkhhMjdaY0wwMlM1TFFwTjFYVEI5RGhZR2RZdzUxcnVoSkdna1h0eUtuWVZNQndlT2NGVDhnX3pvekFnYVItQkcwdEk5b0ZEOEJXUkxoTTBtU2FWcUtUQ3NMU00wZWNRb0hfRjFmTV96QnY?oc=5
+- **2026-04-28** · [Lex] Iran war oil price windfall gives Shell a chance to edge ahead of BP
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaC0zRW8zT28tbnBUcnZSdEdXdURsTkpjQ0FjYU5jNkJoY2NjSVhQRkY2V0JBc2FNRW9rOHhEYUI1Qlozclo1Tk5DYlNmMXdneWp5SDhUa2VvNEZveFBhN3drM1hXazNmdjl4aDhldnZ3XzlWRUEyV0E1cDgxUjN2eE9aMm0?oc=5
+- **2026-04-28** · [Lex] Lift maker Kone strikes €29bn deal to buy TK Elevator
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXNKa1p6Y0g2TVExNlpLbGgyX01mSkJvWDg2MzhCWDRhb0lSZjNEWmk0RmtkQmo0Sy05cGZ6V1owWmhfa3RNelN3SzdfSGtPY1A0WmJRY0thVW85cHRRQ0p6ak16VU9aUkN2R2tvejVzMy0wbnBhemdTZjQwVDhpNTg2NFg?oc=5
+- **2026-04-28** · [Markets analysis] UAE to leave Opec in blow to oil cartel
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmgxM2R4dkJmSUdneVpFYTVOSXZ5ZVFpRk1xdFA0ako0TlhYQ0lyMUwxNkYweUZ0dzh6eTdDbkt1OFdfRVNDeDRsVmR6clBIQ3ZRQ29TSkRJUi1OakxhMW5HVlUzUWQzc0JDWTJGbGN2dk9VZUNWWkJlcVRWYmF6ZHdJUEQ?oc=5
+- **2026-04-28** · [Markets analysis] Export restrictions on critical materials up fivefold since 2009, says OECD
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDJNS2l5LTVDQWtZb0RjY05IQjQybmFiMzV1YTctaXlEUXBxM2oyWnZxbzVucExfLTJGYmRDdWFzS1hoV0dCMlRCLXJ3aFYzdHFrZTVyMElzX19haHE2akZNVnBaaDJUbXY4VTR4Zl9zTkdCbkRuQk9wQ2hTdkFzQ2Fhd0Y?oc=5
+- **2026-04-28** · [Markets analysis] Marsh and Formula 1® Announce Official Multi-Year Partnership
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGxvMkduMlR5bWpHT0txZGV2elJHeVlrSVotRnp6T1NjWUtpOXEwT0JPTjBBcnBEaXpqRTZhZm42YWJITzcwUXRPV2ZLNDA0SEFHa1FQbC1DWldzQy1mRnlrZktmbXprN0RGY1hVbVk1MFVZaURLSFVmRlktdzZZcFpLa0xzVFlHcmNPdDJrZ3BxRFpXTERJUXN6YnhQaHRHRURfenJR?oc=5
+- **2026-04-27** · [Unhedged, The Long View] Wall Street is getting twitchy on oil prices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcW1zSk9yX0NVU0dEX3FpQjRXTGZ4eXUxUTMwdUNVemgtQUpDSUJkMWppWDlNeEE1SmN1ZW4zaGFvdVlXY1FmUTVHUkNmbXhBem9UeWdGT2Z6OWdIRTRWbUo1Q2ZicUNkbktRX2UtQloyU2wxMmpyRUtpOXF4U29LRGdURzI?oc=5
+- **2026-04-27** · [Unhedged, Lex] Meta’s Chinese stumble suggests declining tolerance for shades of grey
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV05YVUZtd2Y1ZDhoZTIxY0NzTHY1UGVJY0pQZ0M0ZlNtMFV2ZXlocXJXQ0V1SnA4NjlFZUFxUldEM2RJVGF3MFhhakstc1hUMHcwU092VHhyc29fUWcxU3o4bTkxSmxOenJOaW9tZkpZM3lMaktPQklrN056U1VXNUFDQ1E?oc=5
+- **2026-04-27** · [Lex] Rivian is bringing software-as-a-service to the road
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkRGdmVYa2JlZF96LTRKbG5mbWdaMl9YdVYyRnRCSFJpUm5xdy1aSksxZDBEdzJ4V21IaFlEOXpTNFlLSkwweDhkb3RsbTRrblR6eUdWLVc1WDhTMkpTTGNHc09nTUVUWEhLam5EWDk2dnNkTUdDSjQzekNmMGF1ejRsZVo?oc=5
+- **2026-04-27** · [Lex] Why flying less won’t do much to ease the oil crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3RBOG5hWEFZemhiNGxlMTF0Q29EX0NqSEVabjE0X0w0eC1EbEpHUGtidzBybFBVT3dfaDViSVBVd0s5cWlnYnlJSW1kejhSTlk3bEQ3Y0s5ZnVNeHA4eUxUWXZaTy1RRHdVcGhlN0QtMEdyZ1g3NGVCN0xMSUpfbHpvVmw?oc=5
+- **2026-04-27** · [The Long View] Assisted dying should become legal but this legislation is flawed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTC16OEJQM09xY0JKbEpsQjQ5OE9odDFWeElfQS1hNVZvUGpOUXVFS0xnVVNBMndRaU1HdVNWeTFZRHFVLUphOTFxZnM0aXcxR01VTUVTVFF0dmlXOGU2TTZTZm9PbTdMa0REMmFQVUtqNl9wRVpKSEw5dEdlN3l2R0MxaWs?oc=5
+- **2026-04-27** · [Markets analysis] Should private credit be stressing out insurers?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAxcnNkWDI4eXNzWkJCYlhWYUhieTNLTkFwenItMzl2VmV2SnB6OG9ZVHU3Wmt0cW8xT19VbDFPdnZKM2J5NmZhdVdfS0sxYXYxRHVPSnlqck90V0xlVV9QZ2ZEZlZPdktFNHozNDRVMjk?oc=5
+- **2026-04-27** · [Markets analysis] Synopsys Announces Earnings Release Date for Second Quarter Fiscal Year 2026
+  - https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHRMdy16Nzd4ZU4zTkJoTFJJWUJvQnVmd0I1NjVQQld2dTZGN1A3YWc2ZTBGWTF1UlQ0dVdwc055LVFjZ3RTYnRuNEd0c0VJZVB1QjVsZ0Y3MWowZEFrMEpmZ1ZXX2FGYlVHZnRUbTBNYTlkRFg4Y2M0ZGZrVk1KRzcxQnlqMmJOcTRKbFRhdjVUUkllYk03Vw?oc=5
+- **2026-04-27** · [Markets analysis] Energy tax cuts spread to 39 economies as fuel prices jump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3VObEdtdDQ2Y0EteTZaQUNCQWEwUzlabDBMaEVoSEhGTUVSSDlIbkt0SDVJWmptYU9NRlhhamdkWWxNckwzWlZLUGItY2RLd1B3ak4yMTdxbXNqY3JJSmJrQ1I5cUVXQnJoSG9nMHdDX1RCRHBpS1JCLUd3RFBsdkd3V2c?oc=5
+- **2026-04-27** · [Markets analysis] Transcript: Private equity deals where the seller is also the buyer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWtndFlRMlNZaDJhTHdya1pkR0ktMDFTT3gwY3JDX0lhSV9IOS1ZaTE2MmQzY0x0UjRFN2VyWERnOGtad1N0dUJfbWRHM1NueWJVZVBzcWFFOGZDLV8tZnBDX1RpOWxrQmQ2bjF1NGlOM0o4Tmxma09xLWVNUGZoOUdaWjk?oc=5
+- **2026-04-26** · [Unhedged, The Long View] This rally runs deep
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVZGcUJtUzhMMkd0ZThQT05LWnFzNXY1YVkwcUF6T251NEtSSzYtaFFHWDJjbVRtLUdtaTRtb3YxemJ1QzFnb01pY0RCbk5vcEFjZTFIR3QzS19DNUxka1ktSHhTeGRIMGRzVldWcWwtU0c4LU1oaFBoVGV5Rmt1WmJwWXE?oc=5
+- **2026-04-26** · [Unhedged] What signals can investors expect from the Fed?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXNBcm9PUHBheFVaaFh3V215VENHNk9UZVVTS2MzejFVZ1pKbWZIUUVycHFrWGVzQUhIXzZCSEh3MXRQZmUxLV94UzlTVW5zdWMxOXBXMTNUZXRpcjBUNkxsZDNDd28tRHBnMlUwNlcxRG15QjdvcE1CZjJONnhIRlh6a2o?oc=5
+- **2026-04-26** · [The Long View] The UK’s 100% debt-to-GDP ratio was a statistical dream
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSkQzUzE1TzZjLUkwd1d5T2hMakNxQ0RVWUJFcHloZ1NWQTQ2WTJOWW0tWFNUUlN5bUg5WDlxZTlnOHRfZHlkNmR3VEVpT09pLWFyVFcyTTNxNnF2dWRJazlrVzVlemM5cFJjcmtWOTA?oc=5
+- **2026-04-26** · [The Long View] Rachel Reeves set for new growth push after May elections
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmVCeFZ6VURDQ09vUWNxZzROZEUtaW5JdHI4Y0MxcE5sZWdfNW5RamNPSGtUMTBxdWk5VHJOU1ViZFFHQm1odHRfdUFfU2RPN2xwZVFLME9VNnNINTVlZFh5TVo5VjlPUVBKSVU2TnhYMVlSVVlRWnRVLWZtR3NQeGcwU2g?oc=5
+- **2026-04-26** · [Markets analysis] Blame game continues to fester a year on from Iberian power failure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDZJOVRQUlBxdURycU1rekJ4dWVzVVEtUDFJRG5keU83Mm1hLWM4VGx6bE5ydUlTVlhaRXFSQUNLbVBqWDNvVWpneGFQMW5OeDhWNUJTMWxBbmFmVnVaX0FaT0xFU1F4RXkwSE9JcmN1dDAyZThrczcxa0lhLVZPbnRVQVo?oc=5
+- **2026-04-25** · [Unhedged] Chart of the Week: The S&P just doesn’t care
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZUItN0oxNW5yX0w0NWVROVNTcERZdFZ5dWYzZk1zcFZ3dzQ1aE5ici10dnlMM011RE9aNXJSNDdaWHFfV0QyeVFBb2RKendUcmNTLUFrb05zUlVhbU1VUVVqX2lobzRydFdYbEgwWEV1ellqVVR3dFNCT2pnZkprQXJpRS0?oc=5
+- **2026-04-25** · [Lex] Why bank taxes might be back on the table in the UK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnpCckd1bUZRR0R4QlhHOTh1WkMzMTRoN2s3TV91UGhUdTdQSHdoU1cwMVphYlZzVTBnOXlzbzU4LU9hV085OWg5b1cwWUJEVnRwOWpSZ3FkSFViSnlXMmJXZ21iLWFMRzByOGc5RmFIanpqaWVvb1JHdEVUMXNYVElBcUc?oc=5
+- **2026-04-25** · [Lex] Marketing collective The Independents explores $1bn stake sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0dDX2NlMk1KdkFQcnExWEw1X3Nja2JqS21zc3Jvd0Y3UGNnUENnVVVPb3Q3Q3VpRVlwUV9WbGR0Tk5fUDVOdmU2NEl2Wnd3NGtFYjZxVWhRQ3BvaGxkZENlZ2ptbmlQQmcxZnlPaTJua0tOZ1N0b2lBODFwWUlPT0x4OXE?oc=5
+- **2026-04-25** · [Markets analysis] EV ownership at ‘tipping point’ in many parts of the world, experts say
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMm9YWEYxTk9QcWQyS2tmZ3RjeGpLdEVPLWFxM3BDM1Y3UTZhc0xiSGNndmViUkZqYWxYN3FlbkU4S2RXOXBob0hrV1djNm9QTDZBVUNlczlmRGMwbXpfZnpYUDdXdHNITjNzX1pTblNnZEZ3ZlBoaWxQMThBU2VXZWZpSEM?oc=5
+- **2026-04-24** · [Unhedged] US prosecutors drop criminal probe into Federal Reserve chair Jay Powell
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzNYM18tUGotMkR4Z0NETENtSkxLMEtfdlJwd2dOZm5JU25WY3BTdDl2aGFxLXAwdDFnTjRwclhBQkh3eXY5MDh6UjYtVEJWclhuSHU4NVFrWXJuWlRKZ2QzdG5OVDJJMTl0M1FFTHlVbHRYVVFVSnBzZ2hlY2pDZWJBUmo?oc=5
+- **2026-04-24** · [Unhedged] Cohere and Aleph Alpha agree $20bn transatlantic AI tie-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0MzTXRsR2g4ZDZRMmxVNk5ST2JrSDQtV09OMjVqNWNJWS1hOWh4UFZFY0NkVGVDZDR5RjdTUjVhdmVNYkpsb1F0X1dlTWZpdFZtWm1ZZUlJT0s5U2pCY2JranRSTnJjNjhqeV9CZUFDQkpmeDVCUFZhUWtkdEZ0OE5yZGw?oc=5
+- **2026-04-24** · [Lex] From Anthropic’s Mythos to the Birkin bag, scarcity sells
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlN4b0JEYXBoMy15VWV5LWRmWVVHTy0ya0VPQ255RndDT2l4aWtRcWtndmxCdE9kMWV0blluVlV4NkJRSlhnSEVCR01HdEs5MHNJTmx1N2RJbzE2S1hIVDNGZW8yNGdGOHhXS1JybktKLThQYXhaNm1GU3BvTlNIcTg5Z3g?oc=5
+- **2026-04-24** · [Lex] Big Four’s shrinkage at the top presages weakness at the bottom line
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORlljZ1p4cjQwRmdfcmJFdFNXdXlmaS12R0hJcWpra2VSbWh0eE9Sd1FHbWZpNHhwX3NiLTVsdXVjY3FNSF95a0QtZDYwbnhnNzlrRjVFZG5fdWw5aGNxZFJJWjBFaFhoSUhlWVZpX3p0ei1uNzRPRkJYdFBSeEhsemRPcHg?oc=5
+- **2026-04-24** · [Lex] Boots hopes its upcoming IPO will be bigger, bolder, more beautiful
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkpuOXRRRWlmRWFFS2ZNNm1oSjFMUzNnZ0l6alFhS2ZpZndMdHpZc1Vna21CSlVyY3B3blJwR0ZQYTZvbU1FYWdBYU1KeGlxVnlkb1BlNHkxcHhCdTdad3lXbWpKRUFESUpqdkxfUktyWm5mRHFiM2c1RmozUV95RG9lTDk?oc=5
+- **2026-04-24** · [Lex] Should you be worried about private credit? You asked, we answered
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmswRjRtT20xX2J2b2tLcy03QzdVLUk4ZU1HbkFtampRM2xlUHBQc2FoUG44cHl0Qng2a25DM21QUXdySEc0MjhTTHh2RG1wcS1QRXZmNFVWTzNSdHl2QjVZd2VNVFdna0tWRU5DLU0yV3J2b3haRnhaSWREZVR5dXhlWW4?oc=5
+- **2026-04-24** · [The Long View] Mandelson row is a cold shower for civil service relations
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9NVEdkbG5xVlRidDlUcC1TcTZqN0ZJbmtjYTNHeUREa21uak5waTdjVDhWRldaSlZxRHV1cUFZX0h5RVNzUXlaOEI2LU5TSHhQUjBOanhGZGc4SkdqLXBYZGhTV2JvNnoxZS0yOUdnS0Y?oc=5
+- **2026-04-24** · [The Long View] No edge, no hedge: why markets are stuck
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUc2eEIwMmF1WHB0QVV4Z3hnT0ZZUklkNUJhOXM3MjhteGlPUkNCdTZGVDVqMEI5M2J1YVd5MVg4d0Fkak5SRk1HaHFPbjYxWGVIVWRjNzMxYjRFamxKd3dSZExzdjNNN2J6V0pZQTVfQTZ3dW8tUEQzUWx0NmNMR2E3WXY?oc=5
+- **2026-04-24** · [Markets analysis] British retail sales rose 0.7% in March as motorists stocked up on petrol
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNlFoYWhnZzkzcllvNXQtdF9tMS11LTlmWlZ6TXhWRjRzWV8xanpJOUlGQ0ptNDZBYWlZZE9pQVZpUUtIU2J2OTJGd1VXODZ3emRaanR1UnN4Tng1N0F1anpEZ3pRUVRPY3M1SU9QOGdxUlBLNlZXczR5VEhKdkd1TnZRZmM?oc=5
+- **2026-04-24** · [Markets analysis] BP’s ‘relentless simplification’ drive sparks transparency concerns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHlNN2hFMjAwaU8tLXFCbXg4ZGFndmFKclZIUTFDTUNRZkx1Z3A0b0hxOEtyeDEzdHdaYW1aV3ZKTDB5V0tPa0lrVkV4RlUtSk52Vi1vYWdPY3BOOUxUYVZHTHM1cHpkR0VfU2plb3FNMTZKNEE1MldxMUpQWHlrQWNtbGI?oc=5
+- **2026-04-23** · [Unhedged] China Shock 2.0
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnVHR3UyYnBMNDRlUTlYUlVDS2dKS0xSbV9ETlpScnZHQjhhYUU0Z3FOVXRSemstMmdZcl9QTnNDMDJiM0ZXR2dZSTBYZDU3bUxJZEozblpIN1d5OEZ0QW1COUdHbDExMTZDTHJBSG9lZURlQjBvM2ZFN1pPSjBOaldFa0g?oc=5
+- **2026-04-23** · [Unhedged, The Long View] The dollar swap puzzle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2Q0cGhiNUluVlRyVENhQmdYMnZPS09aNld1VmwyY243bndFQ1BGUURkRWU5bWpzYS15X2VUQ292SHAtQVJoMEwxY1YtTHBiMGNCVUs1MXJGSlYzSklQeEpTWFRPRnJRNzV3cUZoODE2ekZpSHNpajJoWEtNZHdOYVI3YUE?oc=5
+- **2026-04-23** · [Unhedged] Transcript: China Shock 2.0
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3hxVUM0UTlkYUNZT1VNTVl2TGtldGlSc0liamdCRXpuVHhyX2YxSElWT0pGVjlLc1ZlenlaYjFKMnZPYWw2dFloY180UUUydkF2OHhDZEVXUkVNM3dGYXd1ZmxiWi1zTlBCeXZKUDhBSEVrQWpnbFFDamNmNU5RVUdoaEU?oc=5
+- **2026-04-23** · [Lex] Tesco and Sainsbury’s wisely stock up on market share
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3EzN3UzbFBjM1NrdGR2TldOVmdpQXN6VE4zZlRQT1NkSlc4dDkwcmhQNjRXb0pCYkJVSXBIdjZRaXVrSmRIdlNkRFFzVDlkTmdrQWpKdlJqNXMzb3NDVTFzYjZ0bEZuOFl4ZjBzdjl3UV9oTXNPcDMzeHFaejJjeGVPdTc?oc=5
+- **2026-04-23** · [Lex] AI brings Foxconn a chance to cut its reliance on Apple
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGNVbENaaFkxZWl0ZTF4akRtZkswNUExcTFfa3lsUUFaXzBaNXBMTzJhVUVmUUlfZ0s5UG5UbS1tOUNidnNXdGFSeEl3aGRRMjcybE80cmJGS0NDcm5iS0NGVTB3TUJBRHZ2RkNtb01Hc3dMTjNabDJ3RW4zQ1g3Y2l5Mjc?oc=5
+- **2026-04-23** · [Lex] Sainsbury’s and WHSmith warn Middle East war will hit profits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0RkM09icFlQUUdWci1OajFRZXZKTGkzLVY4c1kxSm5UdWZDeVNlSmxTNmlhYlpjUEtISkJTak5rZWdRTWVkNkI1ZjE0Sl9lTVBBSThEVWtrQUd4b3JrTGxYS3JrMVFHWEt0SFBmSV9ISk4ya2xDNmdOWGpSVjQ0NDBiZzQ?oc=5
+- **2026-04-23** · [Lex] Why Switzerland and UBS are set to fight again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1V3c2FfbURIOXkxLXBBd0NNZzJBX1FlemhnM25WVTJxbnJnRmdmQXFFVG1jUjNZSUpGRDhXbkZWX000d0s2SUx5SFBxMmNTdnBWRGtSeWlVOW8tMHBzSVFZOHNyVkdpckdOMkpkZE1EallDQloxTUVRZkg5b25RQWoxSlg?oc=5
+- **2026-04-23** · [Lex] Nestlé sales held back by infant formula recalls
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFg5UnV3OFVVd0xrZkNlNWhuaE80Tk94Vm5vS2d5RWlXM1VxMUJVeWpObzZjYWUySnhxZ1pPZlNuTVlXbkZsSjJCd3ZYa0dyU3Z0emk2ZHYwaE9qNEM2bC1HWUdkSnNvTGk5V3NyVW4wTjJsWi1adFBLdUJxOFBqYXl5N0k?oc=5
+- **2026-04-23** · [The Long View] UK public sector borrowing hit £12.6bn in March as Iran war strains finances
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkNNN0RqbC01NDRaUTltUnFBMHoyWUNpVjljZVZFUGlvYlFCU05PSExHRmJRSkVKMGU3YzJIOElmYmw0YjhzUVlRYlhFMWVWcGg2QjlVLUdRWUg4dFkybks0U1JIV2NfTHVmUlhtV1NFUC1KYUZSX2Y4cmRJc0w4a3A1dXQ?oc=5
+- **2026-04-23** · [The Long View] ‘It’s a democratic issue’: assisted dying legislation runs out of time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0N4ZjdnSndpUjVObk5EazN0ZjdLc0FzeUc3MW12bjZMTHliX01PcWlRX3ZTRTZYNUY3cEdzWDhUWE1wQlhXOVNqTDhxZWlGcnJzZ1FDaW52cVcyZHlyNDFBa1o4VHo5TDJOdUNjem5jdmtZcWJMNkl5V1dqai1uU1BsVFI?oc=5
+- **2026-04-23** · [Markets analysis] Price of access to Trump’s memecoin VIP reception plunges
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWltSlRvaVp2eTlCcHlORldjYUk1NkxZR0E3TzVhdUxUcko3T0NtNVdxYm5oSmY5MFlBdHNCNkx5M2NBTElXQTFwSTBZbDdCRDhYaGV3RS0wOTE0azVUcUt3aURjSHdMc2RQNllVaDY3WUJhVkd5UVBMRXV5QXR6RGdGbmc?oc=5
+- **2026-04-23** · [Markets analysis] French weather service alerts police to tampering after suspicious Polymarket bets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmhqOWhyblJhR1l0Zl9lZ3VoX19xSUFZaVIxM0p3TnJjdUVrOW1YVjYxLUZxU2hGaXo5ekdUWmdKblNNYktSMGVVb3NxWG1PV3RtWEhJSE1BMVo5YjliSHFHQjAzZ3hRTWp0TmktRTdScjd5SE93WFdXT08tNEdNa3o3bVk?oc=5
+- **2026-04-22** · [Markets analysis] Martin Arrowsmith - Private Credit Connect - London 2026
+  - https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDZjVmg3UWpyaVlWMWZVT3p6ZUxqUEdaM1ZZYW0tUEs0Ykw1dUxIbHRCb2R4REVJWUlXLVFLRmN6azlNbTQzSmZSTU1wcTBmOGhXVTlzdXdWMm5MbWNueEo0Rm13WklxbHdQTjBSMDNlQ0UxQVFUeDBRTmpwTlNMRUZVOGtHenFWY3dGbzVvZnZyVzg?oc=5
+- **2026-04-22** · [Unhedged, The Long View] A vibe check from commodities pros
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVg5RjEwbEVnNmpuQ3l2NjN0ZW5qUzRwMzhHX3RzYzBuVTExb0VRRmROY2FNUUllbGstaFoyQ3VDdWp1V0dLX29lYmw1S3pfOWZlY1JKQnh0V01ia2puNVM1Wkk0cW1KNmp3UFJHREFoOGp4cmw1dVNLZGlDSHdlVk5Fb1E?oc=5
+- **2026-04-22** · [Unhedged] Apple controls the tech sector’s Strait of Hormuz
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3lfWm01SjZZT3JJbU1taTVRVVBPU1VTc3piTHNJek4wc0xzc3Z0SUhiSkFmTTNrZTRUbUVGNWVBbzh1V3RPNi03Q1FzNGFKWDM4YVNEb0FzWVN2VlpHYmFQRjIxa2hVc0I2ZXY2aE5kb3o4bEoySHUxc0d1N0RzRE82U1U?oc=5
+- **2026-04-22** · [Unhedged, Lex, The Long View] War still weighs on stocks despite the S&P 500’s rebound
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWU5qWTN2NTQtZEF1REpHQXR1R0gyZ1VaSUwwVEpIMHlGZy01R1VySWVla250cGVUcHdKVTYwcGN2b0JkTTVjcS1VSEMwaDcwRWI0SXl5UXU5enlkMGJUNnVBNlRrUTczU0xGeU8zRnJQM0FXdEl0Zk9kRlNsbkFxeTljUDk?oc=5
+- **2026-04-22** · [Lex] SpaceX and Tesla are on an inevitable collision course
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGtQSGhsVDMxVFdFamh2RldkbXlzeHV6d0VmY2dRajd1SDN4ZFJ6YWpBZk1SSEVrT3ZzVWczOXFkMDdjN2NZcnlteVo0VTVNcWVLQzZtY3pLRnQxWXhyemo4anJjRWtxaS1IRXotZ0x6S20xbkNIckF6d05WZGFqdExIOTU?oc=5
+- **2026-04-22** · [Lex] Drahi’s €20bn SFR deal is a masterclass in hardball negotiation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVcxcU04S1RQeHVLWUhzZEtXVHo2aFI0Q3k4Nm1KT2ljU3JzSkpJSktOYnBWSkFNWkxaVElNUnBVVER4SWFBeTZ6a0xpZ093a3JmNm9uTmJ2QzJmZDFJd2Jaa3pfTnlHVEhZc3RSMnp2RVRKX2F5U24tVExOSGUwMG42WlU?oc=5
+- **2026-04-22** · [Lex] Dettol maker Reckitt hit by Russia sanctions and weak Europe demand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0pHdDRfU1N0SjYtV2Rjb01OZ0Q1WnZTQTl6UlpUZEh6Wk5iX3JJVFB2Ymc3QzduYmJWZlR5REllM0FDby1ZekF2dzVOQjRKXzZoRnZFNVdhNVFGVmJfdkt5RnNBa0FiY0xmOXFxbm1WMHA0bVFKNi1sTVlBUTJ5a1E3cEc?oc=5
+- **2026-04-22** · [Lex] Switzerland hits UBS with proposed $20bn capital increase
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVdTdlp0T2NESGV6cUxDTzZ0WUFZeGNrYW1qY1FGWDRfelBtalB6UzExeE5NelVZOVllenVScUhXOGF6TlBfSjY2clNNZ2tseHRweDNGOWw2LWtiZ190YU55M1NtaXdGZEF5eVhFOUxRNHhfcWwwdnFuYUF2eTBJekl2Y1k?oc=5
+- **2026-04-22** · [Lex] Tesla boosts spending plans to $25bn as Elon Musk doubles down on AI bet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUEzaWpzZTQ0cDhiNlloY29LT1BId0ZkVF9EVVpnWHVQbVgwVFZHMXV0UTlOWnQ2TlppNzNDeVNXWW9nNDJYSkVxUzJuQkdmSUhUQWxkNEh0aVNsQk15X3VrX1hfWXNxbzkzNlcyZk1xV01aLVgzNjZ1anFKMUFGcTBZY08?oc=5
+- **2026-04-22** · [Markets analysis] Private equity courts OpenAI and Anthropic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVV80MGlzblotMTRndlNpVzR1VGtLUWRzVzYzYnNhdExDZUw3V3REYnoxZXhrejg1VzFoMlFObnM5bEZQOXRxMTZIeTN3WlZoSFdzaHZpcmhySFZqT1FHR3ZlZkJWRVVBd2NMQzhEZnFBZVRLeEFlRGYxTDVaeVBUWG0yWGE?oc=5
+- **2026-04-21** · [Unhedged] Trading disruption
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0NoQkFIYWhfUkNvS25zLW42UGxqUlBKR2s0YkVvbzhPb1ZCU25fY29Odzl0alZicDVZc09DdE9wRWZobkFKT0ZXRzFzdWxYVFdUV1o5eURvcklTbnhjRjVkd0V4cGhMR3o1blRoRzlYN3BDUHZaMEl1c3dUQlVTOFdMZFk?oc=5
+- **2026-04-21** · [Unhedged, The Long View] Who is the real Kevin Warsh?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQlc2MURDQjg5akpjbFJKa2d4aG10U2V5Ym5RSlBVTFp2bUQ1eUszaHVpQkZzN3BnWC1pSXVEYmRzRGRYRHZBdVlCMU95Q2h3NWk4bkFjdHlvclk4LWYyWVc4VTB2azV5Wkl6bV9GUURVVWlERG5Vak1fRE9jMU1lR1FQQUQ?oc=5
+- **2026-04-21** · [Unhedged] What we need to know from Kevin Warsh
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUllzVEl1QW8yODl1ZlVsTHlpbTJzMWdXaEZ1VXI4OWRvS2wwRXl2dU1qY3hPdDhaNVBCb25iWDhpakdqTkJsN0xqVjR4aHNTY0kwY0cwMVk5MEN6TzhBeHF2S3IxWHUtSEtkZmFDV1VfVzUxcUpvZy1RQi12a2JMbXBPdWU?oc=5
+- **2026-04-21** · [Unhedged] SpaceX obtains right to buy AI start-up Cursor for $60bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPclFCNHFaSWF3cW9hNWREQmg3dU96Z29EaE52WGV2ejgtRFRqRkxPVF9QemhnMWkyS2VlRWxuQ2Q5R0NfeTF4WkRXbjd1OVZvUklibktsakc1Rkxfbl9sVGtLajhTTmF1WWE1QlZUakw5Zkp3RXZsbm9VeEdyRDlLNHloM0Y?oc=5
+- **2026-04-21** · [Lex] Primark’s split is better fashionably late than never
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORG9raE1pSUZSTDB5NVAwUnpUdVdTcXNGZGc0cXF5TEJJYVVIR0ZUVkYwaTRMRm85Q1VRUldzOVVhYWhsbDE3TWhVaDFtTXZJRFhOcDVrdUUtemVtdUdzNjA0Y2tGMndjZnVOeXVRUUJ2MzhpWVRGTUpmVFAyQ2VfaXpWRkg?oc=5
+- **2026-04-21** · [Lex] Apple’s smooth CEO swap is the ultimate corporate status symbol
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcC1RVXFYRy1jc2d3RmJ2THpGdkpSYjBieGVWVGFMUzloc01uNE1GeXI5OHdBMi1CY28wVXhpRkJrempSelNONk5LdkY1WEExN21GRWtBUmFUcGJQQXpvbmNVWTQ2U2drOVZ5UkFYOXpUaFJodHUzRnA1Q2FTdERmUjhWMUs?oc=5
+- **2026-04-21** · [Lex] UniCredit treads fine line between activism and M&A
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTBkWHhGczg5Y3NiellTQ3ZEeC1WZzdzSHFBRVFQU1ZPclNoT3ROMUMzSjVJV2FZam9hNFZoX2VRd2FkMUxmVjQ0aVFka3V3N1hYTGpVNnFLeFlVSlRrQWRSRWxXUkw2Wl9BX2pnN1h6V0lhVTE1R1YxZm1rLW9xZmltcm4?oc=5
+- **2026-04-21** · [Lex] VW to export more China-made EVs in global sales drive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkFUeHZ0SjVqY0VUdVpSVnNycVExLThtVE91NGNCajhUR3ZVazY4NUJBbmxhcC1nN2tNZDJJbjMwTFBrSEpJMmRZLVBrbHF6eUlfMzk3a3M0cjJoX1dVMjU5bmp6Tlc0bk5SVFpiMUQ0NVNha3RIM0lldjNRczMxdGY4R3c?oc=5
+- **2026-04-21** · [Markets analysis] Managing Director and the Head of Global Commodity Strategy and Middle East and North Africa (MENA) Research
+  - https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZUTdOVF9Id09ieUpIWE9QRU5SYVBZMGFGZVY5U1NjcEdiQXRDNlVIWGEtVmlqNWpscHdFcGIxVjZkVm4zZ3d4Q3BHZ1ZKbmotdHVib0hDUUFqRW5ndUhVSmp4WVZWZw?oc=5
+- **2026-04-21** · [Markets analysis] Land & Buildings Announces Investment Opinion: Issues White Paper Detailing Why It Believes Welltower’s Compensation Program Is Likely to Lead to Inferior Shareholder Returns
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWZlb3ZWVkQyNEtRVU5pUFJZTmdldnRRaEdxSlFmN0Qxb1owWWJJdDZ0ZnQ5MWgybG5ldEMzZnExZWNIT29JTHNuc3l3dm9QT1JvZGZGNkJCQzB1czJKZS1ZQ0JwbVdTOGdRUG5xNW94TUJGVnNjR0ctX2hVSWtuTmY3dFdHZjZyMVk5emxvTldrTTR1cUtZZDdXWlpFV3VCbENFUFFR?oc=5
+- **2026-04-21** · [Markets analysis] Oil market has lost a billion barrels due to Iran war, Vitol boss warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOamJsNWZEOGdYYjMzeS1JS1lyS2F3UEdlT1VpSHpFWG5faGRVbDlDUFgxU2VObnowMUJxT0V6Zm9rYm05djVULTNONDhXOTdGcVVJM3FQNTRYSWhBc3ppeGdYS0pXaUZ4cENSUUx2TGE2cFFTcy1TV2tzVG13WkZIbVE3c2U?oc=5
+- **2026-04-21** · [Markets analysis] Revolut aims for $200bn valuation in stock market listing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDFLTXJFM2NhQktSdFZvUjZYemVfNDNMRS15MzhlT0Z1T2NxR3Q0MWNWT0tUd3IyX2dCSWpVcEZVTkprejZCc0I1WEItOUMyVTRHUnZFS01aczM2aUthOHY3NDRsUy05OEQxbkxhdVhKOWszREJVZGZDRG1XYllwc2FXWjA?oc=5
+- **2026-04-21** · [Markets analysis] G7 citizens overstate foreign aid spending by 20 times, survey suggests
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGRVT0pQdGVHUEt4clRSdmNmM2d3RnBvaEQxZzdRbm11d3pmS2I2aklQTldtWjQxQkVqSGVvRV9fTUVXMDRpR3RBdmNPM2dQZEdDV2N3Ny1hTC1jcW1BZVlyZ0pfRFFqekhrNG00MzBSM29jNHhtR1BmelV2aHQydFktUlY?oc=5
+- **2026-04-20** · [Unhedged] Bonds are not buying it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVhNWEFQcC16cXF3WGlKazg3TGFIb0lEU3JBd1hpb2hueXhRbmVhU0xmUDlOWDI4UVEyWUNNelFFd0kyOEhjbnNGR1RJdTdkRVpmdW5CZ1N5aFdCWTdhVnVsaTBaV3lPWFpjTXJXVDB6cGNycEFuSGZ4dlVUQmRjdW5jQzE?oc=5
+- **2026-04-20** · [Unhedged] Kevin Warsh to say Fed independence not threatened by political pressure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSldGQmJZektySURVUFphZW1QWFRUcURUbnJnc0Y5dlhYNkpFY2lwSzB2dkhDc2FmdTZQcmh3ZVQ0a3ZMMzgtT3luNkJMaENJV2xpdTRERjVfYmdxdmdwRmo5U25pM254dGU3R3Y4bkpUVUtVNXdNYVUyaDFGN1kwVDh1NGk?oc=5
+- **2026-04-20** · [Unhedged] America’s coming revolt is in the ‘wired belt’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZYmVjaVNnTVZubFFXaHRCZnhFbHg2bGItLWF1R3pmdXVoSFVIMS1scDhqMTFrdFpkMW5oWDBaVU9OVEQ4a0tJdjk5YWdGR0N1cFVLYmtSQ3pVb2dzM0ZrRWlaWEcyMXRkeGkyaGpyaC0?oc=5
+- **2026-04-20** · [Unhedged] Donald Trump’s call to deregulate psychedelics boosts drugmakers’ shares
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGVSb1RTMUNWeW5tSHlaNDlia1VXajVjbGdDcWpkdk9oTWRFOUlucFpGWjhncDRCZ3pLVVRPMzd3alBTZUhMZVNNbVZzZHJpNldQSktHTTNBVDcxSzQyR3FmcnBaTV85cmJPekxaZ1BuMHhTV1VBeDlHc1g2WmplbGtyRVo?oc=5
+- **2026-04-20** · [Lex] William Hill’s owner can squeeze extra winnings from its suitor
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFIxaHUtd2trUzRpTTJFQ1BYMmxWVllJbHlZMmp0M29YUTF1V0VSZEpUSGVORzYyand1OGtXX3ljdDRQQTZlUzBuQzAzNWcwWW5CTGlQOXIyQk1aUFMzVmpuQ18xdEF0ci03OUxyOE9kXzRMS1g2dFJkU0tCaDdIRzBjSWI?oc=5
+- **2026-04-20** · [Lex] In the age of AI, recruiters need to rethink their jobs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbnlUd0huOHRFRk9ZdFExV1dZWUk2c1RlY0JDcUFUT3ZoaTRvWkgzR0sxU0VNVDlocjNmNXpZQTFUVml6ZjhGN0FYcW9hcjFaZzVGRW1pbEdFTmVqMzA1REliRXJQOEtReTU5MWotWDFjZlRHa0dEcGZpREJHMVNxRDl1UzM?oc=5
+- **2026-04-20** · [Lex] Brad Jacobs’ QXO takes a high-speed approach to permanent capital
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYm9hTnRuQnNWRWU2VDRjZUxWenpDX3FYMWh0Z2M3UUpkbEpHXy1DeWZ2MkEzbWRwVE03QVdTVnFFWFZ3NnBiU19ZRmNoYlZPQ0F1NTNveGJUOENDNmdPdzlyelUwcFZoUVFUdEdJSk54Z2Q5Q1B4bjFtNHRfT2Z5ZE1oYlo?oc=5
+- **2026-04-20** · [Lex] Netflix’s Reed Hastings: an icon of good leadership and bad governance
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUd6bk91WlhVUmhaSFdqcEs5cy1nSlJTcFR4Ny1CRGpRZk1kVHlMREdyNDdtZ3l3SFBhUjRBeGtZNldMTkJmY0RNQWRnLVdUQmR1Z3hkYTZTVHI5YzRkOGNIZk1TQzN4R25KY0NocjgwOEYwdjlGYjhhY28yOVZfZU9EQmU?oc=5
+- **2026-04-20** · [Lex] EQT and Omers offer to lift funding for broadband group Deutsche Glasfaser to €5bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUlmRHR0bkJ2OG41Q2JWM1dlVi1RdjI5c0dLQnVHNnVtS2JqSWdZQTFHZkk3VnY0UDJvbjZHUGFsdFhaRjRTTVlua05NbUV1X1l5SjdHRDVkV1B1ZGNNOHg1ZzZJc0UzRlhraGh4b082dVozNVNTVkxUYkZXTDFhaUxXdFU?oc=5
+- **2026-04-20** · [Lex] Primark heads for FTSE 100 in fast-fashion spin-off plan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEhnbGdWLXc0LXFlWVNZWmZwYU5XOTBoNmJPUFZvbVdEb0xtdGtoSDhrR2pndHFnbWkzck1hZHB1aUJCN1J3N1Fjc1NUb05zX0V0QUl3NHhlcDFlQzVBd01YLXFCSVVnN3NwV3VuNWRxTFhOVGhxQ29sMmEzNi1ENHcxV0Y?oc=5
+- **2026-04-20** · [Lex] JPMorgan to invest in Europe and UK in expanded $1.5tn security initiative
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWlzMmVKZmhhOGs4MHNKN0JVaGtqeEtuandHU1FQQm94MVRTUVp5eDlJYWVCUGxlNFQtWnRvMmhnQnhibkdUbDUwMnJwaUJJLW96dGk1QnUtSFVLa3JCWU9XRVc0bDRTYzZUby1hUkRoM2M3SXJzUHFrR0tmN1dIVG5yMTU?oc=5
+- **2026-04-20** · [Lex] ‘Kiss of death’: how the US killed a Swiss merchant bank
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTZXaE1IdDZKdDVrLWVIN2gyUDZkeVNoc3g3aThVRXhUWjN0Vkx0VGM4T3Z2Z084aDdka2NJT3ZzT3A0clZsTlpEOGN3eHhaS2lGWVNVZUlNTUF6WDktSkIxa2c2eHhTVVp0VGJpTkVwSEdpdzZhZEdrTjJPWUp4T1RJQzg?oc=5
+- **2026-04-20** · [Markets analysis] Global Head of Metals and Minerals Analysis
+  - https://news.google.com/rss/articles/CBMiZkFVX3lxTE05QkdKNUxyWFU1SXBiLVpTaVh4bnEzWG9xRGVHM0tjcUtpZkdYNTAtUDBmOWZqUl9hWi03Yk9LUGV0WlFpT3BwQU50dHlJU3Y2VUFvSVlWXzRxdTctY0JyY25UNVlDUQ?oc=5
+- **2026-04-20** · [Markets analysis] Trump’s social media posts have transformed oil trading in Iran war, says Citadel
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUF80MmZyM0hwTVY2RGJYVTJ1bTRrZlRYQkVBcXQ4OUhCdDFWbzBmVGxwVUxXMndYcFZCY0lPYkFqY0ZBX2h6d1RsVmx1dUZLTDQtMW5Xd21zeTZid19WWExIcWw4WDlaNHA3UDVGb3prNFVGVTFSa3ZBQk82X1ZVNWdNRGc?oc=5
+- **2026-04-20** · [Markets analysis] Global clean power growth points to permanent shift, analysts say
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU9EbEZnSTR0OFB6Wk9uSlFET0xhamhMVHBPclJ5TzJPVnh2RUNhRVlaNDkyWjkzbklwb1NqdjNpRFZhVHE4UUx6aU45YTVkQlZmcmN6SGxreFEyWTJzV2g2NEg4anZINlVnS0ZjSUx3bXdhWHpscFRKOUFZTHQxVWdmZi0?oc=5
+- **2026-04-19** · [Unhedged] The looming battle over the Fed’s balance sheet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUl9aV3M2MzZweFdnTHlpQ01kbGg5Mnh5ZmVNVk9ZSGtUYUNZZWl0ZHI2dS1QX2RMTmNFRktCR3JyZElvZVVCMGpFN1VfaERzLWozTk41TUxpZHNKbWpuZVVPOTdBdExjQVA2RVdEX25QaUVNQVROMk5QbnZqTWx4TE4wUlQ?oc=5
+- **2026-04-19** · [Lex] QXO to buy insulation company TopBuild in $17bn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEd1VVd0RThIRDJ5cHBoYmZXY01RVlpobEhZRGh3R2VmX1lOTjR4LTUxT21TMEZpOXdILVltMHduYmhMcUtrX1EyNnNFUVVwd1VGT3hOQUZwWVlvS2lxSzJSR1Q5MUFLTXRISkY2SEc2Smdib2FTZk1TZXhlMHdxVWpDY3c?oc=5
+- **2026-04-19** · [Markets analysis] Transatlantic divide widens over investment approaches to ESG
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjBXcG9hUGVUNFVBV25yQjdsdGlWelRxcFJ4WnhYMUNyYmJiWWw3dC1fOGNqOGF6ems2WFVqSjNLbDVFWW9aU1dJWWIzX3RXa21pRkIwNlV3LXhXMVA2d285TmtlLV9weHdPNEs3N244SEVHUDVyOXNfSXhmOThwUUNBN3k?oc=5
+- **2026-04-19** · [Markets analysis] Why Moscow-friendly Radev is unlikely to become Bulgaria’s Orbán
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmt2aTRSaHJnNmZPMmlRN0dkaXhuektEZGx6Nk9xcHMwTkZXcUJObnNjNlhUbXpPemVFdVduVUxoNm9YQkRjc3JHTDhlcXlheVVNZ0xYWEM5RC1JdnlYM1NBOXp0d1pXZlRiUE1fY3Zzb1dnQ2VTY3VmdmppUnRjV21CVG4?oc=5
+- **2026-04-19** · [Markets analysis] US investors boost defence exposure as global wars fuel spending boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUVUa0RENTJJSG1tUjRMdTc4MkRRbGkteXFmT3Zia25CTFhPeVZlcTA3WThyekxpcnFxSGhTMldpV3d6MkFuUDhQczhSNlBDTXlXVXNUcnpOc2dlTHJZbWNsazRfXzUteTZPbDdWd3NvMzJ3bHJESG8xc21sOUdyQVlSbHA?oc=5
+- **2026-04-19** · [Markets analysis] School IB business management class: SpaceX boosts IPO ambition with plans to raise $75bn
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE00U25haXlfdW5xRXIwRmxxNGV1RXhpV3p6T3IwejBJWmhiMThtSXdtRUs4dWFIZDhHbnNyeEczd1NLZXNhUFozTVVVSVVSakV1X0E5cEd3WEVJb0UxN25KWTBnRTRtZllubnF4MHZ5LW0?oc=5
+- **2026-04-18** · [Unhedged, The Long View] Chart of the Week: Are Treasuries losing their haven status?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR21XaG5HTGlGcHJld0Z6YXFlT01mUlV1ZDJjZ0VTOW9WeVJMak9UUTZvRGdldlVObFFhTGRLSVNaSW5XVUk3Y0owRGh5VDZDemZPem9BeEpFRExOVFJPNDltVDRwM1pyM2g3YXR6cC1tZDE4Q0hMRjlhUVEtd3ZKZXFBQUY?oc=5
+- **2026-04-18** · [Lex] NHS’s deal with Palantir could be good for its financial health
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUxTT2ZHSjloQVpvdmkxVDY1LUNuTHl0N2lkcU1IZ0NMQ2FkT2lSdS01TlNlSHN4dzZtY1QxX05rUUpESDl4bWphN0EtWFB4ZGdlNXBrcVVxX0RsQnBKSU8zTk5aZmpEeG5UV2VIUDVtNE1aNXJib1lfSUszLU5qeUpueXM?oc=5
+- **2026-04-18** · [Lex] Directors’ Deals: Departing Trainline boss increases stake
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9vUE1vTW91Y1FkSHpKRXpuaU0yOHh3YTh4MkxWSTZ2dVlDSXFLbGtrUGFVcUJTMkQzZFVzTldQelFiSElaajRtZlVvZGJEeG9ldi14a0hyODZMUUV2dUxOVndQTTRDLW4teWVzdEE3YUI?oc=5
+- **2026-04-18** · [The Long View] Economic pain from Iran war will hit poor countries hardest, officials say
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnFxMmRIM2tlVlBKTUt1Qy15U09EMzN5a1FSc1VoYmtuSU9QQjNIVy1Uekt1Q2tLeFdKMktRUTk3WGhOVG05dFNJb01lTFlfWi1zaTdTcDNIMFZBbkpEVTc2UTVYc213N2t5b1F1UUE2eGJnYVhEQmNRdE94VGpYZklON2U?oc=5
+- **2026-04-18** · [Markets analysis] Wealth advisers made more than $2bn from private capital fees
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUw2ZHdLZmNEZUY1dW00R2hVNFpTSDEtYUZodEFfbDVvcFlLX0dfc2xwX1Y0Zjd4SlBEQno3TVNuRHl4OTgwQ2Z3WGtPZGVuTGJrWGdldVdVemVhVGpvX3UwVjZMVTZxUW9hbkFjM2RiMFJIUm9YVGNzeDlSUURobGoxanU?oc=5
+- **2026-04-17** · [Unhedged] The risks of Mythos are no myth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0otYXRkN2o5Qi0yUUU0Y1lJMUxtX2xNLW9zZEVxdW9sRkh2MGY1Q09rNUxxZmZteVFXeDNEd19QUlNrZ1VRZFZsYmpBTTRpMm1IQlpfeFZ5OE9tY2lmRnhGY0VNVlVfRkdtaDRTLXBJa3hud1JyYzRuSzVNa0NrWE1pc3A?oc=5
+- **2026-04-17** · [Lex] London’s riverside properties tell conflicting stories about UK market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnlPeTdsQjMtSGlLeDhQaUZxZDl3T0hYSUZrLURfaENCVXJ0U21fQnhvN2lPYnhOM19EeTgtLTZWWkhVbFFPUlVoZXNPTk9welZFUUd4SXVERVFVYWo2NmxNXzZLbnpiV0FoenZwVGRFd2VhOEJiYTVJYjMwRTl3ZEhqTlo?oc=5
+- **2026-04-17** · [Lex] Launderettes may be coming back into financial fashion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEdTakFMUnVMWmxsbDVRQ3FBUGItZzFwbHgwSzUwS19uYWNGUjdiLUtONXU3TTdaQVlsMHVHOUxjelNqNFlVc21pSks4QkJ0VFlGdnNqRzF0VzluU3pFNGJpaWZUUXVsY1NBWkM5UG9PVk5ETnd0eEdTZ3doNENxRXp1cEw?oc=5
+- **2026-04-17** · [Lex] Intertek is going to be broken up: the question is by whom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb0xYWXBTaEt1NVF5bEtjWnI1WXdYNDlCeDZnb21xVlZIZVNGcXpvZHRQTm5xT0lpYlRRZEg1STNzaGtSdzk3aUVnQUZHS2FKN0F5Uko2MTF6bHZvQ1h6RzRVMWF2bEg5T1pDeU1SN1FKNVV1R2hOMDNKVjZyZ1JuRXJHYTI?oc=5
+- **2026-04-17** · [The Long View] Investors look through the turmoil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2hzdmZGUVF2ODU3U2NMWkJyMUFLeC1VcXlGZDdEUDJXSEpDUnpLNUxoaXVQaXI2LUxETlh3cHF1ZmFnVVp1eTJUM1B0OVU0OWt2R0htZWpaVC1tRUlqVHlJNFZPTHJ5eThPYmJBcVRDZ2RCN1NNR0xqdDM0Mk1BYWRPQXQ?oc=5
+- **2026-04-17** · [Markets analysis] Strait up
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5xYWdTTFBReVVBcDJkUjVRdU9CVzJhMjZfUmRoVXVDS3JVNVA1VTFETzFHQTg1MzFOeDFEbE9sWXIyV0VmN1RLNDByVWxWaWE5cW8yNktIcjhnSWd6TDdPdWhTbTVIY09yN05jRHpRUkk?oc=5
+- **2026-04-16** · [Unhedged] Boing! Springtime for the markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGNVUEQ1dEpPRVAwdllaY2VCeTNGUzFtYlR2aDFKYzNITU9Hb0FobXY5VGZiTWN1T3RkN0syZDhxdG14aVpTRFVzRi0wd2ZGQXFsZWI4c2twZFJYTGtNeFZ4VnRWWkUybUZwVHU3WEJEUGp2XzJHVW5kN05ybjZpZ1BZR2Y?oc=5
+- **2026-04-16** · [Unhedged, The Long View] What kind of rally is this?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWxNRDIxcmpYeFQ3YnZ6aWN5VGl2Q1RkcHNrTHpMa0ozN1FNVUpXa2xseWtnNDlZZVdDSlBMVmxSbmpPby0xOGVPb0QwTWNWQi12MS1LS1BCRDZhM3A4MzBuejczSWtZbFFLaEJFdENjMWd5UGZRbWw1OXdwLVZ6QjZNQ0Y?oc=5
+- **2026-04-16** · [Unhedged] Senate Democrats raise alarm over Kevin Warsh’s $100mn of ‘undisclosed’ assets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFNRTzI0a1h6bE41SElHU3VYVVRxV29TdzZqYldvakpNVVBDM0VuYU84cG5FMXFUbmhXM0dMZTRYS2xDMkdqN3ZkTURXcVo1cFZhcFdvX3ZpcUxfZGo1THhyaTZySjcyOElKMzUyMTktMm13UW83bjljZ0hHM0hyelNqaGw?oc=5
+- **2026-04-16** · [Unhedged] It’s clear we won’t regulate AI for safety’s sake
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOW9Oa19xRlJ3eHdQNTBxcTFsSzdnOXpnNDktOWZIbHhsUXNlaUJwbWRUeG9Qa3V5TmNhT2t6SlBrZmNlWUZ4OVRxemthZVhUVnQ3TVNiVnI5UGYzcnVBc053b1MwSThtc0xYTl9Wb2k4MWJuV040ck9lVHp4b2d4NENYci0?oc=5
+- **2026-04-16** · [Unhedged] AI has an Awful Image problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjV4QmEzZHFZLWhfMHh0X3dYNmpwUDE4QXR6ZHZaRTZwZVE1dElMMjRsUXBYZVVhTTlMUmlHMEh0V1pUeHZMQVdTVG41WHd4Rnlrd3Z0dm9oaEFZc3dmWldPaWJGOVpzTUxVQkk1UzZrQWJUekdKT3lVRlpJc0V3SnJybHg?oc=5
+- **2026-04-16** · [Lex] Monte dei Paschi drama has no heroes, only winners
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQei02TUs4dnNjQTNWMy1ZMGpTcUVpaWlud3U5LTNhc1NzX1A3ZG9lX3NrV3Z6d2lpdU1neTJMOHZHa3pkYWhPenlYYU50YWk2WExtQ1JBMk9VaUYxT3JwV2FvamhzUTJVOGVqWHlPTTVUNldIOThKNEhMYm95RHdtME1RR2g?oc=5
+- **2026-04-16** · [Lex] Why Coutts is making an unexpected play for video games
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1RYSDZQOEJ4bXpKd1hjbXdFdkJFRVUyR3RLeVNteTIwMUVKTE4xeUJKblY0Vm81SjdCTnRPdm1FMjRfdTh5YXR6MTdjRUFZQkJzUE9aNDVreGFXWlZQNkllN0xzQ1MyTkNoSEpXd0RRcnNFX0FEUlcyaF9BS2d0RlBmRl8?oc=5
+- **2026-04-16** · [Lex] Sotheby’s demonstrates subtle art of wriggling out of a cash squeeze
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjl0My1Nd0R0UTc4Ymd0Z0VxOUQtNC1SYTVhTlNDSVNCZktISU9mcTI0RmJtTG1qWUJKYXdYQkREbkpjaUpLQV93YjJmSkIwbFhTZ0lhcTJkdGhSMDV1cms4dE5DQXF3NnJTQXdMX2JxWlZtX3FKMWtnb0FGenZXYUJWbm4?oc=5
+- **2026-04-16** · [Lex] Recruiters hit by hiring slowdown in Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlhvY1FzcFozb3VmY19LUmt2eHdVSVhna2dFbEVSdld3MzFhS0xobllldzQ5QkVINkNwTEZrUDBVVVBvRGVlQUs3X09GckJMMXhhcjlLVjJxc3hoUDBDMUVlVjBNQVpLbWlKUnRYREROaUF3UG1FeEdBdG45YkdyOFhoVU8?oc=5
+- **2026-04-16** · [Lex] Shares at world’s biggest chocolate maker Barry Callebaut plunge as cocoa prices collapse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnp1QS16MXJ0LWQwT1VxVWhuRzBvenR2WnhucnYxQXEtRVVXcmwyMV9ERjdRaDYtM3hRMDY0bXUtZ2JwbHFPclBNTXJUcC1Hb1k5SW9LNEVHakN6cDBGOVh0MTdkbWU2MWV5b01vVDM4alZKQThKLUZXS0pjMlNJTlc1dEI?oc=5
+- **2026-04-16** · [Lex] UK testing specialist Intertek rejects EQT’s £9.3bn takeover proposal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON3hka29nSzJmMmdfcEFsbWI1VXFOaXJhMVNIUU4xM2N0Uk9YTEs3U3A2ZTVqS2lZS1RmN0hIekwwTk1vZmcwNWVWVGxGTXV0OEZkZG1OT1hhMTRTRzhPeHlaRFBILTZ6cXhDNldIYzVVbDB3UmNaSDN2MllIdVQ4dXFyTnQ?oc=5
+- **2026-04-16** · [The Long View] What a row about a hospital extension teaches us
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUhwdDZVVUVXTVN6aml5ZE16TWdVb2JkY3h1VEU2c0ZjMWYxcUE5Rm5GX096TDZfWWVhOElEZDRleDkwWWZLT0VrN3d0OUN6blgwczVIRTFFeWpFNmlaQUc4UGc4UGJ5OFUwVE1CZmVOS2VBZU8yRzBoVmxKSFlXYWxIc2o?oc=5
+- **2026-04-16** · [Markets analysis] What’s really shocking about the second China shock?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDRKb2FsRW9SZXhUZkIxVzZPYUJYMkRoeHFMUEdzX1ExQ2J4OW5kT05HUkx6b0sxMUtTd1ozNUxOT0xGZ2pPaWxCa2dOdGp3UlcyNDFFTjBRMmFkVjlwY2FrbkhoUkdaM21qdmxsV0s5YXQ1QmU2Zy1kUXpVcXRGdEJnV08?oc=5
+- **2026-04-16** · [Markets analysis] Data centre delays threaten to choke AI expansion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRDgtaVhUUEUyRUtiOXJtbHBPQ29vNGZlUVBTb3l1MnVVVjQzTGt5cV9BTGxnRU1ORDlERVlfR0tjVTZMeU9sOUxUVURZVk5GSkoxNW1vVTl3LWg1VG9nOWdnd3dQWlhWT2xsSlJSeHlVZWVTZG5kUnNucktHUnJRcnFCakQ?oc=5
+- **2026-04-16** · [Markets analysis] Benefits of Labour’s ‘halfway house’ Brexit policy not clear, says election expert
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDA1U25ZN3JpaVNacURUZmtyWFNJNlBKeUk5V016Y0pGMVJDcGl5MWRhVEg0dERTRG1XQWpyQ2Q1NFVPdHlpSDBOZ3c3LVpVYkJ3REppMEJEeFI2X05sbG9zOXZpejBYUnl4M1E2bjRUS3ZiWjlQV2ZUUENZME8zU0JiVEE?oc=5
+- **2026-04-15** · [Unhedged, Lex, Markets analysis] Introducing: The Story of Money
+  - https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kU2xwM1dyR0NpYW1wUHcyWS1NaUpBek9Ed0FSWHZFSzlFaThEbWd1aEY5d1V5LXVPLW9uem1EWWU1TnZqUkhieDUtaVZBM2s?oc=5
+- **2026-04-15** · [Unhedged] Does AI want to be free?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMS1NbFZlVGJwZXZsNUMwMXdJVXZXZGREX1RCSURWb24tRkVlWTduOVlqdFRCbG9oc1czaUVHYk9LY2M5M3p6alMyc3NZdDZJNV91NW1OTXRMZmVjRUg0aG5jZ29hSk1RSzY3RFJLbDhZcDlDSjNFNTZUNU9QdkJYZ3Q2aUo?oc=5
+- **2026-04-15** · [Unhedged] Rate setters face ‘double danger’ from Iran war and tariffs, Federal Reserve official warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVhzVFpGNXdxMTAtX0M2MVBWMHp0eHhoQXg2M0NJeWgwRnZvUWlsTFpFZnJEYlB1OTNncFlnQWp5NmpYVEoyZWVDTEZrQndOaWdyYVJzVzA3Q2VRaVp5RVFxeWVLZDVPXy1nc2pJS1NJOFVpQWdCS2JpTGpDeDM1cllkbGc?oc=5
+- **2026-04-15** · [Unhedged] S&P 500 hits record high as markets surge back from Iran shock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkI2QmlnQ3V5UVVPQ0ZuTVJpVDVKZV9xZzJhTS11TjhuSmFTN3Q3RjF1YjBjdGc5TXFmNDJqNGFPT3lGQnd4OTk0Mk1pYmNYdTFLbXo2dC1VdkROMGt3UlBhUXVDOFFpTlU5dDQ0TEExUEQtYVl6RllBWHpCWlpDVmhXeFY?oc=5
+- **2026-04-15** · [Unhedged] UK Treasury refuses to loosen fiscal rules for defence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHZLcWNvbVBqb1VlVmY4RGhzSDZ3TkhyeG4xWlZQSDJHdEtxcEhoLWxxQUU0ZEEzVHZ4YVlENldHMEZ0NHdSTG5nS1o5Nl82S09FX1hmdTJ5cnB3LURoamRocEF2ZlBHcjExNlZtQXZCRmNxYkEtWXJJT3d2ZnVCdHVsVGs?oc=5
+- **2026-04-15** · [Lex] Hermès bumps up against luxury’s scarcity paradox
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTBBV1hDeDI5d1JDaE1SN1VYdHUzRGZoTnN3ZnIzd0U3TVNvS2Jtbm1XNGN2MGU2NlV0R015SktReDBqcUVuSzhVQVhHaXZoemVGdWRXbk9XcmlXWFo5TFgyZDBiQ3lfUFZNNlJIRER3ZmhsaWQ1eHhfTXl6VWJIUE1Yb1A?oc=5
+- **2026-04-15** · [Lex] Amazon satellite deal takes battle of the billionaires into orbit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjRKbmVnTm9RZGdKMWgtdGJBRnk0aTZMY2ZfWWdBVTdPMVl2VldCNHk5RWtFRG1TUU5tTFYwamJ5bFZlaFZqLVpsWmx4Z2VxeklIYm4xSk94S0cxa3gzbGxmWXJ6NXplckQ2VHduR2ZYMGJKbl9mSWtRZWxrR0VKaVN5ZWw?oc=5
+- **2026-04-15** · [Lex, Markets analysis] United plus American won’t make US airlines great again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnVBWlBqLXVNNmI4VEZ4aWg1cUo4ZFBUZ0txT2lpUTJiOGVFMFZ1eVZqem1Ba0JPT1dHRjhvX1hwVHcwbWFOVGhkT2EzWmRybTd2UjVkRE1OYVhUZU9CdHZyTEt1ZVBDbW8zbmVSUXR4dkVsMDJldlJDWlIxeDdqT3dhYUo?oc=5
+- **2026-04-15** · [Lex] Allbirds is turning into an AI compute provider, because of course it is
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1udkpUbUpBNHRPOW4zbHZZOTRUWnIzRzgwWXZPRGs4NWNwX2x0cTBBOW9GbEdaM2JRdjFPQjFKaTBGVUpuNkMyOEluUC03OXExaUphTXlPNms0Q29rbnoyLVpjVEFpYjFidTlGNjRPMGU?oc=5
+- **2026-04-15** · [The Long View] Gulf states turn to private deals in $10bn wartime borrowing spree
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0dmamxfM0l5dVRvTGg3OHZIelozc2otSFllWTRFMGVWbnc1LTN4Qmx1MlZaY1U0OFhNalU0MmpnUk04d3lpdzJOdUZFUUVmWTdvZVp4dVFoeU96VklGZTJqaERhSkJDdERWMTR6TDZvWXVoeG9DV0NDUFZUMW0taFdjclM?oc=5
+- **2026-04-15** · [Markets analysis] Silver market seen as ripe for another price squeeze
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTZYSTlrZE5KdFVaS1RFY28yRUFmZXlqd242bG9hV2FYR0dwcUV0R2NFZDdoY0ZTN0NVbWg3eHdiZ1g4YjdDdVg0X1NMTENtcVlGNXZILTVtakw5V1pSYzBqSGhOSml1ZHVJanBIUnVMb0V2aGpmWHFLUzB1OVcwOWNRRjQ?oc=5
+- **2026-04-15** · [Markets analysis] UK gas prices dip below pre-Iran war levels in boost for Reeves
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGNEN3pFeWdCYjdiNldEMHQwN01TTHgxTXpTekdMOHd0LWJvY1Z2Q2FiOU5NUlV4eHJfZmp0eDM5NnktSjBlMnM0NHNjTFFtOUhfYnM1MTRkeUhqUWE5alI3cmRoYmpBMEh5R2d3aUlfMHJ5ZkFOZms5d3RnUzZubzRQbXY?oc=5
+- **2026-04-14** · [Unhedged] Space ecstasy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHJDS0JDU2N3MDUyUkozbTJZMU9IR1NyeWtVSENsNTN3THplTUo1YU5VRVBNcFZsVFRKR0hmTG1mSk0yd3M0RkZWanFIcWJJbndpZTc3TjkyUmUySGdqNXJEQmNDdkFyUjI4S0tTNW51Y3ZHUjFGdXN1RVo4X0tZQ2tNams?oc=5
+- **2026-04-14** · [Unhedged] Defence spending won’t solve Europe’s growth problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWRCUzNvdjJ2dXBGT2hzVE9TTVhpRUh5N3JlRmt6VGhBcHZuQm9YTGNOTmVIOHZ2QnQ5bEpucXlHMERiTDQtVHpfZDM0SDZDeDRsMzBPcXdwVjZkUTQ2QXBjQThqcW5DSWtRSTdqV25Yems0NDFOQlpmWXo5bFFtdkh5WGk?oc=5
+- **2026-04-14** · [Unhedged] Transcript: Space ecstasy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLVlsMl9STWtHQ0cydFdUWnFHcHZIOTllQ0R3ajhPdVNpdVBoZ0NJbHZRYTY5Z0NTUnA0NV8wd3BIVlFiM0MxQ2VqY3pqUU4xRjY1YWZHdUdfbVMzX3ZkUW1jeGtsMzJEZDFzam1XdFVKZmZNVkg2SWZ5dmlyVF9oR202blo?oc=5
+- **2026-04-14** · [Unhedged] Donald Trump’s push to cut US rates akin to ‘banana republic’, says Janet Yellen
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVlQcE94OTJPRUFtYkxRRmJSYTMwZG9jQXNGYzI5X3llc3ZtY2dZV2ZpU2EzbDN1ckNfTEZuZm0xbmlHaUpEZTZ3V1cxSTBXM3ZpQklhZ2R2c09HZVZVVFBoN2l0bjl2em5lTE03dGR6Y0xpNTBMbzRTaDV3Y191MTZGNFY?oc=5
+- **2026-04-14** · [Unhedged] Maine becomes first US state to pass data centre construction ban
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlBscnpkM2k4VzVuY3dYVlhuRnJmcGxJVmpBc214ejNoUU91cW9iLU80V01lczE2U2ZUNUFIQVhFa3pVQ3lxUHdoSHFiTldOQzUyLTdGRlVGNmpTS1hPMkZKOU1TT0N6VzZ0NVIzSzFUSGtRMlpCVjFBcGNJVVZIcU9DMTk?oc=5
+- **2026-04-14** · [Unhedged, Lex] Oil shortages are coming, and with them some difficult questions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcU5FY0lJbzQ0aENlWWVUOUxsTGlIalRtcnF5WjMxTU5vVFRnNVl6NEFVVXRzY3pXd2ZNd00xemlkVXhRYUJfUVh4SmpJdWNjSE9FcWJ1bWlkSlkwYTBFZHQ1cDRlVFNGb1BQSXM5aDNWXzZEbFg5U1hzRFIwXzRzZ3NaeTY?oc=5
+- **2026-04-14** · [Unhedged] OpenAI releases new cyber security model to limited group of customers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmZHVG5Yd1RaOE0xTUp0Ym5QVGQyZW5SY09yY2prLXhOMzFYOXltSnJsWndlcWtpVVNUcFB3WmpZemJUaUxjcUQ4a0dDa3Zob1lKYVp6VjdVVGJVVXg3cC0yNWxFLXA3VVVsclVLV3BlSUlTX1BRVzhRWUxOcWVrLWFhT3Q?oc=5
+- **2026-04-14** · [Lex] Elon Musk is officially free to roam in Texas
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk1xeEZ1Skt3MWotZTVqOU5WdzU2bmZCV3U2alo1VFVGcmx4TTBZY2N2OGNmV29kRGdzeVpUZU84ZnZLaENiTmJhREctRFRGSjcxXzh5dVd4YS1venU1NFFfSDkwZzNacC1DNTB2eF9OVjdOR1lCWURoQWtIQnBjbUJiNDY?oc=5
+- **2026-04-14** · [Lex] Ad giant Publicis is less ‘Mad Men’, more ‘The IT Crowd’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkVzNFhUVjlTRFpuSV8yS2p0Z0szVENaejY0Qnd0Y0ZUNTZacEJkMS1QZjFHbmlNeGRKTUFRWTI1QUV4TW5aLUFBcHpjVngzQWhHTFFWbE9SemJZa01mOXRBTmo3dVFONkxZUHFXTF9ZNUxVZUozenQyc2F3QjZrLXhidHo?oc=5
+- **2026-04-14** · [Lex] Letter: Student watches a financial crisis unfold in real time
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5rdHJUSUdtd2JmSzJtU1c2dUdOSDVwaDhmNFpfVXYxcmQ1cDlFR3QtbFNqRnhJdi1vc0JMS21rdjJaUnB0VXdKcUh1SjFmdU9xT0VDQWJhRGdMaWY4bENTVThpVjdBMDRMUGE5NkVYTmY?oc=5
+- **2026-04-14** · [The Long View, Markets analysis] ‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGJUdEZWWC05Uko0bG0xT3htZ3Q1ai15R0w3bGNGWlpfRVFqLWFtRWZHUVI4NHFJMUhwM042cG50ZU1EbTZ2S2M4bm50SjNNblYxaTBHZkRYc0RPZ1h6UHpjR1RlZndhNmtjdXp1WkZjaFhBSGhldm1GOVczWGpfXzR1UnQ?oc=5
+- **2026-04-14** · [Markets analysis] Betting on risk changes the world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFZNZ3pJSndzMHNEQjZHT1FKaXNlZ1FvWVJQeDRPOHp1Ym5PckM0bWlvOERmMmQ4cURDUnFQR01MWEhNdXF3eHVIcm01N1hlZ1ZlMmdlV3prY2g3dXhzbW0xRDRHeExTYjgxSU1FZlRoVTJOTENnOVBLWnZwbk5VOUEyVWg?oc=5
+- **2026-04-14** · [Markets analysis] Iran war creates an emerging economy emergency
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDRvY0FqZmhRMWFYQThjeGdlNnlrcVczMlNGQ0NmV3lhZzktcTZFOUFPRVFQM2hBcnJvbEpKV3RDa0g1U3BvV2xNeF9nNm5oMG9wNllIUTF2MW5CM0dhM0FqVGdSUFRFbVpHeUI3QUwzQW5ldnhzalNuQk9RNmxTVmxLazU?oc=5
+- **2026-04-14** · [Markets analysis] Uber commits $10bn to robotaxis in strategy shift
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlJZQ0lTZkRrTURNcEk1bmZiMU5OTWxXbkhfMDZZQ2k1cHAzbENhM0Ztdl9XcGp0cGFmSWtjTWdYcmJBaFBmYUs2MzNvTDUtWV8wanRhdWt6cWNLTW9LOFZSTlRoVzFHcF9hek9RamFaZ3lMSnFrUEw0bnphZE1WWTFwZzI?oc=5
+- **2026-04-14** · [Markets analysis] The ‘deep fried’ stocks more expensive than Nvidia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmQwWHZlNVBQVTR5d2dtMkFrbHZZOXR4Sml6VkdURlJSSGtLb2RHM3lhUHJKeEx6dXNiWmVueHd5NTRxem1iNkxsNlhuS0tMVzZyVlpMazVMVDQ0TXdETnhnd2dyOUVySVpGNURNNU9yZXA3RzlmdkI1cHFJWlpkS09GdFk?oc=5
+- **2026-04-13** · [Unhedged] Small caps revisited
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2pzUEdmc29jVURsYThDRkNqRDc0ZXN4ZGJEYngwLUxXcWF2ZnFxNGVDSXAweTZhZkNuVTJ5NmJTMGZmd2tSMS1ZY3doX3ZuWXZYNGlybHF6VHlLXzI0THpGTkF2ZTg4ZXZ5ZVFfQ1I1WXl0Smctc2MyeWRyZUszZWMwZ2w?oc=5
+- **2026-04-13** · [Unhedged] Trump nominates Pimco executive to lead international affairs at the US Treasury department
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVdtcTBwWXNsNlVRRFZ4R0ZzajRXNG90RUdUdE5fQlhvLWo4YzdHdkdXTk1sTWNva0JpR0dGSUlTa0E5S05NZjl4Q2FWY3ZPcVYxa0t2OWg5NmNlZ0hKbDNKd0tlOFBadFRiVzU3RmpPN0NiM2hwR3lsejF3dHZ6NlRNT3Q?oc=5
+- **2026-04-13** · [Lex] Hungary’s election could support Europe’s revival trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTJiSEU0TnBTVzdyMndiTlE2ekhxSDJwbExUcFVSR082QmVOY1M5TFdVVHU3UzN6bUlFRlJDdzlwUjBZUURRb2pCc2FybzYwMkhsUHRRWE9tU0pLRm1LRHNmSnFHTkVuRkltN3hXOTl6Z3hEV2FhaHI3djY4TkxuSEduRVg?oc=5
+- **2026-04-13** · [Lex] Battery giant CATL is no longer just a play on electric vehicles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjJ5UTgwajdueUlkdTA1UVVDYjZSdTBUZVIxVlpoZWdSUDlXakZzdXJ4Yktnc0lYdHN2UjgzWklsRW1qVGtxbGVhUkU5ZDFfdC04eEtIdHVRUDlsR0E2YU9FbVVLUzcwTVFjQkJCdkVvRHktc1ZXNzU4OTUzNDNTVDAzZXg?oc=5
+- **2026-04-13** · [Lex] Goldman Sachs retains knack for spinning anxiety into gold
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzJxbnFXM3lacXFEd20xZmsxVC0ydFA4LTZvTkZDTnBRZUxEdlBvNDFudFhucEZOSjJGVWI1ZHA3ZkRIUWdWNGZvVzNrY2pneVRkUlI3UjRHOEtfOFZBTDd1cXd6aFNDT1U2NHR0VHhUaGxLcHVUcE1QQ3ZxaFltNDJhWlE?oc=5
+- **2026-04-13** · [Lex] Wall Street watchdog says private credit is ‘not a systemic risk’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPanBhX2pMU1dQcnRsNDdVandzb3hvakRObWNhU1JOdG1zeVhmS3NQMUphb0xGWGtDZ3liRXpST1BjV2tCdWFfVU1mNEFNMUJSdVhZcE5odHgtX2phYnR6UmZyX3MxcV9HQjFURWROcUczdHY1Z0xHci0wRXpqYl9PS25wM18?oc=5
+- **2026-04-13** · [The Long View, Markets analysis] The Vix indicator of the time to buy
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVF9xVGZfNFlQb0pDS2lLYmladXRJR3R1WXJ3WE1fY01wcW9hOWVnUC1RSjFDX0tSSEVmanE1M0xOQXZRa3p4ZkcxakJZNTAyX0YzZnVFc18wNXBFS25kTl81ZHRXUnRFV0JOZzBiemY?oc=5
+- **2026-04-13** · [Markets analysis] China shock 2.0: the flood of high-tech goods that will change the world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONkViTFpGVlpyeU8wVFNNRzBHRXhjVDJwZzN1Q01NUlNWcVBtU0sxV1FEQ3hWWUk5R2Z4d1ZpaGpaeU5zRHNaQ3JKUjdhdTlvbEZEV1I0emtjc1pIQnpTVDd6bzM1a3BSbnp4RGI1clFwX0UyeUR6RGVubWhVMlEybmhCd1E?oc=5
+- **2026-04-12** · [Unhedged] Oil prices are a growth problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2E1cUVBcHhCcHNudzQ1UlVPeEZQWENhTjVmNXlLNVpmZVUxUVVUYUEzczVsSnhyYkN5YjZCcHJTUl9OSTdySjBJT29rZmxWTEo4aVdjbGo4MFpVUjkwR3MzY0wycGIyRU4xS0dESlJqaDNLTDRmYTQzMGV4Z3k1RGFWWkY?oc=5
+- **2026-04-12** · [Unhedged, The Long View] Who lost the UK bond market?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDE0UENvYzZzMFN1aDdxNFBULTJKV2NFRVlPUmpfVHJrVmRid1BkRVV1S0UwQ2ZYMlFZSm1NWWFINS1XZ0ZYOFZaSVZDLUdhRHhUbXZTNGRUWFp0YndOdzJpQlpyaWFhZDBHNU1OSkJVMTJ5bGRjVVlFdHRzMTFSWTRnYWQ?oc=5
+- **2026-04-12** · [Unhedged] Meta builds AI version of Mark Zuckerberg to interact with staff
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWRsVTAzWDBkc3daQlRFZGZYYjdsd1BfNnBiSG9LT1JXb3NvcFE3Q0RId2ZwNUtPZlpGaEpwd2pGLTRQaExYR3Q3MERuN0VQVlBCWGs5Mzc2bXhJdGN6Snl0bW5ZVEliR2tScGgtb0JqMHNlYmo1bk92VnkxVlBfcEo2WmY?oc=5
+- **2026-04-12** · [Unhedged] Bets against US stocks will have ‘wind at their backs’, says Carson Block
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEtXYlBTRndEMW0tbWJmdXdSSk5rQTR4bjFQd2VURHpWTjZEVGZoeXFwNUdhVHV6R3VZdlpUWHZkWDJBbTR1WlUzbkZCM1BZVk1OdmZtZXZnLUdzaDl3QVlRZERqWms1Wnh4WDl2cXVQdm42MDEzeXJlZXBpN3BMOFJsV1k?oc=5
+- **2026-04-12** · [The Long View] UK government urges companies to work with it on protecting undersea cables
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkhhU2oyb1dHVWYtc0tBTlVpQ2RxYkpEY01UNGQ2M0d5MjhfdmtULUJFVkpVaFo0T1c2dTJqYUY1eDBwVEJjd1UwMjk0VGpUQUFPWUdLNmhod1NiRDZqRFpUNC1yQW55QTI5YktoOFQyZnZTTFZlQ1JJQy1yMjlPeDAzMXE?oc=5
+- **2026-04-12** · [Markets analysis] UK Treasury to profit from final year of controversial student loan scheme, says analysis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN0E4RHNlM0loRldXNHc2dUp3Yk1TNzVyUjdXTmdGUmpnazkxWXdFQWlqTEFsb0pXdWl4azU1Y29FT3dKXzF4ZkcxclBBRVBKUGxRNkxVbkhuekNuUHRBNmtucUcxQkt2QnE4Q3l6dFlhZml5ZWM0SVJTVVoxRHF4LV9xV1A?oc=5
+- **2026-04-12** · [Markets analysis] UK living standards to fall after energy price shock, study shows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUllOemV4T2dnVlR6NTRoY3VmSHlyc0VVYkp1YUVmcGt4MVVZcWFpWThPR2k4NGhiVk5QeFpSeExlWnozeXN3UFZZQnJVdGxHa0pPemh5dzJNdzRGTWpCMXd3NG5kdjRJYzF6Skk4d2NHQWRzcWMxd3JZWk1zaHl3ZmppT3Y?oc=5
+- **2026-04-12** · [Markets analysis] Private credit has calmed the credit cycle
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9XaURVak1abHRqNUN5Y1pBamVVT19KbXc5S3JMdS1VR0YxWHF3S2tUOG53bXQ2VndYSWFWNXJMbzh4TEkwZnN3RU1aR25pTnR3Y3o4MjdTVVFoNXRLRHJJcTdBT3VxMjNrU2U0Rlc5NnE?oc=5
+- **2026-04-11** · [Unhedged] Chart of the Week: The S&P 500’s woes in Trump 2.0
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlBXM09uWmtraDdSc0F0OHRMWXBuZjFuMF85MWpwT1YwdEZoT29nVFdfTWVSZjBPc2tzNVJROHcwY2Q2dFQtMlYzanFRa3A0R2VvSm5mRms3NUstOTVCbU1DRzBBbmREb3pEYWhCVjhKdm1fc0ZQUDRSVnlMakw0Wi14ZXg?oc=5
+- **2026-04-11** · [Lex] How will AI change the org chart?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHZST0E1VHl5dnBuVWctZHQySWxyLWdiMEhtdmdhcFR5cENnS2x3TVp5Qmk0VjNCekNVNF8yQU15T0xZQm9OYUJ3QVppcGFVVWhGX0JZRUZiZWw4Y0QteHllanhUMXJuTmhCSzNLbFZORkJrOGdwWnlwS25ZT0NWSXB4b0Q?oc=5
+- **2026-04-11** · [Lex] Robinhood excludes some prediction markets over manipulation fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVN1cDNjLWUySGpuNnc3ZW5JZUs4aGJfS1h2cGgtcHo2bXRfZkp3OG5XdVQ3V01sUzNJYU5vX1J5ajBzR3NCemRxQWRxSlRoS09fazRSeG9oNTJaNmFLd19lWmdWd2llNEJGVWkwTWFjSUZVQVN1STVWekoxVTF2MkR1VkI?oc=5
+- **2026-04-11** · [Markets analysis] Commodity traders lost ‘billions’ in early days of Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjNEZlhtU0N3MExiOXUzSEdHSk90dm5WUW80aG9CZ1ZLRUh6dlh0M3pvaGJtUzdXeDkyVnpKaXlSVVlXTDhEbXh3bnFHQWJNeW83TFJ4OWtjVlBpeEVXbkEwbGFBWEVXNVE4OENKWEQ0QnpheVRrMHpjZFRUUkROUFIxUTA?oc=5
+- **2026-04-10** · [Unhedged] Kevin Warsh’s confirmation as Donald Trump’s next Fed chair risks delay
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRm50dzlGSndpTVdTUnV0VTNnYldUZGpSUGc0aTZGWS1CUXN1U3lWcmc3SEJNNjBVbzBSTjJyRGxiVU83VHhsOXFsWElaQlgzM1RTM1ViejhnZ2FHWERrcUxUQkd5ZnBEZnQtR0w3SzA2T2hvZVNqUmNZZ1FjM2ZxZGgzcGU?oc=5
+- **2026-04-10** · [Lex] Jacob’s Creek should come in smaller bottles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVlEV0xTSmVvTjNwazFZNDhuWWVmQ2F6OTZ5b0U5S05wdE9wQVl2bVhJWFAzQkhibnVNVWduVkdWZlE2amJrWG5HNkt4ZnllV1N6dHg3U2FzbmctbXBldzgyREFPVnB3cW9wZ2Zra1Y0LUQ4MVZ3djBaVk9neXlTMXVVU28?oc=5
+- **2026-04-10** · [Lex] BP’s proxy fight exposes bugs in shareholder voting machine
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZW91bGczaFdRb0lySVNtaEluRGFXc2V1R0IzRmxvMHU1NzVzTklVQWlRSWkzbWZWcDhaRWtGYnZXZE1hR2xyMzdCYVRrMHF6LWtQUjd3RkRXT3RWbGRPakl1UkxtdWV5RkRQMzVEb3llSG5EaDREVHBZM3k2ckN6d3NpeU8?oc=5
+- **2026-04-10** · [The Long View] European stocks are the losers in the Iran war fallout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFFZcE1Pc0FtRjgzYUkwdWxUNk9vcjVCdWh6Z09ldTgzb0NFRjA2RVUyc2tBMVRla0dTT0cxWmY5eVBsSVI1c21ncGlWVW4xVExJRHFsSkstcTNHamR4UDF3Z0dkWFdXRWt4bF9uRmQtQ2tSaWxFTy1iN2NfcTdVTVZld1o?oc=5
+- **2026-04-10** · [The Long View] UK drops bill to hand Chagos Islands to Mauritius after US opposition
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0hDOUViUnRVRHJQbWdwdVBhdzFVekZiLUFRNmNwRVBMQVI4Wi1hTmVId2xzYjBuUmx5aEg0WVM0ZUFVZGdaTmhhTVdPOEs2XzBTWG1acEtWb0F6eTZEV0N5dUtnUmtFOFRxbUM4TlRGMVcyeDhZOGw4YmZQajloUlFwRnc?oc=5
+- **2026-04-10** · [Markets analysis] The damage wrought to the Middle East’s oil and gas supplies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGhfajdSVTdDa1hfVFA4VWF6d2l3eFNkeUt3RkVlWmswRFFDNHZLcmpJaGo1UFU4ZUlsVHF3QkhvdjFacHhBNzFlMHhGbDVsa1ZSZWdDbElPTWVaT2p6MVBCOUNHYWV0cDRkQnl2d3RVWnA5VktCMmdTQk5MMm92YkY5elk?oc=5
+- **2026-04-09** · [Unhedged] What has changed?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDNBcGZoSHh4cGJTSUlNVDJERGtWNVNiczJKR0hPOFhTaFdsMl8tZWFqRVFFaGdKRXFFa21Ea3RKR0xFX2xDVFBFU0VwQXd2cURxRnFYQVhBdkJCR0JhNGE4Tkc5eGNKVVV3bU1rdnNyVThFWVk3aWRhb3NRMGJVZ0xMaWQ?oc=5
+- **2026-04-09** · [Unhedged] Why are small stocks outperforming?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdfQ2tWT1Vkd0NTYjlnVnZJVmVNb2hGSEhvSWloeVhRTHdZR1BGbzJuaUZ1S0J5ZndObGZ1ZkJaOUJvbzBJU1AtQnBNcmp4d3Y4N2xkWjBheW9WTnUxUFdtT3pLa1RQaXNvWmdIZEpTN3ZPcWc2OXdIcGMyVEdkaDduYnE?oc=5
+- **2026-04-09** · [Unhedged] Listen up: AI’s communication blind spot
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBqUTJha0xEZW5aNERsdzAzRjE1eHdIcjBCR2RHTFJIMEVocENZb0FraFdNaFBROUlJYmN4QUtSNlh5cS1ib25NVjZLZ3AyS2RuS1g5c2FHLUVJVnZWM1QtS1NmYnBNUlFVUjN5ZFRDTWI?oc=5
+- **2026-04-09** · [Lex] It’s time for private credit’s spring cleaning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3BfNnQ4S3lGc2NfWXVfRzVWNFJZYlZqdm5DcFRPRV9nRVZYUFgxZTc5SlVtTjNOMEdYV3ZHZEsxSXhrSEZBUXhkN29abktCWGFPajBKOXlDdUJSc19TRzNkcEN3alM1SC1xeS1OZGozLXp6cThjT0NEYlo3dnk5blJVOGo?oc=5
+- **2026-04-09** · [Lex] For Oura and Whoop, health has a reasonable chance of being wealth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3gtOWxnZlJlc2tYQVhyWFpiSzdQcllQS1pXQzJuOFVWbWVmWURBLXQ5UEFIdFBBZWtqMnMzOGN1MTJXWmgtZ0gxVGhZWWtLdjN6SUh0UTI1R1d1VzhHcE9fRU5xOGtpNlY1elZyMkxTaWdGNWQ4LThNUm1sVVp0RXM5cUw?oc=5
+- **2026-04-09** · [Lex] What Jamie Dimon could learn from the collapse of Northern Rock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3FQYm9CYzRzclZpWkFlWno4RmVLMWhERnhVeVRaR3ZSaldoVVZlbEQ5N2VDekhpSGhESi1PWUZjdFhORkNibFdISVZBbE1lNGIwWXpOMUVnSUs2VkgxS3ktN1ExRGRvbWVBUnhoSG80dW9BY3dQbFJtbGFNeHpLSlN6VFA?oc=5
+- **2026-04-09** · [Markets analysis] The AI job loss story is all about bundles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWlTWTNmV1VRcDZKLTY2SC10TTV3d0dmWDVqUVNlZm5zdk5TMkZWbjRBc1R1Q01zaEhpZmVIQ2lKcFlhdTF0NExXNmJwNTlERlFPNVZpTktBeWdrcVZDcWpTY1UweC1OZTA2WHhkWnFqdVB5dy1GdjlTNkpPaHRfejNiTWg?oc=5
+- **2026-04-08** · [Unhedged] The ceasefire bounce
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUE5QdXBIenR6YzMwaGZad2pKVnRSOWE0anFadXI1WTEwV0VmT1dRNXZQNVh6eVF2STFxRmw2Q0xWN0ZCb3NhTGVDdGhfS2tSSmNZTExhdktBYWwyS2RGRkgzZjVvRUExa0JjYkJOUHFBbWdGcWZ2TVVCZi12cVAzbWV2NXc?oc=5
+- **2026-04-08** · [Unhedged] Federal Reserve officials sparred over response to energy surge caused by Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOU4zQjNlS056SXl2elZwWEFLWmo4MHo0Q1g3RUZ4T2FmdlZaYm14UkpGUjQzWTFnM3dybnZJV1lPck1yVXl0SGhqdWJjYmNqclNvRWQ2czBNOUVDdFhwa3FER0VVWVlJYnJYQVJBR29XQWRnOU5JLWNDLVdMYUc1dWllTGg?oc=5
+- **2026-04-08** · [Unhedged] Why the ‘SaaSpocalypse’ doomsayers are wrong
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmR1bjZvaHY5Q0g5NFBseHNBV3BWVVpnNmVRUUVEN1k5NFlMa2Y5ekF3VDdtRVJfYWhCSmZkcFdha0xURHl0anZXWFZtV0lrOVk3SktsaGRWNVN0R1RQZExzUlFDY21jQ0lSZ2k5dnh5TjZ0OVNtcDZoOHF0ME5wb3A4TGY?oc=5
+- **2026-04-08** · [Unhedged] SEC names Gibson Dunn partner David Woodcock to run enforcement unit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0trb0NtZm5MTGZlTXpOSVhHSHF1ajNXYnRVOXpCbGExM3BwSGdIR292cnNLN1dpZXoyRU5scUo3eHI1dkQ4QjdDc1pZc3NhXy1JY09oUkNlY3RHTE00R3NMN19DeGVYTFQwQXhlbFA1TVJPV055MkFiQVpBbDlscUwyVHQ?oc=5
+- **2026-04-08** · [Lex] How this oil shock unwinds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzVTT2laYmZlSWF0aVpjSE53QzJONG5UdWxLQlh5RjFic1hQRXR5VDg5WGNxdm5qSXJfUzVXVWtVNE1iZlpxN0J2VUIwMjlxMzZjTldob0V5WTZ4Zkl5OGE2Ul90aXdJR1dKN0ZMYWtHNy1FRXNyMG1RMlRIbXhMeFI4LVA?oc=5
+- **2026-04-08** · [Lex] Toyota keeps hydrogen as a hedge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHplZ0N5RFJJQjhPblc3dl9MTGl2UERYX2hmaTJ3Z0owRzNZMUNJbzBzNlRObEM3ZHAzc0FsWDdQbkFFMFY2QjZKOVBLalNmVkNMZHdFVldCWnpmV09pWk1BQkdNN3RlSWRWVklVWC1YTWxJc1FUdDYyRTR1Q21kdlZDRXA?oc=5
+- **2026-04-08** · [Lex] Nike’s comeback may not come all the way back
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTNieWo4QlU5d2E1amttZS15blIyLWxGVFZaYUVLMnRIVkljS01TUWcxQkJPWjBEVnJ3X3lvWFZBU3hQbFBMMGdfWnh0alVFSDNIT3JXTkVNektRbHJ6ZDJjanJNODh1aWRWN05hdEY1MUFtTjNpZmpzZEhWNGQ5azhxRUY?oc=5
+- **2026-04-08** · [Lex] ‘A toxic environment for children’ — inside the beauty ‘cosmeticorexia’ battle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFVGZ2xySEx0OVlydUhXWWVYQzRuQUpJS09iWlJhYzl0S3hwenUxSXZ6TzNaT2piRzhTTXd0a2dqd0NCZGo4THJnZDYweVhvTE1Hel8zX3FQMGRzMWFSRmdIZ05ZalN6UUpOTFZCWU1yZV95SkJaWHFPVHoyRVNJVE1jR2g?oc=5
+- **2026-04-08** · [The Long View] The UK needs to make choices on tech strategy
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5aQl9TTVI2Y2FRQm5DOTlSaTluRENCaG9YYjVEWTNPaWh0V2ZNUEhmR0pRUTBEQ2ZTUFdaNkcxTVRCT0swRDBQd2V1QUktc2lQblBheWpTSW5qWGUwakZjY1pOck1ubzJOOG5hS2FrWFg?oc=5
+- **2026-04-08** · [The Long View] European bonds surge as traders trim bets on interest rate rises
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWE0THppdkY1VGhvRE1jMExYakcwSlFyMjVxeENWaVptbFB5RXJmVjV1MDFNMHVpOE5TZ0hQYlNPOGtmWFRFNTFlem9hRlRXZWctQ1pOa0piVVNVTXFtcmd5ck1jQ29WQzNzOUM5LWtQU1hycEJLQWR5eE5pVU9jYnoxWDQ?oc=5
+- **2026-04-07** · [Unhedged] Guns and butter and credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQekNFM0UwdzRhb3J6Q1d0S0MxXzZNM19VSlNrT2k3NVBEVFBHZy05NXN6NjBmSVk1WWdiWC03UHNjU2x6X3k2WDZZYzZUb29Hc0NnZXZ2ODBaMGlLcGNVNENveDYyX3hfb085aEFxUUJOdWUySDVZTEZWYWhMbmxva2pXejA?oc=5
+- **2026-04-07** · [Unhedged] Earnings expectations are too high
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDd4YjhqTFJOOUVMSks1YUtfVjhhTEtDRVJWMDBlMU5Gd1RtUVJXdkdaTkR4dXNLRmNLajFXWWJXbXEwcXVMVXFsc3BxRk5MUHE0ZGtuQTNJV2xTeWYtNnk3c2ltWUpWYlV3SDBta1hOdTRIa0VkaDhpbE1uYTVsUzlZb0c?oc=5
+- **2026-04-07** · [Unhedged] Transcript: Guns and butter and credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnlBQXFKRWcwd0V1ckR5dWtVck9IX21meWdPYVFmbVRfLVVqS2xQNWpqR3VfZTNieGUwRWp2bEpCckxsODFuZEVfbjFGeTZfYzRUWm9NVmtkVWxhc2ZCY3EzeDlQZGRoUzBNSlE5eEF5T25YTkJsMzdWOUotc0hCTnotUVI?oc=5
+- **2026-04-07** · [Unhedged] Private equity’s secondaries magic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1luckFidGJRdEZSWlpKbjBxZ2ZhX3c0cDQwT1BuM3lFei1tNGN6MjhabVY4bmY2aVgzUjVTNkdISU5PSG9vWTNPVTc3R3hzZFBobkdLMkZ0bkdZdkVtTzk1TVJxTTRVNmVLWVc4bnppc1pCalRJZ1Utc1NlalJYVkRjRnE?oc=5
+- **2026-04-07** · [Unhedged] The question over Trump’s ‘historic’ refinery deal: $300bn or $40mn?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkk1cFZkUGUyR1FUQThuVXF1OUd2SHAyM3k5aC1VaE5QTGxyQ09tNnZqSEhlZTB2Yl9wODV2aEdDcnRyalFaQUdqV0lWcHpzTVo4UnV5X3VzRnFlNHFiTUxRYlhwZjY1OTB1Q3FPbGE4TmZnTXdRRjhIMjFyRVNycjZldUM?oc=5
+- **2026-04-07** · [Unhedged] Lessons for the AI revolutionaries from Francis Bacon
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9kT1B3dUp4VnQtcEtacjU2WWN5ZkNBekthTkhEY3UtTjlabXYwV0lDTWl1VHBKSXdVTzV0aEhrWm8zQ2FlTkgyZWpxOWhWY0xVZGhlVmJUUUtQNG5mV2YybHkycklOblBrcDJDOENvb2U?oc=5
+- **2026-04-07** · [Unhedged] Anthropic rolls out cyber AI model days after source code leak
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NDdC14M1ZEaF8xazMxNEltYW5rd2Nrclk2NlBvcmdHOENKVi1kZGxYbkk0MjE0dERjNDczcDZ2RUdXa0FXYk9WVkFoSjUxRzR1RnM5ck5wMTYydFBOUHNPel9vbHVJWUFfZ1FiekFOMXluTHliaExrNlBSU0Y3S1REYXA?oc=5
+- **2026-04-07** · [Lex] Bill Ackman strikes a chord with Universal bid
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1JseTFxWWFNbmRkUnN1S0NfaDBVSDdlR1E0blhERmtnZjdMNE9uZGtaOEhVYndrcXZ2UmV1ZVpTbzVNZzNXdzNpOU9PNmF0NGxDdHBnV1JXeTEwUmM3NGJXbU9DQ3g4UHk2TmhyR2dFNFhOOUozd0tUZzlpMlpLeFctYVI?oc=5
+- **2026-04-07** · [Lex] Bill Ackman’s Pershing Square offers to buy Universal Music in €55bn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdXZaV1VXQmg0Mk5qVDRoWjI2QjdxdjdpZ2NfTWdjLWVfUy01SWRtcmVvYWg2NlEybGVlRjU3M0xmZ1BFcUVTdGxadC1uRmZwNUlFN1lnd0duTWR4VDh1aERCeGZZWkhPU0VjXzBJNlNQbjFYZmIzMUZaaG1lQmtSU1E3ZV8?oc=5
+- **2026-04-07** · [Lex] Oil shock sorts cruise lines into the hedged and hedged nots
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWxJNHdvbHM3djFvbEZfOE5FdVFsdE9mSmlDWWJIWm15dTZiTWRQRmxIbzJnUkQ3QUllUEVfQkw3a2ozazBPWDIySzNSMm5USHVHLXZYeHFQXzhxbDJUR1JZM0lTcTdQNUEzYnRza0x3eGVUbUVLSFliNHVXTHRoSTdwTjk?oc=5
+- **2026-04-07** · [The Long View] Half a century of sovereign debt blow-ups
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE95a29lc0VOcjhqTEdHNXhPeEVfWXhMQVd3SXNWSklEUkVCVTIycENHNDJUMFZpeG1oU2I4TmlITEkzUTRfS0pQOEN3UDBZcHk5ZTFPTjNFcnh5a2R0MzhzSzZxd3FGeGRfRVNwTWJMSXY?oc=5
+- **2026-04-07** · [Markets analysis] IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYks4a2ljcHRiVThwOEhTNUd3dHgwTGVmMFlRSjNHYTJ2MHk0aFR1SnV0enlwTTNOLVZUWXVMdmdBVDBvdnduUzU3STItbENhMmMyWm5mRDN1YzVySmhuOHdHbE1reUtTSjJnYzY2elN3WFFNRGprNTBGc1g2cXFQcWdwejM?oc=5
+- **2026-04-07** · [Markets analysis] Eramet’s top shareholder weighs exit as €500mn capital raise looms
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkEweUxsSVNRZ2xBc01qSGxnQ0lKM1RKZFBpb19sZDdOX05EUjlKWjJvb3daZzluVnhnZXdHQlJYRUxrSnlqSDdvVWZqTEpkUnVhSldPYWtZU0ZsYzlLMElCMzdXNUxoNWZPQW81em5oQUJaUnJDYnpDT3J0UnlaM3VQS20?oc=5
+- **2026-04-06** · [Unhedged] Don’t forget the Mag 7
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0dNaXVuTXZNRWdmQlN5cDA3WGFVWWlPOWs1dExwNFNNRG1YM3psTE5LVmlOYUFDWHM4dGF5dVhIbVMxTUMzWDB5MWJGcDZCLS1fVnFVYlBoaU1nS2tlV2hwR29ZclExRllxR0V0RTBMeG1vNlhfUmkzSkg0YzNGeFM1YWs?oc=5
+- **2026-04-06** · [Unhedged] Private equity buyouts nosedive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWk5S2dOWUYyX29LWFJBMmJ3QVBkMzlUSkZkWXRWOUpXc3BPMjRQZlpZa092M0M2UVF5aFBCMTBkRnF5QlFFTnFETk84TkNWSVhQRExobkl5Tzk5MUNDTHUzdEM1N3FsMmh2ZV84WlZlLXRLODJLSFV0cjA0TlBCcWJ4VXA?oc=5
+- **2026-04-06** · [Unhedged] When will Americans take the blame?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEYzSC1IaVhpbi0xN2p6bmZPV3R4RkRLTkJYNXBKem04RFhwTFViSTc0VmstR0I1TURPTFdHcWpwUERoSDdLNG1rY1R4VTNZVFF4YkJpSmFKeVgwUXh6VGJ5ZDJnM0tINW5QaDgwcUxIVEc5NUNkZHFuNjc0ZTVTYXRYb1A?oc=5
+- **2026-04-06** · [Unhedged] Jeff Bezos’s new lab hires xAI co-founder from OpenAI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlVndVFCWkFGNEVrT0VBY25IU0tHZXgyTDdtdHBjTUVGYkphUEM4X3FFdllXcG5jVTRZVEU0andVQkVXc05EN1ljNmtYSTFqZElYaFJ5UjZQbFpzSHdGVVYwMkFaMUhaNTlhUnZVTUt4WklwRHRUWnZOVXhvbnREWjJDRzU?oc=5
+- **2026-04-06** · [Lex] Fast fashion’s offcuts are fighting back
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzV3R1RUVGt4LTNNaGM1TWliZUtuMXBOY3BIM25jcC1SUFRKQzlXblRTZF9lNjlpc1RhRjQ3clhuU3p3ZWdvS1FJVVdrbHA1a21rYzBWYnhwYWZPQzBEVHVuODNNcDFZMTNKcTBENnRtTkFrcnQ0all1ZTNtNUJZaGJzc3o?oc=5
+- **2026-04-06** · [Lex] M&A megadeals belie weaker activity ahead
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNemROVlhKOWZKYWhkalpPd1dnbWVtOW9SaHlGTngzMl94QlE2ZDNxMnRPcEhqV2hyd01qTEFvMG5HTWl5clZiaDhqWFpOWjhTWFhoTEZaRDRKbTVwbFIwbXRmR3hlSHBNTnl0dXBKS0l2VkxwU3BoLTV0WkdER1MwRzRXQWM?oc=5
+- **2026-04-06** · [Lex] SpaceX bankers bend over backwards to bag IPO role
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9vaDNoeDlIRkEtbkd0dmpvQ3RGRkw3bmctRkN5N0Q1U0ZPWnV2b2Z6OC1wdzdFWFVpUnNvU2NhNy1sLUM0Q3hUOUY3R0hNRU5yRFB0UnVNWFJHR0FUMzRoZUxpRzlqU040NThDVWp3dGg?oc=5
+- **2026-04-06** · [The Long View] The UK is turning the energy crisis into a political mess
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTU12YWV6Zl92V3VyMkE0a0RKb3NvZ0R0aEEtMEsySmMzT2hEQS1JanFtTEY4YzJWWWRXVkF3dHFBLW5oWlE0RElGRWxUQkZQMF92NEp6aUNaOHgzM1ZpZjZFeW1hX1lSUElhdUQwdVlKYmZSQkZmLUJHbko5NDlwQUpBUlY?oc=5
+- **2026-04-06** · [Markets analysis] US counts cost of equipment destroyed in Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzVZNHVIcHhVNGdaaWxORVRWM1VGUk9sS3NieVZSa2FhdGF4ZWtMaVplb0tDTHcyUVhZRmFsVUxjOXZFLVNEZ0NuMHJWZXE2M0xSX2p6NTZ4aVpyQVRncTNxNlY2bEdHekwyWmg1bjlWT3hDeTJxRkFxSWRoLV9Fc1NoZXk?oc=5
+- **2026-04-05** · [Unhedged, The Long View] US employment: more sludge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWVtVjN2YkFfZ0llYmt2a2JuMFhWU09XaUtGb2JXRXd1a29qRWRnYWQ2cm83TXY1WlZRYnFZbVFxVDZVTTFtMzhYRkx5NUE0VjFHYjl4dlVvVUNxdDlUcHYyT1k2UjFMQTdrOFY5ZklVdkFITnlQcGFnYjhjUDFlQkpMZEk?oc=5
+- **2026-04-05** · [Unhedged, Lex] Boring stocks are still beating the herd
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORWpiSVAtT0RRRU54Snp2VnA3WnhDemFCelVqaUMyamxMeFFnaVdKdkRzQlM1dUNaZllSU0ZnbmZDOU8zRl96V0tJX0d2eUxDVVYzbHdYMjl4VXFFSUhOZDgtbGlmRGZndlowbERVdGNLeDZRNzRJRlo4cVlVOVljZTdxdnQ?oc=5
+- **2026-04-04** · [Lex] Leverage Shares 3x Long Nebius (NBIS) ETP, NBI3:LSE:USD summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE1HNjVBQTNWX1hzaEN1M2RjcGlEX2xSWE91YlJ5dWkwNWdKcHpacW9TVUh0eGlFLXAxRlBjdC1zOFJJeUJsUjZ1VWp5OUtrNnVySEptRDRrQUZLMFg4UlZFeHlSdjFESEdrWUNoNmd3SXI4NDg?oc=5
+- **2026-04-04** · [Unhedged] AI and tech companies drive Hong Kong listings to 5-year high
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlkzQkFVMUhiWXBhaFdrM2pCMlZXWHVfdzVoQS1OV3A5ZEhIeGNKa2RVZER2QW9hbXJlakJLbkdNajFBWDhjOGVabmN6SXQ1TzBsMVRpS21xX0gycDltc1k2RDgwbXlnNVQ4WUR4U01VMm02VmJJZkFNdThUZVgzNmh2bGU?oc=5
+- **2026-04-04** · [Lex] Stagflation fears demolish confidence in UK housing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVluSmZud3NvSWhSNG9SRGkxRE0yN2FIMWxYb1hjODhsM1VqQWdIUmlUVmI2dFU1SkxIVVNvSFlVeHR2alk1NUpFOEZoX1pMakk4cW1XRXRWSWNRekx1cjVKLWdtREdpUk9RaWIydnc4dzZTc2dNSFVFSW1TMjBzeVVmTUI?oc=5
+- **2026-04-03** · [Unhedged] Fed set to remain stuck on hold after bumper jobs growth in March
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlk2eVhNMGsya1hSb3pQU2k3eGg0VUtsdnNnNUxVLXZ1Tks5b18tR1RYeTdmX1NMY0NtMHpfal9uZWtzejFEdDZSbUlFY2RoYnFBSFNuYmE2bW9aNC1mNnpfTzVvdDN5bVRJd2t5bS02bVk0Y1N3emt4UjRZSldEaVpndTE?oc=5
+- **2026-04-03** · [Lex] For Easter-egg makers, it is chocolate tomorrow
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcm5jTS1OX0lfSjJ6QjYtekpYODgtVjZxSXZSaVhYYXkzZWNjVmdQV1I3a2tLRmdyU3U5bjFGaTRJdDh5QkhfMllNRXBIYzljaXBHSnl1YW1jbVZIdEZsNFRnRk5sX283TjVSaXgwMHB2ME5RbGRjT0N5cEp5RjNCYndib1c?oc=5
+- **2026-04-03** · [The Long View] Trump’s tales are still muddling markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVpJQUFCd0F4T3hkVEoyZVJWN1N0RHlBbTZUUWVyWFd5bk1GNVIxcmY0UFV0MHFZVGFkYURaZ2s5OC1zR29Ua01VaWxQc2dQTHFpQS1XLV9rd2dReGdUcFNaM3d6TVVKbEQwdDF2R1h0ZmpFTmI1ZVBYVW1mV0NRaS03Q3A?oc=5
+- **2026-04-03** · [The Long View] Letter: Get in line Trump, Coolidge’s coin was first
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE13R0ZUYUhlcVB3WURodmtHdUVxZTB4QW5HS3E0QVdERVJTeUE5STNzZWhZdGkxSWFfU2JxcGx2MC0zUEhSZGNuUkF5bDNQVzZKNmlWRXM4dUU0OVVDcEhFUVo1RGxjdThjSUJYaVBqMlE?oc=5
+- **2026-04-03** · [Markets analysis] Rachel Reeves’ ‘mansion tax’ to hit about 160,000 homes, says fiscal watchdog
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOay1wRXdRSUZwTGxWZlVnWmZZdzhtRUtEU2lDZlJOQlNYZ3Vyc0RYalhoU1AyMUVWUU40Q1RiRy1sNVQwU092UmFyMC1jc0d1anVBSmxJU3A4aGx5b0Z5TnA4ejl1R0ZlSWlRX002R2tsRHAzWHRUaFExWGFNbEp3dDZsSVc?oc=5
+- **2026-04-02** · [Unhedged] How an energy crisis unfolds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzZzbnAwYVlPbzBhY3hqUWF2NXJvSWhXbEZSTkRRRk41UnBWbUlFZnJiajJqa1FVaGc0NmlNaWNyaUNxZHdtLUxmZ0kxTzdPQnRaSW5YVnRNdHAxcHpLRHBSLWlmMVJ6blNpRW1mdzFSbUFNTjBVc21QR0RXTlk1QWNiNVI?oc=5
+- **2026-04-02** · [Unhedged, The Long View] Fund managers snap up bonds on growth threat from Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVFxSkR2b05YOXVfOVNMY2djanBwRGZ4ZVdxT0ZOcm5hSkR1SE43QU1xampEcmNmdVlONm1sUFdzVWhWZEhpWDRQR1ZCSWVJUWNWRGRRcG9MQ2JYakczQlhlQkpzTEctMUFsU19US0x4a0tEVXh0NzFsLTlhYzVXdTF3MEs?oc=5
+- **2026-04-02** · [Unhedged] SpaceX IPO is Musk’s biggest financial moonshot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXV2ajJRcTJRQmtaQko0X1ByemR2UTI3WEM5ZDBnWUtoMVlxWE1FT1JCUF80Um90QUVFMlpkV2ZqUDZyMk5ZN1NKS3JaREY0N2FPQlFFNjBySXFIN1loZ2VqWVJqdXhkVVhSSWRkc2lsNTdlSHFzUWhOWkdwS2pCZkFiblg?oc=5
+- **2026-04-02** · [Unhedged] OpenAI acquires popular tech talk show for ‘low hundreds of millions’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm5EdGo0NzNlSmFFNThqSlBVV0xIVkE3OWhxYU0tUW9nTWRoMjdCVTFLYnBSamIxUm1Zb1lkMUdjM0lOaG5KN1NuSzBPcEluUzhoZTZFX1pyNm5TUDJRcHZpekZOQllKbXdRSDRFcUZtNGZhUUxSOEtxZkxwNGxlbUNyVjc?oc=5
+- **2026-04-02** · [Lex] Trust fund battle shows the limits of the UK’s retail investing culture
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRfZGU3SVlTQVhrMmV5RlNKeVpNSnE2MFIxZHd4ajNlQWw0amJnUDA4clVzM3RJbVlRWVRSdXRVaE0yUW8yOGwzRGZ3aEY3VmJRZ2d5UGZjWVlBR3pwRno4aTNEYnlsR01CZ2RWWnN5NHB3X0x2dWZnUmpTR0VRSHJETy0?oc=5
+- **2026-04-02** · [Lex] MPS turmoil could turn it from predator to prey
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObFZvRm93LTVIYWswV19PUkk2MDd2aXhzTUxqUGZnQjRfY2pSdmpEbV80Qk8tSjlmMlRlbzgzUVhRRTd1dmljNlhKZFV3Q1NlSW5kSE9IME5QV2p1cld3RjNaa2lBZkZfMVhuS1FhZm14dnljQ24wSDEzOWE1cnpXNlN2V1U?oc=5
+- **2026-04-02** · [Lex] How Nelson Peltz chalked up another corporate break-up at Unilever
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjNlMzhtbDFSUlkzR2JUa2NTcVZpUFVORXJ6WnIyRGNjLTBCU1dzN2NmLUJjc2NOODYzUFJpczNFSGltbUVjMzNYdXJ5bXFPczhiSVFfTE9mUXNQcWFpVGJZSXRMZ0hhSFNxdWlQYVZiemxRdTRLRm1hT1h1SkZWbzcxb1Q?oc=5
+- **2026-04-02** · [Markets analysis] Easter eggs stay pricey even as cocoa prices plunge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3RzV3p2TFpJeGVid19NdnZPZHpHTkVVS0RDZmw1TXZOdjkwcnRYNFlaSTBvZjgyY1FSQTlDblAzTnBsY295RDg5eVJWaG8wS0tRUUtMU2syUkRCT3BZVkpidW5kc0wtMDlYVEl5TmdvaHoxOUlYZ2FKUmFOdFRvMG1JVGw?oc=5
+- **2026-04-02** · [Markets analysis] Europe must prepare for ‘long-lasting’ energy shock, EU warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPanVMQm5DQWprZi1nakNIckNjUEJlekdGR1FOUW9IU2duWVdRZW12RkkwTHN0dEFDYjZ4QXVuZEZkbWFYbDVNY3JrbEpZZm5MckZYMG02LTEwOFBKcTBHN3c5c1VOYmlCWmQzNW1LWlotMTh0LVRxU2tzODJna1J1elQxVGw?oc=5
+- **2026-04-01** · [Unhedged] Buckling up for the stagflation trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVh5LWZzRjBtNnhuSTNQZzBFX3VRZGlCdlVUb0VqelZ4TFZseF9KbUtCVGNSWk1NcWstTW9BWndiTWNJLUpZNjYwdVczTVBxM0RaeW1Lay1pWEhNU3hqS0Q4akVhaG1YWEY4ZzJqTm1hUm1QQ2cwMk5hSUVVREZ1UUdNY0M?oc=5
+- **2026-04-01** · [Unhedged, Lex] SpaceX filing kicks off largest IPO process in history
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXlydmlfQUZMd0ZYZ203U1Q4azZ3SWJqb1BwWktBNk9xdFMyZVBhRkU5dHJFa3RRcG52WkN5bENNRzFZY0lBZ0xBX3BaVk9ONDdsSDVEVngycW04cFZ5MlkycS1jMWhyV05tTDRUMWdEOFdSdHVXQm8xSzNkeDZ0S3hTS1U?oc=5
+- **2026-04-01** · [Unhedged] The Fed is vacillating as the war continues
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnB2cGc4cTl1dGJNRDYyMkpPTjBXaW5wdWlpUW9lYzhRVlhsUWVsbkduY2NmVVhYT3hRVUVuMEt0SndzRmtvU0M5VjRJakI5YlFkdmlUQnhwZ1pxZ0NOaVpuVDRZcXJ6ZkxXLWtLM3QzQzdwTFZTSm5zak1KOGlvSDl5QlE?oc=5
+- **2026-04-01** · [Unhedged] Poolside hunts data centre partners after CoreWeave deal falls through
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjBLVURHelVuRlByNExGelB1MzJZTXZwbVEzWG8yaEV4NDJMN0Etb251X3kxUlo2Wl84V1lycTU3bGVlYV80T1VqSnRqem9hZjVsMzAwUTBBRmlWN0tIX1hiUmdCY2JmdF84N0h6b1RwMHpNRkNFMFV2YUdwaVlkeGxzcGk?oc=5
+- **2026-04-01** · [Lex] Car park collapse is a warning to leaseback-loving retailers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUU5FYlNLdVlsbHFuY2VPeWV1Y2dRY1I3eFNXNnM5SUZhSzZ1VC1CTjY3RnpEY1hQamxTbGZUYUlZRGFSZDY0aVUwV3hSSVdoM0NnTzRSWWNaOEd2c1M4N0tfVTRSS2NVdDV0RkpRR2RGdjhjeHo3NlEtdXN1dmJfRWMwMlc?oc=5
+- **2026-04-01** · [Lex] Mooted Pernod-Jack Daniel’s merger should age well
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHBFM2pqYXlxejRsVUJzZWtWWk1xLTBSNFlZeVhXMmNvNk14cENHd2pTbHY5bkk3cW1rR3hTRGoza1NzQkxKWjBMMERJSVhGY3F5OW5jLVRHZlRRWlZCQjlFYm9lQXExSGhGMEw1WG1SaTdRdHpaRklSLW5tNi1IZUJPcEE?oc=5
+- **2026-04-01** · [Lex] Snap’s activist captures the future of shareholder rights
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPREJVWXVBZU9zcnhuWldqbnhUcUpGV0hrVUphakwxTDQ2ZXJNdzJIdE9rMGsxbTV0WGZobENUVTBIemR2TkppRGRmWUhUa1hwWmhGbjVLRUlwSzNGLWI3aGdYdlFaV1ozTFpBbWJjLTNlZW1XNkVVdDNWMDRVZkFkUzBzX2U?oc=5
+- **2026-04-01** · [Lex] Thomson Reuters First Quarter 2026 Earnings Announcement and Webcast Scheduled for May 5, 2026
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGU4dVB6MlFkWFprWFREQUhHUTVJMXdGRzJxUHZTcTF4QTF3V0h1c3lpeHRCM0hmMUpRcEVqT1g1NTVVVGhQOWo1MXBuZG9mSnp0b3QwMDBoTU5FTWxEVDd3SlpGUjJtTkhzTFVtRmMwQ1JleHlFWkk4emxEQXhRMHA0bFREbG1vV19TRjRqSHJIcW5ZV3c?oc=5
+- **2026-04-01** · [The Long View, Unhedged, Markets analysis] Our euro, your solution
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUtydllQZ2RyN3JfeC1Sd29FZ09zX0lmQUJzLU14MzA4OFBFMVVJNmQ2OXgwQmJrdExoQzNaRXZMRGl6YjVsSmRpXy1aUXJ3OFdmRDlzTXpaWmdBaUJUOWl3Q2VBOXZOa0FKdXJxa3lmOGZTUjk1N29jV0R5Q0dTU0hoZmw?oc=5
+- **2026-04-01** · [Markets analysis] UK borrowers coming off five-year fixes face biggest mortgage ‘shock’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXFvYW9aQWdILV95cDBuVmxwNDl1NTNLSnE4Xy13ZDd2TmQyVlgwaDQzNjZsQV9xeVJWSHUwNHNhQ0d0VlNJeU5RbFN2aXhKU29WXzVSNElJamJFN2hwN2NDWU43ZXR2MUdVQ09MVm1oaERUZnhjdnhpcHozdTd3bDVTX0U?oc=5
+- **2026-04-01** · [Markets analysis] Versigent Launches as New Publicly Traded Company
+  - https://news.google.com/rss/articles/CBMipgFBVV95cUxORVhiZkwwNUhMWS0yZ2VBZE1mWVNiWFlGSW9oc2FlcDFNUFk2TURVQUhKOHZvM1lWVEtxSlU0bGxMZUY3U0N4aWZ1ai02cUhlYlVjVGFTdTlkSzllSHZxRTdLd2J2OVNMRFd0ekNsU0ZsaXZpdFlrUmZOc3J0LVVaT0JRY09OUHQyRFlKOXNubDFnNVJJNzZXSFY5VkxGRVlZX2Fhc0Jn?oc=5
+
+## 2026-03 (271)
+
+- **2026-03-31** · [Unhedged] Is this social media's tobacco moment?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTRIV2NqRUVNaWtqSFhaUkJVcHZ4c0VIQWwyUnNkMTB3cVJyOHd3TjBpR1VIZlRRS0lhYnFJdVZscEtyQTdNVEppN0w3MG5CN21OclhGQ2RIWXRwaUtHWWtYckY4V2JGaTJhTS1Zci03aTZIQ3FXZXZDanlHUjhxR0huc20?oc=5
+- **2026-03-31** · [Unhedged] The disappointing dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdV9qWFoyeGUxcV9tdXh6c09JOWRLMGxOY3ItWm5ua1d4NDRscFAySXgtZi0xdW1pNXlKWl9nd2ZGbkhkWFNyblBfckdBUDA1MmtLTHdoMERDeG9NNERXT2FWSGx5cHJUd0R1dlFmV0xkclN3SVpyUlh0a0dFX2k2TXlBRng?oc=5
+- **2026-03-31** · [Unhedged] Nvidia invests $2bn in chipmaker Marvell to boost AI networking
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXJwcHZTUllFWXFOc0JBcGNTTFFSYVRXQWVmRUZXcG1ibUpHejY2QWdKXzd4bHBzUmVBMmV6LWt4NXF1UTFKTkhBZTRBZFFsVlV3Z1ZNUmh2Xzc0MGYzUUczUzNVdjNYY1Q5NlRnVURPaG5FT1hCMUhqZXMzd2M2SE8zQlg?oc=5
+- **2026-03-31** · [Lex] Unilever’s Marmite deal with McCormick looks unpalatable
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMzRGWWdCUmU0WGoyUmk2SFRqcnA3c0kza2RYeGFnelVpakJmWXMtTHVtazgwd1dZSnRUZHc2Vm5ULTlUQ0FLU0NFcDBWSE9zdkExZGppczU2aDVwalpSRTMzRXZxREJzbXV5MmVhM2trb1VNTjRkdndHTEttNGptRmUzQWI?oc=5
+- **2026-03-31** · [Lex] High street banks could learn from Revolut’s fee bonanza
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXNndW43LTA4SmJjUFFhRWtuZXZYTFpLelRwczNBMjZTb1Q2c3pOeG5aNTlxWlRQem1Ncmk4d0NxVXFMOUlPbkxaak5PWVZScjd3UHdKT0Q1bFNnbTJmRlExYkM5Y0E2RVJkVlNMT2Rfa3hDRWsyNVc0Z0RXOV95cmp5YTA?oc=5
+- **2026-03-31** · [Lex] Ploughshares to swords: a call to arms for industrial Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLURzNjIwLVFwZ25ESjd1WWxOTXlWZEwzVHRfcHlNWDc2UTdwYUhfQWdHTDdocUpRcTd5RXhvenJrYWNMUFV3LXFoNEZGN1lza19vRGIzMGZYSXJxV191aUxkMzlLQ1ZvM0NvYjRwVkNYRjdvZXkyNUtzWXQ4U0RJa09OMmg?oc=5
+- **2026-03-31** · [Lex] Record number of megadeals agreed in first quarter of the year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQckZ3dF9GN1dVT1llSllscWhwSmpBOVFFM0I1R1prUGdNRy1rZlN2b1ZDWTdKZXNEdUZwNUo3NnNXVGo4Z2pnQ25lRVVwcXVlOWR4Qjlsb1hqcmtRTzVHMjlLT1Z1aTVaaWNWT1NMUnF4Q0tZNW53cXNqYjNFNDcxRHRQd1Y?oc=5
+- **2026-03-31** · [The Long View] Lib Dems borrow from Macron playbook for May 7
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2RqWVdpeTJDLTFOMUw3V0ZXNWxkTk12TXFwUjNTcm9fYVN2Q0ZXTjJDREk1RnFCSU5QbXMwNktScUlHUlFLdF9vNEVSVmc5cVdvMDdUTEVnaUdBYVd6NVZWV18yZ0l0NjVLMXFKdjJaS2t1T0JYNTRBeUM4M3UtUVE0V1E?oc=5
+- **2026-03-31** · [Markets analysis] UK minimum wage rise has not led to economy-wide impact on jobs, analysis says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWVleVQ3WnlGVUtoUVlKSFdWN0NkVDRfQ1BJaVc4QW1kbFl1THN2Y1p0N0VwLWZoZHJCQ25maWQybkdfZDFrdHQ1Skd1XzZ2Q0RXdmpDczN3MXZEOUNMTmFEdXp1Vk04aXVLMENudDJoU0xNSXNKZVNMRGZQbFdXYXVseDA?oc=5
+- **2026-03-31** · [Markets analysis] Chinese government bonds emerge as lone war haven
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXg1QzJOZ0hvZTlQNG1lXzF0cUNTUWgwSnRhUVo1eC13SnNPWVV5ejJmYi1xWVBveG42enpYbmdxdVN6b3c5aEpDNU1iMXRxTDFoOThsWDBHajA2R3VlaWVXZVRxVThUY3ZPSTF6YjAwam1pNWozTnQ1TnkzcEtnM3lWNWM?oc=5
+- **2026-03-30** · [Lex, Markets analysis] Fast, flexible, borderless: how stablecoins can reshape money movement
+  - https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDkwWUFoYUNETHFLVmY0OFFpYTB3d0ZHR0oweHRCNnZDcjY3N1BzV2V2R05OdzJMVjRaTUNVNFUwSExXclQ0d002Mjh1bFNxT2tFNHlJTFdNeEg0WU9QZ2d1N1dvai1pWmxVQTZ5SnNpZUNERzNOemJKV1BfUTNXTThSbmYyMW01ZzlUdl94cjZoQ1hBQ3gyZXd3UFRZN0g4aGdxb0RGcVhLc09yZUtENTE4dWNhRC1ST1E?oc=5
+- **2026-03-30** · [Unhedged] Inflation worries become growth worries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaUFoUV9MOFJ6TkhkSjlKd2lxRGNjV3VTRnM5b3pnUHVGaWdFSTB0VlJ5VlJLLXFDNXRKeUk5cTl1Z19XMGYtZlNNZkExY1JGdTV6dThsRDJxS3haRkU3YXlYa1UyNXFEc1Y3N2N4SkJ4bVE2dVFuTzJfUlJ0MUlzT1VsUEE?oc=5
+- **2026-03-30** · [Lex] When did democracy become an investment bubble?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHQ1cVdDa1E5dWpmcFBQc2V4Vy1nOHlQajJEcldtOFVjNVBkSnoxbGRmZlRTVm1rTkJNSjdiWUV4d0syaHo4cThZemhEdjBXeHd2Yzdib2lMNmRhUkZiTmRRazM5cEsxelo2b1hHV05JVkg0V3R0UHhGZmI2X2dyaWwxQ1Q?oc=5
+- **2026-03-30** · [Lex] Iran shocks make their way inexorably to the grocery aisle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0EtOWN4N3NIUEZna3B3M0tVODVFTFVYOUR4VHcxeU1ubW12eVhORTd2anN1TUptQTlVN0xKb0diU3FpNGhBcnljeG8xUktmMEZIN25WNVBtaVZvZ1U5bFhrYjFjclVEODE5Vm1xVHl5UkFvLXAyMDdMOUFKSThSTzdfbmM?oc=5
+- **2026-03-30** · [Lex] Burford’s court loss shows risk in listed litigation funders
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1VIbXdVU1B6RTNaXzU2V1lkMHo0TFpPOHNnSG9aSmFNUFdfTjhadTA2S24tLURoaWxyQ1ZkajVlNm5LaHpHTEVSMk9XdnljejZsekVJNXgwVHBHNEtpOTBtMjREUUhFTzNhSkFhX3lwSmV0eS1Cem43SllQcThCcDI5S2w?oc=5
+- **2026-03-30** · [The Long View] Hammering Farage-Trump links could suppress Reform’s poll lead
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQemN3N21zVUtTTVdvWFlRSW0wWHJzdC0xYjNrTV9WR1dCX2xlM1hSQjlVaFN4UkhuN1FfVEdSdE5YRmVXT0paOERlaDVveXM5MHVBYXQ5WEdnWVE0VEJaQUNNdXhhMnpsbXZmUDdoaWh5SGQyTG9Qa2c5RVFSVGlEZVdjdEM?oc=5
+- **2026-03-29** · [Unhedged] Short rates have overshot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzJ0ZUFZY1VoTUwxYTV1Y24yd3QwVG1QakpkYVQ2OFgxWTFRSmRvS3JidWNJQjlwSWpZcTFiaEZPWlQwRC10cmFGSV9mV0NiMXBhOTRTMlJ1SkxCVHdtRUdnRngtU2s5SktkVFRvNXotYmI3Uno4S19SR1JDRGZiZ0trX0U?oc=5
+- **2026-03-29** · [Unhedged] Pro-AI group to spend $100mn on US midterm elections as backlash grows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHJ5ZTBHNlM1aTFRNmQxck9nLVZWWnhaUEx3bndrXzB1SjF2djdtN1RiVTNnalJCUFVlN3U0RDBWX09nQkpZYXhZRkFXdnJaZjFSVUVfZGVzUmktaWQtcmMtcFI1akFSNzRtMG1saWdFVkZQTGg5WDJHUnNVNm9qUEg4MnI?oc=5
+- **2026-03-29** · [The Long View] Avoid energy protectionism, UK chancellor will tell G7 allies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlBUNjJwUDBCMHdDenVVVFd0RHF0eWtFRGRpSG53cnZTRzc1Y3pDaE1Za2I5QjZLcVFheUlDZ2UwNzNON0pXLTRpc1BsM3ZDb2Iwd0Z4QUVSaHVQSWRiRmJ1Z3c0N3gwUnBpTVg5dFJvNmdHTXJWdmNiQkZVemVuY1JyWTg?oc=5
+- **2026-03-28** · [Unhedged] Chart of the Week: The oil shock hurts poorer economies hardest
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONW81c0NVQ21ra0tXcVBzR1UwSGVpLWZiZkJYb3N3SW10MWZtYk5GbjZWM3QybHoyZUdkRXNONkpHem5OOTYxelVDZWx4eVdwRUV3czlPeXVXOHFMZlR1Rm5qUUN4UEFoRFhxZ0FEdU1KWWdMRjlwOWo3VWRSSFlCQ0lNRHA?oc=5
+- **2026-03-28** · [Lex] In a world of $100 oil, fast fashion loses its defensive charms
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUEdsNTJUZXhCZksxV1ptX3lCc1o5RGNuUHNaY1lVWHZhZWFkdmVVYzcyV1dZOUtqZHdfbXFnT1lGTVdLV2ZoR0QyU0FkQmJzbVBubE0zRnEzeThVWnNySkMweWlPYkYtbUNKSUJYZ1Z6cnBHYU5EM0xyNGFubml3ZzF3alU?oc=5
+- **2026-03-28** · [Lex] German chemicals groups boost prices as Iran war adds to industry woes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDN1VnNXY1VVamozdUYzZDVlbFpLYTNlSXFBdEhabE11dk1uZjlqNnRFeGRySUVZMEpHcXIwak03VDFEa0tHQS1MZGlnaXhGYVhXRzhXcTdOVllRYmN3UzdUQTdXUGVtZlVuaTBxdktaZmY1MENVdXZpVTBpU3RLNy1HLVM?oc=5
+- **2026-03-28** · [The Long View] The failures of prediction markets are predictable
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFMxaTZmSnVxaGNrX19oTFVpdUM5UlotTWdYenB1NDVqN3NtRk9oUjZ1NmJ5dlotZnFjRlRsQXpMN0hVc0M4ckhjbkpNMGE0NmdocGx1OEpKWXJLNTgyM2lxV0tLXzcwRFUyYUxWVmx6ZUZYaG9nWlhJZEl4cmFuWWZnano?oc=5
+- **2026-03-27** · [Unhedged, Lex] Xerox copies a cheeky habit from debt restructurings past
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOanhzcVBLbGZzVTZqWHozOHR1UUdkZ0pVMUhUVklMSUQ0STVaaW5SNWFvejJ0R3FOUVpnMlFSSTc3eERjS2RyRUkyOG5LMWpkY2toX1ZhanM4SVkza0JCTE5aNzBCSjRfWE5hbU9rN1VGMTNLWEpOQ2VwN1RsdFNsXzd0RUo?oc=5
+- **2026-03-27** · [Lex] Lex in depth: Will the AI data centre boom become a $9tn bust?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlM5eTNzbWRmM18tNDhjX2JrOV9pZmNVUEY5cVloZVBaVmxIZWlkckxfNFB0azg2OHIyaGZjTGJkekpKUmQtLXdNNV9ERk1xTEFYSjJJQ3ZNMEdzaWtfSE91SVg5NWpqMS02cE5lRUhKd1R1TnhYSkpnaGstMGJqNWVQMnI?oc=5
+- **2026-03-27** · [Lex] Here’s the oil shock that Donald Trump can’t control
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGZSR0puYWs3NldwQkJoVFI3bDdQRUFTMWg3eEk4aGUtUEJ6Sk40MlRVVzM5WVpwczJPa0xCUGZIdmxhTk14NlhWSmoySGFGMHhRdkVEc193RlJpelJBNHZKM3o1MHNDdDc1Sk1wQlgtXzFMOVJkYm5FbkcxcXJJZTRyUHQ?oc=5
+- **2026-03-27** · [Lex] UK stocks are handling 2026 much better than the UK economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjllQk1LbENZTGg3eUtZeTBGWTZGYW5vazZsemxiX0E0MTBiX2lKOHoyRkFSUTdKSVdNbG83Q1hoMDJwdTRmM19SRDZRYWhSeFpvQ21HSVJsMkRMaGJDSm5faHpsY0cxOXVDLUI1Y2FYU2o3Nk8yVHBYX00zYm5IV0J1Y08?oc=5
+- **2026-03-27** · [The Long View] The Trump coin and lessons from the Ostrogoths
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA2czY2WUN1Z28yTjItQTE3OURXOHVaaVJaSHVsRU9RNGNia1VSZG1hQVhUYllwZDlMSk94a2JaODhiU3I2a2J1UHMyR2lyMHBkQkFSS0docHBwUGR3S2RlVUp4V3pkRHpHUjVCUzNHVzM?oc=5
+- **2026-03-27** · [Markets analysis] Social media is populist and polarising; AI may be the opposite
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDNzMFBzZDVWX3pld0VaZXZCc25lR19BaFlpME1samlSWGUycnNkeWJzX1EzTHdjT1dIbXhDZmxJamtKb1plbnUtYVhQRXZUVjJ3VFpxS0pnd3RZelF3cklmdHp5SkF1QkwxOW1TQzVWMFV6bWxwbXdYLUtCUV9JR2xkV3c?oc=5
+- **2026-03-27** · [Markets analysis] Oil market chaos will supercharge the electric car shift
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNczNJZW00dW16N1BobTBtQkd6M0dIUkpEcHBLaW1UWUVTU054ZFJWWVJZUmdidWdBejdWc3ByalYwckdhazE0dFJHTzVubFB4aFlqaG1nYTNPMk5vdzlCeGE1ZVJHWXllUEN4MGJ6QU9pc0h3MDF3SjVIdzZPdjJvbXJma1Y?oc=5
+- **2026-03-27** · [Markets analysis] How do Gift Articles work for recipients?
+  - https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVlqaFcxbHMyNi1fYVEyUGUzYUZNd3RTRlJ2T2ZGZW95bnZaVTRTVFotWGFCSGRLcW1lWmdJV1NINmgwU1Z0VHhqQndFYjJFSk9mekU2Vk1ueWJzWk5kMEhnWFZGeF9rem9BOWw4RTlLaG1xY0hmaDFabU8tN0gzalY1SGUyc2R4bFcxci1Fc2QwbzQ3WWF1MUEyNEo?oc=5
+- **2026-03-26** · [Unhedged] Corporate bonds are the new stocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdlJBdGM2bVQ0TGpCU0FQak4tWmJDS0ZLM3duQ1Y3dkpRemxJNG9JNXdEWlNvTEd1UVBjNF8zTDNwTkliWm5LYVNOeUVQcGtfTkdRc2NfcHJYMkx0X211aF92bUY2RHF6NGVRYU1SQmQwdnNhaGdCODZiOVVmSzVjTHVvWXk?oc=5
+- **2026-03-26** · [Unhedged] The rout in UK and European bonds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcThtdk90VDFLZkRPSjhtYU9tZHJsMDl1ZTZtMUxyMHpPQk1COWJnSzZNU0pNV1llX2J3dHNDV2JEWVZjNF8tTHV1Wmx5NGNpckFLRGIyaUo2eGZCNHQ1eWdXOEFvX0h6SVZEdmtRcFFSSmN2QmtuTl9hb0tFdWVOQm1WYVc?oc=5
+- **2026-03-26** · [Unhedged] Central bank governance reform for the lols
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBoMVRpWWwwaEY4Q1FILVlWY2Z4RXNPVnJsNHNaUU1ybTVxRktLNzgwVVRKOUFTNUhHOUdhdWVvWENNRzhqYWRUa1BCNXM1WWVHa3hjaElPSWkteHF2SHJNTGtOelpQcTdyQW8xdmRVTlA?oc=5
+- **2026-03-26** · [Unhedged] Everything you always wanted to know about credit (but were afraid to ask)
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE83Vy1LdGVILTE5aGZ2SzhLQl9JcVozLWFiV2JaNjRaV2p1RkJDNE5aUlc1ei1fVlpIM19GS3pUdFVTT0RCdHB5QmlhNnFLQ08zbVZBSkExQUtFMnFmY25ycDNnYnFPRlNTQVlfYU9HRVg?oc=5
+- **2026-03-26** · [Unhedged, The Long View] Should Sweden finally adopt the euro?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0wM0ZjTUVYbzJwOU54WE8xNkxFUnFYdkg5QlAxNi1BbXI1NHUtOWZVRGViM3ZHaEU3TERYaklWdWdGZ0xBVWVOSTdfWWtURXVfMjhaN3dpblg5cjd3Q1pxdzcyMG80bVNxZ1NKZEdVcVM?oc=5
+- **2026-03-26** · [Unhedged] Donald Trump says officials who opened probe into Jay Powell showed ‘courage’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2F1VFBXXzRVYnRPQ3E1SV9icHhQN2JuT0JRaWs0M3Vya19iV0lyQ0xIU0hLQXJyNzZ2VEZTRnlscm96cW1Kc1RuOHhER1RSNGV5RXo0MWt2a3E4b1ZLRWRwdS1TbWJ1NGJKRjVtaXY1UU9SR2N4TlUxWU1YT3NYN1JiWWI?oc=5
+- **2026-03-26** · [Unhedged] Federal Reserve could cut balance sheet by $2tn without market turmoil, says Miran
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXgxOElkYkJoWXNvOGxkOTEtTFl6VWRXYl9Nc0ljMWJYZzczRkFCN1FHSkJCUUJGTTJ0UXVuUnpqWEg5YmhmQ1pOUm8xVHF2S01UMzNRTEpOMDllTk9BSGxyYlYxbXdNMjl6bUlvY04yZ0Itc1Raa1NDVUVKZEFuYVNWSGQ?oc=5
+- **2026-03-26** · [Lex] Corebridge and Equitable tie-up goes for endurance more than flair
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmJ4bnc5NEptalNFaGxlOFlnamRydTZvYnJxdllkbE1RZGRDTFJPbXBjWVQxV29ST3NVOU4yNDU0YjdxVzdLcUw0eEc5UUxkbmk5UDc1d2FLNXlnc1dWZnEtUDBLSzlhcWE2ODBDYXB6bGFreG9qOWdMQjRncUpkT3lOZ0c?oc=5
+- **2026-03-26** · [Lex] The US needs a low-cost airline consolidator, but JetBlue isn’t it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEVPQ3J1SFVxX21NWnFaLXEtbFVuZmxHUkduLU1zTmtsR092QktjSUJ4cXZ1bC1Wa0NTcHZ5WVNGMDdRNXVzektDakJGUlc0eXROeE5TTmRyWlE2ZFEzR2ZiMFVrRnE0Z001a1NZSTVUbExkUzdTMUFnbkYyWlRpVlA0aVg?oc=5
+- **2026-03-26** · [Lex] US inflation will surge to 4.2% on energy shock, warns OECD
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGVRaWhpVFBvSWl6Y1VMY0RqSHYwS25IYjJsc3U4eVFSUm5zcHB5SGRXVHppdVN3MmI0b1o1ZHhRMGNjZDhfWG9PSElCbU5BekZuQk8yRFBzUnRhb0ZSZ0poSGdUMURNcG1ieG1OY0VFZkNsbXo4UTRfOHJnWE1PY0hRZDg?oc=5
+- **2026-03-26** · [The Long View] Energy crisis deals blow to hopes for UK consumer revival
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1ZCaVBBX0V6cTNlUElKa2lfUEF0bk5obXhVWlNqS0gtMjlHZDRLWm9kb2NTWjA4NjNOVkZkbWZOZXFidWpkUnZtcUdCaXNmNzZoLV9kdW0xZ0h6YkFmaUZVRG4xcW1NT2NMMmZ5RklNQmJLTXB1VXdUU21xUnZkdktkeFo?oc=5
+- **2026-03-26** · [The Long View] In fragmented Britain, who can say what counts as ‘good’ performance?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFd5cFBMTktRcnhxWWdWY0FCckFQaWdkY2FLcF9pLW1hV2txaUxFbEkzdGFWZVYyRHl1NWdDWEVpQUxEX19oVEVUS0xJTzJNR3l2V1lPU0VZRTRqaGYxLUIyUE9WcUI0dkdqMjE3Y2hseERubVkydEstRkZ6dFJJblZ4X1c?oc=5
+- **2026-03-26** · [Markets analysis] The AI Shift: Will software engineers survive agentic AI?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmZaOXdZMEozbWZXTVZZVVVQNGRfcEp4ZlFFQl9lV1NwTFhzUnFxRll1NlVhVWFibmRhaUE3blgzQ0MyaEpNTl9mWjZaNXQ4YW9LYjloVWVDY042b0VOVHkxZnFRZDRQM3dMVGZ3TGwxZG9uSkdaYlhCS1VoYkhfV0txMC0?oc=5
+- **2026-03-26** · [Markets analysis] Private credit’s moment for a healthy reset
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1R4QThkWEtZTmVwcW1VdkpqN3BFc0xJcExFd3RzeXh0czZhcEVBWjdfd2E2UTJDLWdtMjJSb1NsMjI1V0lOeU5WUE93NDVGOXJBQVFKRnNRU1BmcExpUjYwb0luS2F0OFB5WXF0V0tCVHo4Z3l3NzhDZ01iVl9ZLTVnRWk?oc=5
+- **2026-03-26** · [Markets analysis] Ships forgo cargo to carry fuel as Iran war sends prices soaring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWtqdDVXcTM1SnltbUlxTXh5MzFMUVJkQnY4VElQZjVzQU1meC1GNDJkZGRtY1gyYUkweFdYcXg3MFRpY19faVpobXg2UDdZTzVtSmR5clZlTHZOSzZ1VHFDOEttdXJOU1U0cUhmN1RwUkRmbGc5RF9SUXhTdkJiaXFhTVM?oc=5
+- **2026-03-25** · [Unhedged, The Long View] The peace trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmZRaks0QUx2TlBNSHFFRVBLZWtpZjhLcWY4WU1odEwwOTVjTFpoMUs4dVFhNm1YTndobnk2cnAyeUFiZkRBQzV0cWxWN2lDb2x6dWs0VXM5MTRGZTdGdVV1alQ3eDUtay12b0tFUGtZQmxURElmMmxSNDNnYXhXWVFlanA?oc=5
+- **2026-03-25** · [Unhedged, The Long View] Senegal defends use of derivatives in €650mn of undisclosed borrowing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTMwazVuWld1eDFGbE5DSDdRbHdlZjZuU3BoeVUzZVRlVVBJMzhRd0Y4bTlvYVJrYnREdXJ4T0NmMGsxUTFnSEdHTWV2UENHMUVyMmJuVGZQUUkwV0ZnXzBoVlVvY21ZcWtmTjRRYUhBcC1hQTFFWmQtT3N1MHFXTUY4SXE?oc=5
+- **2026-03-25** · [Lex] Elliott offers Synopsys a masterclass in throwing its weight around
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjlpdDhpWGgxS3pzREJqVld1V1g1d0lCOTduYW0xM2p2TE01cENSUmE1RlhEUjlvNEV3LU90ckw1dzRGMjJOa1gwQWZ5Um5MdG95bW5USkszMng2Nm9qd0dMTndWN2RVdjdnTGVDcE1aVURBVXlId2xxa1J6b2wtdk43dV8?oc=5
+- **2026-03-25** · [Lex] Banks face a new triple threat: Iran, AI and private credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObGJ1Z0Vmc0ZaMEI2RHJGZ1NMcDFqN205QzFES0piS3J3QmU4eTBlTTAzUTJUT2Z3T0tJM05jUlZ1X0tPSEdGLTJ4WU9CT2FJcEJaNnRSMFFRNVBtVUJhcGttcEJqdVNVakZXeGo5MjJnNldVMnl3N2NwdTRoY3oyVWJPeTQ?oc=5
+- **2026-03-25** · [Lex] Tokenised stocks are coming, and ideally nobody will notice
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTktYUVmUk1NSGxndDFUX3JGTjFQNEE0eElWNmtjOG92cWtJanZaV3gyWGxUVW4yaFItczZuc0szTWpLY0JQeEVUTFd6MTJVRHBGd2Uya2M3WGFMN3ZxaFhnUTZUd2JiSS1VSlVFV2laUW91a0pESFk2X0dDN2RhVWlGakM?oc=5
+- **2026-03-25** · [Lex] Pop Mart shares tumble over reliance on Labubu
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1R3dlBVLWxYaTNHNVhJMHd5WWNpUFRLZmozY0lKdnYzeWFGVlYyeE5WdVRNTXFMV0dMVjhZT1lxX0pUemtQLUpoMmFEdWZaWHgzUko0bmQ4akt1SWlXRTBtX2xoUjVrRi02Q1hPYjZmdkFrWDdyay1Nb3l4enE0ZmNXVGM?oc=5
+- **2026-03-25** · [The Long View] Markets were not made for Trump’s never-ending ping-pong
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzhrY0dXY09KN2NIR0xvTzdqR3d4M3BxWFMxYnpOUkw1Y2dxVUlMenZJXzNkdklzZDJaSnoxbWhvVFRGak1RdHpUNFQ2bEU0S2RTQlhxaFhtUWJWSVlPMHNhRWtfdDduem5ZcVliWkJhalhRaUE3SXNrSUpsTzBwT0FTX1g?oc=5
+- **2026-03-25** · [The Long View] UK carbon dioxide plant to reopen over fears of shortages linked to Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQU1xaGdQNU1VRUxzRDR3eXJnODhmVkdLWFkwdG43RnpOSzUwZThpZnFIRThuNFBNZUl4bExLZ3hvTFVHLS1tMEtLdlJIZFAxWVYyY2V4MWw5dklLOElVT2hQd3cyZHlNQWdRVEJhSDNPVFlBYTRYVFFqM0pfcW1XQTVZT2w?oc=5
+- **2026-03-25** · [The Long View] ECB warns Hungary’s seizure of Ukraine cash risks euro credibility
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONlNITlZWVFo5cm1UMGZTeGRhaGhFLTJqU0tNZUtka3RjT3VoMTJwbzhna2dhVkpYUG5mU0t1a3EwNXJsYTk4RkdfdnFjVFdyaHZVVmF5VExGSThNeUhhS2ZYLWVldmxHU0RDM1dObk1hQXVXZHVkekt4SU44Y1hWaXZBUTE?oc=5
+- **2026-03-25** · [Markets analysis] Iran war tests Donald Trump’s tolerance for ‘pain’ in oil market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDByRThTVTZJcFNDZEdjcGlObWNsOTBETE15UkotSng3Zzl1WWlmZVl3YW90azNFcENXZGlxOXFWTllwTFVTSGdQdllabnpQYTJCZkNBblRVX3Vsa3lwNUU5Yi1OWDJHX0l3MkZ0blFINFJrWW9MWlJyM1lxNFF1ejNMaGE?oc=5
+- **2026-03-25** · [Markets analysis] Now and forever, a stockpicker’s market
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE81dGFVY0pKVDFSMU9mRFZlT1lYeWppZjFkaU1Pd3NlcDNpWHFiZEVTX01mWVFJbXVQdjNRUVVzejF3NldEdDh6XzkzckN2WU5jd3k1d2puZ1BWQ01Pbl9IUFZzTEJuWjM2bDlhY2JuRjU?oc=5
+- **2026-03-25** · [Markets analysis] The rise of China’s hottest new commodity: AI tokens
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzNKQmI1NTEwenoyeGpzNFQ5bGdCOHdJcFNTRjlqdUNkUW55LVc1TUVqdFl4YlMxMlVHclRISUZWMVNSakxxa0ZhWno5dmZrQmVYbXpyM3czTXB5ZXJXazJIOTI3WjRxRmhaTjFCRWdlRVZBbnRQTzViTUJYVUJVZkdObXQ?oc=5
+- **2026-03-25** · [Markets analysis] FirstFT: Markets rally on hopes for a breakthrough in the Middle East
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzdCbVg3dHphbXdzSUxJeU5sTE9hTUZqcU9Sa29RUXJwdUZSYVBfR3VzWXdXdllhQW5NSjlBa05EV2hIZXJwbGdCdmZmZk9fa0ctcmd0b1RPZ19kNW8tUnFpd3UzUVk0MnJ3M1BLZGN3MTQyMnBzVWdFUERkWDAxNF9Wc1U?oc=5
+- **2026-03-24** · [Unhedged] What’s moving long-term interest rates?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGNNbEdzYnJmdkd1YndJZ0Y3MEVqMFNoSGxmQXBNcERqcjhuSndKeXRiTTFCMExrRHlxUkRuOXJpTFZwM196R2FJT3FNUFN2dUxDamI1YUJaQmhmUm9Md284SVdwTmhtQUZGd1E1aUFLaEFZbjZwZnEta1hpNm9SRDJPcDY?oc=5
+- **2026-03-24** · [Unhedged] Transcript: Why are markets listening to Trump?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON0xZQ190YlpZRDdVVVVkNzQ0ZEdiZDN0Rkh3cXpZajR6WHpTRnd4dXlpMzNESnNXWlRUSno0Ykc2LUN0bjNNS0RBSVBRa3B5bEZKbkxHOHVXaVU5ZDN5SVFIdFF2SF90alNzOTBacU52TXViQktoaS1KN1VSSGs1RS1sWDc?oc=5
+- **2026-03-24** · [Unhedged, The Long View] Want to hedge? Start with yourself
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1iWDBMX0ZaRDNxQmJhVTdYVk0yclFqUTYxeFpjODFPNV9KS3preVZFaDhFWTZtY19CcDQwVW5hWlRUOFJwWFN5dmszTnZTVmR6SEdWSlZMeEJrdnNxZDFYR19LMjl5RW4tSUZKLW41dWI?oc=5
+- **2026-03-24** · [Unhedged] Gold hasn’t been acting like itself lately
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0tBdXN2eXptTGpHMERDay1sb1BNelRvdTJpRVZoWkgwb21yazdPa20yMVMyVVhvbzZSTkx1aU5BX21QWmJiMGZQRWpYWjNVakNWU0NyRDBGeDB1R0FLTHAwN1VmbE9XR184VXJyUUVkVG1mUHdQMk5QOXQ1RmM4Z0JwU0w?oc=5
+- **2026-03-24** · [Unhedged] Iran war sends US borrowing costs soaring by most since 2024
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmR5VVJGb1RYWXNoRmVqQ0cwTmJvaFpDRktuZ01Kemxrd2xHd1Vtd0s4NkhnNk5OWmtWbWJNYjE1dTQxcmZNXzBfOERFZi10cDdMdkN2TWxnS2RDMGcwOVhuRk9YdFlrYVo3Z0VFdEJKZHVyeTBSSmhZNHhZV1ItWnJncno?oc=5
+- **2026-03-24** · [Lex] Estée Lauder — Puig mix-and-match would be hard to absorb
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRG5Xa3d1WFpBLUlhQnpqWlFTZFhuYS04X3ZGbjdMRUNUOEVRVktmbVlZY1RMb0tXRmxGakNGSmhTejR2NWZ2VHgxejZnWERkQjFaY21RektMeDhnZHhXTjlVQjFoM05lUG5zRDYyelRiSkdLSmhXdVN6eHNTbzhVY3puRGk?oc=5
+- **2026-03-24** · [Lex] Vets and their private equity owners get a light ride from British competition watchdog
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkw1dE1paGZIamNEaVhLSXg2ejd2Mkd3Rm9HZ2pXRWFpb1FKNjhPQ3FaRVd6MFE4MHk2ZWplOVNKcktNTWhjTUJBWW5IRGNQYlFNbXNEQUtoVUp0ZW5yOXJzdHhObl9ObGJoWGpiVE1ibFUxQVdvcnVON21tVTdxR3pGaWQ?oc=5
+- **2026-03-24** · [Lex] Beauty group Puig surges 13% after disclosing Estée Lauder merger talks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDdNbURUU2QzdlJudXdpdHhoeldraGlycVI5T2JtcG9yNFJNWnVnTjkydDlaMzJjMDNGWW5vVWNfYTNuWUpxbTdoN05lTmQzTTlUcE9jT2JpZUxHaE5YY25tbkRvWGNnNEdhWXl5MzBTSVhjY2FyTlFOekVZN2tsVUdnQnI?oc=5
+- **2026-03-24** · [Lex] Jefferies’ M&A possibility brings forward moment of reckoning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPck41dVpqZmU0dDI4a0dLVzNxaUVUbTJabm1qUEhjYUJhVFdIc3FnM0ZobUJtdzU3dEwtMWlDSzBIR0V1Zm03aTZ4SlpkajJ5LU5JWDNZeGtFaGtBaHEtZ09nczg1bXQ1b0xObVNpUk1KM2k5bEM2OERYQU9aVGgzdEF0WFI?oc=5
+- **2026-03-24** · [Lex] Japan’s SMFG explores possible takeover of Jefferies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjZvaXU2WnhCaUVwYmdvUFRjTmlkWVkwYWlWQktlZGc2XzdIQjk5UUUwRXMyYm5hZFg2akctaXFRb3FOMGY5MHFKZ2t1NnBZQ0trNDJTTUJ5X0VxcW9aUktrMVJWS0U3cWlzSE0xVGNJVWRnb3c2N0hzWTNnbG51aVlsYU8?oc=5
+- **2026-03-24** · [The Long View] UK backs switch to electric trucks and vans with £1bn funding
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnBaX0dFQUdab1I2MHQwTHNEUlZrV1BVQU9Ycll3cFVlblItdVhpd3ZJM25iZUtYQWxTQmtyajRwQ3pJdkMtX0gxSk8tV09GMDZDVHFRMnZkODI2cUVIN0M1dE1HVWg2dEVseW52czktWDBrY0p5b3hlcERiLU1feFRZUjE?oc=5
+- **2026-03-24** · [Markets analysis] What’s fuelling India’s art market surge?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMDN4Y2FJeUdacmktMTRPRjl0VFM3ZTlLQ0Zpb1poSEJ1Z0hpTGgyYVhNeHdBcnowY1NWcE92czd2cElJcGItSDg3X1lqNFhnYVE4eTNzc0J4SS1tQ3NaQXU3NTJQT3BlNHNyZy1vRWk?oc=5
+- **2026-03-23** · [Unhedged, The Long View] Do markets believe the president?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHY5TXotRGpIT2NnLUN1clRUT0psV1VFNWdqNFBmSzZ4clc2NDQ4alk3QndGS1NpeWd4SGZrR2ZKSThiWjg5M3o1Y1dPSGVsVm1BSjcwNTNsMjc3X0xCV2ZpRlB0eGlvdkRFMDhZMUFJT1dLbC1LcGItR29IQUVjRXEtMkc?oc=5
+- **2026-03-23** · [Unhedged, The Long View, Markets analysis] Gilt yields surge to highest level since 2008
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPazZvQ0hHcU1uR1JjcnVDaUp5a2U3VEp6OG1TRUZLWjRCTFp4RVJiMm1jWFYxUnBoUnVPSDJBXzdteXc5cGVkdm1CeXpCQ3RqZHpKUTVSWXFiTG1QdE5GV3RIb1h4dWJpRDJETVVCeWpDQzZBTXVZUDdmd1psdXNxMGNRV1Q?oc=5
+- **2026-03-23** · [Unhedged] Goldman Sachs now reckons that oil could take out the 2008 record of $147
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB0SGFEYVF4RHJfUmF0MFllNkllMzc5RWJNWXhFaVdjQTJycXBGVU5hNVd5MVE0NnJDdThkSWE1WklUUXU5RDJoYnpGbkRyMlZySHVkbkk5cnhpcjVrWXVGM3U4SVpOTUJXNVlzaUoxNFM?oc=5
+- **2026-03-23** · [Unhedged, The Long View] Markets rebound after Donald Trump postpones attack on Iranian energy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2JmV2gwM1hfYlNRMklSUHRjejZSdl9NQjRZcV9UcVRscHdfNlp3TUU3a0RfQkxGRDZXaEc4bjdZc3Bab3pWdEE3QkJmUXpQWlhoYWV1QWUxb0YzbG81ekdTVDFsMTE5aWRWOEhDSHByVHJ4TEllOWRJSllSeXF5dk1SLVk?oc=5
+- **2026-03-23** · [Unhedged] Thanks for playing gold
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5peDIyNjJFQlJJdGlXeEhiQnN2ZDJWSllkc1gtcXR1aTNwZ3lxM0lPUnRnaF9TMTU5VVhwY1E0X2xzMndQU2VMQThRUlc5cE91QllWRVU4aDJ4d0NPOXN1U21PWElYaTlTVTc3dlM1OW4?oc=5
+- **2026-03-23** · [Lex] Italy’s mail-to-telecoms national champion gets a thumbs down
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSndHUF9DZWtoOTFqLUFJT256dlBHX3dLREdsQjl4cnV2X1J5WFByQzd6VlFBZXJjbnkwQXVYYUxmMURVX1piSDJTSXhta3dISTlFZ0wyOG9hOW55UXBsOUJEcTRaazBTYkpxMW1QZ1ZMWkZGR3JkcU9pWkg4WXloV1NZWEg?oc=5
+- **2026-03-23** · [Lex] AI could be a blockbuster — just not for film companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGRWOWd1dERsQk9FUFk2YUpuOXNWdVZZVGt6YVY1ak1uWk9SUFEwZWFSWXA4Zkx1djFHVV9hRHJRLUtOZXNIcm5vbnpLOWNUQkRTa3BzR0pTaFhBb3dxN3VTY2l0WHA3ajA1Z1BwbnBSVjRlSElwQ0swT0pWT1BLeDlDRmM?oc=5
+- **2026-03-23** · [Lex] Elon Musk verdict suggests US shareholders are stepping into the regulatory void
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVFHVU12a2ppVXhFeHVvWXpJbEowQjBfUDhBMlpsNHUySUE0eDUwM2F4ZHUxZzhsU2ZTRnlJRDZmU2lUTEdYV0pwQ0Z6ZlBadG1NQXoyd1hEd0w2U1l3Q0RQc0ZGZHJZZkROSWFBWXktZVJqTkZHU3VrV0xxR3pST3JCbjA?oc=5
+- **2026-03-23** · [The Long View] Ministers cannot wish away higher costs by blaming ‘profiteering’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGZSbm0zZU90S29fSFBLb3otTVdDUTcxWFNFUkRremFUcmJrOWczSEUwSEZ2elNnMTRHNWRpSU5nSGEyNWk0T05ma1YzQ2RlSTNMSjE0cUlsMi1kSTdZeTVkVEM2Nm9tNjF4eTlSM3pic1VfakhjRE9tQW9HeFotXzNVNlI?oc=5
+- **2026-03-23** · [Markets analysis] After the endgame, a levelling down
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE80MFplYW9BQllNZ0JHeEdaSk5vZzl3RGVsR2Q0VzdIcDRGMWVEcnRILThtWUNoOGd0ZjhOdEFSMHJtcTNsSmpmcTZCVkNXYmhVX2ppanVDekpUZ1phdnRjSUNiQ1JEVTJGY3FFbFBjaXI?oc=5
+- **2026-03-22** · [Unhedged, The Long View] Gilts: blame the hedge funds?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPak93dU1nYV9qSmpHaUlsdHVfSXJLLXJXN04zTHROZW4yMW1mQkJjZl9KVDBWbjNGXzVBQlBrMVkzZ25WSXo5T2J5bmdYdkxsbi15QjhHU1EtQ1NyVmo0cXgtd1RxbzRBSVRObGpBaUhLMjUzSGpBM0pmWFFLejBPS0tzNms?oc=5
+- **2026-03-22** · [Unhedged] Shin Hyun-song nominated governor of Bank of Korea
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGp5VnhwWDdDZ0RZT0FJb1hwQjUwdjU1VXdWSnc2eFp6c21aYlQ1dGZ0OG1DLTdaaGd3Ul9KMllBTHNpb2FEUU9vTjFubWR3ZmxZUUM0QUVwQk5SdEotZWdBVVlaTFU0cUlocE5CelQzQzd3RzA0LWpOVHZ1czBYc1BweFc?oc=5
+- **2026-03-22** · [Unhedged] America keeps bailing out Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFprLU8tWkRkcmJKSDBJZXVDNEtKSzFpQk4yaXZrTmZLUmliNU5rMmQ4SmVFRld0UWhNUnpOeEZpY3JIWlZNNmRxWjVsM0J1VlRiN00xQVI3dWdLTDY3bWZXQktESDFGVHlTdFBoTGc1VEhPTHpKcEJrbkhDYVB6WTltcHA?oc=5
+- **2026-03-22** · [The Long View] Senegal tapped €650mn of undisclosed borrowing in bid to avoid default
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1dPMkVaZ283UUdyb0ZsZlN0dUg0cnBIbW5qb2ZrSzctaVZTZ096bzlUdGtYeXQweF9EVU05bHRHMkdwUTRsZmpjLWl3dHpkbUZfRm9BZWpManJPV0g3UUtEUUE0ZWZfS0dyX3Z3c0xldDRfVWVRalJzenlJTEEyb053NXA?oc=5
+- **2026-03-22** · [Markets analysis] UK home insurers to lose money on underwriting in 2026, analysis predicts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQazB1VDhZZzBPem1YYlhMa05LZDdyWTB6dU1MbkhpWWhQY3NvQWlBQzBick84WUNwNnBLenJQMlBncU1mQk84dmZqNnFyVWV5RlFQQVlMUzJpY2NWVG9LUTB0bTFWR1ZBMzMxNktNSmhOdFdnNkthUC1GMXhZRzJWTWYtM2Q?oc=5
+- **2026-03-22** · [Markets analysis] How Viktor Orbán’s oligarchs reaped billions in public contracts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU25ZdkZZaEZSZ1NFaG5fcThYN0VMb3lfT2tZVXJ3VG1IcmRFaFZTb0lFd21uZDFsUGF1LVhlWDk4cGluUHEyUi11ejdjY3kxemZiRjlmalJaVWZHQ3B0RXJxd3hSNDNNOHk0bDZ6OVBwa252cmJ2VWtuX0kxa1ljWExTVEI?oc=5
+- **2026-03-22** · [Markets analysis] Iran war is a risk to the flow of Gulf funds around the globe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXpWNkNJR3djYy0zTmdHN2YzTjZlYlVNWlVuTkd1bjd6NW5obkdpQlU3WnBNalZUeWEyZGtZVkRMaGdFdGNEVmtFYkVZVFJYbE5FUGtHOEU3bFdyeFJaay1abTlPMm9pSkptQVQxOXUtZmpDMl93bFRUTTV6NU5vTW03WXc?oc=5
+- **2026-03-21** · [Unhedged] Chart of the Week: Global rates show deeper war fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnlONE1UeWltTURyUHFRM0FwY05HcW1xSVpqekpxRk1mekpNSmlBQ3Z6RkJZTDZoZ2hWUTZLblF0V0ZEbzR3VnV3V3pLUlBaMjZWY3JqQkZSYjJjOFRtNUM1NDdSaVpXdFAtaEI3XzBkbURtVlRReTVJWDZhckpzRHljSUI?oc=5
+- **2026-03-21** · [Lex] Time to shear the UK housing market of the dreaded ‘fleecehold’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUJFSmZ6eEtidFdxdmwtTmdLSGRiLTd3dE5SdkMxcEZEMDFjcWYwRjVzZzZ3OXQyYnprYkNUaVdCQldqdENDWkFoZlREU2pJWVlOanJnVHZFd2x4QkUzSGhNSmU2MVk1NU40ZzR5bVRvaEdaUXVEc2hnUnRfcUYzUkRqTHY?oc=5
+- **2026-03-21** · [Lex] Jacob’s Creek aims to recapture ‘sunshine in a bottle’ heyday
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3hQZWctWVdBN214bkdYQ21ua0JNdVFEV3k3ckY0dkc1WWVoVUQ2V1BzUU1RSFU0STdlU1pwQ0E5Ty04Q2ZqaTdRaE9XYVI2cDFqMU9ORktyRkIxWjVkQ25tZ25KZEJRN2ZKYWhLMHJlOWI1TjNhT2xmOUtlMldBeWRtdHA?oc=5
+- **2026-03-21** · [Markets analysis] China touts itself as ‘harbour of stability’ to global CEOs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmxDRTlfSEhDc1hHQUFYRWdQNzIzQjRpaFUyV3pzdHZNNzZaQ2ozZnBkZlYtUmNBRk1kN2w0RzUyYXdIUllZckpJd3loV0g2YVNPMWxJRlhPU0ZLNldWVTdSVkFxZ2pDY01aY2YwS3c3ZldMVUZaT05hdlhuc29oQ3AtMXg?oc=5
+- **2026-03-20** · [Unhedged] Supermicro drops 33% after co-founder charged with smuggling Nvidia chips to China
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnFqVUFYYzF6bi1YNWo3WnJ6anhKZ0F2eS05TnVPUHNUR3NieDFQRVVoeGxPYWhMTXJXRllmRkIxckF3UjdDTmdKelh2cFBpQXBtcjJCTEpNV2t1UkwzcUJIcnBfbE1YWmxLcVBCN2ZMYjRDVlhoRHdsa2R6RWpxeHRFM04?oc=5
+- **2026-03-20** · [Unhedged, The Long View] Why is the Iran crisis pummelling the gilts market?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaElKdFdGaUdFUVVsenRBRWM5ZzFqMUl1TVM2OVp3SEI2aWpKN1hOcWZmZjBZTmZRMkhPX1VqQVZHZnY5aHA1YXYyWFVmcTRZc29EX3Zac25BcFhkM043VlBmdkZ4LTNoN1JkdE5ydWFxTHZvZGVidEVXSGI5d3oxekRFMFY?oc=5
+- **2026-03-20** · [Unhedged] Iran war will scar the global economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaG1HUmxqNXh2Y2QyanhJRVdUakJhUE5UZU5kZkI2U2pVLXlSVFZERExLa0xJaW1aMXIwd2tubldzTUg1SnRwWHQ5d2lQWmhRRzZWZVRSLThHaTB2bkdXZ3VWalM5MzAxOEZmZ1lrVDhCOXhLeVlGZHdsWVVXeGoxUk1NOWM?oc=5
+- **2026-03-20** · [Unhedged] Retail investors aren’t crazy for Farage and Kwarteng’s bitcoin business
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE16WHJqaHNXeW94c0pzRlpoTDB0MzJDTXZ0V2QxeHZpVm5EMXRnaUpCR1BOYUktaEd0d1hKam5rUDFSRzV2UFR2Yk80ZmltaW5xb0RKa0E1eWJHUDJ4bm5HLWtCc2ZJaG9fWG9WNkdfdEw?oc=5
+- **2026-03-20** · [Unhedged] Mistral CEO: AI companies should pay a content levy in Europe
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5URWlfSDBjcE1BeWZ2ZUFUbFAzS2lvZGVjVmVwTVdxTmdtdkp1OFZZejN2a3FFRzE1UFFIQVN4UnlmVFIwT19fMGRMR3NkX2tUNEtfa2R6UFZXOWVOWG43X1lnaXZ0WUNzTUNKN0tIWjA?oc=5
+- **2026-03-20** · [Lex] Uber fights to stay in the robotaxi race
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDB2S3prYzBQRF8xOGQ3eHR2S3NmX2d2R0hNemdOQ3RDNjRfNEdDWUEyd1M3aXB1WEdLV1VKV0JjWU8yY1RibjFlR1d5Y0Z6X2JMcmM4RDJHQ3VVNXJrRVd5NF9sd0NKZTJQbldpUVpDakNrYjV4bnhaT281U1ZwRHV3S1I?oc=5
+- **2026-03-20** · [Lex] Aston Martin could do with a carpool companion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUFVZU1SYmhRYkJkR2hkRzVycjlnUDQ1R3daRXJKbXhqZ1cyN1ltRFZCczE0NDdxS28wUThpN3VoM3FES20zYUlrTFVYVjlkYUhmOE1zd2xXZU02ZEtRS2s1OEVoeV8yOFNFTC0wVEwxaVNoQUg0RDdlY2h2WkY2anlURmo?oc=5
+- **2026-03-20** · [Lex] Why Wall Street is scouting college sports stars
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3kxRkJTV2p4bGNVcDUwV1E4Wk85REpuYTNJV2xWVERnbjdyd3FZYldUQ3F6SE9idXYweVZYWWtXVXZvUEhrRVQyMnVreGpja0ZfUUthQ3luMU5mRXg4TE1Fa3kwbVBQNkREWjdwc3hXUGFsRTVBVW5sTEp5b2hqQ0VCa3M?oc=5
+- **2026-03-20** · [The Long View] Iran war raises the risk of a bond market shock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR042aXRWWGJqV3hldUdSQXBMN0ZBM0hRSEI1WlF0ek55TkVKRDEtRVROQ1g5aGs1T19MOEIxWXpCU0ZLNW9HeEwyWmdpSmU4VEt5UHNLcjNVWXlfQVMxLU1BWHR5eTNrdVNrck84bkRkTFBRUnJDMmxXNDFQU2pIbGQyZnE?oc=5
+- **2026-03-20** · [The Long View] UK borrowing costs reach highest level since 2008 as economic hit from war mounts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWdWV0FUYWxJMjV3UzgxVjY0b3d1TGw2M21FcWNYWnAzNjBEclN4VVk3NHR4dzN0ZXh0QTJvMmtyS24tOEkzS0ZQdS0yRHZOaHV2eDE2ekpwN1FDaVN4SjFSNWZzU1hqVHpLWUw2ZEFXV3JJUzRNbzhyN2RyLXZ1TVJ2amw?oc=5
+- **2026-03-20** · [Markets analysis] Bank of England’s tough rhetoric on rates makes it an outlier
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXhXYzk4b1ZpODhCd0dJV3BWNTFWcVNQb1ZqTzc4ZXpVM3BZc2p5SkpWVG5CbmtRWDY4ck5XS0dGZGxEX3VQTmpzbG1OMzVPcFZhSDdwLTB3bWk4RHFuQUtkQVpwZVpBbXQ2MWEwTjJKM212ZlFLLUhBRTdWYmF3emp3Mm0?oc=5
+- **2026-03-19** · [Unhedged] Interest rates take fright
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNU2pFdk9ZSVB1WmFSMjJPWXNGTlVIU1VFVkszR0dxeWFxWUJhT1o1LTFIN1pEMDFtVmJ6bjFiUXpiNEdNUXJFcnRwdFZ2TVg1cE93WVNISl9GNXF5aVllWDdXYUEtM0tzZkFEaGlITUlneFFlU0xZeG1CWU1CQXZYRERjMEU?oc=5
+- **2026-03-19** · [Unhedged] Big Brother is watching at JPMorgan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORWY3NXp0WkNraUdTSWdSZkpCS2hJN1FYaFhWQXpXdXdBU2ZMaW80dVByTDVfVUdPNDBRZ3ZVNnNOSV9laFAxY0lfQncyczVZYjJHOWJSZU5FcjFBajVPNEdJejdpRVRpLWQ4clJqaDUzeGRFNEJoM2ROOWNYMXl2WTFuS0E?oc=5
+- **2026-03-19** · [Unhedged] China curbs ‘low-quality’ listings to cool Hong Kong IPO boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnY4WF83aEtTV1dzYkZobDhWWlRETUw3cDl0Mzk3MlVwalJNaUVqTWhnV0VRUjhBUDBqcVBxSkdvdnNFZjZNblBGbWZxd2Rfbmp2c1VTV2gyVXdNZzlPZlJFSng2QmZKbFJtTzZCMm9qS0JCT19vWmlZeXU0Wk94cTl3eHY?oc=5
+- **2026-03-19** · [Unhedged] EQT-backed vet group IVC Evidensia readies IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXJBcmxaVzNndEpnUEJlNTFVa25JVmhhS25jelJDQzI3d1BLZGJVOWh0VFdmYWxfdnl5UGRWRXpyQTF3ME5RNmVXbVVsREUzSjYzdy1nREJCcXZTWnpzWWtzTllUcUo5ZWgzSlduajJPYnZ4NTZqcGc2MFM1d1E5NXRhaGc?oc=5
+- **2026-03-19** · [Lex] The case for slicing up consumer conglomerates further
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkdxYWl3WGd6U2JjYl9PS0MwSFBBYXdLX1dRLWwyOV93bVBZNVpxNi13dmVJSWFPMUJnQ3hvTVlTbUhwTzc3LUZLcDRFb2FybHRzNlExQWNRQnBmcTZQbWk4V3MycG9tR0hid19TRUp2aWFqRlFMX2ZCR2VVYzdkTGFFdGM?oc=5
+- **2026-03-19** · [Lex, Markets analysis] This gas crisis is bad — but not as bad as the last one
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVJERHFndlpUaHc4ajR4ellwVTRQTkFsaFFBMVRSRnpZR1ROZG9kdjQ0N3BKXzlTS0QwNC1lYklwUnVFd2RYQkkyS0U2czVkTWM1d2tndG85Y0lTQkxDVDVjTENqSjNURHRHZGNnc0RnUllmRmtDZWtFMDQ3elVKT3Y5RU8?oc=5
+- **2026-03-19** · [Lex] Trustpilot deserves a more favourable appraisal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVFrTkFib2xEQkNhZk4tRjkzTk9TLXhQQ2xKMXJwOFgxSzFuajNsTUh6UHV0TlpkR3VIaUFUVzdlRXBVb1VjYTlfVy1ib3g5LVI2NXAwNUtBaTlFLTUtWEZBZVBZb2I2VnJjUGJlTkVxNHMzRWZ0RWotWU1PWnM4Wnp4b0k?oc=5
+- **2026-03-19** · [The Long View] Stocks and bonds tumble as investors price in ‘protracted energy shock’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkJXbTRqZ3FiVVFZcUhZcm8xeG1zZlNTb2tuVi1Rc24tX2FLeWhiakdaREhuUzZTQXVVQzhHSEI2WjNyTnlwRUZkRlRDQ29ZY2x6dDRYQzBYZUYybTY4b1JQOWJvRnd5aS10dHE3NDFYd3JVTWtsUWJsUF83by1VS1A1WWc?oc=5
+- **2026-03-19** · [Markets analysis] ‘Armageddon scenario’ for gas markets as Qatar hit by missiles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUIwc2xtQ05BLWZIUmdueHNxaXJ2M1doSlJrMlYzZEMzOUg1SG5PSHItcVBnNFNLaW9IYnZoY05mOU1tUjZPZmJVcllkNWE0REFTejgzejJMd2NTLXdockVrdE9uejVqQmItTXZoU3gzRnF2Q0tuLVJxV3ZoaGpUM2JVclU?oc=5
+- **2026-03-19** · [Markets analysis] The black-box funds fuelling insurers’ private credit binge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWtCR1ZSNzZaZk53eXhBNXVVRzVNYTJFbDhRRjNiOGtZVzEwbGVLZE0xamtybFF1YjNxZ09qZ2NrNnB4RnNwYXFqUFBYREZRTDh2QVhsMUNrVE8yQ2xyX21JVmRsNUFISWUxRUhGX0M5Y2RLaDlIbHNINlI0S2pWaWpPQkg?oc=5
+- **2026-03-19** · [Markets analysis] Why longer-term investing is far from hands-off
+  - https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0t6c3RMNzR0SmtuNGVNZlZuX0dfMURscnhyTV83MXdCWjc0VnFxWXg5VUdXOXl6SXZHYmNqMmZ4amVnZC1ocDZwd19MazltNzRpb1BRQmJNdEVRNlp3LVk0WFFmN3dTdnBhYkJPYUhIejB2N1FiUmhTR05JX1hHNVZqQUVwbE0zUDZqNGFaODdEY084THVFaEFJTndnaFE?oc=5
+- **2026-03-18** · [Unhedged] The Fed can only wait and wonder
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0pqd0tfRm8tTGdOWHppQXBmSGRBT0dRUTRoUjJGTTJyMmhNSlVlMUhJdmNCTjRqd2lyUWJhdUxOSWFHVkZydk5URmtOaXppQzZMVW81YkRSTTliSTZyVXlmSzJPOEZnQ2EzdEQydTFINF9FeHV3XzFhaFZYWXd1bHhWLWc?oc=5
+- **2026-03-18** · [Unhedged] Trump ally warns US economy not strong enough to cope with Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUN3RmhDWFZ1aXc0Ry1EcHJId3VaMzBncWkzTVRLX3p0WkVqdWdjMnMxbzJObEdxNlFHcnBlVWdaZTBDeEEyUHZwQ0Nkekl5WTZMbXFvTmUtUktwdExHUFhuZjN5R1VzMjNNaDZwRWI4U3hrWS13NkdzYktPbzRrb09mWTM?oc=5
+- **2026-03-18** · [Lex] Lex Greensill fails to persuade court to throw out UK director ban case
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORWd3Z3g2MW16NGt6RlNSQlJJeVdKbVV4MWEyUEZ4T2dYRExJU28wU0h4YmJTY3ZGbHVDRkZjVTIyOEw1S2daU1htM2dKVDA0ZEQwMTFZZkJBQ25hcW1zQmt3UW8wUzlzSHE4Y0o0YWs4RzlRSlN5MS1yYlVmLU1HYkFjRmI?oc=5
+- **2026-03-18** · [Lex] Spain is a role model in weathering Iranian oil shocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTBWdjlzM01DMjhRMllWd2gteTQ0N3djRzhnTl9OaE9VeDNRWExjRDREUi1TTkNsM3NPLWY3ZG5hanZBNDFCUTF4QmdCX1p4M0dyX29MaGg1WUl6WFZuYUQ1X1VPcE12Z01DVURDQXltbllYQnBycUJfWlF5NzFoTDhYMzk?oc=5
+- **2026-03-18** · [Lex] Ingredients for a successful LBO: lots of equity, and some Trump stardust
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWJXaUcycUlZcDJ3c2JoMklWenZYN3FIZHZSdWRzVDZ3S3I5NE9Wc2ZSWXNwb2VEVGxOcDhuN3MwMFN1MGlfSGJKRjBSbUUwaXNXcFl2ZWIyeVBWd0NoTHh1QUhnTElTb1dxemJwNHFrZ1NKYkduS2pacG9RWmZvSHRlSFo?oc=5
+- **2026-03-18** · [Lex] Nintendo wins by not playing the power game
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXpsTjhtY0pmVEcxUDViS3hXTnNjTm9jWHlPaTB3RWFZSjVJdzM2WDZubEc4Z2Y0YUxhZDkyYW1mUjI5dWhPcWFPNXdGTVFNSkNLZ1Rqc3RfTmQwaFVkdktUeXY5NldPZXJZLXJmazFBNWhCRGJPNEtQWkJvQ2R0NGN4Z0Q?oc=5
+- **2026-03-17** · [Lex] Investment trusts 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXhGMnc2Q0dfUEM2SEhpOUd5dk5GNU9pQlU0Z21GN1BWSUp3ZE1wZ2JkVFMtazRzZXkwVXpicGl3UGdPSjAycXlleDQ2OG5PZE45WHRKNGRUTFhLeUw5RF8xbHNsMGFTanljZ2xrajRqWGZXZVNPWUI3bXNZS1F3R09CX3g?oc=5
+- **2026-03-17** · [Unhedged] Are the markets right or wrong about Iran?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGxocHhURHFjenF4T0NEUTFMNG9UWjNEa3Ewcnl3V3c2X2xwNVBfQjZ1VExKSDlob3JjSzhTV2JoY2pUb0FhMGlzYjl6YjVTN3o3VWNoTVFrb203RmtWSTl1elVGQTlHU1VSaWNqdDB1R3dFbmV4NG5uSGJNU2NjVklLb20?oc=5
+- **2026-03-17** · [Unhedged] K-shaped consumer credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEplUFVOdVl5U1BtQUpVOUZ1NkJiX2lMMDh3Q0MtWU90WTRwMEw3a0hBRWk3LVJQc0x4NHctMmJ5QTdoTF93MnM3clhsNmUtd2JtOHVxWXdEUnBwYThUX2xMVUdacGJwZFU2d0RIVk43MG5WVXlrMHUwcU9tb2hiN0xkcEg?oc=5
+- **2026-03-17** · [Unhedged] Nvidia restarts manufacturing of AI chips for China
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFtdXJ4cDRVMFVwdEJLaFVOWGM3bnROWDA0MndOei1QS3pVWUlyaDZCZkdHLXQtWXNWQVc0bE45WU16Zy1Ba1h1dWNMekl0RkU5YW9HNmFRQkpuSW1SNDdlQXpZWDNrcWNXQ1prdlRyNUFKMFo1WE9zZ0hMZVAweUlZSUY?oc=5
+- **2026-03-17** · [Lex] Now it’s Paramount that faces one battle after another
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1J3clZaSDNiQTBPR2JockdqVldMRE8yMllUNzNQcVdNT3NDTHQ5Yl9sZ2RUbi02WUd1a1NVTHdFQ2dIZy0wMVpOX0NwSFM4b1UwM29FaEU0UjdCalQ0MC1Gd3BZa1RZT2w0cHBocU5PS0d5Z19GSWM5bVlramdrVEN5UXg?oc=5
+- **2026-03-17** · [Lex] Salesforce reckons software and debt do mix after all
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYThHVlRPVjlNaUROeGlrMmJMdjBQS2wtaVNyNk40MG43UWZMU1JRcVpNenVNM25xRmZFQWxSeG1pUE1jcjNUbGJSbkxpNjdCQ0w2eUc4VWV4ZzdLcDhLX2tpT2hkb0xDWEN4ZEFiR3RLSDM4WkJ0bi1rMU1VM3hvdzUzWEE?oc=5
+- **2026-03-17** · [Lex] When Amazon and JD.com lock horns, it’s shoppers that win
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbE9QV1pDOHUtck1SZWNZdW12c0REeDdmLWtQbTN5Mlp1dmhCVzh1c2J5V1QtQTF5X28yb0NPY0hZMEhpTzRrZDBiVk9Ra20tdEZLVHRNa1lQd1FGZmRNZ1NJRi1sa28zZmZtT1JhUE5NcEM5VWRQT2I4Zk1oWmhDLTNhSXU?oc=5
+- **2026-03-17** · [Lex] Bentley cuts jobs as profits slide and EV plans scaled back
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXhmTDdJaDR2c3ZSLUtyaVNjNm1SQzl4bkpVUWo0NE9SMENDenNTU3E0eUlwQzdKRUUxU1l1ZGJHVGFxLTNOOGExNU82QWp2aXpXYXk3WkdldkFYcUN5eGltb3hCT2VBd3o3Rm95dDJNZWt2N1hhNmlyNkpvMTViOUF6cm4?oc=5
+- **2026-03-17** · [Lex] Banks prepare to offload $18bn in debt tied to EA take-private deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzJ1RFY5QklSQVFQMThSTjVGRGQ1YjZnblhoSXJMV3dnVHp6akwwUWxxcldYNnpOSEFrU1FzMTI1QTRmM3BDWVJuSVE1MW5BWVdQNFAwZFc3MmhPQ2xqZkpBVTR3S3paTU1iQUx4Zml4UzBkRmROTVp1TDNkZ2VZUkxhQ2Q?oc=5
+- **2026-03-17** · [The Long View] Investors pile into cash at fastest pace since pandemic on Iran fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1BFaDJfMW01ZHVOZWhpSmd4MVBNVkRJRTBYNUc2anlRcHhHLVl3WVR5NDNqdWlLZEUzT0dXLWlpRWtfanNGUk5RZ3RrcS1PUnJhb3pobjBhdFVnRXZaZUtfWnVodEVXNk1UVUVIb05paGR0b2tIWm1CZVBIN0Znd0JmVjE?oc=5
+- **2026-03-17** · [The Long View] Suspicions grow that China is exploiting FOI laws to gather UK security data
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWx2RlRQVEJEa3JWY0ZGMzRrWWVFRmJBMzlrY0hZcmZDOUxBcl9yZTNfWlFMRjc5V3RUaEhNbXJfTUd2cXZnOTU1TUpKRlNTSngxdmp2aFdDVnc3Q2VXSVRZVWozQ3d5M3RRYmY3NDBXenRXLTBPRS1DazN2cTB1bnR6bTU?oc=5
+- **2026-03-17** · [The Long View] UK considers expanding vaccinations for meningitis B after fatal outbreak
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUEpCRDRxRmdwckVmX21tdmxhcHVoaU9DWHViaDNLQ09SNzFfUVk2UHVnN0drY29fdUc1LVllQzdsUlE3MkNjM3V4RFdNQUVZTUJGU2Noa0x2MnVibWV6bDlBUUJ4azZoMEt1cTVrdW5OcEZkWlJuN2xmMF8yN1VhRk9pWVM?oc=5
+- **2026-03-17** · [Markets analysis] Letter: Shein’s core fashion offering looks intact
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5ReDktQm5kS1FpdHRGcHZyaXBiMTFTYzhpZl9Ja3hESXVldmN1Zkt6TTMzZkVhVkpWRmU2RDNwNjhQY0ZwMjIxRkdpN1h1U2VUNGVDY2ItR1FHdVFiT1E5X2hWQlZNaFpTOUp5SmZQd3Q?oc=5
+- **2026-03-17** · [Markets analysis] Arizona charges Kalshi with operating illegal gambling business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG1INGlNNUJheXZCOTZOb3Vzc0dxTWdDa2F4emdZT09sVVRpU1JCdE12b3JMQmZDOFZXRHpfWElaQk02Tm16aVljQ1JWd0h6YXFKeTUzcDdoOElIckV4cmJBNHhraXFVZGFTemVESjJtU1FHMFFUZkREdng0aEVKd0tXTWc?oc=5
+- **2026-03-17** · [Markets analysis] The art market flocked to the Gulf. Then war broke out
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9SRTVrZEp4QjBFS0JMYjJXNHhnaU1JZGJiNXBYLXAyU1o2WGtlT0hNM284UEE3UHdCS3c3a0VuanZZSlBkakhrMlFSRnFod0dKNUxKQlhKQ1RhR2R0NGtZUTJiWVBvelVGeTNoLWJNLUM?oc=5
+- **2026-03-16** · [Unhedged] Oil producers: buy the peace, not the war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2s0NEJyOHczSHJoUGVHaVJQcDRybkx0M3hmRE1Vbmx2ZjRsc0ZIZUFzbFQ0RFh2Yl9hTTNNTnNrbVNWbzZ1QU11enhsREwxNGRfSlQwNVhLdnVzZFJxRThDcmV4UkdfTGhOSDZ2a0hkZTZMY0pxQ0RFcDZBYk9VZlBZclo?oc=5
+- **2026-03-16** · [Unhedged] Nvidia’s Jensen Huang predicts $1tn in AI chip revenue over 2 years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTJybFFvSGZWR0NFN0NtMUVKTHNiWTJyVkpFQnFWVk9CR2ViTkRTSlExZEN3YmEtc2k5Qlg2bi1Sc2M4bktjS2VYbzRuTEkzQWV1UHloMU9nbWRpeFBnZGRhVG85dS1KdTdJUDNMNWtLVTVKNUxFWXN4anZob3VmaklzbV8?oc=5
+- **2026-03-16** · [Unhedged] Iran war sparks upheaval in niche defence metals market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkFfVU5WWEFNeUl3RFJsN21vaGJpdXVrbmVfU0pCZWwwY2pKUkNLamRZUEdsSFV6NHVaV3JJOFJuVGRWTVQtOGVWcUxHY25IdmQ2M1diQjFZZmExRVhxZ1FKUGdfZTJndjNXWVhOQ2xGRXBJZGNmTkVyUHA3NHFRVGF1a1A?oc=5
+- **2026-03-16** · [Unhedged] The SEC is looking for a new head of ‘enforcement’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bXEzN3JUT0Q3Unc1REtmZWlJOC1aeEdoNjNKTENweEJycmU3aUhPR2V5WDFiQm5adDlra044Q2xMTTVSLURQcXd3Y2w3VVFSb0htQktUdUZYUXh1U0I0YmVpeWxqSDJrWGppNVVDb00?oc=5
+- **2026-03-16** · [Lex] Andrea Orcel’s brash M&A tactics inch UniCredit closer to success
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHFDRHpkTTZhNDF2TnpVdEpBTlEtd3RKMnU0ZzJQc3JNbG5XVHpwLXQ0aG1UOWFHODFnZmh6LXV4NEFRU0xFb0NOSlJxRUtuQXcyR3ZzblE4bXJZSzlCRzZvTEtBX1FLUDE2ZnY0dFpTaF8ySDhqUmpsTEhZR2EzM3ZwVmo?oc=5
+- **2026-03-16** · [Lex] Oil prices reignite great airline debate: to hedge or not?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0dkQng4b1dfYk1SNDJTTm9BdzJTOTc2YUh0X3gzRHQ4bzNYeFpscXpJWXRUR1FnT0NUbmViWkRNN2lvZ1ZZNlpTbWwzMmtIQS1vaU5ud0hqRklaQk1PRTBKS3pPdTh6RkhRUUJXc3pQa3RhcWR0SnBnLTBibWNoajVUUkI?oc=5
+- **2026-03-16** · [Lex] Close Brothers plunges as short seller claims it understated UK car finance risks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1VaZHR2UTBrYXRXY2hSejRQenlIWkNEYkowTVdCeVJWT3FZV1M3R0xwZk53WndWS0o3LWhIbkJMZVR5ME5USlpFYS11b01YY3ZGV1I4dmJ3cElBOGpXTlZ3eHY1VU5LZ2l2LXZBZGhEUFQ5b1E5UElUTjl2Sm01VElpWjI?oc=5
+- **2026-03-16** · [The Long View] Donald Trump launches fresh attack on UK’s ‘terrible’ Iran war stance
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGp2QksxWW5UcGZ1MlA3T1Y0YUQwOER0MWNNaGxRQ09PRUd3SHB3RU9XbnNPMFZKX1BXbUsxSXhOcXYzc2tXbTlnZkg0Q0xkWGI4U0huZUg3U1RnRWY4ckpkVm5yQVBUaHkyY3pHLUpmSGw2Y3I2NFFlbjZsMlBNTDVOUE0?oc=5
+- **2026-03-16** · [The Long View] Reeves to pledge £1bn for British quantum computers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmRWOEY1TEtlV0M4bGdOTDlrM0phMlUxbUJoTnlHYmdndnhjc3dOdHRzYmdHc21fTWlKS0ppTnkwVGtkZnhGVmpNeGhDajlFR3JUVmZMUjlaOVZCZGR1NjFzbVJaeGFaWXJ6Z0haeFA1YjFpUGRaTTV4UURaU0hxQWM0cW8?oc=5
+- **2026-03-16** · [The Long View] Europe is also at risk from credit cockroaches
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1hMzBfZVN2anE2c3RiYVBkOWxnWmgxSkQ0alBmRF9sNGdJSkxTVGlUUV8wNDc5elluVGpDVXRVZ2s0MEt1QkZGTjRQdXpDVWpUN1hWallZd0s5OVlLOG45ZGNOUzFTRVBZdlhrVlpFREM?oc=5
+- **2026-03-16** · [The Long View] How do you get off the UK sanctions list? This billionaire wants to know
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTBMQ3hMMVpIRUZ2c0txZlF2X2d3SXdoek54bEwzWTlPdjMyU1Y4dThRNVp2Z3M3ZUZ6akFPUW9UN3FreVAyc2xMT20yejFjRDJhZkRJbzNvWURVcU5nM2E2dFgwODdEN0VmUTVXODM5dDRUUGc1MTd5Q0lXOEJwbF9iRmk?oc=5
+- **2026-03-16** · [Markets analysis] IndiGo in turbulent times as CEO quits after operational meltdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnZJQmFscHdXcG1WRFYwcC1VaVpyWkRfYzhGNGwtMHgyVEdkdkhTaUNhSWg4aXlyaWZUMVQzakhCZ3dFbkMxVkRxSElWd0dBOGo5NHc4YTliLU1xN2tXdjRnTzVPWVlEY0pYSUtLUlNBeTNScndLTFAtRFMwZjhnTmNTc24?oc=5
+- **2026-03-15** · [Unhedged] 2022 redux?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOajgzYVNBZ0hyQWhXZ3Nqel9LYzVEZG5sekR1WlpGNkNMLTBienZlMEYxVF9KMVpQUXhVRktTYkdyZ2pYQWlqM0Yxemp4OGwtZUREMGw5WlRhYkk1OS1RN2t3dWpOSFhsS0ZaRGVJOVExa3ZYRGYzY1RoMXBrQnNmWjlUQmE?oc=5
+- **2026-03-15** · [Lex] Was Revolut’s banking licence worth the wait?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3c3d0J6NTBROUg1Mk5WVjhfRVNzRGtweVh2N3BuRmd0Sjd4UnB0WUNuZW9RNTZad0ptNi1CdXctc0ZPUV9zc3pZTGRzN0RHMDI2cC1ReFdIOEFhTUZDcUJSaGozTlN0N25XbXY0azhKNy1fX1BfVGtNT1VNMUgzckZtd2M?oc=5
+- **2026-03-15** · [Markets analysis] Canadian pension funds hit by private equity slump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFFmcDJsQkRpUUVsUHhGN1RiUjRvdnNZb3Y5cXh5ZlJqVUs1MjFlNnJldkdwaTVKbzFMaUpNd3djUXcwV3NZLWl4QlBTclAwWjczTlNWME5qX2xSUUs0TVBTc29oRUNjQjFoS3NseUttVmNGRnVXUmU4UG41bHVqRFI2ZHI?oc=5
+- **2026-03-14** · [Unhedged] Chart of the Week: Higher oil prices are just a short-term worry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQS2hhclNicG5ubS0yZ2xtYnNUb1VKY1hscjdyaU1Hcnhneld1N3dIQXlrUlEzdWZPTkdzRjh1eWM1Mnlfeldnd3JlSDExVnpPbTNfQ0RMNTg1WW9QMWFIZUtMd3FLLWdsNUdmc2c5MGxrS1k2MTdQZjUydFVxUms3aXpvOWw?oc=5
+- **2026-03-14** · [Lex] Wealth taxes’ design flaws consign them to failure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDlWcDhlaVdQNWJIbVpCOXpvYXBFRkVzaTdVQUV2eThDZTdLVFJhR0NTem55SjJ4X0kwVlBiM0hiaXFHRmpudGpFVGo4bUJPbnhZZnZsUjFUZVF5a1dITFpJTzRzdDBkUEw0MEFkaGxKcnVpSmxaWGpTTVZ3UzNBVGdobWM?oc=5
+- **2026-03-14** · [Lex] Renewable jet fuel may face price war with China, warns top producer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzhzMFZSN09zcGU0ZU43cFBjbDBrSER0eEJDVm9yUi1wQm93dG1RNkUya0hEMGpDYzN1MmRYSE1xOXlpOHNjLVBsV3ZJSXNzQkdKSGVQMEhCRWNqV1BVMU9nZE9OemhycWRlWXhOWHctWjdGcF9QVmJWbWlHM256VS1wWEg?oc=5
+- **2026-03-13** · [Unhedged, The Long View] Cancelling the UK national debt, £1.7mn at a time
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1OZDJXaldDODFXY0VrSGUwVHJHVm5GQTNtM0dIeTFaVnVSc1F2bzF0V1Y5bDFsYmVyZ29IS0JxWEZsVzV4a01oeHduWWJWR2FnWjgzc2RMc2t2MXhpbDJwd2RoSVdEX3p5VVNVQlgyYkw?oc=5
+- **2026-03-13** · [Unhedged] Nvidia prepares AI ‘inference’ chip launch to counter rising challengers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTlFWjgwZms4QlRPYlpoM0wtcXMycE5OTDV1LUJnTUc0aHhabjlZcjRkMDJ3dVVNY090SVRYTkx4OE9KUTdQakpuNmJuY1ZBbHRFSTJ5ZFdSWjVMUFJaYm1iT0lCM1lrcVB4UHZCMk9yVHREc0ZqSlZHeHZiR0NSVkFBOFI?oc=5
+- **2026-03-13** · [Unhedged] An Iran shock will further damage fragile inflation psychology
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBZWlBYdDVjSXg3V2RQbmZaNThiQlBqMU9ETnZQQ1l4UWVuSkxUeU9UVnBLaTFZQUxqNjZlVl9UeGdGLXBRWDRGQWxmbXFJWHNmdkJSRXYteFJKUkplR2wyZ2hNOTdXUWZYX3FRSms4TjI?oc=5
+- **2026-03-13** · [Unhedged] US judge throws out justice department subpoenas to Federal Reserve, citing ‘thin’ evidence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGFlUUJKQk5zWFJWTnB0eVBNWFpMS2t6TUpHaHNNSjZCc1RWWEh2TDNMWVRMYjlMd2RJS3cwZ3JySFZiTWZXaHFnRmR2Q0I5TFh3clBMd18xLWVWNDlPMURDVG5hV3RlTUNPSC1lcllxWHhwNTFhNVg5d2l1WWJCc1VWeHM?oc=5
+- **2026-03-13** · [Unhedged] Hong Kong plans to ‘name and shame’ lawyers and auditors for sloppy IPO work
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZi1GVEJwVFRhXzVMenZyb3lNMTRwdGNxTjBub1cwbzZFdG1EdU1JWkdua2xVWjlncG43YVJjdExGdzFvSVdwajFMVUN0cVMxaDlUcUJIRTR3SVI4bzBkZDk0TlRud3dUVTFFaDFOOW5HR1doZmFWNEcta0JJTVdja0FLMFY?oc=5
+- **2026-03-13** · [Unhedged] Iran and the rising perils of AI in warfare
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXpJNkYzUGw1ZmdubXowTjlqN1dVZVZiVjRQSXh4Qjd1RWJQSG1iUm9vTzgzakhEQm9WenVFMVRBclFzV2xZQ3FrZ3JZRzZ5NnFUUU1JbmptVTB5SDRybXZpX3lETEtzbnJYXzRTdG94cW41dm9YMWJUV0xpbm5WZVVqLXA?oc=5
+- **2026-03-13** · [Lex] Private credit has half the ingredients of a financial crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHM3WWJsa3dYUzVfTlhkZmZuQ2hXcFg1WU56dE84azdPcHNTcDJnS3NxNVIxLU1DUXZ4VGlPM2daZjVXOHJsQUpMaWxZeFYxWWRjTlVWOGMtb0RoQklmYk9VV1cwY2VWUGtFcnhRMm40a3N5MG1QZGNnR0ZraFJETWFUV0I?oc=5
+- **2026-03-13** · [Lex] Pinterest’s mood board should include a potential sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzBvamdsenYxeHFZcDBsSkl0bVlvYjE2eG1yQ2JIQVIteXdWU2JVdU5lUVprUENnb2pMYUR1WmJfanRVTEI4QkZKaGQ1U0RDWS0zNEE5cnlkOEozWkZUU3lpS0ZtVm5SSEQ2QVBQX0FMUEhDUGZJel9nQ1lHZmpKN0ZxRHM?oc=5
+- **2026-03-13** · [Lex] Sovereign AI is a bet on the economies of anti-scale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzAwbF82cV9MZnZ4OWRTSThLZ0gtM1VJa002cDR4aDV6a25xaG91WFVTd3FlRjVQQzFlUm1BT0g1NVExd3oxWk5pWWNVVUg1cDhLT0pGQVpJTDYtYVJTWklQU0pzOHVfR0lvdEpkOUFrdldHY3ZqaWRxaTE3cEt4dWxIY1g?oc=5
+- **2026-03-13** · [The Long View] Are markets being too complacent about the Iran war?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFdRMW9KbFc1MGxNcFpSbENVTDRhNjNZaFVaVEFrZ3Nqd2tVaVpZX1Zza1Z5SFpmQ1UwUlBwbWZSei1DWGJPLVNFY2dqY0w1bXA2RkROTEtIVWtka25iNE9mOWNZTGQ4U0xGMWZ2dGx3VXlzNHlIU2J4UmFwLUhoRVdNbFc?oc=5
+- **2026-03-13** · [Markets analysis] US economy ended 2025 on weaker footing than previously thought
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzlXSE5TQWMtX2Z6cEV3UWNkQnI0S2lCSGRaMmZMSzB2d1Z6Q0d2S0RXRjFTM3F6WDNWenE4b1hKampTMi1xaWszSkR6OW10V0xjUGplSk5ZVjUyeGl3WVp5RHR6b0d6MlZTRWFTMkFNQU1USlBMUUFITFRxdUFSZlJSTVE?oc=5
+- **2026-03-12** · [Unhedged] The US consumer is OK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTVMSHhpZGFpMV9JbEhGS2k5X3dQaGlYNHEtR05MeUU5bExXdWV6R2xtWVktWE83cVk0MDVNdlFRR1pGQUVwRFhIQ2xqcXZ5WEJnN3ZWcnVvcVoyeUZYaHhsZVp6em1iTUcwZGxjc1lXdUNJcUVCS3p6dzQ2Ym1wTjFtVjU?oc=5
+- **2026-03-12** · [Unhedged] Uncomfortable moments in private credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUx0M21lc3UtVUc4dWxrZmpzX1V3V3BGX3RlQlRFbzlZV2RodmszNDJiUUtiMmY1Wjg1TzVmazQybEhvQ3c0eGR1MXkxZVRQd2tOcWNFb3d4c3YtUG9hSTh5d2JBT3AxN2hVY2hfeHJIWHVMazJMamFTYjM1T1NzYnBhYWU?oc=5
+- **2026-03-12** · [Unhedged] How the Iran war will change global business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2Z6SmZTVEVyajdYMHJqZDU3Z29TdHNmZk5TZWtsWjJ3S0wtbkJXdWpOakRMaC1uX2NtdFRpU0wyM0tyaXpQWFBBdUJSRWdPSnBlaU0tMG9iNHdMemFoeDhiUXB5alJ4ckNaTi1ocEhPaUY3aFIyT0ZIS2tyai1kUXRQc3g?oc=5
+- **2026-03-12** · [Lex] Oil price shocks create many losers, but some winners too
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHJlUXdlcW93bmtQVzhhVjBEN0IyNy03YkJJeldrN2gta3R0UDhMX0pEaGw3cURKVmtmSFN0WGxBVE1RSDdacndaZ0FRV3RJV1ZUbG14UG5hWDhLMWUzLWc3VFdnZnlFTXY4emk4TGt3MTFFNlpXZWV3ZEFubHhTVjNwU3E?oc=5
+- **2026-03-12** · [Lex] Senior loans, like airport lounges, are losing their elite status
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjNlTDVmN2owZ215Mk0xN3VyM0N1UW5yRHd6OXhBakcxRFdsUlJzN3JQVmoxTTBYeEtDZXMteHZTeDdQcUhqUjNYZ0RYVFZKYTBkNG8yVFd6UHpoT0JScGdYWG5DVXRxdWhpNzFvdlVURnlRd3RFMzhzLWdNN2d1M1dsejE?oc=5
+- **2026-03-12** · [Lex] How spreadbetter IG went from fringe to FTSE 100
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHZTV0JiODFvVnA4cVl6V3Z2T0o0QmFkLTlMcUI1azV0bEpTM1FJcFRkLUxaYmNvRHlockNJQmZVdmRBMnQ2LVpkemY3SGZmakdQY1dDNDlyY0dENWlLb3FvbFNLMnlDNjJ6OWZEWkRVYlU0RnQ0TlJveDVjaFI1VklPM2M?oc=5
+- **2026-03-12** · [The Long View] Rachel Reeves to make new push for greater single-market access
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTF9YbGdVVVpKNEZSOUYzZUxkeHh6M2JrWDk5MmxBeGd2TkhrTFNSa3ZqX3ZxRDJTNW9NaTlzcHBnZkhFMEdYMzRPaFVGYkFZRlFHaEtGdlNtVTItWjRWWS1iSWRlMWlxcU5ha3F2M3BYY2NiQ19oYWEwNDh0T2k1ZmpNbmw?oc=5
+- **2026-03-12** · [Markets analysis] Five-minute bets are the new craze sweeping crypto markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzIwbWFMYzZOWEZFUUVial9CVkswR0t6b2kyQS04WmhvMU1Kd0lBWUtKY2xZNVpKWElyR3M2dHlvc3h1dUptUkxEUVpoaGVPODVhNUJBRDlMWldZN3A2WnBTYVpYVEhVeDR1ZGZMamRoNjF4dzBZVVE1OUUzT0U1RnhEYXc?oc=5
+- **2026-03-12** · [Markets analysis] What that viral Anthropic jobs chart really means
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSk1sak5VbUxCZ2Etcjh0UXE4X0dzOWFTOVRjUEdCOEFWQllTWlpHeGZ3QWIyelVNSkRvVkZEYnR0aE56QS10Vmg0SmJLcnZKcnY2TGRnZFRhdGlyRW9aTFR2SlJJeXFoZFlZRHNrNnd5ck5keml6TDJkbkRtR0tTMVdsYUg?oc=5
+- **2026-03-12** · [Markets analysis] Iran war tests Xi Jinping’s plan to build China’s stockpiles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWRXbF9HRVI1Rmp2cXgtSUVVRV9UdG5xTmo4dkwxb2U5VmJIYTUtUnFsOUZjY3VHdXBxSmxmYmZjYmp2STFoWEp4VWNlbl9IamJZVUZWTmh4UHdfTDJRempoQmZIM3p2RDM4OHRCMFFzQUN2RkdQNDFSNGpWczJDaEY2OUQ?oc=5
+- **2026-03-12** · [Markets analysis] The English roads at risk of being underwater
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUNXZlF3akhLUWJ6Y3FlVWthX1pETEV4M3F1WC1Ja1ZQQ3J2NWRfZnhZRDIwcXNOQ0tPbjZ3OTFlTXNBOGRtOHZZLWJBSjhtWFFpWVV6TGszbVltbkEzN3BuNUFVYTkwLU9SUkNtVFRNeW91UDVfQ0cwNG8wc2VpbGpVQnQ?oc=5
+- **2026-03-11** · [Unhedged] China’s forgotten consumers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkZFR3NYYnFnX2VMRTNGRkhtZXM2Zk8zWXlBRVB6YWNDNlIxSEhyQkVfZ1licjhkaXg1RjJmUEhnaHYtclVsVnFjdzZTLW56NmVnNnVfOWs5ZUdvcW81VlliVDZIdUpDZkJCYWxGNFdaaFpXSFF5ZXJVNzNROHVYcnVObFM?oc=5
+- **2026-03-11** · [Unhedged] US airlines face $11bn fuel hit from Iran conflict
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVlwNFdDbGRmc2NRQ2stM3lPYW9zUm5QWmxFTFZRNE12eXZlczlocUxFZWhYNjI1emFoTjRaUmJDVDFsRmFEd0xTOEdYYjdBR0I1Y0hJU3pkQWJERWhxMmxBeFpaVFFGcXg0OGxUY0FndnJ2QU1sNFptMkRwZklqbzYzVF8?oc=5
+- **2026-03-11** · [Unhedged] Nvidia strikes $2bn deal with AI cloud provider Nebius
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSHpvTGphY0VMdWw3bWdOWVY5TjBUT1QtUm14OUZUSWlweFlxd2dLYnRtUkNLS1hFYkQtYnk4NnhURFZ2YnYtOFFnRV9hUHdzMFU4eVFwOG8tSEl3Q2sxYS0yNVY3b04xOExKaXNJaVVhU2t2OVBPUXZGOUZsOEh2dXJsa18?oc=5
+- **2026-03-11** · [Lex] Nasdaq finds SpaceX’s gravitational pull hard to resist
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUZTMmxybXpHZmFTQlZPX3N6THFJTXpGUzJEZDVEaTc3ZkMyOHhBVWoteXJZanVndmY1UF9DdEdUUllvZG93SWYzM0dBaEs1Sm9IODB3QW9UaG80cUNKZ1M1SVNUTWpoclYxaTJnZGp5d0o3bGFJbkJXaXJHblpzUE92X2s?oc=5
+- **2026-03-11** · [Lex] Oil fears hit Asian stocks harder than profits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkIzZVl0dUxndFpSeHFhcEtVWGtxVFBVWUY0SUlXa0tSdnM1UldEejl0dy14bWE4RXdDWC10clg4dDgwNTBCanNwODRIcktqQlVTRlR3ZGhwenRzR2tiellRWnlBOGltd0JNLVRjTHhLSFJhY25meW9XTFBMN3NmUzFpbkM?oc=5
+- **2026-03-11** · [Lex] UK’s water utilities may finally be worth a dip
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU1kenZmRHJmNFdzWTEwcU1VdmpYRVpQbUxONUY0bkRWYzJZMGhTWkRLcUN0UUVhSWx2eDZUZnNDRjdfTGtOV1E4dWJ0WFR0WGx1bk5lY2RHZjJuMGVDRXEwcURmZWZrVmZHUmM3TW9sRkpSX2g4UXFrNjcyMXBXLWhvcmo?oc=5
+- **2026-03-11** · [Lex] Estée Lauder sues perfumer Jo Malone for breach of contract
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXFyTkxwUDVoSHdoVm1RczhDclJ5eVJJREt1X2czVUJ4U09vSnY1MW9ZQ0tORlh0U2tKZUFUaUFIOEg3TDNGcU4zMHBwdDJlZmRPSUQzVW9ldlNWc3lQWnEtY3ZzcUV3X19BdGczcEhtT3JoUFduV1gzaC1RTEVMRGtJLXQ?oc=5
+- **2026-03-11** · [The Long View] Water takeovers to be referred to UK government for national security screening
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2lSbzRxR3g3TlBtWDRqbGVqNzJVc1B3MUJ1TER1VW5pRDNRTS1QWjZnUnZfQ0V1akpjSGt6ZGlNbnBJcGNJNm9uTWEzTU9tTTBnY2lmaE1SWUczeGkwZFhRbEZhb3hsM3pDdTBpYkFBcWNXSTZBbzV3cEtUeE5Jc2JlcnY?oc=5
+- **2026-03-11** · [Markets analysis] BlackRock, L&G and UBS among 60 ESG funds holding BP despite pivot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTk50ZHVMa2NTaUZ2RHRMWHFpUFNCcThKb3ZwLUdkYW5FQWJxOG1rNTVEM3hKcDhZWmtGYzJ4ZUh6VFZ1QXpRMHdRZ0NrazFoVFIwdmN1ZDN6Szczd3p2b3dsYV9hN2ExQWpmUDEwLUtTOUV5NGxZS19SUWh6SGROMnNjMmo?oc=5
+- **2026-03-10** · [Unhedged] Does private credit have a credit quality problem?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0FiY0Y3ZkhzdTdEaGtScF9abFl4SC16cWNxWV92RnNqNjc4R3o4U2VZem1ZM1R0NERPRzFpM2x5SlhvSGF1OF9QYWxiTjlhUXk5cWlVcVFBWDVjOEVkWDZ5RG9UVFFlRXQyTFVzbGlMR2otX2IzQ3ZxZFlZc3R5eERhVEQ?oc=5
+- **2026-03-10** · [Unhedged] Transcript: Wildest day for oil ever
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHNGUF9OZFlLb3hSVkFpc09UNWpYM1VBWVRGWTZuMDRlUlpCOFpVWHp0TlRQQ1hzdmRSLWlrUHdqR3h1OEhlcW8xUUFRZHVqcE5TRmJ6SUZMS0NvMWZxbHdkZlFuNVpwRjd3cVdHaEVTQnJHb3EtbGVQSUFHQUdtb1V3SVQ?oc=5
+- **2026-03-10** · [Unhedged] Saudi Aramco warns of ‘catastrophic consequences’ if Iran war drags on
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2dNWlh0RDVfejRUR0dYdWdZT3pvakY2d1RSTDNqLTh0djhNaTRuMmY4MXJadzN2cHFIem1oSFZUTmpnVmd1b3lyVUVBSWlDUFhEU05ETmlXWm9WZlY0T3VCamlBTmlKVzNXVjFsX29SQ1FyczA2SGY5cHo2UlhLRjg3bEo?oc=5
+- **2026-03-10** · [Unhedged] Soaring fuel prices to cast long shadow across US economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0RzOExtM2liamdFbEl5R0JxU192MnpfMVNiWXJaQy0tMnl1RzhyRTgwelZCYXpwS3kzNVppVUxmbVpvV2JLaFNnZ1cxZGplR0xuN1FjVV9hV3BhQWx1MGdGUVJBaWZDamRZd2FSaFptZUVtSzF6c1VsYnM5Mjk3VDdhYlM?oc=5
+- **2026-03-10** · [Unhedged] How to fight deepfakes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWHBFYjRXS0lLSXlhaFZ4WEZLU2ZZN1A5TFpGME93RW50Y01aNFA1SVk4ZWp4d0ltOHRBdFVkQklQU2RycU4xd096TDZMcWxheHhiREx6Vng1TklXOF8xdlM4VV91QmZTTnVKMGpNX1B6cDBKUkJLUUtFME9QRW5DcmJDV0M?oc=5
+- **2026-03-10** · [Lex] UBS’s new private equity deals confront an old problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSU1BbXBMeUQ3WDBOamEwYTdOUkJQRl96Wmx2UF9lR1kxanZiY0prZ29KbVRLQ0FwUDZHbzJ1a1Z0ZWFpOVpZeVBGelhoclpPc2RYRGMwLUxHVHFTUHh3dlZKcWZtWF9jTG9tQ0JtQjFXOElSYmwzUDhVU0NwNVVXeUZmV28?oc=5
+- **2026-03-10** · [Lex] No snow, no refund: weird weather tests Big Ski’s business model
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTIwX2ZtZUg5akFmTzRzZjdoeWVtQkZubVA3MUNEWmFoam5kSW9TSHFaTmFfVkRUODUyNm9KSklmTUg3OUd5Z2hmaXpfeTc2eTI2OW9jTm9pUjBjTGZJX29IcGxCTHAxTlFHbzRBVFdzYm44SFk0QjY5T1ZuVDVId2taczE?oc=5
+- **2026-03-10** · [Lex] Rising sulphur prices carry whiff of unintended consequences
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWFfS05DQXpOaE4xWkxNeGhaVzhNa1ZpQVZUelAwNHBoTFJpOTl0bTdvSmZnenljWnczRWdIOEd0R09PeUNhVUJkRjRod0tLQWlaS1BPVzhoMEZJak9EaHVZeXY3TVNlc1FFN2M3ejA0Z05vV1RGdW9vRFU2dTQ2NFI3aXM?oc=5
+- **2026-03-10** · [The Long View] Citadel and ExodusPoint stung by Iran war turmoil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORWRwR0dqUnQ3aFJVMGhCSVJWR1I4a3QtZVpSeXM0UEVTMkU2WlpMdE5OUG1RaW1MRUxHUENNRGVfUldnZ2RYR3dCV1VYX1VCYW05MUllaGpmV2tMcFptZm1uZFdzRWo5UTRsQU1KS004MkFPNXhxek1FWjFqbmU3UlNuZ24?oc=5
+- **2026-03-10** · [The Long View] Net zero will cost less than fossil fuel price rise, UK climate adviser says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE5qV1hNR21GTnlsWVhSdzdFZm5vSlkwbXJvaXh1Q2RMZkcyTVcxSkh6N0VDNE03dVBXZlgzUkYxVWRLWEd5dWlIanpxY0oxYmZGWGRqQmlFOVpvOHNYLW0yRjNsMk9hb3dTLXN2ak1XMFBGQkVwdVNZbmV5bTlGa3NfS28?oc=5
+- **2026-03-10** · [Markets analysis] The impact of the new energy crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTJwR05CUVY2ZVlGbnJlY3M5eFdUWjdkYTdRTl9SR2FzNjB1Z2ZISVpobFI5b3BMT1Y5MzhRMWlEZFJzWndSSVNWLXFCY0hRU3BleTJiLThSOG1sdzlhMEcwclEzWkVUMlVkc1dBYU9NWWpCTUdvMkRIZk1uQ2gtOTgzRW4?oc=5
+- **2026-03-10** · [Markets analysis] How Shell’s clean energy bet in Brazil fell into crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUNYaldBUDFXLXd0SlNHbFB1OEV4UjVRLXB2TE41MjBxRFM1Rzh5Z3J1OWIzQmdxaWIzY04tN0txTWc5NVNuN1hIWUhhOFgzVW9iYk5FMC1CM2liUjQyYVJENi1VNUNyVldad011NWVZeXJkTFM2eEFZNlFHcmxvSUVzTDk?oc=5
+- **2026-03-09** · [Unhedged] The thing that everyone expected to happen has happened
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFVuc3dpc0lqU3ZjTjM1OHk1VlZxbGF4ZkttWWtpYUFYeENmcENNUUpQamRpZlJpSzNMRzEzSk5nUTRWeWpxVGJJTHRnc3RabXNpOUZtM0hQcTAzVk5PSTdUY0hzYTlpQXh1OVV6Nk9BYjFfTDdkbmhyRTBqWjU3SlZqWHM?oc=5
+- **2026-03-09** · [Unhedged, The Long View] Pimco sticks with bet on gilts despite market slump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWdoWmlILXZqc2cxS0I4Wjc0ZmZMcVJYVHNLLXNobW1yUW9FUVRnSXlUNElqOVZ3dlZyeTRkUDA0cWtMMnFEeVhsdy15aTNMWDRFUmRTaE9ZMEVWbE9ieTJhSlV4QjloU0VfRTF1dU1OYWFuZkI0UDdLSm12SEFUaGpFM2w?oc=5
+- **2026-03-09** · [Unhedged] Investors reverse bets on central bank rate cuts as oil crisis deepens
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlJVT3hBRGZBa2Vwdmc0bE1TNU9MMldmeXVDUHFsV2ZvZzRzNkw5NkZ1aGJNUHZyZ2NIYk9aSHRoeEJ5ZDhpd1dMTjdSdlFhQzF0UnFCOFRDbHlvcHFaM193bWhGNEFQaVFkdUtxdldTVl9FWmcwRHB5eEFxMzNDdW1sSkQ?oc=5
+- **2026-03-09** · [Unhedged] Why did we ever think data centres in the Gulf were a good idea?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVTS3BIV1pSLUswN0tPc3JBQnF6dWRSR0ctOEVsV3l0R3U5VW1adVRpS1JEVDFsc2phajMzaHUyQVpWVE5qNGYydXdfaFBsVklOV3FlQ3o0cWpPc3pDWlc0RVpLZmNYQ1VTQThXUlhhMm1qVXhpNXIwNUYyNEp2UGhDY0Q?oc=5
+- **2026-03-09** · [Unhedged] Nvidia and ABB launch partnership for AI-enabled autonomous robots
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeE9aZm5LVGZIT2syS3J1WC0tV1llaF85M3FJc0w1NVRJUkVzLXVMQVptRjkteEdlaVdId3phWXhXdkREQm1NWENOX3dIYVdSeFRUQnhrSVpOc3lGOVpLMG9KRVpZX0o2eUNHTEttWXRueXFGcnV0VHdLcW9DN1JHZTgwMTY?oc=5
+- **2026-03-09** · [Lex] SoftBank’s bet on OpenAI is starting to weigh
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVThoc0pxTzV1UHhoMUNHV0l3WElEeXVWNkNEWUpGQ1RrazNzbVZ1OUdHRFpUa1h1WWdMX1N6WUZqbXA3VWZVeDhqbWFrQ3c0UXNlc1hFSEs1QWhwOHZ1WXpad2dITjBOVEJPREtmSkxTeXp5RWNZbzhPdWxzUHJCaUd6SHQ?oc=5
+- **2026-03-09** · [Lex] Japan’s playbook on raw materials security is worth taking global
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM196RC1wcTVreVVDaGozQjlycmk0bU5yTGhPcTBJRnM0VHBvRHczTllETmJSR0pjZHdzTFp6azRWQk10dmMxVElMWlNLR1hXdVE5X21XRkRweEZycUVWWGdVUTlrNHJYVFcwdVd4S184MGNWYVhmeXNGQW13N0ZYT0VTUHY?oc=5
+- **2026-03-09** · [The Long View] Convenient dollars, inconvenient Treasuries?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB5M3dVUHgyYnJtdlNkS0VROUxwTW1EaVdydDFDMVF5aFd4ZFBvNmJ4V0hiMi1xdUpDekR5eTdrOGRTbFhHbHdiMTRyT2diU0tpZ1kyaHpOWEtLUzQ1RmxYUGdaWEl3WkpsVk4zaWdKV0M?oc=5
+- **2026-03-09** · [Markets analysis] Which leading economies will pay the biggest price for the Iran war?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEUydjVrYVJlWXpfdmpsVUgxUWZtZWp1RmZCaG5XZnFIUGN6Sk1qeHlUNXlVNlJ3TFBQREszd2d4Z1I1VU9IX200UzQzRTNUMjBTazVTZUVzalZNWFBpQXQ1SHdqOUdzY3k2aHZ6Sy1ET3VmSlQ5UGNSY0Z3VVF4bWEyOXU?oc=5
+- **2026-03-09** · [Lex] Bridge UCITS Funds ICAV - Goodhart Global Future Leaders Fund R GBP Inc, IE0004IH2RP7:GBP summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE1Fei12Z0Y0akFLTkE5TUExelB1R3ZSRi03b2ZiUGt5WjA2aE5laW01cGYyMUUwUnJvWDJCWGQ0TEF6c1QwWkowSWJoVTVNbk9JXzFzTzcwU2RxOHlZTnVfYklMbl9wYVZMQkZvaDloVmlBMnFoUTNmeWlR?oc=5
+- **2026-03-08** · [Unhedged] A bad jobs report
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFdxbDJKSk1fSFZ5QTdnY3VoU0xFVVpma3dMeTRTbkxtN1loNEN2Vk1vejlTMi1tWEdXS3d0dW5HRTNVMGktVkliVm1lWXJBYllNTUlCemJKZDNsclRoUWxrRjMwNWNPLUJEdV91M2dhcjhnTW8wTk5MVk9zUjZTUGx6TGI?oc=5
+- **2026-03-08** · [Unhedged] Will US inflation change the outlook for interest rates?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUhRanZRdlpJQTNkb01uUW5hVGxIelZpdlR6ZFhfVTF6UFFPd0hDbUZTWHlpY3lDNTNTSjNQVGdqTGg2NWhFZHRkQm1IUUZQLUJDdVFRRWZPbUQ1Y1VrbVVMQXlzdXpremlEMVhlOWFpc245bkZ4WTFTOUFLeEVOdnVmZXM?oc=5
+- **2026-03-08** · [Markets analysis] Oil surges past $100 a barrel for first time in four years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEZRUDF0T21TSTVfajhhLUJpMjVadE0zQ01BRENWSjltTFlPNWl5bmpEWGVGbW41X0h0aE15X2JJN0NmbUNZdkFVQVYtSGRGcUxtckthZmRPNHNBa2RhcWFyMlF4QW54b0h6ajhpSWhEa19NdWlmVXY1WE5vd01icXlsNzI?oc=5
+- **2026-03-07** · [Lex] Car insurance bills are going up before they go down
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzhTTmNIU3NGMk9tM250TnUwQXpfblYxMktXajlLOVNEZjdMSGpLdl9qUEREWWJMWTJfUFZYUnZlVjNyYTJQUy1CZnhJMHg2QUN4YVEzbGZzNHZjNDNzQzlzQnZqc2dHclZkUEFWUnVWbEUzVDVSRFB5S0RfLWVCdmhzcUE?oc=5
+- **2026-03-07** · [Lex] Price is now the main ingredient in the office-lunch slop bowl
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHktS050clZucGZ3OHJMWlNiN0puc3RsY2RlOEtMSjktM2xKOHZ5ZUxwVmJiRnFqSWZHb2lOdHlpdUZ2RG16TmlpRkFBY3V5eFhuOVFtWVN4WXRTU0o4cmk4R1dkNTg5UDJoWDI5dW9uMGVsMDVVSkF4Ulh2dURoU0F0ZUo?oc=5
+- **2026-03-06** · [Lex] Robinhood brings private markets’ valuation problem to the masses
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSDRWdUc0VnUwanhKZE9DUlE3Y1ljUjBGd25iMEFoS1c4QUpmNUd4WFJTYmRIQXg3eHRQS2tpU2ZVM3lKZDRaRjdtdFRLZUpidnVHNmJKbFRydWkyNlNhRzFpbjFOQ1o4Q1JaaTVzbTVQMGFyYUo3UUluSXRwWm8tVHVXSmM?oc=5
+- **2026-03-06** · [Lex] Amid European energy fears, coal creeps back into favour
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFhSUFlRVl4MlZpWUtQMHpQUUw2b1VmVGl4Q2pvQlRhalNtRkJIdGlNZ2lOdTZoQlJ4N1YzN01TaDlIRFFyeXVTOUxfSkhRUTMzV2g2Z0FXbzlpazA0cmdjdW1CTDhDMFk5NVhrSmdTTXBWT0ZNRmZwanN1UEl1dVRTSnE?oc=5
+- **2026-03-06** · [The Long View] Investors are not ready for a true shock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV25vSTBzQXNHMDRJTk9PSnozLU0zYXRsaEh0OUZVNktsTU5ZUDQ1dUF1UFdIYTM2cVhvN2ljZHhvMlRQeDVPWDU2THBwbFlRNGFYQy1IWnNwVW1HNktCYlQtdUxwM2pNeDRQSDlYUGxNNk5oS0c0X2M3MFBEXzg2UUF5aWs?oc=5
+- **2026-03-06** · [The Long View] FirstFT: The White House’s war messaging
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEhJSTlKbk5tUFV6YVpwaUg0QkE4T3FCQWF5YTgyNW0zbFk1WkJFV1lmR3lPSVVydThRUGpIajFSNzZfeVBNUGczWEVWcjBRVHhGVzJ4VHJyREk4UG5JdDNqcHBzWDctZ0QzZWtKb2dUWmhZZkFIOTIwbkxLbWcwazR5WnQ?oc=5
+- **2026-03-06** · [The Long View] Global bonds suffer one of worst routs in years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWFiczVXaVd4MFdfRWRVNnR1UTE5WEYtZHF6YUw0eVJyS1l1NEtHbkxKQzd5NS1Dd3BUVWx0bERuS25xSWdzbE1udUhhWlV2OUZUUGh3OXM3MDQzNm90LUxVM1c3YVA1eHoxaVQxVXd2WGQ2X3MtZzN1VTVuNDUwN1d1YlI?oc=5
+- **2026-03-06** · [The Long View] Britain is now the home of the Middle Man
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzRfbGJqU0FxSDh0VEo3cFQ5VEZEaEdxdzNzR3hFekRhN3IzVExhU1lhSmZOQmVLekQ2cU8zaDFWODJIeDhvU01NdHpfcFFhcG5NUktzdkxHVTU4dEthdzdhdlhPRVRzcDBqRnR4UVVSVFJYTnB3UGlKMmFpUkgzVlpkREQ?oc=5
+- **2026-03-06** · [The Long View] US agency to create $20bn reinsurance facility for Gulf shipping
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORDd6WUQ0c2JvZkU1SVdXMzI2WFdCb2Q3ZnNodlZjRlZpUldxeHRuRGtGTEtjU0N0YkVpSXhiZDM5TkE5SnE2VGdVOTJLVWdWVHd1MWN3VXB2a1hDd0otTlNLYlFqaEpsUGRsX3J6bW1tVHVWLXlHMUlxbGc5VnAwRHZVVjg?oc=5
+- **2026-03-06** · [The Long View] Gilts sell off sharply on fears of inflation from Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnZVS1IxNE9DTjMyZmRFd3dGcEdtX1p5dHF0bTlsbDkyeHJzZWFicndpbTVRQlZPX0VELXVIV2ZTVVpaYVhmOUhaX3MzN0ZLUFM4ZUVOOERYOEp4VzRwZWJVLWFzbGZNa015WDRiOGJOYTNtTWdPVWNlelBLT2RfajRxS0M?oc=5
+- **2026-03-06** · [The Long View] It’s time to end Britain’s first-past-the-post election lottery
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE90MjVDUDNjVDU5Tzk5YWFuQ1BsYndEUHRVZjhSTUVlanJDUVdhN25reHNBbUJUdDY3Y05kVkhmNlk4UTFEaEhvLU4xSXhmZG5QT1N5SUpqTTBURjRlQlU3V0xrNzhFOHBIc3RtdHlHNWM?oc=5
+- **2026-03-06** · [Markets analysis] Middle East war strengthens case for renewables, say clean energy experts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUFRMENsN2lmY0Z5RS0wYmUxUjdzaHJvVGNrelhUeE1nNlVyWmlpNkluTjZfWE95ODRNYlpELVg0OVJaQnZmVlVnNGZhUTlEU2Z3VWdxck9hdVk0YW9Va1BhLTVVeDR1SUxldC10UkRURTNNbVZESXNTYWxDN2VCbVltQ0o?oc=5
+- **2026-03-06** · [Markets analysis] Is the nightmare scenario for global energy here?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE83alowNnRfalFWcV8zN2xNbnBYdGozd1R1Y1hRMHRlT09DT3FBQU83TWxCSFBGa1pmYm1PMmJTdmJPeURRRER6SlRPWmk1NWdkUW55SzVkc1JNbGVmQnFjYlIzNU5iSC0xc0VzUHdUa3c?oc=5
+- **2026-03-05** · [Unhedged] The case against stablecoins
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON1F6QTA4ZHZZUUUwdWRWOE9uVWNGY3p5ajdoNUtLUTU1SHQwaWF3S2JTZUFIMWtEcHdEM2REU1lfeEkzUDZxaVNqMnB6N3RhUVQzN041bVludnhwVEZaV1E0ZWNNcW1IOUN6bktVVEM4N0xvLWtSZlNaNWpBdmdQSFVoR2c?oc=5
+- **2026-03-05** · [Unhedged] Retail private credit is an unsolvable problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjlCQWRZVkpiakRqVkd0QURtZl9nQVA0X3hxTGxGUkZfMkR1Z0NpQTRsSnlocVprcm9UaWs3cF9rMEZFeTNqUkZ1VFFfRzJzYTBEM3liOUx3SndGenM5eVF6RkltTFRUb0NKajlUSk12ckVpVHh2WE1Rb0NXSGhNVVpmV04?oc=5
+- **2026-03-05** · [Unhedged] Transcript: The case against stablecoins
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkxOd2t3dnBUMzloS2gtNWd2M3FJS3lqZHZoMGVCX19Wb21IbjRBRERFYjIyeFBCNkFsX2IyRmllemxKN18xX0xuR2hMUE5KN3JhNWRLLTN1RlZXblZpeTFFWnJZTlNaQ2h4VDhQSU1tclAyLTNOeE5NYkpsRXFfc183LVc?oc=5
+- **2026-03-05** · [Unhedged] US considers tying Nvidia and AMD AI chip exports to foreign investment pledges
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1Z4bEpPd0N1aUNxM1lFSWotMlAwVk0ycmpIa3d6d2duYnpycEFIRWZmaTBMRXhjejVrWlNQT19YUU1fcUVMREJtVkg5Um9jdmVsX2V5RTNuUVlBcWljTjV0cHF6aEQxcjJ2S2pqektvSWYxVk9tSVg0WHR3NnZWUms1Sm8?oc=5
+- **2026-03-05** · [Unhedged, Lex] Letter: Tesco’s doomsday dry run proves value of preparation
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE55ZnllMTZaX3k0MDB1SnZqbXA5cnhVVklhYVY5d2ltLXpTcE1fd3JFOXhRVmdCbnplRjBKeS05QTQ0MUtPX1Z3a2xsVFc3UHR4d0h0UmFuZlc2dzAwUzBaNnpBRnVmc3BmbHB2V2FPMTY?oc=5
+- **2026-03-05** · [Unhedged, The Long View] The Iran war presents a ‘guns and butter’ nightmare for investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWJucTYxRVBCXzg1a2FaQWJqVEpBMzFxVFY5cmhhTVU0a2lLZnltSkYwQTQwOGI5VVZsNDNpTkdBQVJNVWlLcjlnbENiV29wYnBXLUVYVjNfM3RzY1NvdWlnbnVDWDBqQk1IQlNVbXdoNUhwZUFUcTNFLW9KYXpRRTFpdTU?oc=5
+- **2026-03-05** · [Lex] Private credit’s retail honeypot is getting less sweet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcktCbWZMWUhzRFF1VG9XNEV0aEljcHNuc0tWVXY0aWNNMXFKVUExUVFQUjlIM2ZtVXk3Sld0NldibG5lLWFySlhSUDFOWVhXbmdUYjYxMTZUcFc3XzRuNmlqSWJKN0g0YkVpS0g2TmJGeWYzMTNkdFVSMUlvTXhTd2YwQnU?oc=5
+- **2026-03-05** · [Lex] Why oil at $200 a barrel is no longer unthinkable
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXBVcWYyR3VrZ0lwcGNaU2ZIZFVmQVNYX1hZc284TmR3OW1mb2tROE4zS2VVekswSVVQTFlRa19JUEw3QkkzemZDSWZGazVDbVB1TEQ2cHVzN1JGanhKS0hJUHhXeHoxV05yeE5QdUh2a3h3Q3REM0pGcFdCYlAySzFRank?oc=5
+- **2026-03-05** · [Lex] Bankers’ bumper year for IPOs isn’t quite going to plan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXZwU3ZKQUtmNzdFcnFwRDk3eThENy1WeWFVU29rRkFwMUZoZks0eDhMTkNFYzgxNXE0RTRxaFREd0Z4c1hGbnlnRHRpWkhkcnZsSDg5YW9fZTVnQlQ3cEI2ZnI4UVQ5RUtOSG5MQzQ5amxISGV3VlZiRkhkeGNQVUV1em0?oc=5
+- **2026-03-05** · [Markets analysis] Why vulnerable Gulf energy assets are rattling the world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbktISmRLMnpxaXRMMUhGUzJpRkcyZUlLb1hoZFI2RlFQUm1NMHF5SzVxWFdRcHBIeXhYb2dnRldrM0FrdDRnLXUwR0RiSU1tOFdULVF6eTZXRmd0U0xmRU9XNFBRaEtER0c5Zmh6SnpoMGI5WTYyVlBpNVNxMjlsQlgyR3M?oc=5
+- **2026-03-05** · [Markets analysis] Nvidia stops production of chips intended for Chinese market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTM1amp6YnEzMlprenFqRmV0all2M0N0THNaRGZ3VzRHcWh5YzdLQTdjbW1VOFBSQmdqcXc3WVlFdHJ4OHFsS09EaVRJU1M4RVhSSEdtTzhSa3pPbGRHOWpRX0FSYXc1YmdzcnhXa2JfWl9EMmtoM0UwUnNCWjNYamRSU2c?oc=5
+- **2026-03-04** · [Unhedged] On ignoring geopolitics, buying bubbles and hoarding gold
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOF91UWtsdjRDVlZSZi1uS1FGbkRoTmtUenYyenEyVGw0bC16VEdWT2RRaVg1SEZma25aQ1pRUG1pMllQOVcyUFBhaFJ5ZTNxaWFFc19GVXZoVmZEXy11bXVzVDRWTXE3a3JKNGUwTDEzWk9udUtUQlJJTm4xYjFOOXZUVlI?oc=5
+- **2026-03-04** · [Unhedged] Can Nvidia’s margins last?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGtnVG9Sb3ltWXBuRFBhUC1uRnYwdmFDVlN5QXlCOUxxMmNHT2dyWV9WZzJlVGlzMHZ0cENTYllmeG8xdWVzeDA1Wmx3S1pyaGR3dkNWT2ZERUk4aURRUHVnMUc5NWl2R1dGSUhBdjdOTVNmNHc5QVdXc0tKTlozdUs3Y0U?oc=5
+- **2026-03-04** · [Unhedged] AI disruption, wage deflation, research abundance
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBJclBlVV80QzBDcWs2UlhUQkM0RzBMNjZXS09VQnJYQUJYQXJYaHVFaVg2QllPXzhCdENhbnY2Z3EyX2g1N1p5UDN0Rnk2cE9SRjYyYUlUTGJabnJFaTNqRThmTzRtdHVlb0F2WkE2eGE?oc=5
+- **2026-03-04** · [Unhedged] SpaceX: the final frontier of IPOs
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5sc3RwS2xGWFV1MExtZ2ptaGJhbmF0SUF3VGJyaWpvQ2lkM0pqaTNHdmo1OGFsdHVNNGRmRE84Z0FPQnkyMEJpTC04ZTIyS2VnaVpmTEJHLVBWRTF6ekVwMW1aT2FNVHZsRDYzTWxuRFU?oc=5
+- **2026-03-04** · [Lex] Three reasons to be hopeful for UK homebuilders
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlhLbkJPUHdQUGdmS3IwbzRNYXZVdXMxRVBPaV9sWElsbGRYcjdISVhCTVpoUnVLZlliQmhqNktnU19URzFzdE5fVmZ2RnhOb2Q3dXVlS1RSQzJCSmhyTy1DYjR6TDFkMWJnSGlmaHhpRzhmRVNPY196S0dWMGFVdWdjY24?oc=5
+- **2026-03-04** · [Lex] Defence start-ups set their sights on the interceptor market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUFHU3ZYcm00X0M1OWtxczhWZlQxekxIQ2hFSDN2ajJJNFRwYnhxUXRsSU9mRkpTbUdwZjhQczVlbHpXS1NiM1ZJMERDSG9oQkFTb3RDbG9QWDlDSnRNcnlMVTVUS2dKQlBNWHllZWRsU1d1dHI1NGRhbnM3NXdXa3ByRVc?oc=5
+- **2026-03-04** · [Lex] Toyota marks a turning point for activists in Japan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVS03QTlrOGJyd1Q2WngwNWMtamhJcko5S1dTTEhMd1EwVDNfNE1IM0RsTzlKb0hWalhzTGVERjJHS2xXdDR3akx5TzBvcVM5NXdDak9NQXM4SXdVbF96UGRzVVZrWURaNUx0djRBVFhqV3lUSU9zOHBxZjk1UjJEMnZBQ3U?oc=5
+- **2026-03-04** · [Markets analysis] Gulf oil producers face race to resume exports before storage fills up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON05uTWVSWU43Z0w4UUswd3hHWk1YZDZHRHJhRG5BNExuSlY4cFRhTEMyNDhLdmxTaFVPT1QzNEJLNmhlZHBiem1jQThuWms5WTdkQlRpcVRXRDFSOWpRXzZ4WFAxbkl3eXdTN2d6RmV4am1GMmw4LVhDMUkyandPZzZhbS0?oc=5
+- **2026-03-03** · [Unhedged] Energy prices up, markets down
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2F1SkpYMnpoNmtkSzQ5cUlwYzBmbnBGTHNlVEU3bTIycnNydHFEWFhzQXYtcXlWZl93TDE5SXl3dGtYNU9hc2ZTWjZjbzRzU3UyM3UxMkxaSmVoTXFmeHNWLUdJTVNQZXFFYW1mTmF0NzgxSEhGcWptdnBOUGZmRm1zQ00?oc=5
+- **2026-03-03** · [Unhedged, Markets analysis] War, oil, growth and inflation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHV0MGZTeEI5OWpRNUtRWGlYWDh3S3ZSMGEzS3REU0lad3F3SElKZEdOVWF1UmE5YmtMd2VVTGdGTWptelJFbHRBdG5YZmNaWGE4SjltbV9CRDBKMnQ4OXBzYmdpRHdXVk95bVkyemRndndVQ1dQaXJCQkp1ekxvT3BvaEY?oc=5
+- **2026-03-03** · [Unhedged] Yikes, South Korean stocks
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5HR1Z5UGV4M1NfZ1NqRnpBVjFfdjVyZHRITFRVeXI3dUNPVGlSSXBRWURrWVl5VF96TjhYWWE1QUFkem9wdjhvc3lLd3h5aHlfZERrb1J5WHRvNUFVenRVR1VEWDN5WmRRZ1RZU2tEaF8?oc=5
+- **2026-03-03** · [Unhedged] Investors turn away from yen as haven asset during Iran war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEQ0eVZ0QVZxNVdCZXltUFQ1SHJtdi1sakpFYzlFZ3pfMnFnYzZkUExLemlqZElXZGxZSVMxc0tvZk8xaUY2NWdlR3RZbzRpWkQ3b0RCU05DcWRIbFBIcDZfM1hpWE4wS29hRUFvb2NFOXc1U1hudG1UMjRhZnRhcHpqY1o?oc=5
+- **2026-03-03** · [Unhedged] Transcript: Energy prices up, markets down
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE94WFhqRS1JTExzSG9QYVBhQnpOYURubFFrSE1UWGx1Ukp2X2FxWXJnVVlKeXd2WWd6Z3dfLV90WWdOZXZKOUEtTThzWWpFVjRmMTF6QkNVa0xZdUlDbk1PY3BueWJCbmNsWlM4dW5EN1Q?oc=5
+- **2026-03-03** · [Unhedged] UK bets £40mn on frontier AI research lab in push for tech independence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjVCNXpmWGFleHhsZklVM2htYjh3Sm5XclJKWkV5UnY3LUR5bjJueVZLWFU5RXVFN0VsQW43VDR0UkV0LUp5V3Z6aXNTUHBRSE5TNGdRT0E2RVhzczJwWjhWM080YWN5ckZ1U2xja0lHZ0duajZQY1BsbHZIT0xLZ2drbVM?oc=5
+- **2026-03-03** · [Lex] Less radical, more profitable: here come Europe’s new fintech unicorns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzFFckJMRUdBalpLSFhwZzdRWlF5ZlY5MW9xZGU5N3YzRjM0Ty02YzdNNkVOZ29XenlEMV9wZ3BrdG8xV3c0YWpUa1B1MHk1MWpjMVg5RWJieGM5anRJQnFrUlpFZXY5d1NDaDF4WkNzZTBfb1czQTdzMDlKUHIyUExGTnk?oc=5
+- **2026-03-03** · [Lex] Wanted: private equity buyers for unloved online marketplaces
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkZoWng1RW5pVkh1ZFQ4SmFQd1NKdUpwSlRfYmpNeFc3SWtNTVRCSVZBX2tJZU9saklZQUJTZVhlMlJFWXNILWJyeFk2ZGZLV3RjR3ZTcDNXTWMyczJTYnJsWGl3ZEd6dDUyVzM3UnduQWduODJHUmZCRlR4RWVxUE1QemY?oc=5
+- **2026-03-03** · [Lex] Letter: Italy’s search for some relief from high gas prices
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBPaThRVERJZE9yZUtUbE9FNWt1NHkyMVVqR0ZnZVFuNWdrQW1XVk5nOE5Lb0FHbTVxQjV0UE5tZGdEb1VoeGRjcTVNWndpZ08zU3ZsTUx5dlhhVGk0eFE2MjNoZkJRd2oxalNUUDV1UEM?oc=5
+- **2026-03-03** · [Lex] Investors ditch private credit funds on rising worries over bad loans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzhTTXo5dFo4a0RkdXM2NWdwOG1KaThuUXNNajVTTWxSd3dkcGpRQ25xRFVORV9jczhxS2J5d2hRZUdUeEhWY1A2ZEZla0FGbVl2NGZabnhSVnNJT0UwaE51TC1mSGdOSkxDQXNyX2s0X0ZyVjBqUkxwVS16RDBRcTVlYWg?oc=5
+- **2026-03-03** · [Markets analysis] Polymarket users won big with unusual bets on US attack on Iran
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0trRGRrbTJrVlVMX0xIWW8ybk9uOVR2SFVQR3didXRvLWtneVdoYktBWTRIVU42VUl0X0VMSkNjYWoxeTJscVZrWVJoOG1rZHlxZnBTUHAtXzVCNEhNNHd5Y0dCYjRMTXZpNUFac0Q1OGZqc0FGaktwRVd4cXVIeEQyMXc?oc=5
+- **2026-03-03** · [Markets analysis] Gold and silver flows disrupted as Iran war grounds flights
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHJJbjRKbXZRcGtzYkdrZ0s2ZlYyMm9JU0JRVmNOVkwzM0paN0xtclBpaWZseGtLLVphRndiN05ZalpZaVFFTDdTMG4xZFlGaTFhZ0JzXzZBNGZOTnJmbE41Zk81T2RPdmtZaWQzLUhhOXAtNEI1V2MyN0hvOXVyZlJxMmk?oc=5
+- **2026-03-03** · [Markets analysis] Capital Group’s weird passive bravado
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMTVSaVJhZjh0Z0cySFV6d3dwNTJrWFJxOEYwNWdITHRJUGJlYVVOMjlmTWtTWnJTVG9odC10UHl2dV9rMHBEcm9uaFZYS1pWMndmVkMwa2tSQ1d1Nm5DWXpnMzctSWRWR3BDV2NRZGs?oc=5
+- **2026-03-03** · [Markets analysis] How the Iran conflict has rattled global energy markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkVxTFJESGFtNnhUcVh3akVsaEZVYU5tbXRrMnhuTkRmVnBMZDdCUXRJSXpPQjRONC0tSTJPd1V2dE0xTGpObC1MNUh5VjkwOG43NDV4OXBFQUd2UkJKUlhUdTJUcUhURVJjQ2FGLVlRUVJlb0h0ckhQN2RjTmFmNXVoSk0?oc=5
+- **2026-03-02** · [Unhedged, The Long View] What’s a safe asset now?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNl9XTnZVWWZfbjh0UTJnc0pUb1NoTzFYR3p0S21IeG9TOVpyYnJMZnNYWWxVTmxDblVGYkpHTjFtNUFWNXBHMjJzc1FGSmk1bjFwQWxYRWowUDBYV2k5SWVkdmdHYk9iOHlpdnVXRy1XX1ZaRHpqa2FUenNkdmpERE9vWG0?oc=5
+- **2026-03-02** · [Lex] Hormuz crisis is a wake-up call for complacent gas consumers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNamtUcHktVHFGWTVheTJ0VXBxY3A1ekJ4U2p2RjQ5V2lOaC1ITjJ6YjV6SmcwVmRyQVp4YWFpYkRFblRZbG01R2pFSHQ4UmFEWmE1b2NpRkNZVUF6T3NmeEtJQkcyTVBPM2ZVLU1leWtjOFAyTVZoM0toVTdKaF9hQkU5bFE?oc=5
+- **2026-03-02** · [Lex, Markets analysis] AES’s private equity buyers pull off the self-leveraging buyout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWFPUHZUWDdPWTNael9EVy1aak1sSml6SWlSUU9lRFhlNWpIN2dkdEdwWWxVMVZhVWQ0MC1vX2hNTW8yWkQtRVdBb0ozT3NUY29PTlYzRmNhNWw3TGdkNHFZYmttRFNQbFlhYjJnVi1CSWpPeGRYSFFkN2RrVTd5UnJQelY?oc=5
+- **2026-03-02** · [Lex] Airlines’ healthy finances will be tested by Middle East conflict
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWNucGtqT0tBa0xabERScTN5UGtjYmU3ZnlXbHIyYlZSQ1BWU2d4RUZKWWZRWWhrMUtEd1BPbnJJY2ljM2lsU1NlXzhaNS1sR2dNeWt1ZUE1Y1hpWTRTNkk5MGlwYW9zc0d2Vlc3MTAyNTJ6bUdvQUctZ05EcU56NzYxS3c?oc=5
+- **2026-03-02** · [Markets analysis] Just how high could oil go?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBTT3NVd0Z2ZVVKc0Rta1BoalZqeTJqWnhZZVdPcUlfY002U1dvNzc3WElDeXJuU0dSaGVvUGdqcjZLNkFuMnp3NDcyN012SnJEMWxMTGtPMGdndlcwTnJhQnJ4OW9CZkxfVTJCR21QRTE?oc=5
+- **2026-03-02** · [Markets analysis] Iran war is upending gas markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWZUMm5qOUFEMXhRWmVtejUtRzRRY1NiUnJBVC1DYlc0TUVNalhSbFBsNzE3REdDLVBHdThjUG1jYkNGa05nQUw2VHVycF9LOGlISmRoYXZFUVltOHYtVV9XbGFZUmZkaHZLVUFfREsxdnlZRzVWaXNXYWRmZFpvQTZBcWE?oc=5
+- **2026-03-02** · [Markets analysis] Biggest energy traders use windfall gains to tighten grip on market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXBiZDAxRnFoWk9Ec3JZNERTZWxtajF4dTJWaFQxY0Q4bjdJc19FNG9mRWN3akVEb09OQ09iejFtMzN0VXQ4TVZEbUx3a3pLWnFUTWRtcmtvNjUyd2hSQkwwMzg4eENUQlJCSXhDVllOQU1kTkVLNERBMWoxbTVmMU9tZFY?oc=5
+- **2026-03-02** · [Markets analysis] Lengthy Iran war could cause inflation ‘spike’, warns ECB’s top economist
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV1ZqWS1WR0tJbGlkd041TEgyRFd1Yi1qUUN3S1VBZTFjQW5Da0J2VThKQ0pJRmVXb0IxTWxVTXZZeFhxWVhwUmN0N1RNQ0xEQTZJVVlvdnU0eV9OS2RaelVXQnUtTEx4eVV1NXVXUXFLelA4RmlkcHoxU2ZyTGhKUFM0dWo?oc=5
+- **2026-03-01** · [Unhedged, Markets analysis] The war and markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOalE5d0wwV1o4OE96Wi0wV2ZyWDB1RmJyTVo0al9iVlVCQ1VDcXljSVZ2WTZjZGVrNUlnNVFtbnl3MGdKUVhOdzVLSGJGV2licUVhWEFhYmpieUZVLXdpVk5oRnlZOERaa3BwWi05UHY3STRsVjlhSU1XS3FrQkZZQ0U5ck4?oc=5
+- **2026-03-01** · [Unhedged] Who will back rate cuts on the FOMC?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjRvOXhrbmZKSEM4Qy1adkJlLUVIVkd2b3llTFhhX1pHbmEyaF9fME9CNFFXM0QxREh2M2JEYjVHTFRZUmlrX0JlUlNTUlNFUWU3c25ZZHpFRnlIVnJld2Y2S1RpS19iRXlobF9rRXNiYjhpUmdPQ1VoMm9uMjZpRXJOczM?oc=5
+- **2026-03-01** · [Lex] BYD’s February sales fall by most since pandemic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3lSU0g1Nm9uTW93TE05QVdkbEVlV0RFdHI4dkY1SVdKYURqRlJOMEptTWp3aHFSYWVDWGx0ZXNEYWhtSTJjSjFraF9sb3B4VnNETmhLUWRKWDFZSURpNkpEOVd3bm9Jd1lLMmsyYnpaM0hpTU02b2NmMi1ZQVE1Tkt4Wlk?oc=5
+- **2026-03-01** · [The Long View] Starmer’s cost of living tsar calls for ‘interventions’ to help households
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVVWZ1RZSUVvdzQ1emdhUC0tOUxXeTZndDF0bWpka3p2bVJTb1FNLW5VOWNocFFocjZqZzdTMHpCMUJad0t3RTRmWnRnY0dxLWlxN3pmYkxQSUI5ZGhCaUhvZE1EWXhUZ1AxMV8weGEzRUhiUUc1Ykx5VmlHSGdzZ2prSU0?oc=5
+- **2026-03-01** · [Markets analysis] Iran war will test the vulnerability of oil markets
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5BLTBiR3UzaWpOQ2VMcDViSVg5S1ozc3V1Q1VWb1VKNV85ZDVKNXN4NnBtcEJCa0k0Nno3cFZrSjVWcjF6TnhWaGpPeVIwdDdldTlHYTM5a2hBMDU5U1RZbmR5NGFRbjZZcGJJUE9qYU4?oc=5
+- **2026-03-01** · [Markets analysis] What will war in Iran do to the global economy?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjg5dnZPSlQyVFNyazV3ZDNsTTlCVWFhWHhCS2dDWW1sLUlMUW80SFdobW5CU0Z6cWhGb1MtbENUYTJ0LXVTdlBTOUo0VWZnLW5LTHJGOUx5d3BTWG5obzlZNDRJS0UyTzVLREE5YXpFbkFUajV1cVlkNzJ4T2ZMTUs5cTY?oc=5
+- **2026-03-01** · [Markets analysis] China’s National People’s Congress set for high-tech and low growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnN5ZjQ3S2l0Y3BVNlJkNjBHTEsxRkVrTmdUbUR6V3lub0VTSms2bm8wQjhTRi1fODRkRjAxLW40LWtLOE04UEpIQUFkSzBHU0hJQklzdFNGTjBLeDQ0dEJDNkJLelJKdnRYR3dWVUctZHptaE9YclZyZGU5TURsdEF3U1Y?oc=5
+- **2026-03-01** · [Markets analysis] Letter: How artificial intelligence is reshaping consultancy
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBwLUROYmFZR2Y2dkN3R3YyS3R4Q3c3NXM1dWNsRkN1XzBIMWZ4X2dUS19PQlRDWFUzSWFmS2h1WHdnVFRIa1MtYWlyZXZrckc5QnFUdFNHaUZrZEYxNTNIcEhxR1B5Z1h3cFJ2bDBDWTA?oc=5
+
+## 2026-02 (276)
+
+- **2026-02-28** · [Unhedged] Chart of the Week: Nvidia’s sales rocket while its shares flatline
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNamZMcTFac0hEVEtHUks0YnlSTFdSSFVIRS0tYmpOc3dOU3d5dlZVZ3pwX1dTMFF0d0lBRW5Zay16Z20wcHlqWjMwMVBQSm8tcS0zNUNWYkdQb240eEF3MmRFZ0R0UmU1QWRNejUtN0E3bjNITXpiTG12d2ktQjE4TVVCYWE?oc=5
+- **2026-02-28** · [Unhedged] What a chocolate company can tell us about OpenAI’s risk
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE95Y2MzN2pxR2FLbUpiR0ljVlZqdW9IQUo1R21pcDhFbE54TWNTRWxHYXFjaE9fQTRvOGMta05ibFctNkJmem8wRFlfUlQ1N04yTkhDR1hMTFp5czFaTGxPMHE2V1YwaTc0T20tSGZCN1k?oc=5
+- **2026-02-28** · [Lex] The cost of UK higher education doesn’t add up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnJrelFZYmFXa1VMcmFpNkk2b2l1ajV0QkhFMGZ0NEY0N2F1dGYtMUJoRkNiZ2lDVVdPazRMdk1SMnIwRjFWVC1yRjlROTg1ZmhSbV91SFpNSTd6X2FBMHZHRV9BdUhiWC1CcmlEUkdTV1dDX21VRV9UdnF0X3lGWlF1R0M?oc=5
+- **2026-02-28** · [Markets analysis] Business of Football: ‘Premflix’ arrives and other highlights
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOekFqMjFndzRvQzBjcUlvNVRtVFJobE1ZZmd1cjBJZUw0d2pvcUNfZU9xbjF5UzVjTURJUTFreFVQUDM5cFFuc2Z4WWZBSFNOcWNIOV91NnVNN2JfRFVLaExTQTYwWjFNMEItbGdKb2doaFdKblpTYXFrRUNMT0NUdzUyaC0?oc=5
+- **2026-02-28** · [Markets analysis] Military briefing: The US-Israeli strikes and Iran’s retaliation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmZsQmZqMF9XZGFDQmdzXzM5VUJISWJzM1dkbzFqUGludEV2NUlJTW9abjc4dW1zT0lhdV8yVU9OSDhLTi12WnpoZnNLbDBnNE13QWczMmJhclJZNkhtQmdpclEwTUxYVzVuWDd5UnBiZ1ZHaF9MWEh3dTAwU2RvdG96dVI?oc=5
+- **2026-02-27** · [Unhedged] The iPod’s slow shuffle back to relevance
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkR2bVJJZGZfUVpFdDB3SnZFdkJURms2SDhIc0x2cldtZm1yWmpneEZTNS1Rb244MTVZQVlYQVo2dVM3azl3V1N2VHZHWVctWTNBR0RXX0Z6LTVWRGtKYzdDSElKM0FRTkprMldzNW5MZlpPRmMya0xCUHFOaDBxNUdxWGw?oc=5
+- **2026-02-27** · [Lex] Netflix could be streaming media’s most victorious loser
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnhOd2UwYWRjcmdhNExCNGdmTTRXeWduSFhsLUpHUzE0SnJkT0ZmakVyZ0VfSHVUNVA0VVVsZHVXQUNTMVFCVG1LVjR2bHl4MU1xdldmRWpYbWlhRFc1cUpwMlFvb0NOd1dSdnVkR1FlSVAxNVlBNGFBdUlvNkFOenpKX0g?oc=5
+- **2026-02-27** · [Lex] AI models, like capitalism, are best served with a conscience
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2ZlUXVBOE5DUjRkYWNpb0pwVGhZVVVvT1BEOHVTSG5SV1l1ODhWNXRUXzBUVnZQTUVtNjZKUzExSkg2R0dfU0lwQlFFbmQyMTQ3WUFkOE9RcDZQWFJUWEJta0c2QVJwbmluZnBBMFBlLWVsNGZVNktqZDZ0ZGFoNi1QZGE?oc=5
+- **2026-02-27** · [Lex] Wall Street doubles down on another Caesars buyout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2hPbUNQTFJQZ3JJblRpdnZTN24yN0xxSHZESGlWaVR4ZVVwdHFzZU5xZ0xaYmhJbkkyc3RHTU1FWUphRUNVNF81eFY0ektJTkF3VGNQb0xRNHZJbXc2SWVsZm1rcnZreHNjWldMdDhZYUxBZmphdDMxbUtuV1dLZ0NIZmE?oc=5
+- **2026-02-27** · [The Long View, Markets analysis] AI has driven investors to hallucinations
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHhhb19LM3JBVU1xa2xaV2plbEgwN0RZQzllS1p6Rlp0N19DekxrREU5cUNKbzNlYjBvaXZqOVVGY0Z2aWNIYUJpaUZIRUxsVFM4NGdwTFBHclJGcGw1ZlBrem5SamxOc1BtSVRhYUlPNHdIQlVNS0RaRDdtUm1ldFc3dks?oc=5
+- **2026-02-27** · [The Long View] Letter: US Treasuries policy plots a narrow course
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBaeGJIT0R5NlRsbTZlTzMyYkVVN3lIOUdleVBldU04RV9uX2RpNEhzT25xUXItQjZlQmhReXdQckdEbkpfWmY3MW5GdHEyMmJKSXpRMUNsZlM0S0YzNG1qSV9CekpEMjE4clljUW9fMHg?oc=5
+- **2026-02-27** · [The Long View] Starmer hits out at ‘extremes’ of left and right after historic Green by-election victory
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUZHeTY4WklkWmVyM3pZVDd3WHNhajdHQjM3LTVJZTZuclVSNkFkbFFiUkN1ZmNFdE83aXBNMUoyQlJWQW5kVThxX0JEMFFmSG1od1RjYTRTaUhPOGh1U3I2Y21kNkFEOWZYbl85RGZzVXQ2OGtrREY1VG1IRGNyY1JjVVo?oc=5
+- **2026-02-27** · [Markets analysis] US bank stocks record biggest slide since April’s market ructions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWpjNUhXdWVxLUNrTXhuNnhwMS1aYWw3UERUYmgzVXNQYWxtTnpnYko0LWhvY1ZsUzVvb3d2ODBxV0N1emVlbmNYenktV0IwaHJLWGxfdzhITXRtbml1UW1ReXNxRmhBS09tU0N3MVVuaERMcGoycXQ4dDdUbTVua3FBRm8?oc=5
+- **2026-02-27** · [Markets analysis] Collapse of UK property lender sends shockwaves through Wall Street
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWtHU0FWY1BjS0Uwd2dKYXRoUFpHUlJBV3p2Q282aEdJWTZDekdjUVJ5ZXIwUVM0Nlg2VXkxTktYYWx5N0tPRTZaSVRNT1JkU0lUMUROU3RQNFEtZm8zNVpudnJUSHVUazVqZ2M0SDNoV0d1MkNpV3NYT3BaSVBjN3MwX0c?oc=5
+- **2026-02-27** · [Markets analysis] The scramble for Morocco's energy future | FT Film - FT Channels
+  - https://news.google.com/rss/articles/CBMijAFBVV95cUxPcy1pTHNHTWo2dVFadkxVeENZR3JYc1J4ZEpJRG0zME51SVlNQm5JYmwxQ2s2MngzQW00cG9pOFU3NXdqMjlLd3hibWJPTXYtQXNhT1N1SkNnaVM3OExBZmx6dGVRUkIyc3duRVZzcmJGUk1GVnFzV2V0RjVTa1YyMTdZZFVXWXBSa1dnLQ?oc=5
+- **2026-02-26** · [Unhedged] Global stock discounts vs US stock discounts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOREF3MlRxZV8xSHFQc3B6ZGZBVk5aemJ5WlBoeUxPcHBEU2xfX0hlS1F5Q3VZLUw0Ums2cXlqbVZ3MzJtUWhHUGR1eGtSTTdKa1djTzBpSlVNNmVkbWlvZWJpYmpzTXB2VnlhaVVsZlRmOXJlOVgtMlJUaGp2alFrUHFLYmc?oc=5
+- **2026-02-26** · [Unhedged] Transcript: What the actual tariff?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWxrZklYZ2I1ZUdQZTZWbjIzQnZZME9GVGN4MUppOS1tN2phS0hXb2ltWW5YX2lDWW9EU1lnelZaaEl1U3ZDQnBJaXhpd1lSM0JoNm5aQzVpVmhBaUFRMDVDdzB2NDB3VDZBb1dMbmhQWWt2Y1FKNDhESUJYM0tWQkVQems?oc=5
+- **2026-02-26** · [Unhedged] The challenge of pricing AI’s impact
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTdNR09RSDlzM3E2d3pTd0V4WFZrbmpya2ZsLWdDdnRqZVNJdC1taDRtaXBMdHdJWUlucEN2Zk9jaHpSYl9JQ2dmT1lhSlBUbkkwUFFxaHlhdVJvYWIwRm9BVllLc01vS0MtLTRqLXlKMk9BR0ZYRzRIc1pnWUtaMUx3S3o?oc=5
+- **2026-02-26** · [Unhedged, Markets analysis] Nvidia shares fall as blockbuster results fail to dazzle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmg5SHJkUHo0T1JCQWZzOW9uWUpMZ2piRzUxYXcteVA0MlJMNENtOXkxcWwtdTlvOXBxNTdxXzFwXy13Rk1kV0kzQ25EeFBGenE4SmdmZUFDR0ozUTFqWHlpQzFLdUYwakJhb1dBZ0pXbDdMak9HRHk5NjZSakQzZnU1OUw?oc=5
+- **2026-02-26** · [Unhedged, Lex] Hong Kong stakes its claim on the global gold trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUZtRXFJOUlNVGREMmcxQXQwbEppdUZaRTZpdzRRcmwwcTN2R2NNd2loVmtjTEY1STNZcl9UU1pBSXhPSTBTc296QkhvUkhtb1NSeThka1VJRzRxZ2w0Skx4aXhUZzJZektCNmc3ZVlPS002dmxKM0UxWDh3a3hlS0o3cFU?oc=5
+- **2026-02-26** · [Lex] Ineos puts a new industrial spin on a morbid financial game
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkJ0bFZlNzVjU1FyNVlCQmJYZW1YWm9sbkF6ZjF3akMxZ3JoQWttajF1RnRnV0N3d3Jra3FpczRLUlZ5LUNGd2ZaNS1ZOTlqS1Y5RTZtOXRYMkp5bTdpNXFzVGNvX0ZuSzJsUXBIRnRRSUVDYXg3b0ZyaXZVVnJtYjM4R3Q?oc=5
+- **2026-02-26** · [Lex] Las Vegas casino group Caesars Entertainment weighs takeover interest
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUcwR3Qyb1FPdzIwLUtrOGNPQkxKSXdaZmM3cHV0NWxDNjJfWWNTZlJnZnV1UXNncDZCWm4xdkFORDdLZ0Z2NDU0a2ZLbnFSVmtWVXBwMktfanNyZjlvTDV2NDBDSkgtZDBGMDZIb2drRkRhMjJtb01KcWRmRV9oWTNqSFA?oc=5
+- **2026-02-26** · [Markets analysis] The companies behind China’s dancing, joking robots
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnU4SnJPQ09rblE2OWdoSTEyOGlQbTB2d3llVTZraC1nZHpwa1NsMldTSmhnQktBSDZvZm5KaW1zVjl0MFl6LUVoN0xRUmJia3oyLV9HcXVoaU9ValBLUG5HT2hUbmhzX0o2S1lxTEp4RVNFSEhoVkFoX3pZWnBMVTZnNnQ?oc=5
+- **2026-02-26** · [Markets analysis] Letter: Why traders should welcome the FCA’s ‘full information’ regime
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1MOGRfeVhTb1R6TDROMG1QWkJZeXoweDZxNnU2b0dzRXl0d1k4RTdESlJUMS11UGZrNHBwS2w3M21aR2g2bUt3RnBpZDVfM2txQjEwRjZwVXhIZ3U1NE9qcWtEY1MweVUwSnZBT28xeUU?oc=5
+- **2026-02-26** · [Markets analysis] The AI Shift: Do we really know which jobs are most at risk from AI?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlZLcEk1aDBmVGpVbzBLT0Z2NDZ1UHdfWWZnc1RYTUhlemQyRFpWbVVGbi1La3V3NnRyYlFRWVNBdWR0NFNLc1pEeHE4MkZYRnpBcEhyRG1uWFVXa3RLenVRTTAyV3dMSms4aEpCczJiOW03dk1fdkZ0cmtOcG9USzNfY1Y?oc=5
+- **2026-02-26** · [Markets analysis] Forgent PLC, FORG:LSE profile
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZTl9Hd3UxSWxNcVRaZXFXNHZCbmJxMnVJWHdNR0tITjVvMUlWclhwY3pyYjBqbGlkMG9kM3dtTkViRzdkN0pYcTE0NXFZMEpiSDdaVzhWbE51M043R2VKZkdoUElOUGlSQ3BKNXBpei1aZU0?oc=5
+- **2026-02-25** · [Unhedged] The Halo effect
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNelNkVk9qMFYtcmpGS1JsYmZ1VDZwcEV1TVdzdE9kdmx0cFZ5eDAxc3B4V050TWYyQ2V3WTg4UVQybTh1TXdZaGdHV0xzZjVaZ0F6NGxvZHhQbXA1M3k0X3NDekY1eGZDbm5JQ3ZSOUZQdGVEdjcxNnJBbUF3TlN6b2xBa18?oc=5
+- **2026-02-25** · [Unhedged] The Bank of England does not need to ‘follow the Fed’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1VcnhINW10QkluZjFyN0JqMHFGcXJtQ3R1Q0EzVTZKTGJZczROdktRMTdjalRaZUExb242VF9GV1dXTjcxeTRVOEZ0WGFqUS01eEM4TDRTMjJWNncyVEoxbmdwNnpnX3kycXJVMkFsZ1A?oc=5
+- **2026-02-25** · [Lex] PayPal’s plunge makes it a tempting takeover target
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcy1nWlJ1R3FFTzRUZjZrWVJnY3pwLWhnZWxPMnlRXzZvMi1vZjlKMm1QeC1BbDVHMThIeVdzanR3dzNnMkFWRjdfbzY5RmRrVWVuZHJSNThyU0JZd1BpMHJzZHYwUnRFM0hOeWJFWFpMZ2cyVWhCWWoySEpKTWxWVmlieUQ?oc=5
+- **2026-02-25** · [Lex] Italy pitches a nifty idea to cut power prices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWTQyR3lDSXVFY2hkcnoweFZoNzVGNm9TeW9nNUVyZjFFOUNXVm5veXJmblhBZmh3Z1FiMHFnMTlPQXVKQUtubHZxaWRSbk5iU3RIV2hqUXJPSkkybFRtYjlCLXVzRVlOdlhyOWlJQ1dkWDRrdDlDMnRITW14OHp4dVd0czg?oc=5
+- **2026-02-25** · [Lex] Private equity makes risky $1.1bn bet on hospice care
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNk0wTHp6anY2bkQtRTh2blVRZF9aSE96RUZnTndEdUl6S1FxbjBTeWZzOVRwb1J5WXdRRHRyT2ZQb0w3alFLVUNhT2FsOTF5bkdOdjc2ZUNmVXloRHpCZFdzSGkxZE1YT2QwWjdCbU12ekI3M0tHa1QxS0FxckVnTWtLb0w?oc=5
+- **2026-02-25** · [Lex] HSBC shares hit record as bank accelerates cost savings and lifts target
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmpNODlReDdkdHhkb0p4bG83N204Q0RiVF9GSm9FUUxSV3pQRGtjb2R5UDk4N01rUm91Rl9IT3BsODdieThjemFMLTYzTk9yc1Rud3Q2WGxrV0lwQk84eTRScUVSXzRJUENYZnFObWU2VG9ldXYwRXpiY3BOS2YyTl8zc1c?oc=5
+- **2026-02-25** · [The Long View] UK government debt sales set to fall for first time in four years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDBDbUtIZEtxYmRldHpTcERyOXExZGFrNWFwb3Y5MTdQR3hXMTZaVTJjS3dvNHZBbmFOLVQyMmRHMUZhU1VQT1otclN6dVhhWTFLQ1BSejdzTHpFb3M0ZlZkZmhjeXNaSEl1dWN3VWdCaUJVNTlzNnpYUVktVDMtOHBkNk4?oc=5
+- **2026-02-25** · [Markets analysis] UK investors unable to put crypto products in Isas from April
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjc4a0xnNDVBQ0NwdUdQUFNKV2dQc0dueHdvZUdZWGszX2NqeS12WTFHNUk3M2REaGJPSElFQmtZX19TbGItR2lFOU5hdHF6dVVkdVRyX1lDeEhKd0N3bTFWTTUtWS01b1l3NnJDWmtyMXNkdFpkVm5sOGJOSUE1X3c2aUU?oc=5
+- **2026-02-25** · [Markets analysis] AI consultancy start-ups cut ‘red tape’ to speed up tasks
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE01SXNhcThPQ3lLaEhJRkFYNnB0QmY1bDNRcFd6dGVCb1JRR3VoTFI0R1VrMHpRMy05bng1aEFla2ZtM2FTeF9fZk5sZ1BILTQ2TVNwcjIwUm9Fc3FXVUpYNVBjaDR3VkpnYllGMlVGcGI?oc=5
+- **2026-02-25** · [Markets analysis] Consultancies prioritise the human touch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGYweHdnM21BVnZRZXpBUUh0dTR1bjBVTW5FMm13QnF3U3VVaFNPd2V5aEJ6dUZ1REtzOVhOaWVlRHZVUUZmWnlhbVJNVnBVSzhLdmd6a1dlVXdzMk1GWUdUOGlla2dEN1B3M1lyc0dGZW1DUmEwYld4OW95NkFZR0JSSUs?oc=5
+- **2026-02-25** · [Markets analysis] Sell-side research in the Substack era
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9WSGFNTEJRU3o5RmtyamZ2cTB1M21LWE5uYjRkTFU3UXNXbW5LakNDS3ZaYmFzckxjNTM1b2pkbF9BZkhtT2t2aTVsdmJjZTlFUnJSSVNnWEEwSjU4MW1pZjJPNVNuWmV5VEJNWHZtRGc?oc=5
+- **2026-02-25** · [Markets analysis] Catastrophising credit?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9jaUZQWWdHdFFBUkw0NVpGbi1ZRGdNS3JneDVfVmM0Yzg0WWZ1TlRmWjE1NmtVVEFZRVJCZTlSX2xxVlVUQmRCLTNDSnhEVWN0WWJ6SFpXcXJZalFRVzlDWTFGa3BNcjE1WmlWRHBHLU0?oc=5
+- **2026-02-25** · [Markets analysis] US should not be the default IPO choice
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmpad3l5aUhTTGFCRG0tUW5OQTBVMDlka1hCZm5CV2tOTnRQV2dfU0hpTUxBYjdTaHpKTzUxQl9Vd0NFdnlQS2FoRTMzNllxbTE2SkRVcW1QQ3hmbnB4cVRybzJ4emhuUlRiZFBwdlZCT3NZOVFTeXFlZmFhSTh0eUVCd00?oc=5
+- **2026-02-25** · [Markets analysis] IMF urges US to change course on economic policy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWhOU29oNWpkWHRSZEtYSk5qZGdZVkw3cEt4RGx3QllZRjI2bkxFWFRnTjFNUFI4VTkwZ24tdWJYSU9Zd0F4OXdYS1N1TmF1NVo4bXJMYTNKTVI3azN5Rm1CVXAzUGowTnBaX2EwbFpGQ3ZybEhscnp0V2NmQ2MxRzJvWXE?oc=5
+- **2026-02-24** · [Unhedged] The AI doomers aren’t done yet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGN2dWZjNEotR3QtNW5pVkpOX3lFYlFsYU84WUpXOWxKQklPOEJzYks1OGc5SnRseFZFRDdoOG1lNzJ1TUpRT1lXVVlVZzd0RUFVRlNuSDRKTC1CYjdyQ0RhV3ZZcDFadFZIMmVMNFNLNWxxOFZpeGNFVTFyNE55SERpeFo?oc=5
+- **2026-02-24** · [Unhedged] Transcript: The report that rattled Wall Street
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa21LTHlWeUhWcVktRmJsd2h3NjY3Vl9TbkpCS0ZwMEhlVUItS1RncDJaZkFyVHBGcm5MeXh0NlNxXzNlVEhMUnhUOTNlTUNZNzM4QnRibmY2ZXpwVWJkMkJoM2dqbzc5TnhTRndXOVlQcTc3akhlLW9zQnR3dnBSdnE0WFI?oc=5
+- **2026-02-24** · [Unhedged] Australian and New Zealand dollars surge as traders position for global interest rate rises
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORE5EanhTSXI4MWZmcjdzNmJybXZEOGNvbnFtWkotbGRDby1HNWZram96Sm9PbFljZm1ZTDFQVDRwcnlFMGNNeFNWbUtOMm9vY01CbFRNRlRaR2NJazk5ZUlYUFBlX0phdUh4bG9FSUE2Z3MybWtOTUFKNVBSS2hkNS1GRzI?oc=5
+- **2026-02-24** · [Unhedged] Meta agrees multibillion-dollar chip deal with AMD
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUZVXzIzX0QzdEhvT0o2akVoTEJQV3NHOTQwSl93S1pDWUYxUE14Q20xNmdybVdBb0hleXRCTzhrSHBoN05Xc1NUOTN2enJKWjJQVFlMX2taUWxqMzlGOVVhYWRaVlJtS3ppQkxkRUlBVnRtaFVpbUxMNGo3QnJRVXV6cUQ?oc=5
+- **2026-02-24** · [Unhedged, Markets analysis] Which piece of speculative fiction had the greatest single-day stock market impact?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRHdFLUxRTVptREIxQ2YtZ1BLX0VaY0RLZ3hLbGplZlNoWjBJanh6SGloZWVUQkxEVTFDVzhYRVZGOHhVdGNnMGMzUDBpdUR0c2kydlVpazExaXZubk1UNDV6WVVYVTdBWmd4aWVuV2M?oc=5
+- **2026-02-24** · [Unhedged, Lex] AMD tries out the Kim Kardashian theory of data centres
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVRvYi1rTE52Nm9NVnZxNE1fMmtnUnd5ZWFxRmN0R215T0ZEMGdGNGpiUVNCQUVHOUlmaUs5dlh0d2Zxc1hPLVdSZkxQbU9KYTdyc19ySHpUWXIyS1lLSHRzZTVJSzZaSW9fMnJFR1FZS2VtOTZ3ZENOcjdQeE9MUmlxNUc?oc=5
+- **2026-02-24** · [Unhedged] Mirror mirror on the wall, what is the most shorted stock of them all?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE51NjhMYlg2d3R1aFFHeXlqUVNLV1kxMm8taDl1R25UWjNjSG1OLWhpOVE3Y0E2czhRZ01jYVBtcnZxeU9mNjdNcXJFVkF2ZW41Snlkc0tTNGJTbjJlY1JoRHZJRWM4ZFlZV1ZXZFF4N0c?oc=5
+- **2026-02-24** · [Unhedged] Investors seek shelter from AI rout in asset-heavy stocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXVSMFN6WkdtcVgzejJqMUpfMWVnRWpQQ3NoYVBQTmdaTV9KT3E1V0N1SERJYmZ4WEFKOGNRMGlwc2tzckxzREVVM1dhcHRiNFU3NnBGTjZ3aW5STDl3NVliMlN0dmFobjB3UThZQWVwZld2dTZRazJuYzM4SXQ2UDhaMjM?oc=5
+- **2026-02-24** · [Lex] Why 2026 will be a blockbuster year for biotech M&A
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNvMG5pODFvcDE1VVVmUGxmQWdaSWhwSXNYVlVQcWtOMTJobEFxMnVLMDY3dTMxbFF5bEsxTEJfQXREdzJBWDhzcmY0WnpXNG0zdmQ2VFhkUVUwRGxHbXVkN3l2c3BLenh2V0Nza1FoYVpsWUxuNzRfVWR6eUNZYnB0VE0?oc=5
+- **2026-02-24** · [Lex] Klarna shows the perils of running a bank like a tech company
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXVpNEZDQTdGa2Q1cTliMExMdTlYWFJVRnZLWkx2MnpRdExrV0NUYUI5S0VuQTJ5WmhnQ2NHU3R2aVNLOFpuYmNBa0k3aFU5ZVpuSEktOFRQWC1sNlZseFluVVFBZVRLb3E4RW1ZQjZKUERHSlAteHZSWWVQbkdfVm9vRGM?oc=5
+- **2026-02-24** · [Lex] Jim Ratcliffe’s Ineos explores asset sales as chemical sector struggles continue
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGd0Qmc2Tmd0M2RYbXZfU3pKRXB2eGJRZFI0WDdteXloVnR0ZW1aVnJMeFU4cHVfN2VLcVFiRE5kV20zd0dhSDJXa1JHTEMwZDNSak12aF9zVVRxS1R5a3ptVzFaTXZ3eUJfazJTTldlUUFUaV85X0tRSEg4aGp3ejkySC0?oc=5
+- **2026-02-24** · [Lex] The elusive grail of blood tests that spot cancer early
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXBzbjRacDZLbGJUY1hZZUU5YW5Kakg0alpvYkpmem0tUlJEWnE0dFgxNmNhajBWSVJSUndxWktuZHZpWnN4QndDQVFvN0JBX1JVbTEySG1qUktnS01DWVdKV0MxUTBKd0dSUWNRY2dZV1hTOUFDWWpYUFpUckN0bE9GQVU?oc=5
+- **2026-02-24** · [The Long View] The death of the Trump trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORURLYmo1ZVpRX3pfZVJxNDg2YXdJWFRZUWU4d0RlUW81UDBrMGc5c3JUbmkxOG1tNzNLRGpDaEJpeGNieC1WWFRreWRpb2hCSEJvVHdOdFotckZsM3BWSERyb1FuYjFGaUZPQmFCdE1OTHJ2c1RyU1NpelVsYWlVeHFFUnA?oc=5
+- **2026-02-24** · [Markets analysis] The ‘extreme and improbable’ economics of Citrini’s AI report
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBOaXF3SWl0bldPSmtHMm52X3J0dXdtWEtESFhwNXRTUnBMTW9nTFg1S2hDa19jemdaQlFSZTZSUTg1LTNFVzI5WWVzMjIzdHd1MUczUEh0RzYwMm9aNFpWWldHOFlJN0gyTi1US2h1VGg?oc=5
+- **2026-02-23** · [Unhedged] The Citrini fuss exposes a market looking for an excuse to fall
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXhuNWN0eG51UFhjN3FvMklGUVpQYmtYVWFYaUFsbEJZOC1EdF8yYzRfZ1dZMTNWMm5CY3YxZEZLd0JObHBxSmp6aU9xcDhjTjExRl91T285V1lnQXk3UERHZWJtRjhuaUJad2lIdVc5c1EweXdlak1JVUp2bEVaNkpBNmg?oc=5
+- **2026-02-23** · [Unhedged, Markets analysis] AI upheaval forces software industry to ask if this is an ‘adapt or die’ moment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkJtLU5vRkNzV0xLVWpSMWpoeWtqTFp3SXMxWEJKWUYzdmtqanFXdm9zLTNQclNiSV92VklWbEdpQVVadXpVa3l2VDFrcnozQnZjaUJucFBDZ2xoRWZRQVhlY0NuX3p2TkgwdWRVNm5xWVpMemRnUDVmdjhhektXeXhNMjI?oc=5
+- **2026-02-23** · [Unhedged] US software and private capital shares hit with fresh wave of selling
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlFmRl9zd0JNTHExejFWZzczY2hoR1ROVUpoUUdOR2I3Uy15LWNTSE9XWFhSM21KNnRFbGFGZ002ZDhiR3E2T05sNmlsXzJSa2N5SVZHeGsycUQ0V1JQU2JmZTM5UXdyTXlUSlA3c0I1U3k4TnFEbTlYR2s2YktuWlU4U1Q?oc=5
+- **2026-02-23** · [Unhedged] Stocks slip and gold gains as global trade faces new Trump tariff threat
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDRoYk11TEl2Um5iUEJUZEcyeXdXUG90MWVudk1nSlFHQnZrcGZNa05jRjBRR3ZQNWpUM2xvSHBCM3pSRzZ6dkNLZm80Nk5McTlkejZ3ckdNZDdDNFRXc3NKaFVoT0ZvZ1I5RjdrUUE4czhRazNXVU9nOU1zYzF3eXY4TUM?oc=5
+- **2026-02-23** · [Unhedged] Moody’s alert cites gap in data centre accounting for Big Tech companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcllhMU0xRTRMenB6cWtnSGlMRjh0SU1EOGFaUUlmaDVwMkxVSlBXbjA2T3puUzYzOXYwSjRBNDRSOFRzbVgwa0lmLWx5bjRNaHlpNHFxM1RTRVEwWklIY3JwWmNHSlZ0eEkwM0xrVkw4emlJQjFfTWFfYW1OeEExMktOM2c?oc=5
+- **2026-02-23** · [Unhedged] How I vibe coded an app that passes the AI productivity test
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFNzQ0V6REFSanU3X1hWOURmajhxX0hRVGZvSndsN08wX2Zudm1Mc1IwSHNvQ3ZIZmhGQ0JZd0hza2pVYkcyNjNRaERheGVXOVY4NVdCbENGMWktdUR1QXlKYmtKRjFTRElyYUxfam11ckVjbEE0TmFRSWpwR0pHNDVEQmg?oc=5
+- **2026-02-23** · [Lex] Rolls-Royce propels the case for thoughtful subsidies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbUEtVW9uNVRwWW5rRFpsQlU3dXNQbkliTDU4Zkxrc2cxWkNid3RmSklRN2lrWGlPRXhlZnYzSzVZdV83TF93eDRJaFFyT0tOY1NfSXh1OGdZQnV1M0otT09pUjJrZkY5NE9nSlBVWmpjNjZQSmdYZGFpY2FsY3o0YjJLeUs?oc=5
+- **2026-02-23** · [Lex] Blue Owl is spoiling private credit’s sales pitch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdE1aSHhpcXdfNGxHUTlYODZ2bGE3MTJMVFA5eHBmcGZSTkJYZFBkdmNHMmhvRm9lOG9zaGJEVGJpZ2hJVHJ0VzRLM0FBVGRrTXJpY0NKMnd1cF9zU1pxck15aklhVnhyeUJuZ0haR2c1N1VVSTZ5VzVsWVY0bXpONmZMZEE?oc=5
+- **2026-02-23** · [Lex] Scarcity value puts a rocket under China’s AI challengers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHBqVENOWE0wVV9ibEZ0bEhWMm9PYlJtbklJU0lYNVYtVzNVcVNjd2RTR0QtUWNUTVBXRGNHUG5aZzVibldCcWVOS2NnS3I4ME9mOUpCSXRHYll3eko3ZkVKN3B2elBRV1NFdFpIcXdrYVl3SDFVeFZ1VWdlVGtITjVQOVk?oc=5
+- **2026-02-23** · [Lex, Markets analysis] What the leveraged loan market can tell us about the software sell-off
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1kWGdIZjFrVTVLSmJpYUFHS1duamVkUWVMRllqRDhxRXVuUUhUY2tLcmVrYlljbjFZX1lSOE9tUG1VbXR5V01nZEtaTkZ5bDNUWW0tWGNhTDN0dEZJVXUycU9QZVRWb0FnSjFiMHZFTXY?oc=5
+- **2026-02-23** · [The Long View] Labour can no longer rely on the ‘ethnic minority vote’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGY1dl85ZlNGV1pyN1ZBaTRWN0R5Y2JmaUhKOG8tWnNFLWZTU2wtb2RTcHk3ZTNuWGJlQlVFemVfdXNUcVlGWHctNVF3cTFUS0tKRHFOdmxuN29xUkZlZUxlMU1qQjNFamJCcFJ6TXoza2k1V3ZhNG9zSTFzbWoxRXdjWFc?oc=5
+- **2026-02-23** · [The Long View] China is not dumping US Treasuries
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE56WXFCQVphbmw4aHZkeHI2c0wzY2kzV19kWEQ3RlJ4NHlxdTNrOU9XcHRvWXhOYzZPQU5Wc1lqclkxVUZURV81UjQ4SFdzeXJhdHBKeE9iSWluRlRzWTE2N0ViUGpqN09SeWI5NWVwZmo?oc=5
+- **2026-02-23** · [Markets analysis] Wall Street, Main Street and more tariff turmoil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVVsSVAxRU82YnhSRG5PbjYzREtidWM5RVYyRHd4SmhjMEpaNUphY2t3VlJPZ1o1Y1hQX0p1RW1QZmZoUW9WRXA5bTF3NzhzUXoycTZRTHdEb3NTRHBkZDFJckFvTGlKN1pMc2tIM0JhcjJCNGE1dEZ2WkNVX2dQX0RxcTA?oc=5
+- **2026-02-23** · [Markets analysis] Never have market narratives been more narrative
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9rdkdldDNBUi0zdmg0aWw4M21RUENZcWJSVFgyb3V0OGR6dnJEU0NTZ3JmbGJocjlrc0FzSzZkYUhLRnJSQUJLVHR3NWhPVlB6dDVyNU9GTjc0Ul9GRGtnOVBLQ1otYnBWUy1LclBITFM?oc=5
+- **2026-02-23** · [Markets analysis] How insurance became the lifeblood of private credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXdOQnRzXzJKVGQ0aUFxVlFKbFhMMTNTTXNyak8zQkhLdVlNTjU0NmxBNHN6MFRLeGEzS0ZMQnAtVkhNeVM0NkJvNVNMSjRxV0VUbjhzWF9pMlZVTkFXOXFFeEVZTFkxRW43TFJWQ2xOOUJaLXo3VUFYQzBfX0dJQTlTMkM?oc=5
+- **2026-02-22** · [Unhedged, The Long View] Blue Owl and private credit’s structural problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2NVYnU2THQyRmhFMVN0eUJFX1hpc1RCellwekV3YTlRMUliWXZEeWw0VUhKTWJaRTRYZWlaV1hYb2RFdEZjMHJpWUM5T3hBaDVWMzNleDVpNURGeUhJYWVTOE10WURqcklHaTB6anAwYlNiVlJkTV9jSFRlVU9BR0hTalk?oc=5
+- **2026-02-22** · [Lex, Markets analysis] Is the sale of Schroders really so bad for the City?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGFneU16T2VFZGl5cUVVM2tBSU5Zbk1XdFlOTEZuYUFnUGV3VVFhYllzMGtfcVVicXhERjhCT1J6djMwbzlxTDhPanRnaHB5N2xiZFNMRE9RMTJoSkNMUjN5LUtSLVp3YUtMMVVKNVZLSWd2enpTbkxDeTNaYUNGV0FTNkI?oc=5
+- **2026-02-22** · [The Long View] Data centres seek credit ratings to unlock billions in funding for AI push
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOX29JanQ0REUtdVJfZlhoUWJQSF9saEFaQWVvYUxlYWw0ZllqTWZoOFdUUmF6OFVXUTFRRmpHbG1YdnYwclRTTnlnYWI0VE1QQTNyaVBkbkRQbFBpVFNmZ0tIUEFRNmJqVHBrbGMtMkE0Y3lrQkFLYUFqWnVxalNfSUVPaEQ?oc=5
+- **2026-02-22** · [Markets analysis] Conservatives’ focus on voters lost to Reform overdone, analysis suggests
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaS1nYTQ1cXZYQmFEN05CcjI5WFhEeWVPaHhESGhHaXpETUcyZ3NrREpiaW5MeTN6cWl5VUJRdkgyOXY1YlRYMXFxYmVJSzlnVUlCOGJ1QW1kaWxSY0NHYnBaRzRBMzAzUnVQc3R2VnhBTm1NMGNIS1hCQzE1ekhpY2R3Z20?oc=5
+- **2026-02-22** · [Markets analysis] Fuel shortage threatens US nuclear resurgence, warns top supplier
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVB0enVNV3RRenpHZ0QyRFNKWUVoU2xsQzlleGZRcExURWN5eXBWVzhUVDh3N29XZWs3SlJvdlpTMzN0ckxGa0xRZzBwOXdvSFZXOXJrZGFuSnVjVUJURGNUMGNsVko3bDNyU2FzLVVPUFJDZjRDNUQxbVFncUN6RzBnNzc?oc=5
+- **2026-02-22** · [Markets analysis] Donald Trump’s new flat-rate tariff is a boost for China and Brazil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWtId1NuLVdaSlF6dGxWUUNNdUJ6c3JsZzhZT2NuVW1yajhRWnNpcnJKdGNKSXV3ZW9RdE9RMG41Q0kwVVRMekYyNFVGYTQ4cEhoQkhCSnVaUXVPTzZwLXFzZjhtZzVmRlVCLS00RExwUHlwYkl5RFQwVU05MlRxQ0F0Ukg?oc=5
+- **2026-02-21** · [Unhedged] Chart of the Week: Year of the equal-weighted S&P 500?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONmpTZkRXYnhqVmFaRWVyTTV2ZzBqMldDaXVQa2h0TE9Cc29IcXJ6TmNHa0VvY2J4RjB3eUNGZG5CNm9EWDAxLXR2MXVHVzVxODdrZUxndDlwdmxLWTVSeDRQQU9hdWVwNE13U0hFNFRqRHB3WUFYOVI2QzU5blNXbWhIMVM?oc=5
+- **2026-02-21** · [Unhedged] Earnings and AI fears drive ‘extreme’ churn in US stock market
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE90RXV0N0R5ZHNkQkpLbEQwNFIwZ3BNZUlWZFByck5lVURMMWxsUkZRUnItbkNzN1BvUXNBYmwzWC0tM3FUTTJ1UXpNSnNiSEtOUEhDQjh5Z2hDWVdpaDVtRklkLTBYcEtPNzQ5UHJFMHg?oc=5
+- **2026-02-21** · [Lex, Markets analysis] Smart glasses give glimpse of how AI threatens physical goods too
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWp6YXl3Q3J1eGFjc0Ryc2ZGemVuNEFCdjVVek0zQXByQXVsQm9BcjgwWVN1M1VMYi11MGdCakNtckQ1UjhjWDlhZnVXSkRjMHphMzlRN2pBQXVyR3RKWkJHcE5ybVhpSjhleDU4elUwOWFfYnJDV2xZdEN3c3lhbFg1MGw?oc=5
+- **2026-02-21** · [Markets analysis] What does Trump’s latest tariff threat mean for his previous trade pacts?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHJncDJwRlVNS0w5dVlqV0YwcWJvcDF1ZjVuM2xSd1U3aVY5UjZURUJmcnZNVmVObHo1eEVPbFMwcnlUQzhkYnhXNDBPb0Zza1VKdDk0VmR2MEdjVV85ZjFadDNtZUhWNFlnSkU5MC1aa2M3VjFWWkg0YjgyMEdDRVRRTWQ?oc=5
+- **2026-02-21** · [Markets analysis] Latitude Global Fund I USD UnH Inc, IE00BNGJKT08:USD performance
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTE0yanJ5N0ZTQlZTVk1HWmQ4YlIzbVVMQk9EY0Fid25GRVVqM1o1c3BJVEd3X1RqdHRTQnFJXy0yVktFNFJMUXd6cWw5R3RrcWpLYXk1VmtRdjdDLUVnbnZ2d01ib3FHUUJINXFCT3JzOTV2TWlKblBwVjV6WmJmeEk?oc=5
+- **2026-02-20** · [Unhedged, Lex] Britain lacks a Magnificent Seven, but at least it has a meme stock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON0NhWURrUnc5Z1p6ODZFQmNnS00yOFJUZVlvamhjWjRuN25CTnBNQnRucEVkRFQyZnk4TzlxeXFqUEFIVVJYVHhlNGVTRWNadVRjVnFTZFNXNGtaNVJjRWxtSFlKT2Nka1BZUXF1THJPb1puLVdlcUUyVmI0NzVyLVV4RV8?oc=5
+- **2026-02-20** · [Unhedged, Markets analysis] US GDP growth falls sharply to 1.4% rate in fourth quarter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUU3WjJEbGNmb3dxRTMzZy1YbHhlRzZJN2xvbjRjZU9SSGFBWjlScnAxbE9JcV9UY2lwcm55eFRtSktpbXlub2NyandxcWlmM19XenZ3WW02S1BxVVJ2UFRselV5cGNqV0xiT054MUlsTXIwSWtFNGxUTEZtb3hURmhuV2Q?oc=5
+- **2026-02-20** · [Unhedged] Can AI improve my personal life?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1RBemFCdjhvUFVyYmx0c3Z6alJpYzVyckZ3T3VtUktoc3N4aDhHRDRwcWJ4cGwwOTdVWkxsZXFrZnE0OHQ5aDVubnlUWDlNcUJHR1ZLbFlVcjF5Xy1FZ0x0V2x3Ym9qc3c5UjRxRjF3TmtGcndUbkp4d2VtNm04M1RBSHY?oc=5
+- **2026-02-20** · [Lex] A dash of ‘schmuck insurance’ could help Netflix win Warner Bros
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXBvejV4UzRaU3pRSVdMbmd2NlpPb2NGQTlhN2s2RENtWExyN0xuTnVtRlBYZVBsZVJWSXE2Ukg0RDc4M195WHRoSGMxNmM5bDMzREpKdFBjTjJBa29QeUlxWGltMWRXNGU4dWRjb002RXpFWUR5SGNaVGkxMkNGbkNtYUI?oc=5
+- **2026-02-20** · [Lex] Altice France liabilities add about €1bn to debt pile
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1JlVXZRRHJrbVNZQkNxTlZUM0ZiRElzb3JuU1loVGstUUQtdklBVVBCajVtYkNNNmJKOHd5ZExRMW1ldUx6Z0kyRWs5RFk4Q3pPN1Nuc0tDSE1JNzBwZ1lBdGRqdUplM0hsVDMwemNjOF9LY2pLT0oyS25JbGxvVFZra2Y?oc=5
+- **2026-02-20** · [Lex] How Italy’s drink-driving crackdown reshaped the digestivo — Insider’s Notebook
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBCNXl1SXZXMU1tS2JTNG9CbkxtU2lhSGprd2NqSWpSZ3JWcHNjU054dUVHSVdJLTRSTV9taHNPT2h1X2ZpZi1EQWctS3ZTbDRmOUVUVlI4OTdOVzNGWWVBZFZhdnFyWVRWNnQ3QU9SdzA?oc=5
+- **2026-02-20** · [The Long View] The haven asset status of US Treasuries is eroding
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHNjNXRaRlRqZ1d3ZFVCQ1Y5cThQYUROMXhxOW5nd3RqYkMyMDlncVRtLXcybEZQSlhmUWhXaGZzNURFaGxsb09EOVZoUkpIUlRGZENKZm9GaTRraDZvaEE1MEppS1Q2b21TeFZ3S3BLUWVXN3lHMWNfREgxWGNPa2Y1V2g?oc=5
+- **2026-02-20** · [Markets analysis] Email blunder exposes $90bn Russian oil smuggling ring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkd4aVFTMDJ6NmJDZ2JFVW80VndxdUU5cG5rY3hBVGgxNDdHbDNZVFBMVFhiWkVkcjhodXVRblBRZmVfYU9sX2EyZEZYVTJ5bG91LTIzSEwyUEVLM3JSd3R2WmdCT29LQlNFMHlEMzRUSTlDRW1iejhmVWJsdDFyV1hEUU4?oc=5
+- **2026-02-19** · [Unhedged] How low can the dollar go?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONVlNTVEwUnhBSS0zUy1SNnlOY05sckhHbHhZQmVYMU9nVWZfQzhLTU5iSnc0RXA5b1k1RUowZFFjd2JDdmdyXzVzZW5ZeHZ3ZmdQenJEODdrTkNNNmxNSmtnNFZEcWVXX2tMNm1XV1MxX2VDb0p5cHVDMXlNeGZhSWFEOHY?oc=5
+- **2026-02-19** · [Unhedged] Nobody knows very much about where alpha comes from
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3BlNkh1T0RKX1dtWVBhdklOQk1Na1pCaFRyenA5SG0tZ3lNUVAzSXNGVnY2OER1bGY0Y2YteHNVZ1d3czNjbzU4Uk9zLW5uX0V6ellJcjRUZmgxb2lDREJRLUM4ZENlS1lsYW1pQ3JQZVhWZXE4cmNxamNtaXJFV3NSbW0?oc=5
+- **2026-02-19** · [Unhedged, Markets analysis] Saddling up for the Horse market
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5IcDdzaXlNdTFLa2lZakdKVlNSenk1Y1hzZWdsWk81LXRMeXZVMjJZcU5rallTZy1xSlhyQURmT1EtN3pDcUdYZFdnNTVMZVBpZ2ZaMndsMUI3eHl6UGhHWVVkbXdIYUJJS3FleTlhQjM?oc=5
+- **2026-02-19** · [Unhedged] Private credit’s Breit moment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzVCRExXZUw5NjJCRHN4R2Rya05vSVlyS1Q3aF81N0JsUUhQZ0M5dndlSEZmeDJuNHpBcUpoeEh6RU9XYlJfbGN3SU9kZ3A1V2J3MDFYYUhDQ05MdklyNXR1SEx5TE1HTVlEcXI2TUtCbkpRTTFDcGhlSnYyM3p4WDJGWVU?oc=5
+- **2026-02-19** · [Lex] Nestlé is finally changing its recipe for the better
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWdrOXBtRVMtV0N0NTVHWmgtdDVGYnlQSnZ0V1A4ZDJFQVR6TW44bXNtN2RyQjZGdGs4VUszdXgyWnZ6Y2EwZmF0QVoyNms4TzFHOHZzV21hM1Z1TXhsT21tTGhDNVJBb1JFVTkxLTh3Q2dxYkNGejdRR1JFdVFfM0RSODg?oc=5
+- **2026-02-19** · [Lex] How the UK accidentally shackled itself to Mastercard
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGNXWG40dmZkYi1OWk0xTUlGLXBnTVgxQXlFMmFNNDNjeWdZalVnbkdSUGY0bFJ5NUl6aGszbmRKM2x6YUMwUWZCdVc5OW9BQlhNd2cybnpTek1ESWgxa19OYVRqVGo3S0thMmYxRUlUZlFGbUJtS3pRZzZZWVNiZER5UG4?oc=5
+- **2026-02-19** · [Lex] Metals traders will benefit from a fractured world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVowd052Wm5BOExXNVZrSktCcnBxdTlZemYzUTg5dG5TRDloS0RUdEVTR1N6S2VUT0s0T0Q2Y2ZzYWRlbEFra1IxRTJ5YUV0UHFmVS15OFpuQl9lZV8yS1NqZXZQNzI5UGFXT0c0R0d1b19LZDJjU000SjdPMkJhVWE1UDU?oc=5
+- **2026-02-19** · [Lex] Orange CEO warns there is ‘no incentive for investment’ in Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHdxTFAyX1FKNmlLMDlLSEVIbW9oMWJyd3RxeVFXRnNRTjFfeDhadUhUa2VCR01nUDF0a3puczVHcmo2ODBoaVlMSm4zSDAzWHBtTHZCcnNYX29hM1pjRlRPc1NZQlN4MktTcjRaRzd2U3lzVXJ0OUlNTnV5SjZhOU9Wcy0?oc=5
+- **2026-02-19** · [The Long View] The Conservatives’ foundational sin
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmNscVFPWU15eXBub0Q0T2UxSGVYdElkOTZFTHMydWEtZHRRMWx1ZUhOY2UxOEE0VC1IY2ljM3VOdlJfX3g2WUhIOWVEMk1KTm1RaE1GM1JGMF8tM28wMWZSWjM0SktQT1djR09OV0xrVWk1UTRDMndQb24wYzhuc2RTeHY?oc=5
+- **2026-02-19** · [Markets analysis] ‘Is university still worth it?’ is the wrong question
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb29jc2RFVjFYRC1qelNRWkNGYjc5RHFJRnVHNkc0bFNzMkozY0ZPWXVfdEptbXBBM2hPYzhXbXFGZ0VabEx2QmlRSmY1VGpqbzlNcl9DcFBVS0NnTDR6OVNxNjVSVkoycEd6YXhzXzBKQ09pdFpJVjJ3WGRpbkRjWnItd2Q?oc=5
+- **2026-02-19** · [Markets analysis] Europe is not thinking straight on competitiveness
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPekVSb1RpdTBMUkVDc3g5V21fVFBPb3l4d3hGR2lSV1hSNjgtRlR4ZHpSbUg4Q291dlRNa2ZZZW9WVTNZQ1JKRU8zbXhFYnRIT2tqMlhJN2U3MlpwdjhEd1dKUEF3Yld2UWJ1eUdWVHFwbFFhNG9ONXppSGh1TVA1dHFlM3k?oc=5
+- **2026-02-19** · [Markets analysis] Klarna stock sinks 27% after bad loan costs soar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2RYMXJtdFZnT0lhNDFJN1FSeE4xT2ZheFdkRGJfTlRCZTZCRFVHRnFxRjh6SGlPa25BX3JET0xLOVFhN1V5MnNEcC1FSDB2SFRhcnNuVXpFTnNkOVh2ODJ0Nm1URThJcUNpS1JDWjBsaGdxUkNGLTZTUEZkNnZjT3MyYzI?oc=5
+- **2026-02-19** · [Markets analysis] The manure mess facing the new Dutch government
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVdCMl9lZWpraldYVHkxYm5Ed0JDak00SFRiX3JVOE45aENBWUdHemR2eEpjcmtpMF92YmRvVFpmTDRmcUdUV1pTSkNRY1RNbE1uV0kxc05KNjRINDZOMlpFWTlTOHhDSXhSVjFod3M3b1c4QTM1QUVndDRrQTFyRE9vb1I?oc=5
+- **2026-02-18** · [Unhedged] Dollar doldrums
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXJHSWMybE9YUHpHTjdxY2kwM3FHNWFRX2RBcDJDaUctejRhOTIxRlUyNV9YRGhCaGloclNnNnFvMnh4eWgyaVYyLV9aOEdCd19Tb2VRblhGNGtkWldrQ3Rsd1FYRndRa0Z0akJWZncxRUlnUXFDY1pOQy1aZVdyQ242bi0?oc=5
+- **2026-02-18** · [Unhedged, Markets analysis] Financial Groundhog Day came late this year
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQmxpVVlFUDM5d2JEYWI4LVVJQ2N5WUlna0hNWjVLV0lZcEE4bmVYUGVON2tjRHBHaTlGaEFoSEg2YWpHYl9EbS1UVE85ZVlRMkpkVm1TdGNRcVNkcXZoa1pHaEY3b3VoRm43QmZFSWM?oc=5
+- **2026-02-18** · [Unhedged] Saudi Arabia’s AI venture Humain invests $3bn in Elon Musk’s xAI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGV2XzZtQWw2M3M0RmlBbzJUM2x0NlhMZ2F0QW1IWmg1SmVwRlVTOUdabGpkYVJqZDFQWS1zZFQ1UzRzYzV0MHR5a0ZDRkVaUkV0MlJ3bXplZWVid0NDc29mNkZOYV9HRVRqRm9iRWcwMXJuVWNKOHlhckpWMHl3UE9laE4?oc=5
+- **2026-02-18** · [Unhedged] Is an AI price war about to begin?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3lkQlhnc01Xb3c3RVJxUkNUUGctWUVyWTVfNjRpYU9UNE4yTmVmQmRJSzA2eFdGdE1jUnpkVTFVU3Q3WDZsRjBBZFpROTRMTGVlUUppdzNlZFB5anc2bXRPaVR4dWNGRmtib1dJakZna1VJUG9CT2pFaDVnNnIzM2xBRWE?oc=5
+- **2026-02-18** · [Lex] Private equity spies a way to cut the cost of Electronic Arts’ buyout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1laZW90cXliT1pBYlQwZU5WYlg0NmRWbmRwMk5BcVk2UXg2bmtuOUFtVlRLNDBvYTBmczZ4X3JGY1kxQ21ob3pqZXhjZVdJRzB3VGhQbDAzY1BRcTlSZ2x4b0tFSVdwU19RY3FJRnpDRkdsd3dWZjgtZk9MaXA3a2FYWXQ?oc=5
+- **2026-02-18** · [Lex] When China is chic, European luxury brands should worry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0RlaDdrdVlIV1Vla1huVUlqUllSbmFFcXpYWnlZaFBNdDhHdnU2eUlWeTN0dEVQMWVhYWRoUUtIUU1BWUxNN2IwYmVSdWNtZFBXZ3dKRy1kY3dLRjV0a3B2Tk16OVhFR3M0OUtvanRxNUZWblo4eGk3Z1dsT3Etc2U1b1Y?oc=5
+- **2026-02-18** · [Lex] Warner Bros battle would be so much simpler in the UK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEJaT3Z5SW91QnV5ZW9FcEJiOU1KUzdSbU5KM0syZVJxUzQ3OW04bDZJWEpRY1htQXdaNXpVZXNMdXhqVDJKU013YWY1aHJuX21IRmZyNE04eDZ3Smh4eWo2YWVBSDgzaERNSGxHWnR2Smc2QnNra0p6UFVQVmZueVBkbW4?oc=5
+- **2026-02-18** · [Lex] Correction: Amit Zavery
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZ1YxdjlWOFhJYlpPb2F3YVFmdk9zWW11VENaTmpKc2gzRFJ4WWtoV2JYQ19QMWxxWm05SE1SMmJGT2ZsemdEaDlQUVA2UWVKLUVlRHVaSUxiaFNpbWNFNkZNUnM3TEVXdkV1YjZjQk4?oc=5
+- **2026-02-18** · [Lex, Markets analysis] AI fever sparks Raspberry Pi meme stock frenzy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmhfVC03SEN0Q2FQNUUtWjBxbTkyR0I2UDltcndhM2J6dmpzR1dYWFFvTkhKcTM5WUZaRnZIdW52V0lMOGJUTmdpNHBZV3VxamkxbG9ob2VZRzNPQVZWaEN6dW54aFVUSlFVZF9BUFd5U1FyS0dLUE03VzlDNS0wRXpEX1k?oc=5
+- **2026-02-18** · [The Long View] Senegal has a mystery Togolese bond bid
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAxaTFleHItWXBiY1hLQXhFVGR4eVA1VGVHYXdrTVlSRGRNclFlN21yMUFKdWFYMTdTTHYtSG5ZZ2FsNUQ2TlozT0JJWVRTcV9pTGlZNEh0aEZLbjJaamtlSjNQR0pINHd5azctSEJvdTU?oc=5
+- **2026-02-18** · [Markets analysis] Are prediction markets superior to financial markets?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1JZXg3MUZ0Yk1QamhWSENueUZyc1c5ZVFqUDdxektqZjRHa1BhbldBRkFrcS1pNklxazRQTUgyR2VHMmFaX3lpVS0yQWwwSmtSbGI3UEhxNWlwM1pNNUc0SmhWMUVrLTVWVlpLWWtMeU4?oc=5
+- **2026-02-18** · [Markets analysis] Donald Trump adviser says NY Fed economists should be ‘disciplined’ over study on tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlloLXlLZ3FGMEpDa3ZfLXloU0FUYng2NENvSzFOd21kZG5wMXVNSEFrUTV1S0lGcFJYT1B4dFkwMU44VG0yOHNTNWk3NUZfTUhHZDBQWURwUFlGV0htWHVTc3JCNWo3MTB5NDZJVFRjemF2cHpxaVZ0RHhjLXctX1NkODg?oc=5
+- **2026-02-17** · [Unhedged] The software sell-off, part II
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0VzZ3pjOUZqOWROVHJlQUtqMjlwZ05uRXNwNjY0MDVMd3RoNlV6clFJbW41WmQ4M01McDh6UGR5VlYyVHFJYjRXLW5GakFVVWs3S1FZcVNuY0hRYUxDNEhfaEp3NFVBa0ZxcXpRRTR4SF80V3pTX19YdzdaZFJyYlIxSUQ?oc=5
+- **2026-02-17** · [Unhedged] Behold, the story of the Fed balance sheet in a single chart
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE14TERwc3drOTRUQmM1blVlV2ZVYXFRYXRGdHQzbDRhOWFZdG8wX25lM0w4ZURoN1k1MUZoSDlYVDFkd3VXRDRJTWFGY3BOeHBKMDRZbWlXcDd6RzA3UHhSbEdyODVUeTROcUxPLWpvWFo?oc=5
+- **2026-02-17** · [Unhedged] Nvidia secures multibillion-dollar Meta deal as it battles chip rivals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGlGdW14NVlwcVBXQ2oyOWgzLXRLSGo4MFQtVW80Ync3MzJFd2JDdmFHNXJuVkVRZlBpUE0zdlVSYlZMWlNUcHkyR3g2RHFoQUxjNEtTalJ5dGNpano3V3RtM0xQRkxCeDZFUWM2dHV1NHVpdlhPbmdSbjJrQUZxUTFkRFI?oc=5
+- **2026-02-17** · [Lex] Europe’s creaking carbon tax is in need of repair
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXVTUms3dFV6YWM1eVd4amJaeURLeDI4VndYY0t3aXRwRXNlbHAyRWdpMWtiZU9nTi13M0RCZE0wQ0ZVSDdMUXVUV1pBMllRM2x2REhQTmp6WS1UYzlicFd0MHJhTDA4cVNKcHlHbVFBMWttVGpVbkU0aEtvQWh1a3lHczE?oc=5
+- **2026-02-17** · [Lex] Why is the UK falling back in love with credit cards?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEc4VC1sYTNBYmp3SU9rV0l6MmxHYnRubWNmdFNxWjR3OGdWbWhaMXVYZXBoYk1uUW9DMHBqaHZ6alZvSWVWZWZ2ZnFVdXhyTUFsWHBwdUt0VjE0eGRnUkx5aGloTXdQVVVhTkUwbFB3cGFwTUxUTko5OTBtZGpqWlZjLUQ?oc=5
+- **2026-02-17** · [Markets analysis] The US economy is turning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVp1T0c3NFd3bkRnZ1kycGx6UVdCRjlhNFVMWnRVdGhIU005UFlSSXZsX09pOVJDUlFXUHM5ZXRoQ0ItS2RwWDVaWXE4VFhrYmpMUjdiaXZpcDZHWDNfWWNJRDlyOGFFZ3ZnY3BETjNOanFjQmsyaW9WMjdzUTNTRmNtajA?oc=5
+- **2026-02-16** · [Unhedged] The housing market is not getting much better
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1FYYWdBRWdMT0JyMWpxTkkzSVY5TTQzeWVwZ2hiYllDMHAyMklTYVBSaVNlcDJ1Rlp4Zmo1aUlWM3gxN3BxYjV5QVRaUTJhZk1QUUJhNjJON2J6RjBkZnBoU3NkZ1dTOGlZaDdjYk9vQmc2X0dTS0M3YjhLcS14d0tJV2I?oc=5
+- **2026-02-16** · [Unhedged] Japan’s largest toilet maker is undervalued AI play, says activist investor
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTl1SGZaNXh1VS1MaS1ZbFgzc0Vnci1Eb0RUUFBJX0pOcHpNOFpNV0ktdVJlQmVtc3NxTko0ZnZnc3EyZ0hja2RjOWdVMU5RUGh6bV9HLTljZHppREl3WXh4TGItVHhvUy1pdjF5Z0lsMXdYS2VzUmw0UUpoT1VhMTM4cHE?oc=5
+- **2026-02-16** · [Unhedged, Lex] Souping up data centres could give industrial firms an extra AI boost
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm5mUHctaG03bmxoMzZYejUwOFRlQzhkV2ltMFRyaGZ4OS1KSV8wcVBJeklGY19HeDQwdnNraUVBU1I0YnRKVFBkaVZ2NGc3NEFTYXhBQnZlTGhZT1FMNld6azdZMEhVdURMVWJ6dEJyejYtVEtQTFNJWXV2OG0xQXNVekk?oc=5
+- **2026-02-16** · [Unhedged] From cats and dogs to Erdős: AI groups chase progress through maths
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnB4RFVyYndWM0FtUFNNeThERENGZnRyNkltUTUwSDg4dEt1dUpfWTljaHFMNFhob05BTU9uOWp6c2FZVVVhVzlBdVpzNWFmWEh2UnhnT290NkpJQy1ESGUzaDR1VFVVMmE1VXJvRlVHc2hXdjNzZkJPM3BOQWNTaVpmTjE?oc=5
+- **2026-02-16** · [Unhedged] AI’s electricity demand is fuelling inflation, crimping consumer spending and slowing economic growth
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeDRSZWRJcXRpUVNwaHVwaGttWVgyTDlpTTNtLWZSZWtvUFR0QVppNzlCT1hESEtHNmJoSndPQ2d5WXhKOVJpOVJaOUo4Qy1MZnVPVGthOWZENFRoRDBpdmhkZkdKSWNEWnJfS0dGWUs?oc=5
+- **2026-02-16** · [Unhedged] Software group Pinewood plummets after AI sell-off scuppers £575mn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUZsU21lUTBRODJIa3VFTURZSmVaSFp6UkNINVduZkVJZVZKUlpMSWVBLWJwX2VhVzVYWHUwTVViUi1aWENXMDFlUXd3SDAyMWZjNUU0cllTT3hxZ0lxcENWZFhIT0w0SEVwR0R6bEp0NHBPN3lfU2Y4QjF6UFdQUVk3SXM?oc=5
+- **2026-02-16** · [Lex] Software isn’t dead, but its cosy business model might be
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3MyNUgzcW5BWG5TNU1EOE1ZVllBN2JWUzFLSkhDZkFiM0hndTRJZ3FraDlwb3lNZVk2bEI1QWYwdFhyQWpZSkIzZ2FBVF9vV1N4WjJxQzVJT1JZNUdJbmZ6c0NmajVSZkJnN2R2cmhvaGMzUUQwd05jd3J2VlktOEd6cEQ?oc=5
+- **2026-02-16** · [Lex] It’s time for the great and mostly pointless yearly analyst bake-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbElFaGpzTkZKb0ExRGF5YUpRc1NoN3hPdlBXR0JmM1pEMHF4T0RnWk84YklLZ2k3V0tTU2piaDNMS0IwUFU0RG54Njk5MjBBbHkyZzlmeGg5WWEwd3oyMHJ2WDFzQXY0T2NKOFZTaEFqdld4Yk1MblBMYk1LRENQU0RKNVo?oc=5
+- **2026-02-16** · [The Long View, Markets analysis] US markets and the economy are heading into uncharted territory
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2dmbkhrXzRtbGN0NVhNXy00eVFvWTlGZEJCVHdIX25CV0Z6cnhXaWQ3d2k1SVpGdjJBOF8zMGRLcVpla29faDNENTMtWmVtWEFQMlJNdjFGVlpZakdaN1gyRktzU0dJNy00S2RfbGp0eVpOSVlyR1kwbk5TNHAtUXVoQmQ?oc=5
+- **2026-02-16** · [The Long View] Fund managers take most bearish stance on dollar for a decade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmVWT3YtN2lCRmROZUdBLXZGN3YzUXRRaXR0ZWJHMDNGdjY4akxOdnNzMkJCazBGQURGVkMwZENybzNGemVPRGx6U29uelFLX2kta3VrU2I1Q1lYbF85dDVPQ2xLZTN3T0x3eXYtY0F1dDdkQnRTTGJKZWJiVS1RT0x2Rko?oc=5
+- **2026-02-16** · [Markets analysis] Everything you thought about the US labour market is wrong
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1VQkMweXFQSXFTN1hjMjQ2aDJvNGRtVXNKUkxDZDlEOS0wM2lOdEZ5U1JyeGQ5SmM2LXNVSm5RWDdWTUQwQy12QUNUelV5Y29DU0wyaFBCU0hCQmdqcDctZHZ2QnhQa0J0MWRvYkZRTFg?oc=5
+- **2026-02-16** · [Markets analysis] A ‘token Yank’ at Lloyd’s of London and the legacy of US litigation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRndwR1hRaXR5WldZV21vX1o2SWJPYzE1RTY0Wm5sZVV0eE11ZzBsZHJuS2wwUWJTamxUVkdVejlFbGMzRERMZ2lVeGw2NlE3SV9fZnJfdVFMTjgyT2Vjd05OYWRZd3AtZlMzQjVzZElCaTFWTmFycGlNTWd2S3BCdkk3OEY?oc=5
+- **2026-02-15** · [Unhedged] The great software stock meltdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1neTR5Vk9ncHdSQkszZjhLZDFpQWJKeWVGbjd3NjV5NnFJWXpWNEJoclZzMnVfU3lfY2dwN05sSXAxMTJZclBlWUxyR1QtM19rYVRwUjktaE91cUhYNkMtSlRuYUdIUVgwTWxTQmpDTU82SWlic3hLRVBCREU3N1prU3Y?oc=5
+- **2026-02-15** · [Unhedged] Trump leans on Utah Republicans to scrap AI safety bill
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzJGSGFEdlg3aGJDNFF3b2xBR0JJQjdwdlN4QmJQSVRWRzcybWlOLW9Nckt6NklHNFpCbE1JdmVjTElmU0NhaUtkVzN5ZzNFZTRWaFcyYndjcEt6TWFXeEd5TWZSd2lKeVBZSmdVMi11clBYOFl3dGR3Z2ZUNGpZdmRzODE?oc=5
+- **2026-02-15** · [Unhedged] OpenAI hires OpenClaw founder Peter Steinberger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWJUbXRpeE1sU1Jqb05yb0txVTkwR2JVN05EM2ZBNHFfN0QwSlAwQ2xsOF82d0J3SGhaSENmWW9NVEhRTTJjaU9Od0F5c213NWFpVEUweFd2S0JZSGU1YjhQZlduU29tb0dEMUM1dEZMakd1RWhhNDhPNldlVnJGZzlvb3o?oc=5
+- **2026-02-15** · [Unhedged] Letter: Come the next crisis, don’t say you weren’t warned
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdkpzaW5RLWxzenBQTncwclZPelhmRG85QVcwNWhJSDhtQmhmcFRtSjFfcHZ1WnA0YktaSzFGZF9tdDktcnRDZC0wQ3ZkbkRYT0lwMkVYcm0zN2RHQnVIVXhNcUZEUklmcjJvdThoZnA?oc=5
+- **2026-02-15** · [The Long View] Schroders sells out to US rival
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFZYbF9DS04xVUYzM2p0M3hFUC1NQVV6R0xVR0RrOUVXYjZqVlRZRXZLZXlpY1FUdUNYeXF6dUJfMy1LNk5FNDVBSE1nMEtWUzFPUXpEWnNQTEdRY3ZIOUxrMWRfdmh4ajY1SDVJWTFTdGo4TkRNLVF0bDY2VndaV2pTbDk?oc=5
+- **2026-02-15** · [Markets analysis] UK overseas aid cuts to outstrip those of Trump administration
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORFRGUUYwaTlFTThEYWpJZVM4M3RjN1MybE1UZy1lcUtpemhGcFhnNkNuY2dZR2xIZXZyVHlzM2JqOUFHREJGa2gyb21nb0I4bnlnSC1yQWYzOFhINHExdnVBSC1iaUJNSHZzZk5PR0Njc05JZUtZU2Nud1NnMTROZnp1Sko?oc=5
+- **2026-02-15** · [Markets analysis] ‘The best we can hope for’: Rubio’s Munich unity appeal fails to woo Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEIwT2FudFdIZXRFWHRDbGRfZGNrdC1ORkZxbnd4QmpVM3ZzeUJTUERZSlJISUVsbl9JamhEcUtMMEloUzZDSnJhRGJ5R1lLeVp6Y0JqRFd2aWs2ei02MWs4eEhyWUlLaUhZdWloSVNzd3hRcXB6OTZ1N2VfVU9veGp4XzQ?oc=5
+- **2026-02-15** · [Markets analysis] Are Anthropic’s new AI work tools game-changing for professionals?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUpDeWhBVWlpVzN3aWxZYjVqX2JTeEk4V1Y4RnBJSGFHaXBIdl9DaEd3a2ZoX2xreF9FQy1IWDZ2ejBOVXFQRHhuaFlTeGxvUVBYWEhZZU83SUhVSFQ3VXAzallaMndQOTNENjdERVBWQUpKYjRqaFB0d1hoaG5Fa1UwNnk?oc=5
+- **2026-02-15** · [Markets analysis] This time really could be different on jobs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNakRPMWZ0NGtRWmhpZXZNM1RTdy1GVjBLTzJCbE1YdHNaaFBEc0lRT29WZmRDTFF1ekFUQWMzRi1RaFQ4b09OOXhhUF9RaXItQ0NiR25xUXNLOWUzb0NsYVFDQm54MDlZUWlNV3lmLS11d1E4NGpfQ3ZaSWdsVnBLcHNDcFA?oc=5
+- **2026-02-15** · [Lex] BNY Mellon Investment Funds - BNY Mellon Real Return Fund Institutional Shares 4 Income
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE43dmYzRG9hUkJMbGFNX3JKaDAzV3hSZGJISmpjdE9aX0dRX2dvUmx1NUx5dWRPWndZc2pPX2xjRnVHQ3g5TEpBTHpRQXFWWDVDVUNTaXJZdlp4eWFDT19xMTBrRUxGWGVNYThva1l1S2FseXR4aE1UMGJR?oc=5
+- **2026-02-14** · [Unhedged] Bad Bunny and the real America
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGxhOGxjcXVCUW82VFpDTVZEVmJzdjd2YkNVY3hGRmJDWmEzRFJZaWh5QUNaT1A2R0dzVExsMDdwLW1SWFlITi1idGNfSWV4NGRMaG5FSFFlUHBlcGdEZlU0U2U4WnZsNlNlbHlZdUxfUm5XLTBXUlRkQUhKYllSekRFM0Y?oc=5
+- **2026-02-14** · [Unhedged] India seeks to broker consensus on global ‘AI commons’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONXQxc3oycUdpZXhlOGdHYmhRT2cwS0FPVHVCSmRKcDFLN0wwSXRTRWFqZmdvSkszQV9LeU1HWEUtanh1UlV5WW1FV3hfdGNuYlZZSHotYkF4aFpNWlpoV3h3MTg3bWVMMzdicEplVk5XZWMyV0FlLXRUV0Y4dm1kMTVYdXQ?oc=5
+- **2026-02-14** · [Lex] Hims & Hers is a brave bet on solving disrupter’s dilemma
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWJrX0RqZURIa0c3SU1NbWFLUGhoUi1tRmhRY29OeENwZkRWcm81THk3UnRpdG94QndzVHRCbUUzSER1blIzS1BqSTZEUkdJdmFOWTlhUXBzNUVaTy1CTUQzZGhNSG1KUWs5UVNWbW9Ib3hENXBYU04zWExmZl9UeEUwTnM?oc=5
+- **2026-02-14** · [Markets analysis] The AI productivity take-off is finally visible
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5FeVBIMk05YzBCeUdUX2I5X0ZmbUlidjNtalczTzkyNzAxTWJIMkZ0OXZIc2R6NkRUZmNKYUE3RjJfc2podW5kZDlYOEJrVGN0T0hnNnZpeUlCUkhBcUJ3Si1CS0RZeV9LRENzSGhFb04?oc=5
+- **2026-02-13** · [Unhedged, Lex] What kind of AI disruption victim are you?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmNWUDc3RC14eW9NdUNnQWFjQXRFS0VXZDJzNl85c01pcFlQdl9lNGJnOVhXYnlxbDBIQ1Q0eXJOU2p3MWJ5RU95WHZmcGx4UVM0Q3h1RnpXazBaWTFvbmRzNl9md0NqbUNrdjI0VUVOTFBhb25TVV9vNm56aC1QY1dMTTI?oc=5
+- **2026-02-13** · [Unhedged] US inflation falls more than expected to 2.4% in January
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlh3R3RfMjVsRjFYSlJueXhRR1FxUzFQSHgyenU5bGJqVENENWIwWFp1SHcydWRiZ1pUZE91R3FlWWNFWEZoNU9USk1SS3hxcExVYVpjcmFCOVgzc1NtX2xrRXhBaW5DdjhnTnZMWUNpLXV6dnZfaHpmVmhiZmRFQjB5SVY?oc=5
+- **2026-02-13** · [Unhedged] TSMC’s US investment plans at heart of $250bn puzzle for chip sector
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGVENmg1S3NBMExVVUJnZWk2WUpJcTNuSVh5UXpRaTh2WjVmbDFvZkJpOG1fQjN1aVJrZzRPalFUSmR6UW05OFIzRktsaWdleXhxV1E4eGdneHlRS1FrVWpSOF96eFhWSk82WDNPWHFwMkktb2lIREdiTFpSWTUxNHhrdzI?oc=5
+- **2026-02-13** · [Unhedged] Central bankers aren’t getting along
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1zcXdoeWJRZ08yc011dklzbXpReS1VVERWTDFYSHRTbkRaSmFWaEFEUjRPUDJEMnB4RFhlMGJrWFZHQnNxajNENUpXQUhGOFF1czVTRy1taDRkdVpxbVRBa2FRZkNqeEZyQjBxMnc5WFo?oc=5
+- **2026-02-13** · [Unhedged] What the truck just happened to transport stocks?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBIRDBDV3EzRzB1bEpyYS1Zeno0QW5mS0l1VEVvSWFNamdGVUE0ZWZMNnJvMXhqbEE4TEs5bmdPR0hCeHlYaGJjXzhQOGNEaVZYRmtKTm94eHh2OUdKbmdmYlR3U2xmbmhqWjk3eGxxTGU?oc=5
+- **2026-02-13** · [Lex] StanChart’s Bill Winters learns half a lesson from Jamie Dimon
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2gwbll3Y3dyWnZPLTU3VDNlb1hsbWdKY1pQSnVMTUVTV19BQVV3LUU2SXJCYTY1b1pSU1FiSmZsenB2M1gxaTc5TW8xOVBSNndjMlhxUHN4WHU0Ulg5NUhMZXhXbjlmdThIZHZLaVA3Z3JLbl9zUFlfVEpuVVA4aFh1WlI?oc=5
+- **2026-02-13** · [Lex] Private credit’s toughest prizefighters just want to get along
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlpZT3pxZjBHV2JUcjZXSW9BZmJYbS00aTI0OXVQVWJEcF9TdVMzM1ZCamZNQThZcjg2MHF0Tk1LX1BBXzA4dTBKVVg2T2E1TXo0SjNNVzljV0VnVDRydmNpTW1zdE5KQUZvaXVaWGRRUGhQbERsTjJSVXZmUlZqWkxwSWw?oc=5
+- **2026-02-13** · [The Long View] Politics is now driving the dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUEFRUW5OR1NMVjJ6WWJxZGhfdkVfaEVyNDdMb2Z5TzFMbkVwU3RUYWtlOEtJTGF2S1ZzOUxVN2R4UXJ2NmJXeXE2bzBlNjM4eW43ZTd6NlZIMkJkRWsxRmpkQlNPMVItM1BZdUNDNnJuQmo5aVpLVjVUTko3SVpjWWxtUjI?oc=5
+- **2026-02-13** · [The Long View] BBC international editor Jeremy Bowen: ‘I do this to tell people what the hell is happening’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONzBJcnZVbFZLNGprVW9oSlFSVEFuXzlKZW4zM2xmSjM2d2VibWpRYVFVQXFEbllWdDVCdzRNcDJUVVprU19oVGxFbUVXRGNxRFlkVjg2WTlaUGdQT1FHbkZVMG1fNkI1UDAySkFscVZVejB2U0Ntc2xGVzZ5MTdUendlN0w?oc=5
+- **2026-02-13** · [Markets analysis] Prediction markets take a bigger bite of US sports gambling pie
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2lQRTY4YzhONHhQUS1ZRE16TzFFekdMNHJlQ0Fid1llWFdnZ3ZJRjgzaktuWG8yUGF5Vnc5VVpwVlRzaktpaG5IRGhRRXExTXpsX29OVXlEMW1xVndOdnBDc1F2SkhoUFAzTFprSGd1NUNaN1dMQ0FiLXp1Y0hMV3hwRFU?oc=5
+- **2026-02-13** · [Markets analysis] EU carbon pricing tussle has global implications
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzRiSFRRMHRsakt0aE9yOG1rSUJ2ZVNvWmJuX2JDRzZMb2QwME8zRzlkQVZxWU9YUFhTc080bDFBMTZwN1VybmxvU0VWMjllVnpSNEpCY0NtZXBOUnZYNjRWY216RlFDcmdZNTZfb052MzQ3RVFUc1hjSE4tRmxsb00xbUo?oc=5
+- **2026-02-12** · [Unhedged] The software sell-off (part one)
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUEyd19SWDlPVnlQeDEwcDZFaEZDYlRtSURKckdRUnJiTTAyWmZuX1VOVFR1Z0JweER1NUFlZEhCMm5WMWpHSU9xQXZ0UDZzUEFuZHMzbTdMNEhsWXlNOFNSeTRyLUVtS09jU0NwNFVfSnVNMm9wZlBGQzlIVmF6ZzB3UlQ?oc=5
+- **2026-02-12** · [Unhedged] Is AI creating jobs?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVVQeWxkME9hbmFnaDJES2V1aGU2NDdlMnZEdXB3UEtIV0lyT3p5TXFQT29Wck1WZkhyb2VCdVBveS11aUQtOHBGa1BoNzBYQVpWQUh0SFYtU0g0NGxEUUIyUmlDTFRqQ3VsWFF2bFZIWVd1bnZwWTlBTHFHZkpzM1d1Rm8?oc=5
+- **2026-02-12** · [Unhedged] Transcript: Is AI creating jobs?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUZKUHctX053c1M2c09VWnZPZ1JUaHh2S0llUWo5alNtRUE1cGREdnZ6aTZkMll0T0NaRW9zNnJfT0lPMXN5eUl0Q2M5ZWlWNTVWSDdwaF9IR25McUZ3czR2WENaaTM2a0p4aUk5b1hNV0FxYWhfUllqMmJyOXJQTW1iTWY?oc=5
+- **2026-02-12** · [Unhedged] US stocks fall sharply as tech sell-off resumes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzVwU0gzNFlITHgtaDZrWHR6UDExRWp0N0xTZDZxNndqQWphUmNKMVNEVFRfdWl0WlFFLVY3SHNsbXNBRmtYcllTRjBfUDNvUFJ4MUJHWVN2MHpiUU8zZHRXSUI4bU1KdUlWaDh4aGdRUlZNWUk2em5YQ3pjM0pIaDNlVzA?oc=5
+- **2026-02-12** · [Unhedged] Some bad news
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9WTXJqYVJRZDRuTFlHZnhLU3A0MWRMdTl1c1o5akdSUkRFMXBJNkw5QUVQZ1VXaksxQThDWXpnRDRDVDRPTEtMRExQUVNHeXlDM1Q1M1VNN0xSTWVNRGNQUG5ZZlJZSDJIU2FUY3ZSeVI?oc=5
+- **2026-02-12** · [Unhedged, Lex, The Long View, Markets analysis] Dear , can we count on your vote?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBnbXM4SlZhTzc5d2EyNEZnZE1hN3hUREhhTnZ5QjYxQXQ1dTAycTdoUUxkaWtyeExJemh4Qm1QQl9jd1RrdUhGWEo3VUV2Qlh0SUkwVVhMTEc5cVJHbmx1Mlo3bjROMWJFTFdrMTJGYkY?oc=5
+- **2026-02-12** · [Unhedged] Broker Clear Street postpones IPO as AI fears roil US stocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSENKaVJUOUgyam5uSFY4UEROejlrVFV6bFZ1TWs0N0V1RHk4RkJKSDdFNVAwVXRVQ0RUdEtfSklvd21iNG1aelo3WWxDcVFlVHVSbXJJNWpOYkprNGc5MXZCNko5bU9tYWRjVGFFSTU4MzI0ZEJaVkNPeEV5cE1PYVRGVFQ?oc=5
+- **2026-02-12** · [Lex] Google’s AI worlds won’t vanquish the video game
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONUpqRnFDeDE2OG9ldk1FdUduZ3RmWm4tMEJIQmVTcklsd2RhaGJJX1ZKaEpvZmRjcmxfbHBLOGVyT3g3N1Q4cnhqSFV1MnFsQU9SMlV1VWx4eThIY25qQzNhQ2RnRGxSZ1NoOUl4TTgtbXgybERXd0ZGaHdXWE5yVHFveUo?oc=5
+- **2026-02-12** · [Lex] Schroders is the defining deal of a glass half-empty UK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2tkblVfM0pwRm1Nc0xEWFVIaUp1MGY3Y3NSYzBNYTBjcFRUVlpHM1pYQy00c2lrdDlzYmN0ZEtMaldjVnBWeWRrRnJLazZIUm9mSUNfUHR1OXR1dzA4bDY0Q2tsZ1puZV9vRmZycElaSm1LcXBwT0xYT3owVzBwR210MTU?oc=5
+- **2026-02-12** · [Lex] Mattel’s surprisingly weak sales toy with investors’ patience
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJoeEMyUTh0dFgtbGtwY2xSWkJiY0J3V3E2SThQZnJXYUZ1dHhIVGN2MTJYY2ptQ0RDd2ZCMUxqaW5xdHdHSjZIMW1EVjZHZ0xrTGd1eUxwUEFmaDNEbnZRcjYyX0s4ZzJTNENFejBfRHgweTF2TDFMVlI0OWdQWDR0V0I?oc=5
+- **2026-02-12** · [Lex] Alphaville’s annotated thoughts on the Schroders takeover
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnI2Q1JGOUh2WFNoV3ZSejZUMjdmNy1XRG11VHZMQnNHMmNTeVN2b3hBb0lCa3pNSFJ0ME9jZGNCNEVkNDhnT3dORFN6Vm91c0ZMSkR4am0wdW1oLUw0Z0QwckU2RlZBUUV4VnB1M3A?oc=5
+- **2026-02-12** · [Lex] What is Nuveen and why is it buying Schroders?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFTTEVoRDVWUFNmb3hrU2Riby1MOWoyTzB3YzVJc1NoUU5xZVFOOEtmanhFdUJBME5fSUJqYmpONWlDNWpkcU5qMmdFRjFvS0NlS09vanZZOUZhRUJScXJNWERfQl8yQUZnWXliRXRwSFNwZzUxUWVLX1VURnFnZDNfUzY?oc=5
+- **2026-02-12** · [Lex] Sanofi replaces chief Paul Hudson with Merck executive after R&D woes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm5oaTJsY3E4ZXN5S0lJdFVsd1VzZGd3bXdpOEJoY19iVFh2ZG5yQWtZQjZ1aXA2V0lfRUNwLVlPWS1MT3p2WWZ4WWdIM3pHcmlsbEJMbnpxRm9nYXRTN2h5NzY2WDBNbnE2ejZzbTFHemR4ZXNtWGRtaU9Nb1UtY1ozMWM?oc=5
+- **2026-02-12** · [The Long View] Nigel Farage’s popularity dips as Reform UK surges in polls
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHpGTGxDc25CTkhWYUpkczhNbGMxS3llSkNFVHVRRTN1SnlNVElJZnZsMUtqRlFnUXRzNWtoYlVXSGgxeG1YLW9nQ2ZPc2ZSNjZpOC1pMkdJaTd2QllObVIwa0YtWXE3a2M1TENDMm44cEpkdXRJTVZEY1gxZFdGeWN2cHU?oc=5
+- **2026-02-12** · [The Long View] Ministers told to report conversations with lobbying firm founded by Peter Mandelson
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTl6ZWt1QjloRWh1ajQ5RnJtY0xDYVh2Q3k5cnNSVl94eFhLa2F5ajQxZ014VzhhaXZZaG9IS2FYUVFVMGlELTRvNmFjY0ttWVFsZTEyRndQWXBfcXhPeTBuWjVEODRaZXVMcW02MUlYelQ0aVl2M2FLSjNVa1dVYmQxZ1k?oc=5
+- **2026-02-12** · [Markets analysis] L’Oréal hails upswing in US and China as beauty market recovers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGliU3N1emdxSHdIdkxua29XQkt2eVplR1lEd184MWVuSTFqczUyMGhJV3d0YWhlTEstSk14RzNhUnU5R19jRzIzNzM0R05yTk94NlVsMkxwTG1XcWtZZUFPT2dLZ0JaX3UtR1Q3czU0eTE3X19iZjRQUmdoaDVFcHROay0?oc=5
+- **2026-02-11** · [Unhedged] Reason for hope on jobs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWFaLTE3QWNIZ3BWTzJyVm1jTDEwTXJfc01ZSkdKN2pHVW5YSm55ZTN6eU9VWHh2WUVRY3VTb2JUZjJZMlJncy03dlMzdGF0Q29GQmwxTk5sa3FxTUw1dGd1UWF3cGJiQ3UyV2w1ek9NTm1FcnI1Q001M05POWNicGRVVXo?oc=5
+- **2026-02-11** · [Unhedged] UK takes key step to digital gilt issuance this year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1NUU2ZRYkdRa1M2SVNoZWxneU5QcVlYRk5GTGU3UENKNFhpWHBHMXlKR3YyYWYyeEloN0hjalBmS003VXozU1lkYS1xQmRfeUJMY0ZvQjNQMW8yU0ZUNEoyazQzbDZJeEtULWpjTWV6ajlPZGNROFVVemZlTmNxYXNCdGU?oc=5
+- **2026-02-11** · [Unhedged] McDonald’s sales surge as struggling US consumers seek out value
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkMtYzhpallsV2xtSkxJS2RuSDdRS0F4UUt5OGFnVEhVcHcyT2RmbFJfRjMzWWhhRXFLYWVZSW05WG0xQWxMbjJXelJTVXI4aTVIclc5N1g5YjdMMF9NRzZpOHVyZldZZThoLS1mX28xUnQ4V3JKOTdfQ1VQZF91bktLNVE?oc=5
+- **2026-02-11** · [Lex] How AstraZeneca shot for the moon — and hit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkI3b29zVWlPQktrazZrTEJfbXdkY3pSN0tfYmdRVUZYVWVUaFNaTXZaQmpseVd3eWV6Vk4tNS1kUjJFTmF5ejVQZjFSSEpKeWFjcnpVRVUxUUc5aVg1UjBwVG1wV0NLbFRUX3FXbXlra21jNEpKRFVMOU8wQXJUU2l6YjM?oc=5
+- **2026-02-11** · [Lex] Elliott’s best bet at LSEG: shout the obvious through a megaphone
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFFyU3hRdk54VkZXS1RadmsycTl6MlBWUlhhaTRyYUJsNnZ5bGUtUjZLd1dCbFo2ZTlJS2Y4Z3RsSEI3Q0xwbmFtZkQyS2hOZFZLZ1lCMWVFZ1Z0TkdKdWl2bHM5ODVzUWNTUjF4Tk01amVpaXQ4ZTg4d0JabGdJc1JvT2Q?oc=5
+- **2026-02-11** · [Lex] Swatch needs to call time on its asset-heavy model
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXkxWXJ2Ri1VOVZyX2hQcUlMWHVMbEdVT29aUmlDc3o5SmpUVnZOTkVGZThvYkhWaWdfdWUwUE9KUUV3Q21RWU85OGFrSjU5RDNpd1ZwOU5kaXdsM2stWlJCVngtLW9uNWtWVUdweVFqanF3TkR3bl9FMHVIdzBrTVVvWTQ?oc=5
+- **2026-02-11** · [Lex] UK to ban political party donations from foreign-owned companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUZKZzNqaDY3RWlsWmNuSldjZ0VXZ2R5RGhLX3BCd0dyd0dxamd2VFJRWjBXejFPdWNGcTdIRDhHZnJPY3FMX01odnlMMFRNeXVqbGJyUUxCbFpoWTBwbnpaN3YzVFprSmR4bnByRmJjSzJOc1ZNelRTZzNNWWtZSENiR2k?oc=5
+- **2026-02-11** · [Lex] Elon Musk overhauls xAI’s leadership as he sets lofty space data centre ambitions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlo3ZFRFYndZVDgyeGdVU0xuR0ozYm1yLW1ZdmlzZWhackRxUmViLXdSQ0lhLVlGY3JSZ29XWkRxaUFMbFhkYmMwd2wwQ0pQY1V2WWR1TFFRQUdKMURFdXpyVzB0VTItWEYxRWdDLWs0a3R4RlJORHROYnhsQlJmci1lSGY?oc=5
+- **2026-02-11** · [Lex] Shares in UK wealth managers hit as AI contagion spreads
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0RBeVZ2YVB6dDJTa3lkUjFyekVvTDJCZnN6ajlJUXUzbWlZMFp5ZjhLNFc5TF9yNHRXRWNmMmFsWjIwWnlYQkxLY2ZxNnFqMjgwaTJGMlZ5eWZ2bnlVeGFzUXNKMEpBeTE3eVJJOVVaOU1TUzlKSm8ySXl2SnlnSktLUmo?oc=5
+- **2026-02-11** · [Markets analysis] Weight-loss jabs push sugar price to five-year low
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXdCcjIyYWc2OFo0QWxiREx4YU1hN3FMbTJsUHgwR2ZTY2JHcURhVW9idThZVU9XeWdsWEppS2RxenlBWHBCZ1hCNnB5T21ZTWN2bGp4S2dKdlh4V2ZNdzBYX19wY2JfRzc0bEQ3blhra1luZHQ3ejRNcmVFQ1g3RjRtMjU?oc=5
+- **2026-02-11** · [Markets analysis] The fading hopes of Europe’s telcos
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ3Z3VWFhWXVsRF9VVXljal95clBsbHB1bWRoOGh3SDRZVjJyTGU3a29DNWxwck5SQjgtRFplUDdYUDdwT2psbk5TUEpWY3lZYTdTOURpOWVIVFF6RHJqYVR2Vk5oTjFyNUd3OEJlZW1zWUpRQWttV1BENUNkQWl0UDJJbjI?oc=5
+- **2026-02-11** · [Markets analysis] EU needs a ‘big bang’ on regulation, says top official
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVHZYeEF4Q19Hc2N0NE4wdUxtMm90Zzlndmhlems1VXVCbFFYZ0RPSmdDWERzTF9aZUlXMHJiOFdWWkF4UXFESmhnOFoyTDdqcEN6b0NCZkFHSHBiQWg3Q2pGalhCRDJ3Nlk0VUUteTZ1WE1VMFFVVWtuLWJiU3V5ai1qbDk?oc=5
+- **2026-02-11** · [Markets analysis] Equipmentshare.Com Inc, EQPT:NSQ profile
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE1QTHNMSVRuN2FUWEF1R25GVlQtczBOQ3psRFROb1g5MldWaGhJMWp1S0tMaGlfalFyYlNKVkVFZjRlM0RGMGcxcTdmTW1HczgyMkhEaVpXaVpPaVNHYWZEbThBdktiWkdjQzRlcFcxRHFYc0k?oc=5
+- **2026-02-10** · [Unhedged] The US consumer is slowing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0RxTkhzbVZVT25ja3RuVm8tUmp2emJpSkVQMHBsNTFKLVY1MUxvbF9SWHhoYXhLY0NVS0JiVzNDX1NBUU5BWW43ZUlpSFd4bE1iVGlpbURxVF9wSmpOc01lVlJraVNOM0RRRE9lRy0yRDVSeHR6eUlObDdNQ29NM0RXdWM?oc=5
+- **2026-02-10** · [Unhedged] 25-year-old founder raises $220mn for secretive UK AI chip start-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdW11M20wUS1GVEpNclFjUWFnMS1rckh0Q1RTWktmUDFWdEhReTdoYkw2OEtBeTV3WmpwLTUzc25XYTdaVFRybGRNS0pDWkJSWno2M3l5eHpxU0E3Y1dYbUpGbnlzcTFiLUtLdEU2YzgzdUhoSjZkQ2Rtelloc0l6SEp3aUE?oc=5
+- **2026-02-10** · [Unhedged] Why small caps belong in your portfolio
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1NOU1YdG5aQnlfSlpZQ3FfQmFRWjhldTlCX0Rfb0F3T1k2bUQxNkVTWkp4TDJJVnJQYjNoRjhpLTBmX1o0cDM1UmltREZTd2kwVlhkWFl1WGtlVE1aZW9vQnpDVm5YSUFISDNsUTF0anI?oc=5
+- **2026-02-10** · [Unhedged, Markets analysis] Dealogic and Mergermarket owner’s bonds hit by AI fears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd24tOUJJM3BUS2JNWjczRDJaRGF4cGJRWjdRNWJQM082WGRYb1gtbGJmWkZKRmVVWWhhaHRRaXFEdTFGMzlTOU50cDNWSkU5RkhnaHd5NHg3SDhtV3VJdWVGUi00YVZTWUlpcHB5Q2tHVjF3VHhkOGpGTmd5QVBnQzJPcDE?oc=5
+- **2026-02-10** · [Unhedged] US brokerage shares slide in latest sell-off driven by new AI tool
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU55bm11bUVnWkxFeGpqMHpuSTdta2VvUjZOdkhIRDBBNzlrX3ZjOTJRVndEcXR6S1ZyS0UxY0NtdlFkREV2VF9zcEJZOUtSOXpQZk1aTWFmTnpUdXpuSmZoOHBDdnNIM1BoRkd2bzZoN3pCNWRXMWdYeXJmd0kwUXhxSEc?oc=5
+- **2026-02-10** · [Lex] BP is not getting enough credit for its turnaround
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHBONnluMVRPaG0zMGh1N0d5OEw3ZlBqbnBBb1hUVUoxY1pBVTZXb3F5OTJveVV0ckJKYzdNeG1fWmVodzMwbFZnN1FkbXVaOHByTWs4QUQ2Tm9lWHNYcGJTcy13V2xGTUdReHdRdllCbGl4V0lndy13MS1iYzNuSTk5V2Q?oc=5
+- **2026-02-10** · [Lex] How the SaaSpocalypse will hit private equity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGJqTWZPbkh3b0lvQmVFM0ZZclktNjhpMGRKR1R5Vk5GV0oxaW9fWm1uVnFtYUd1NmRhM3VQRVJlT055QnVSUUNHeE9VUmg0aW9oMVZoYXFQVUNHUzZaZXRTa0pyV2lmQl8taEZFSGZIUWRORGVJbm1wSXJtckZsTFlmNC0?oc=5
+- **2026-02-10** · [Lex] Paramount creeps towards the inevitable: more cash for Warner Bros
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVpHV1laZmloZ25pWHc5dlcySHBSRUtvbHE4U0JiVmN1RTdNcEkwTVM0OWdWRklyYXh2UUllWW1lNUQxRmk1X1NKdzNJZWVpM0UtdEVocDkwUGMwZ0JJcmdma1RlQU5ZMG5NbFRHTWRLaDFoUUpPc0luSWlMeVlOLUtGTm0?oc=5
+- **2026-02-10** · [Markets analysis] Non-working partners risk limbo with UK migration reforms, analysis finds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmt5eVh3VU5xTC1nMkgtcThxWDNBUmwycTZPTzM1NHhxWWl5TVFDRmtqWnc0ODVxZ3Nnd0RzeXZmNW16cUFJRC1Cb3liSTlFMnk0U2tueE5NVm1NbFNjbnFpb1pkSGRFWGkxdXR2elNxdUtjV2RXNl8zTzZHRlk1UzZ1OEo?oc=5
+- **2026-02-10** · [Markets analysis] Will software eat the creditors?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE45dURZaW1XR1NmalpDdF9PamowWkotVnoxel9GR1dNRmpmSDhxSF9NZG1SWVllbnc5SGFUbUNRb1ppOWQtN0hIYTJRbEtEUFB5WFZKX0FJc3UtdkZHZ05UUzRJcVNteUtXWTdSbGZFWTc?oc=5
+- **2026-02-09** · [Unhedged] Memory investors have forgotten the last cycle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEF6NG9PbUU0aVFmZ2VLdk9qYVN0ckVIeUdPdjNQM01QWEs0U19sakh5eHVxWk1DR0FKQmhCX0tVZTdDNWplUEFOcWlha3pVSmRqajduM0c5V0ZVOE1jR2dyYkN1eWRIOUpIeGVvMzFRVnpZSWdGUlA0bDNjTnpTOVNGUHE?oc=5
+- **2026-02-09** · [Unhedged] Investors sour on listed credit funds over AI hit to software sector
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3ZZN2ZiTHFGWjFYTWN5bWY4aWlVeWxCbXVnOXRNR3lfcVBPVjcxNmNhZGwtYy1UeUlnT3o3SlNFNGk0bXZDeUdXbFhPb1hYYlV2WlpfS3EwQndfV3FQVUpsTTJvMGRiNXl2TzFEMzlXelZySWNUMkJMSGVvaWtaazVBUUQ?oc=5
+- **2026-02-09** · [Unhedged, The Long View] Will jobs and prices leave the Fed room to cut?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFVQM1BMT1dBcGd5TDhQN0RLY3NwZ1ctbXJaNXAxM1diVVdITC1BQzlwTHFuRXV2QzNPWURucjZjTzdNRXJuTkp1bXpMN0N2TE8zN1R3WmRtRTBUWW1FanV5TFRZVDUwY3dnN0xUNVg2V3NRUHJ3SVU3bDV5Q1I1OTNOYk4?oc=5
+- **2026-02-09** · [Lex] NatWest picked a bad day to do a decent wealth management deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2ZqdU5uVmJjR3FMaENYVVlmV2RaMFdNcFFsbXFUZ01xYlhfTDNVcmpCdkYzUzNwUTdVMWFtYVhWS1JtdVloaG5odFhzWU5helRfRks0UXJQcFlnMnJQT05EZlRCZUR3Qk9mOTc5YVozdDZpdnRMMjJXcExRYzR3OS1EMGQ?oc=5
+- **2026-02-09** · [Lex] Shipping giants have learned right lessons from past storms
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdm1vYTNaLUY1Z1lhMDZrMVBMdjl4cm1tb2dETUhIWUphWXJCVEtBM29zQjlWTF9oVkc4amR2bkRIdm9sMmV2Wm5pblA0LW1jdjNmQ3QwVzZTNXFrRV9GdFhOWlVoZ3JCd2Y1eEZJN3cxNS10WENoU3pPdkNUZlNMYldlWkM?oc=5
+- **2026-02-09** · [Lex] Jeffrey Epstein paid Les Wexner $100mn after retail billionaire accused him of theft
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTRqQ3NUY0tRSDVTYXZuR2ZaTVNRdWJ5eEhXMDZmUVJFUGdWQWdibU5mQXRDMDdoZnFhM1Bkd2dRaWlLQWJVRHNIbEJ0dzM1eWExX2E5cVJyRmZfV25oOW1nZ2EyUHg4UUFpUTlNSnUtQjZuZmVkSnhDdXRQc3dkM2YxZFE?oc=5
+- **2026-02-09** · [Lex] De Beers likely to be sold to consortium, Anglo chief says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjVLVzlzemxxd0hLbTRIeWhyRUswTl9qTDdDTWVYVWRaSDUtd0Z3a0IzOXBhQmxKYkZ3WG90WDJIM0hGa2NvbUUtOWJXSk9OSGdQamZFX0VWQ1ROamZxdzl6TklTQ2V4YjRIclpQSUR2REZPYnF3bks4dXc3Z1hEUktnMS0?oc=5
+- **2026-02-09** · [The Long View] Alphabet lines up 100-year sterling bond sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOclFBWi0yLWgwRGc2M1plLV9oQ1k4aVpvV3pncmNXaWpUQi1NdGtsSkh2Qk4takROSFZ2WGIzUEJoaW0yVUpvSVg1ZUtnWEpFZ0tYQlRGUGhsTEFWNkUzbDhuWjNtT0FjdVdwb1BodXNGUWtCbS1Kdkowb2otVkFvUzZTQ2Q?oc=5
+- **2026-02-09** · [The Long View, Markets analysis] The market meltdown in data companies is profoundly wrong
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1BFY0ZKaHM1VWF5aEVnNHZGdXdiYUNHbFFmcVBOZzNjeFUybnA3elM0RWtqX0FtazQzcmtxWl9rUlc3YTdmNkRkY3VCY3lhZHd6bGdBQnQzTGZMVHhVcmt1R0JnMmlsNllRVmZ0TkVjUVFHSGl5X0VxT0JQaDZUYXhvc2Y?oc=5
+- **2026-02-09** · [Markets analysis] Misconduct in public office: the offence that rarely ensnares politicians
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWExpTkgwd3AtNkxVcTltV1ZjV2lOSW5MckMzODh0eGlEY2pNQXhIU3hwQk9WOG5aTGE1QkVpMUVZRWpUMUxScHJtd3FzVXkwZjJ2bnNTcW1welZTNlBjRnRBa2s5bWtCUjI4VWFmaUZPbmhqTDlsYktqS0UxOV9LMFVGcGg?oc=5
+- **2026-02-09** · [Markets analysis] Russian army casualties in Ukraine surge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOelNDLTI1YUVTSUUwM2lPWkNEaEE3NTRaVEF0T1lGZlZxN01JWWlyem9UNGtZV3pKblFGa2xQYmZXclNUU3hSUmI4emliQUZRQmNONGRBOUFrQUxDZFhwQkV1dVhuNDV6RWtLS0RGTlplSE5hTlA3MVVYTFM5UU1HMFg3Vlc?oc=5
+- **2026-02-09** · [Markets analysis] Retail traders double down on silver even as price plunges
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5fYTJiTEhBcnh0bWFhODVvX0FqeWNxdlJZVTF4RGVZV1pFMzNnX0pldWxBcUVQbVlEazNIbGpXRXdNejhHNHZfeXhYdERUcFh0ZUNqYmlHc292R1RTMnhWc29TZG5DbE13VkI5N0p2T0k?oc=5
+- **2026-02-08** · [Unhedged] A chilly January in the job market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2hjRWVaUUNERG8tSWlKYXhHbDgtVjZ0bFQ2ZmVhLVFZU0JjOFJLRlVORTRBQ2VVNlhkcDJVdldNX2hLWDNHbDJsWEpIMzVEcEFDTloza0duV3pudDhfbGNrQXRzUDJPN2tWRk5JcmZtQkZxc08wN3hfZl9MMG4zbVlaeEU?oc=5
+- **2026-02-08** · [Unhedged] No easy end to easy money
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0hfRkZpOUVwc1JldjRnV2oyU290M0djUHRBOExVamlENlczdFg3eXI0RnFid192ZW5qSWgwS1hjODh2TjRDeWZ1cnU2T1B2bjRXYmI2MnE1cTNNc2RrMGJObUx2SUN4cTRLeEVUN2NBWVF3dFgtQ2pxWU5LYXFKVEpLZDM?oc=5
+- **2026-02-08** · [Markets analysis] EU failing to implement economic fixes as single market withers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONHdiN1k0X1NnVklzaFRrblZFT1ZEZERxdWR2djBfbXhQS0JyNTA0ZF9KcEhuQUJCbE02TzBrRzQ4UnlQb0JHeTNYVmRCdVpNZ0xuSG5aQlZ4RmVlMUJKM2pLdVFveGVELWR0Q1BWanFDLVhwSUVSUWg5M19VWXZ5YktoUGY?oc=5
+- **2026-02-08** · [Markets analysis] Letter: Diagnosis of how British biotech could do better
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA3QjB6YnI0S2J5WV9JWmpXUDRFOHZ5M0Y5X2hNVThSWDVrVUowME82Z19OWG5qNE5RZ3NlaXlPQnQ5dXVIYUh4aVFRZGlDbjZlWkJuN1g4M0hkdlUyd1VtdF9vVmJIb3lxQWxfei10TlE?oc=5
+- **2026-02-08** · [Markets analysis] The CVC conundrum: fund investors love it, public markets don’t
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2lEZUFGWGFDd21zWmUxd001RF9kSU1uTG82WF9PejhHUFhEQlctdjhBWlRYWFJVak9UZVQ1S2JxU2ZlRkE4Z1kxR1V3M3N6YVVRYWpQVDFBeHhhYjFMYmZWam04b0VPNkRVZHdQUkNwbElRcWR1a21pRE9Gc0ZZUEF3ZEM?oc=5
+- **2026-02-08** · [Markets analysis] Japan LLC has been trading its way out of a fiscal hole
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBKWXpOUHdCYThPSTNpVzE0dmtjM3NpYnNCUFJ1NFhYOFIweU9xbV9ORGRPSmJ3NjBibHdtOGlEU1QxcjJwMGtFSDdtQmJkTDRXU2txTUR2THJjLXZsalJiNzFwcElsa2xMTWotajZ4dEo?oc=5
+- **2026-02-07** · [Unhedged] Chart of the Week: A diverging Magnificent Seven
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONV9QQmhwVi11Y19fcExIRDJSYllOV011T19IX3MtWDExd1VQUWpldDBkX3RPZE9yRUo5NGxfZ0VyMDRRaVBNMU5HU2JRSWtGSlJmajcwMWRVTHdtUDZ6VGtMNjJ5SGRKSnFEcWRiUVlBXzBmdklMVnVhSDViSXkwQTY2ZGo?oc=5
+- **2026-02-07** · [Unhedged] Creditors accuse Optimum of ‘weaponising’ antitrust laws to avoid bankruptcy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUZNVlc4anNpQWRMcGl5QUpoTTZHTHgzckFJcS0xb3U2UUhkQVNTdk8xWVo4WWFDcFltc1M0LXRMTEkyLXBHeHdSNUk2RjdTWk9JQVVxWWtvc1NTZEt5Ml9sZXNwajJ2allFTk5BaEZuZ1VqZkp4OHJMVW1HYVRiWUQzRGU?oc=5
+- **2026-02-07** · [Lex] Disney’s magic might find a home in Big Tech’s kingdom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXQ3LXRIbFN0ODBkeTJ5SmFTRmhYLTA3QTBfYmRDSUo1Z0ZESDIzVGhoUkpkTUpqT0doX2NhaFhKcmxGSWNrTjJwUDY3ZTBDUFZEWW1FMG54d0tiNjBicDc3bkFUcEhCRF9Vc1ltWGFQaFZRTkRqZlJoWEpJNDFtajhWZm8?oc=5
+- **2026-02-07** · [Markets analysis] Retail investors pull money from UK equity funds for tenth year in row
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdElIQmE4dmhCajhEbjJzQnRtRF9wTV9EcTNWRDI1aFlqOFlBRlYta1RVNmNtdUxCdXBZYmlCdkhYdHlybDR6M0J4X1FINFgtc19tQTVXdHphZlVKdUdnVjFMSjN1d2ZRdmZYTDhaZXI2MVB3aUlPWmM0U3NRVjFRQmNmT1A?oc=5
+- **2026-02-07** · [Markets analysis] Buy European and the French paradox
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNejNZYmFtWVNUT21CZXpwcXNocTFDRlh1RjV3cHBORlUyd2ZRSzAwbFVHVTdoT0wwU0JfMjFlUXpQMjQzUUd2QXpOZTVFMDZ5VUxPUkljZTIwUml0X0NHU2F2NEhkOVpkQXFxMEhUNndJTTZNcE43MjBLbEF5SUgweUpVMHk?oc=5
+- **2026-02-06** · [Unhedged] Tech stocks rally strongly after three days of heavy selling
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnRmcG1MRWVtUHJtdFJKMlMxTjA2b2l3Q0FwaUxBYTZOZnlQMm1UZVd0U3pjQndTRXBKUXctb2haZzZxZkg5ZmpLSGJvdTU1WnlTSVo3WC03U283ZUJOa3hYcVFLVGEtTmhOZWlsYlk0SzFjTnF0Y2Y2TjZlVVZWV2o4TUg?oc=5
+- **2026-02-06** · [Lex] Prediction markets’ warp-speed growth is their biggest risk
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFBmc2Z1aEdFYTVyUHlwalF4UTVpenhVYmRYQVN3NGJmSzBpOUEtc1dZVHFlbjRJVE1rSDVUQ2Z5Y3hTeFFzUnJVMDJNMm9aVHlhcXc0eWhCRjlVaHhsSkFKX3JHa2ZXN3BJUTNMVDEwOFdnRV91aXVnT21QQzJkTlZWVXc?oc=5
+- **2026-02-06** · [Lex] Rio Tinto and Glencore may yet get their happy ending
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFV1SkpoeVBMZV9YWnR6THI3VTVFYkgzeHVreXktVlo5Zkg2ajkwbTJla1NJckVMbDRrbC1Ud0p4MU45SEJPTjh5cEJDZDBRZDdWUmdqcVFFel9zZzJ1MzI0bndKUUZzckxteFZJUFZUQVNSd3Z1RE85czlDemR5MVhBZU0?oc=5
+- **2026-02-06** · [Lex] Lloyds Bank can afford to add some Wall Street swagger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbC1NanU0NVFyZF81bThNQ2tYS09JcXJhS2lxRDMyRGl0Z3JpSDZPUTFvY3g5SjhUTTZLYjB6MHcxbUF4dGtqTUw5NlcxdVFyUXRWZGg3bVBUQnYwYmYxVDh6dndyemcwNDROZ1RmWW1ieHB3ZlZlNVZyaExIb05hLXpQemc?oc=5
+- **2026-02-06** · [The Long View] Tech wreck signals a market reset
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORmxRc0hkM1dFeFcta1BsMWNaQ3BzbndQLWhrcHN6V2JzNlJBcDUyNGl1cVFIX0lBTy1xWDduS2lmQUFJOTlqUGJ5cml6TGRrd2ZHNm9DLVBFOWp0WnhsQUh1anZxR3VISlpvYzQ5ZjQ1MDRHb2NybmpjMEdSZ2FqM1Bxb2I?oc=5
+- **2026-02-06** · [The Long View] Keir Starmer’s weakening grip on power
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2VweU9SU3NTR2xOZFVuQWh2U183ZTVHQ0RKNHZlNlRfbG5vT0MzcW1mOV8zbEdqYVZ3STJZVHVSakpFUDZRRTZQMm9kZmt4WGdwQV91UzNFenNrMlVsMldqajY3T0NZYmdXQkZqSVo2aG1FVFlkUE5WRGYzTlgxQUhGRVU?oc=5
+- **2026-02-06** · [Markets analysis] Kalshi chief Tarek Mansour: ‘We’re pricing the future’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXIyVGQ2QzVkc1VLUVJTdHJWekRjSGh1WkFheFljUVFMZ0UzOHFHaUd4V1Rua0FrbzZZS0RCaVAtUGc1ZmpJWXFYanNIdWxpeWhsQ01uSzU1Qm4wRkRuaEZZOExlMXJGWldQYUNxWTAxMEkycy1qaXlyMHV0OTRRai15Rmw?oc=5
+- **2026-02-06** · [Markets analysis] Anthropic’s breakout moment: how Claude won business and shook markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMV9TejlNalZRWEZBZF9ZOWNNbXRnMkd5Z0g0el8wbTdEaExhT0Z5N0dfMUtHR1NjNVlQb3pOSkI5TzRBZzhHUEh1dzYwRnEtaGRKeUtrNVhGYjBpZXBkcmFpb2dPdmhmaU5xVEVXc0hUWTk2a3ZrTWpudlFyaDV0OU5Ddkk?oc=5
+- **2026-02-06** · [Markets analysis] How prediction market traders reinvented the bond
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQXc0Rk51WTU2dmJsWnNsR2pvT0QtLXc5WWtGNU5Da0xoVkxLdUNPcXFiSEo0R2NQWU1MVXpxSU9XQnlXYURTMjdrN3RoOTlnSlgxN3poemNkWm9tVHlJbjh2a1hKa1o3SzRZcjhlWjc?oc=5
+- **2026-02-06** · [Markets analysis] onemarkets Italy ICAV - onemarkets - Difesa Obbligazionario 06/2028 W EUR (Distributing)
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTE9yZWZvdmdvWUk0RnRiMkd6bzYxN2ZEU3RCNklhenZrc2ZQLXhScHZJb0dFYTNUT2F4TlZOOFRUZTE2ekVCSjVKUXRXRTI0QlZEX1NtaU5yOGV5ZFpBbnBaSUVSNy1WVDN1LW1KXzh1X2hzOWJwWldEX2R2VGZNcmc?oc=5
+- **2026-02-05** · [Markets analysis] Talisman Metals PLC, TLM:LSE profile
+  - https://news.google.com/rss/articles/CBMickFVX3lxTFBXWmpBMW5LeVVEOE5PR1BBdGRCQjV2bXlCM3pfMTAzQTNxc0lYb25wQUdUOUZhNzEwVUZjUlFMMmJ0NWg4YjE0U3oxamFnZkJyWFh5RWgyZk9FTWxzUm9ZelRaTjFSbEZma1hqVGpCdjlzZw?oc=5
+- **2026-02-05** · [Unhedged] Privatising the Fed’s balance sheet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEZUbU5CSnNOVEFOaDVtZ2lWenRESjB5MlJ6cFhueWh3QXZmNXFTRWtWMXpBNmpkUHhwN2lLQ2N1XzhWb3Fxak90c25BYmFXRDZaSGpXSkVYWHo4ek8wVWxHUG1pMUk0ckYyck1vWTh3ZXMyUkhTclFUWTk0V0dPY05zRlM?oc=5
+- **2026-02-05** · [Unhedged] Pandora to shift to platinum jewellery in move to decouple from silver price
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVlmdjd1T2h0eTlGekl0RW1NU1VfSkI0R0ZZX2twSkFfME51RlRVRURHQjlDQVU0TE1CS3lCRmRiakZKUElkQ1VEdGdJUHdtSFhWaGhCMzZsR0JqUHRfdEFNQUxpZ243U0ozNi1yT1hTT3BrYzk5cThBQXMxX0otdWdzdVA?oc=5
+- **2026-02-05** · [Unhedged] Syngenta prepares to revive plans for IPO in Hong Kong
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHp3OFlCOFJKRGdnbmpVeXh5NE9BeGlKWEtIUndxY1paQmx5Rmh5bVFzM3BxQVkxeHlmRE5oVEU2N09saTBYaWhCLTh0SGVWXzZveVNXM1hPMVNrMDFRZWRZdEc5VGJMaGhsTVdYUTNGS2JIQVM2THdLNG5tSUNkX28yRWo?oc=5
+- **2026-02-05** · [Lex] As software sinks, US oil majors are regaining their lustre
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObmtGVGZycHdTR01DdWZqMlVySkhvUEM0OVpGbXNrS3F3cXI3bmtERFJ2RXlQa04xVVktMjA0ejRZenBsRW9pQnNiN19kMFdNNTM0ajZrc0taX3RTQ0twWG9CTklEM0JkbDl2OG1qZk5pLUpnRWxuYzI4VUR6MHFscWoxR2U?oc=5
+- **2026-02-05** · [Lex] Puma’s new Chinese backer will give Nike a run for its money
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbEVZdWFucENZU0RYOHVfenFDY1hJdllWdk9kTS1nQzdKY3k2b2xiaEk0bGc3SHdFU0F3d1JjT1llcjF0S3pRZU92NDRRTTBNRk5NTHp1amNFSHdwNWExQUNsZlRlNjJ3T3ZPMEV1Zi1KQVZuOXRpRFJuMEVoWHk3MGJtcjM?oc=5
+- **2026-02-05** · [Lex] Rio Tinto and Glencore abandon $260bn merger plan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHh1NUZaUXlEa3FBLWVmQkhfT3VxQVVFM0o3b2xkaDN0OF9QcndNenJLMDhDYl9xRno0ZU9nWDRZWnBqWVJyREFXb2FWRVF0SjhTMENWcWhRTlNGeGFPc0pNUFlGcGNNd3luUUdZUmdyOE1xcUZlTTBfVm5aT3lQYS1CS2Y?oc=5
+- **2026-02-05** · [Lex] Maersk fears first loss in a decade after rise in container shipping capacity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPclJidk1NTm1oc240OUh4Qmt4Qlluc3FGQWFyLTJVSHBZSmgya0NaSVFKSmo5eGx3Z0dCcjJmc1JjSFl0SnZ0QUpUVUNmcXAyN0k0eVN1dHdoN3ZUVlVVTjdYNXhjUF9nNTlySjR3bWN4anVlck82RjJpY3JDZHpaNHcxaXk?oc=5
+- **2026-02-05** · [The Long View] Bringing euros to a weaponised currency fight
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU0teFRuVDVOR2hsT1V1cEwwWmd4LU5YVUZDMmpLUGh0OG5YZW13YnJuX2gtNVVjMDdKVDM3eGpYY2hpV1FzWFZYejdxUm44U2ctX2FiNkw3cnJhWXVmT04zX0hWdDVSWEtpa1Y3MUFGSXZJWGhNTm45QlhsRldFcFowbHE?oc=5
+- **2026-02-05** · [Markets analysis] Anthropic launches new Claude model as AI fears rattle markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUJfbnowd096c0xqVUxFZjJ1emFJdlNsd1FzWXNqNlpOUGVUTWt5OTBfSGszTnhQSTBVc2toeFlhM3VOX0V5dGw1aFl1TzJYdWdFdHhOVnQzRGFwLVh4WmVEM21yakJQR1RJRWpXcUlSUHJNdWU3SXJsYW5KMTUwbFl0RDA?oc=5
+- **2026-02-05** · [Markets analysis] The AI Shift: Is this the ‘take off’ moment for AI agents?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOG1rZ09wUXZzNm5ZbUk5a1FfT1Y4RDBZeEVLZFpwRUY5V2NPbU5YQ3ZjQjJTU29iWjd6THNUYWN2UTV3am1pcDc5LTdWWEN2MTlZcUR1RV9lTjJUZVNXajI1REVJZzB6WERhamMydV9nb3BBWFZMd0FpRlVWTEhDTE1IMXM?oc=5
+- **2026-02-05** · [Markets analysis] Money, power and the play that scandalised Sixties London
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXBHZVAtVkVYeE5aa3JrNWQxVlBLZG16VXBKTDFrSldxQmFtLW01Vno3SW9mNWU1T3dUUVVBYjBaZXBVcGVmQWFpSkdEei14QmM1dEFhcGI3U0VVSzZSWHE0MEt1aXNxZ1JKOU9yVDFSNEwwY0VSalY4TmpBYklnemJVVlU?oc=5
+- **2026-02-04** · [Unhedged] It’s not just a tech sell-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXd3d0RxWE9JekdEaERWQ0RwRi1fUmx0dWVleEZPQW1JWjBfRkVkbGVQdTRBc25pVVRNUHdhNGRJaTR3cXlEa1NmUjlwcE1LUWREUTlHbjRKdVJPMDZULXNfZExZODN1T0tNdFhUWkdBZWc4TUFyMjZGNWloRWFWWGZERDI?oc=5
+- **2026-02-04** · [Unhedged] Software sell-off threatens to delay London’s €19bn Visma float
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEhSMVA2NkluRzM2TDN3MmlSeW5TN0VRQlRnb1l4amRPU24xSzlFUXBMR1h2REVOemJjS051aU1pSEw1ajdQOUNNR0g4MWxJTGZSeUx1UkxvNFppT2kxTTZXVjdJcXRRVlpGUW5FLUVqWGJrb3R3OENRVXZNX2JNeW5xdVU?oc=5
+- **2026-02-04** · [Unhedged] TSMC to produce advanced chips in Japan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDZEdzNyVzZ1MHFzZ0dUMndfWkJtWGRTeTRPOU5KVDhWTE5wWnduRG5xQ0xtWUtJNFR5Ni00VjdyOGN4aTYwY3ZsNkdDY1JTNlFKSGlISnl0RjNtcm16VklrNDBRMFNNaDRZWEVUYmU2aklZZ0xIYXFxVG1HVU9COUkwY3o?oc=5
+- **2026-02-04** · [Unhedged] Chinese trading firm Zhongcai nets $500mn from silver rout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObDVYRDlETmREcWIzaDl4Yk9yT2ZZU3ExNlJWTkZWOU5maDFxcWtHdDRBdXJtWm95OGxQcWNIbkRoM0ZWREVjYTV6RE5SWVlWQm14bHQ0OVMwX3QtSDVLY0h0U1BKZVhNT1RHM3Rlc08zTWpMLWNUWTNKbzZIeENMZm9UN3c?oc=5
+- **2026-02-04** · [Unhedged] The beauty of friction
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE00SFZqUGVoUDhHT0lmdDVNTzVKeTFTMWJEZE1PalVVbmhDdExQamhCMDJHT090RWpkOHRJdmJhZVFOd0doeXExeWNlOWxHVWhfWDZDWkZBdXN6TEZzSUlDT2NxNWZ6aFYtUUNPel96QUY?oc=5
+- **2026-02-04** · [Lex] Santander’s Ana Botín gets back to the family business: dealmaking
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjFaTXFkZ3dYRFRhNGNKd3FJZkNtVUdQUlVNcEoyNWVkRmIwd2lUOVBQaGFjOUE2cFM2RW01NnR2YUpTaVNwRnRWVWhSLWk1NDhWNlctT09Sbi03NnZNWVIwcHFUbk1LVDlzS3BkMF9PVWUwT19OcUhPT19EQzhJWHBFOFA?oc=5
+- **2026-02-04** · [Lex] Not all software faces the same threat from AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWhTVjJTNlFJWmVkUThhWEM1Skl2NFlDZ0N6UkNYU0xmcDMtMkV6QzhCanZhbEcxYS0zUXNtR1diR3ExLWZHSUYxRHFYY1JSMmEzb3hsYlBfQ2FQQk9GRUlmSnJSLTNaRE15UHZxdGl4ZkxtNzVBR3JZbkVQdUhMTFByOGo?oc=5
+- **2026-02-04** · [Lex] Novo Nordisk is biggest loser in weight-loss duopoly
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE1KaG5OU0gwOS1NSUNyNTFoNS1Odms1Zk9ZOUhyRVh3d2U0Mm1DLTdlMDJJeE8xakVxaldLNHJlbEl1U0l2S3hrN1lja0lrbVBxVkxFSEt5NWJEb0NjSDhaQ0JUQ0s4WGxZaTdVQVZ3UXZiSEVLa2NtQkhHOUZldnNHRzM?oc=5
+- **2026-02-04** · [The Long View] Britain can’t ignore Europe and China at the same time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX25CRGo2aWxnUzRSY2NzdEsxcUZIQnUySGZVTVItQzVHZnJJbXljZ3diSmhlMkI4ZjhuZHo0Z3JIVmJzaEhLQXU1OTJSc3RHSlZkMnQ5OVBoR0JSYTFOODZ1d3hnVVZtUXNOTnVHSDlRUHUtOFJMQXhyaWR3V2IyRzl2ay0?oc=5
+- **2026-02-04** · [Markets analysis] Should prediction markets welcome insider trading?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUNDSlBpZ3h4UFVWTkVORC1aR0RLdWx1ZEVpdXNYYTYyLTNIUlVZUWxhcXFTeFZROTloWFNVbXYtcWJyYjlOLXF3ZkpfWHRLamZQOWM0Ri1sSjRGRUFVRUFUYUlhanB4RUctY2lDdTBwUFloQXZIdXRlaWhPdlczQTNpdUs?oc=5
+- **2026-02-04** · [Markets analysis] Where is AI showing up in the productivity data?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGJsWVhiU1JGYXZLLVBYeERJTUJ6U29TY0piU2djVm9WSVNiZGlsaU5yR0xUcFJGcXc0cDdrQ1htdmZLVEg4RnExWFJyTGJjXzVCRExyaTBvZlpqdmQtMHhkakw5elM5NF9xQktPcWh1VVhVZEJPT1BBdkM3X0p5R2M2Q04?oc=5
+- **2026-02-04** · [Markets analysis] The truth about the ‘blue-collar boom’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHVRWEJBdHZXazlxOVJmcDhVSTd4MHZQRVhMZU55dF9ERlg0b0hvXzlXOTdpZklHV1BnWFFKLTh0WGc5dTJwQ2lTd3k3cng4Mm5lLW96WW9DNmpuNXNPYm4wN0tCTEhtNEFSTmhORl9aTE5oM2FodG43RzF6SmFZZG53S1k?oc=5
+- **2026-02-03** · [Unhedged, Lex, The Long View] Market concentration is nothing to worry about
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkg0Nnh6MlRGS3lMYWk3T29FM2NQM2stR2FpZWFkTDh1QXhUcmZ4UGFuLS1UUEx0S2lWdDlRRXdST1ZocktVWEYwclNkdW5HcWZWWVRLTFpCY1Y4UkptcE1kNzVSS284OURqd212WllsdlU2TG15OWRUZjd4RlpXTzlTUUk?oc=5
+- **2026-02-03** · [Unhedged] Transcript: The next Fed chair
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc29lb3VUeFVieWdPUnJxMWozTWluaDNSSDExVFRtYjVHQjJ6aENjdW5mcVl1VVBwOFI3QXNqOVlJY1djc3pIWTFUVDZ4d0hhUzJ1MklBYnlOUWFQV2JLS0k3S2NMZlZ4WmVIdFRMX3pxSG43aWNoeWdwR3dqQWhRUW9Pb0Y?oc=5
+- **2026-02-03** · [Unhedged] Food and drink companies suffer as US shopper sentiment sinks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0NTRUxFTm5pZUstMGp6OEVOWXpoSTN3RmtocUZCODhzYWJLY01JY21FSFNlRTJxVGREdWsxbGRHeEs2VUppOGdOQzB4aHdkLUxSbXJpaTdwODhHaGR2Y3RXRmNJZW02ZHE1SlZEd0R2aDZybENuQ3ZNVTJLSU9JdE50S0k?oc=5
+- **2026-02-03** · [Unhedged] Slovenia ends year-long dispute over central bank governor
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXdPMWZsNmhfUWtQNjRvVUVnOHlVSXo1UHZDZEhWbzAzSG12MGZLdU80ZlA3WkNoODRzc3FfVXVVYjlsdGZISk93SllEbFBIZ2oxdFRaWEl4WGJRN3BEVmpaZ2REQWhJUk0xMFVWeE5oWTZnSUpibGFQbUFqZ1pRRUpVR00?oc=5
+- **2026-02-03** · [Unhedged] Scenarios for a Warsh Fed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHZweDdmLTczWGE3d19kUGhBNC1zMFJxdU1XaFVHaXhYZUhjTldEbkhxZDNzcENIMzBxMl9TVlUxQk1NcjN3S3hzYVR6YlNoa24zRXZSRlVwNnBZa1owc3E0aE1wRzRSUmdUSXZMdGo0VzlZLTFzUWh5SFg0RjVNZ3l1dDA?oc=5
+- **2026-02-03** · [Lex] The new rules of finance, courtesy of Elon Musk
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPblFCcmxrZ3h5d3BESVVIcEVVc0VzcVltYlJoU0FGYkpKMTRvX0JRTU1HbWthRVhhaFEtSG56cmRPbTVER3A1YWZBRExfeFUzVHI4RmFUdDJzcmRDOXNEa01uRGFCdUN2VU40eXFqMU1nOVBvMi1sTlg0N0FHUDRreHIxdUg?oc=5
+- **2026-02-03** · [Lex] How copper miners are squeezing their way out of a shortage
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW5ZNEVWU1B0TTNTQUFodVloTTM0MnhacDI2WExPUFBuZGRteGdKcjhsaV9Gd3VxM1hEeUNKOEhBYThBd2dRWng0WkpycG5CYlBCdkZEbmozbXlqZWRFRnNJVjVnOUpwVVZuUE4zaDBVLUZqN1F3ZE56a2lOODF2S1FTajQ?oc=5
+- **2026-02-03** · [Lex] Walmart’s market value hits $1tn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZF9JU2JHOUFpV0hna1JqN2ZoblN3MW9naW0xRElMOTFOWXREaWR6azk5ZmFEODRvNEFvZ0pZVXRMc1lfYnJKZlMxTDEzQjJMTHQ1dG9ibGFocWVTZThqNmJRcXloRnhPbmdCNTN3NUhCMUtMZ2ViWnZwV1dMVWVmUEJUa2M?oc=5
+- **2026-02-03** · [Lex] PayPal replaces chief as board warns ‘pace of change’ not fast enough
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUNKOGVZWkk5anFNS1NJRVpUMnBvcEhIOGp0WklXSjZQMDByUzdGUnVGYVRlTjNJV18tSVc5VS1WRVRtTDN2TFdCaUM4c2JWMXFoRHlKSHhmRkE0QS1Rc0hvQ3ZsME4wUFM5Y1lnTU9zdkl0ZFRoWnpLaUtKcE93LXRuMXY?oc=5
+- **2026-02-03** · [Markets analysis] US stocks drop on fears AI will hit software and analytics groups
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFJHYWVxMXFEMGZUTXBSR0tmQTFCVkF2WW5vaFNjMVQ5NnlVQlM0NXV6LXQ1M1FtQkhwOElha0NFWVRlMDRzS2xENno4QzZYc1gwTU5wNFoxbHY3aXd1bXRTeFBCbDltMmQweS1QZHkycGVVc1pHNVc0VkhqM0RwdUl6UVk?oc=5
+- **2026-02-03** · [Markets analysis] Why absolutely everyone is peddling an AI application
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEFCQW1wWk0yOHc5aTl2ME04dktWX0k4RUxCRWYtRThzY3Y0N1ZaWmZOR0x5WlNWalExY1Nackx4bTNmOUxEcXdjSzk5cG55QlhLclhOMjVONm85bFNRSl9QZU9qbC16d0NIb3pQYjFQN0d4WGFFVzlEaHRkOG5VWURFLUU?oc=5
+- **2026-02-03** · [Markets analysis] Agenda
+  - https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PcThjcVFlX3FEN0h6WndCUlNzeG42SWtldUV1M3RvMVlRakd5VGQ1NWZMd1o3ek5qaEpONl94ZGFmSjVVX0t4Zi0xWGRhTnVleWVpYU5sNFlKbzM5c1ZibDdOQ3Zfdw?oc=5
+- **2026-02-02** · [Unhedged] Gold and silver deepen historic slump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPN0xZUEZ6dHpjRnh4TlJucXdqaWFveWwyZXhtRnllVHJSNHBtR2RhR080dzFsMGdtRlJ2M1RWNHdlVWU5b2w4NDV1akZncGlHYW1qaHR6bUtkcUlodnU4MUxoUjNDWl9UbGI3UzFFNXhCS2k3RWsyelVValhRa3g0WHRwV3Q?oc=5
+- **2026-02-02** · [Unhedged, Lex] Scheming, joking, complaining: Moltbook’s AI agents are just like us
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVlXQVB5WjQzTFNEeEszdmFnVWZ5TGNYbWFhai1HZTcxSURQQnBsZzUyT1g3R3M3c2otclQ3VWh1RTJUYVNULXo1bVhmMTNoV0M2c2t2aXo2bEhFRDljYmdiUTJqeHMzNkw2eVBXNXlJVkNKclM0TjdMdUMzVUtwRlFpOHI?oc=5
+- **2026-02-02** · [Lex] The ‘lipstick effect’ now has a counterpart in the cake aisle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHQtYUhGQ2FIb1FKMWpidTg4MDYzOEI4M1FNWDN2OVkzek5yT0s4eWdFRnBLU3I5bFlwWWZDOFNiTmNsVVptVVkzYUhtV2s4bU1VZ0E4cFozSjNmajl6QU1iYWNfWEhnRkVSTDBWakZKbl90SVg3NGsyX2s5by1uUmFNSzA?oc=5
+- **2026-02-02** · [Lex] Devon Energy’s merger with Coterra looks a little too defensive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjRnVzRlY2ZoQ21BUTBza1l1ODlWTWVidnlKMlgxVnZsV0dJVW1mUk00TnZUY1QtQnI2VEFDODFLanZ3ZmlYOUY2eXFXaW1sejVSWmg4Sl9RNnVtUEpKRHpZM0w3NUlwZEJXVTZ2azY2SkFGR244d1BZQ0xnVHh0Nmcxdko?oc=5
+- **2026-02-02** · [Lex] Why Chinese electronics makers are betting on a TV revival
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0dGcEQ5UGt1ektudi1ZYzE3dVpXVVhfaUExV193QWFmWGRZb1RUUEUxN2RjYmxOaHFWU196cWIySEllNzI3TEpHV0gwV3U3X2dEMEVCaC1yMnNTUlpwZkhLeklwdDVRS0dybURwU1NmVWtHVGl3cFdBSmNCT2IyWjlrUGc?oc=5
+- **2026-02-02** · [Markets analysis] Human connection still needed in credit investing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVpxREhWeGVkYXlCLS1kVFVjWW90cnNLOWZIS29FbWxEYjVGNUxibFZ6cE54UlQ4ZzNsT3BHY0JBN3JZVU1EQUI0SFF5Y1pHQjJVQndaYVBIb2VnM0FiczNhcDMtU3N1Z0JrSVFibVZ3ak45YzRJX2ZaVFh2ZVFOeFdmTzg?oc=5
+- **2026-02-01** · [Unhedged] Kevin Warsh: you have to make a bet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNemRQY0toLTJ5WUZmc201TG9HNXdveENJMmM5dlpZZUZ2NFRCeTB2MDllalZobXZjU2N1ZnBfXy1OMXo2aE42ZHh1LWZoM2tEeXd2dEh2MUJJbUxXWldtdVQ2SmkwODNkNUx6WFpQWEMzTF9PLUZkWDFlS0JIZUItRmUyZmU?oc=5
+- **2026-02-01** · [Unhedged, Lex, Markets analysis] Don’t fear the AI ‘jobpocalypse’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkRtQ2U2Qk1mWVU2NWxIU1kyT3hGdDZjcTd2SEhpZE04VzBLUVhiWlFLTkhxUHlBd1NORmlYZ0VJR3ByVUxweW5YclZWMEN3MmhEUnlZOEhNNEgyMDhpU01kdHhrYXhCNzAtaFlYV25zWTZYYTZKMnN4SkFYbUJSeHg3bDQ?oc=5
+- **2026-02-01** · [Unhedged] Inside Moltbook: the social network where AI agents talk to each other
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmNiNUZNZ2N3T3VxeUNIZG4ya1dXNHZNcDN5NXEzaC1IR0ZsV3hHakZNMGtFZjlOVzB5eFdiTmF5WllacEZpRkVBaVRheFZsQUVvcWtRTXVhN0NnbDBKbjBjeWVqd2JLdlM3RElLRE12Z2FRU2NTOGthUnN5ZW1RRlFlNk8?oc=5
+- **2026-02-01** · [Lex] Will the Bank of England give any clues to the path of interest rates?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZDlxYTktRURzVXo3THVwZXBYLXFwMTNCcm84U0xRN0VhVmlZcGZ1WGk5a1Bhak9IY0dOSEZPRGpCUllkU0w4STl3UmlEWmhhRTBhZll6bzQ1RU1ZODI4clpvWjc2aGpWMXlYenJ4clRlWWtLWTliUTFzbWZCMXZHWGhWak0?oc=5
+- **2026-02-01** · [The Long View] Markets are set to test Warsh
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEZ5UXdnX184WXhMUEE5VU14eW5QSTlDa1FCUkI1S0ozc0c3RlQ0SDhSRnNCV21JVGZvTHkyckZiY0MxaHVEdFlMbTJXY3RmLVJRSWRheUtZQVRpWnQtZlRsSkJtd0VzWTJIVlc0Y3FPb2doa19WU1NObmE2dGJWaXFBaHE?oc=5
+- **2026-02-01** · [Markets analysis] SpaceX stops Russia’s ‘unauthorised’ use of Starlink, Elon Musk says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzRRN19EWU8wcjNWWUlnX2NrenBaVUNFQVVZN3J5Qkc5NDMxQjc0SldTc2k3NHRaVHVFUjkxVjN1aDIzOVp0SzNTQVFXMDZMNTBsckN5WXpUakVEZHFTVzFGeklyR3BWTVNHRFI0djFnRWJVLTUyLTV0b25qb3VqbTN0RHY?oc=5
+
+## 2026-01 (274)
+
+- **2026-01-31** · [Unhedged] Gold and silver tumult triggers ‘pandemonium’ in New York’s Diamond District
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmVBY01nVkVyN0dhRkpZU1MzRFZva0ZEZ3hhbVp0SVRucW8xaHF5enlveW81RjNJQkdsbUUxaGFRMFpIR0dlQThPOFRHSUZ6NnVLR1QzcWpTWUhvS1hxNVYyZFJRbGtmUkNSOW1hRFMwblNlNk45NE1mZElhQ1RoRGRkRFQ?oc=5
+- **2026-01-31** · [Lex] Leaseholds and fleeceholds are a blot on the UK housing market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm1QUXRKanpzVUpqaUV5elpqMU1WMDlVWUJadHRXRTlzeTFJQjBkcnQ4M2JUSUVYRTZVTEpvQ2hXY1Y2R0JBZzctMi02WDZmbTh6QllFUHUxQWxhZmlSa3RiUVFPQUJfYmxnc0FsSWNIZnRNUmZkakoyN0tkTy1KbzctZHk?oc=5
+- **2026-01-30** · [Unhedged] How not to short gold
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFg3b2V1SlUwWGJ0NU9MUG9maUg2TU5iWGt3dnRFWktrRU5DbHVYLUFNOTNJSWVaUU92Mm9LQVJfMFliWEtETEthOTlmS19Ccm1xZk5OSEFPSDdwWFdjWG5td2psVGZacWx0RmMwLUNUcE1oZGhwZFB3UWVGNlJGUm1pcjY?oc=5
+- **2026-01-30** · [Unhedged] Kevin Warsh’s desire to shrink Fed’s balance sheet sets up clash with Trump, say investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJxVWdfanVNcllmVUtUQkpKOUl0S0lYeWxQUVNjYk92RENOTWZ5b1I1VXRoWjc3cFNhSDdfbXlKanVkVVUzNG5oVnhPX01henhCcjEtNHcyVTQtMW5oR3dhUVN4Um1CcXMzdjB1UVV2WDlDTGhQdkp4OHlVWlhoSEdOc3A?oc=5
+- **2026-01-30** · [Unhedged] Kevin Warsh will pivot Fed to conviction economics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUC0yXzlCV2VpM0hEaDdhT0hvUlZsS1dnSENsYkNTc1FSTHFxNVpMempNaUg1em5jLWFWOGtUTVlsOHpVRGZIalVKeTNJZm9BN3ZMQUNfMWgwSjlkLWJRUVJnazFOa1R6MGs5LXZQb25qS2d6SUg0bXlpQU9JYWhoSFVEamY?oc=5
+- **2026-01-30** · [Unhedged] Wall Street analysts weigh Warsh
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1pUS1YcFZWdXV5b0tBTlBoclY2VHhEUDhGTzFoTXhyb3gwN3FZVFVfT182WGtMbDNzdzJraWVxdUIxT25LOWc2MWQycVRRWlNMX2ZuZXo3bC1DalU5VjVUcVlUaUg2MW94WVdtRVlSNWo?oc=5
+- **2026-01-30** · [Unhedged] What’s up with Scott Bessent?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMzJHbGtQTUxGWU5FWXJQR0ZIX1lGeG9VcUVXSkhvM1JtMGdMR1pHLV8yTFA3VkoyTXhHcGtJeXZkZjN3c0txWlY3VjZibHdKQlpsdTBra1h4dG94Y1o3STRlQ2YyczFOMlFXWVFXOXJYVUlYNkhmbVVHaXc3bW4xZ2VzNUk?oc=5
+- **2026-01-30** · [Lex] For accountants, the ‘squeezed middle’ is a sweet spot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3V0Q2IxTVF6MFhIT0lHSWRSWDByV2thMllXZm1PQ19LNDZHOVozWUNnQWxreDU0bC1nVkx3bmFobDRrMkc4VVN0UFJBeEVIVXU2RVo4VVBGQVlkSUpGSkFETjhjODY4bVBaR1o2Uk1OcjBvNlM0TVZVdHdPWUl2Q1N0QU0?oc=5
+- **2026-01-30** · [Lex] Lemonade turns self-driving cars from threat to opportunity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUW9FMExwTUlXaXp4YThVS0dVdUs1d1lOZThZbFRSOERUQnE4RUVOU3BZRnBWOUhZTDBWQjRZUUNFVjFnenV1QUx0UVh6NjR5dm9TUlRZRElpV0JHNVdLeENUc05QcXVweHVZWFpDa05vaUoyZE9mdFY5RjVGWGI4QVJPWmc?oc=5
+- **2026-01-30** · [Lex] The memory market melt-up is only getting wilder
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9HUWdNOFY1T1dHRDVwUjEtbEpLV3ZNR3BJbVB3WnczWVpsNTNYQ0Jsc2VnamtvRjVpVS1jQmhjeWVLZjQtSHZVaXhnNVFmTl9aNU5IZl9XWG55Wkw4N3M1WVNFZW9sMFpwY1NSeGNXaVY?oc=5
+- **2026-01-30** · [The Long View] The frank warning from Switzerland on the dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2VESlZ3OTZyeklYQ2FZTFRiTGRuTGEzVy0ya21TWGpfRE9YLThjUVNlU2diVDEzOU8zLUpPUVU3LTJWNlFnZ0VSbFR6OEJjU2EwRnBrTGxjMWMzdGpmV3ZoZXJCa09ZUTZvWV9RUEZfR0Z2N2w4cnUtTkpTS3FhVGc1ckU?oc=5
+- **2026-01-30** · [Markets analysis] Starmer’s China trip thaws relations with Beijing but spurs criticism at home
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTdBcGZFUzhsOWdPdExuekpzYjdULTAyUUZCbWpzSC1fZ1NUMDgzUXFYNEY2blFyNTM3dnNiclliVGpfMFI0c3hXbmIzMlBfNGNxbGtaNnp5NEdOVDd4VThsZFNNQ1lJdlpibTdrdVJheEYtUUVuenZKa0JHbWdXcVMxaVE?oc=5
+- **2026-01-30** · [Markets analysis] Gold and silver prices plunge as rally goes into reverse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbldvTWctaG1uNzFyaWNaUkpiUnp5cDU0NVg5NGhGVVEybHZvWGVfVVktVUVoaTM2dGs4cXpOcV9fTnh5aTZtZEN0WVptQnd4NjlQX3ZQVVB5UDlOODdGWTdvbnJDVHhZZklzZzUtMDVOYUJWTDZKUnVIUnFLSGFDdUNJdUk?oc=5
+- **2026-01-30** · [Markets analysis] The next Fed chair still has a lot to prove
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQakxmTnc3VnJ2emRmWnA1MEhNU015VXNiSDJjSnN1aTFQdDVJak9oUEVVZTMwd3ZjXzQ4NGd4RTBveGZ0RXNJV3BmNGlsakF2Szh6bWlaMWQ3YzdVa3lTaVpZenNFSlN3eHRFTHpnUzkzN3VzYXZycE55WXY0T3ZCMXI5TG8?oc=5
+- **2026-01-30** · [Markets analysis] The investment bubble that has already burst
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeThhbGpaTmZXbEVpR2hZcWx1b3RaczZSMVUzdEowdlB0bk5wQndFeHBpaTh1Ml9DdF9jVzJQY2hxcGFmMVNGQXVOR1BYaGs4UXB5Y1lwWUNVQUlna2VtT0RoaUdsNDVZcm5rc0lBcjg4MERNT0JNNTQ3UHA4YTYwUmx5dWc?oc=5
+- **2026-01-30** · [Markets analysis] IFM Investors: Private Markets 700 - FT Longitude
+  - https://news.google.com/rss/articles/CBMifEFVX3lxTE9iXzAxcmRZVnZHOFBfTGZtZGFpTkRtZlZmZzBwTTlZWjU1NUNCNFBxU2RwUm9qUm0xTXRVR1FmODNlSjRrUmRxdXdONlJDU1l1NElDVTFrdXV3eEN4aER3ZVNoa2JLYmVkUVVDX3BrQld5YjhuZGJxUXBiTG8?oc=5
+- **2026-01-29** · [Unhedged] Meta, Microsoft and the tyranny of small differences
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0ZvU1Q0RzFMcFBnZ1N4dDlwQVI2MkhoQ1RfR05MV29TdmVUZ1NlYnlGM1Job0VFMERmeEFKS1BSUGtlaHlSUUNWeE0tNTBUWjU2cjRpTGduTV81aXBoZW80MG85dWxqSnh2ZDdjN08tSExyUGYxTnNDYXVQdHlhOGpSc0M?oc=5
+- **2026-01-29** · [Unhedged] Transcript: The incredible shrinking dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONkFHVUtiQ0psamprWXZPQlIwVHgwOWVSRWNOV0xCQktGc0FEQlZmVEVzZHc0UjJzOXFGR1dOc1g3YXpPd0g1QTZCU1d4TmhrLUlZRGgwVC1uMHRGTjFpZEVCWlE2eGstOVk4T2k2MHp6bm9lWFRMcF9yZU1wWklXQUoxWHo?oc=5
+- **2026-01-29** · [Unhedged] Jay Powell urges Federal Reserve successor to ‘stay out of elected politics’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOckxFSHJrTUoxYVBTbm9WWEJETjFaVE0wck8zbFA1VGFCSXhDbG5oRkw5eXNfd2V0UDdKS0UtZUhTYk1FWGxteTAzSEhnd1NicTZSSkxnUW9iaTJySUlDWGE2UWVQN2dxVzA5WFRpb2pCY0FBVndIUTB5aVdiQV9UcGVRdjc?oc=5
+- **2026-01-29** · [Unhedged] Microsoft sheds $360bn in market value as AI spending spooks investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHdhRUQtTExmWVB4SGdLRGdPQkJHbzJ4OGhzZ3ltdndpb2NfVFNGeFVYdENfNmlaZ1hXUUR0QkNSalFZems5THhxb2M1SWNVTlNXZ1BnWE5RRWw3VmtNVFdoZGpac0E5Yno3Z1QyRkxRVUdkX2NVeWFoc0NNdjczSEEtek0?oc=5
+- **2026-01-29** · [Unhedged] Video: Why is gold hitting record highs?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2pwazdPT0VPQ0lfME4zUjJka2s2ZFFPeTlTZmJ5RG5WOUJyWWtoYWpwRnlfZkR3X0VfbmtMaElpTzZMTHhOY0NHUnVQMUFGWWJCMC1sWVhjUDJvcXlyMDQtLW43RS0tVmM1T3pmYTgwUUE0WnZwT1pDa2diSG81bVBDbUU?oc=5
+- **2026-01-29** · [Lex] Lloyds and Deutsche show the good times can continue for Europe’s banks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPelM2TEZOeXEwMF84SzRDV2R3M3ZIVGhZUDJ0STBMVjFkSkJUTVZsak0tNV91ci1uem90Mlg3RUFKQkl1MHJVanVRVjZTc2xWallFY0ZyZEhjZXJlVWctbUtCTXdoZkcxMEN3aTlRdS1mZENJN2RnQXpyUUN5VXhvNTVyeGo?oc=5
+- **2026-01-29** · [Lex] SAP suffers biggest fall in five years amid concerns over cloud business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlk0R1BYNmVPRTZMQWFEblFfYUVQeVZsUnV3bGNGR2dMZ3hVQVhpRjNBcmFoR2wwLTkxV0Jqa3RHTFhGWlJCUy1mYkZnX0FoTUNMeVVnNG5raHc1aUszM1ladFp3Vkk1LXdIQVJ5eHk4ak5PQldNNjFZSFd3eUQ3R2hCVlY?oc=5
+- **2026-01-29** · [Lex] Big tech’s $680bn buy-now-book-later problem
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA1a0xvY1JPbDZ5TEFUM2dPeUVneFVwdTIxb05rZi1Gd3dvZXRSanJHaXlfRWMtRXdudFFWVUx6dEdma0pMQXEzRm1DWkhmT2p4emM3eUJFcVJ5T2hYUE1vN0Z1VkNJTFRXSVo5dFl6SVQ?oc=5
+- **2026-01-29** · [Markets analysis] Emerging markets make roaring start to 2026 as dollar slides
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdy1lcWFVVlBORlQwTVJROFNud04yS25RaEhpWkdpWF9zZ1M5cXBXVVdBNklCRFE3ZEFBNEtWY2h0dGlNb1VkeXNJY0pjWGVqbkVPWUZsZldnaWg2Vkd3RVpnMURUZDIxbFNYRVNYRnl0WmhCakxaUE5wMEVOQk5QMVpQZG0?oc=5
+- **2026-01-29** · [Markets analysis] Companies reap $22bn from Trump’s immigration crackdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnlTajgzZnM2OExMUDJoWnVtOVNfQzdyY2tTemtpQ3dIMFhfT0RubHk2ajh0NW5BaUdjRFhvLVltSDBEUW03R1BIaThIeWpDaWlGY0FEdV9XWnpCSnFnM05oWWZEY2IzZ29Tb2dONUhaZFpZN0lYZDlTMjZsSkIwQ0lvS0U?oc=5
+- **2026-01-29** · [Markets analysis] Norway’s $2tn wealth fund stress tests effects of climate shocks and AI correction
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUJXbWdDaVdjQkZyR0JaTlM3bnBtLXlmZzVlVXVpRlpidVN2SUhibktLd0Zremcxci0xQWVENDZUWUx4dHJDZWJBQWxhOU5keGRPSVROR0lNekpfN2dLZUhHNzBkOUw1ZUhxMjFfODh1b0tzVXlDbXk0X2VYTkp1TXpZZTQ?oc=5
+- **2026-01-29** · [Markets analysis] FirstFT: Tesla accelerates AI pivot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUo1ejVuY0tqbFBwOHgzV0l5dFdwWmtwT1lBRGIzRUJkY1ZZQnpnanAzb0RrRFB3U0dFcTRZLWNTVXNzSUdfbjZocnlqMDVYQkVNMG1FZldkcHdpYjl2UXlQOWdCNUhMbUJxS0FrMlFmNG5MMHktMkRBQXJmeUNoUGotblM?oc=5
+- **2026-01-28** · [Unhedged] The Fed is done cutting until something changes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXpESmpZRVN2VHJRTXdycnhJUFFJeTh2cE50cFdvcHI4ZGUyRnVyX1lVcXk4eWEtUnFIMzc5ZkdjN0ZsczNDbkVYdUNod2hHeFRsVWRtU21xUnFLdEhzcXhVV0ROMm1oWlJMUmYxTWVQVk9wWGRaUUVyckpCU3JMb2sxWTE?oc=5
+- **2026-01-28** · [Unhedged] Top chipmakers warn AI-driven supply squeeze will worsen
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOckJZVXducE9MM0dwRnBwdl9GM1VyR0FDRnpRSE02cmFMRDVhSUhsVWlzdGVfbWtVa284ZjFiVDl4c0FuUGF2YnFnZ3B6UEE5bDZ5Rjl4ZlQzVWgwUzVCOXF1ZWpCcEMybFEwd2t0aE4zblpOMmswdTRnclVNLWhiMVVhaWQ?oc=5
+- **2026-01-28** · [Unhedged] S&P 500 tops 7,000 for first time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFJKUWxoT1o2SFI2Nk1pUjVvamNjbXpyeFdaTUxyTTdLdHh0V0tPejl6NVdqVlI2NF8tSWxaeU85Y1NZQ3llTjQtNnNDSnNpNXJHTTlsU2xqeTFlYmlHQkNrNTlrT284dEEtbTNxQnZscnkyVzlFMHhFMU1JR0JuUzV5Z2k?oc=5
+- **2026-01-28** · [Unhedged] ASML forecasts bumper sales as AI boom drives chip demand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTdCOWlZek5xVE9kMGx2cnRQejJMREliLXRMMklLbVpjaFFlV2ZmVGo2VkFGWXRrNkNRQl9kQm9neHcyaExnZk92YXNPd2p5TTl5ZDE0b0RCZlN4dkFvczZkbDlZM0ZyWU9xMGRnZS1OTUhSWFhiamppbGhwM01BN1ByQzA?oc=5
+- **2026-01-28** · [Unhedged] Central banks rein in gold purchases as investment demand soars
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVZmOEczQl9nSWRZTkFQazJ0T0pUaHV0cWRGQ1RIQmw4NXptREFnMkp1dGt0bkRFcVMwcE1sYmYwaGNobDdRa3N3T1lYMTBKeWtoRG11cDJSSVR0bWFBSF9wb2x0b19OQWgtU2puTWMwQkhWeWdsbkw4bHM4S241NXJzb0g?oc=5
+- **2026-01-28** · [Unhedged, Markets analysis] Illicit crypto flows surge to record $158bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDlOaVdrcVoyMjV1Q2JxSlV0WVk2Njd4MkdOWjNvUmQ4bHRPQlZzSUhEUmdtRnFUNTFqWU8yMm9WZGEzMl83YVJqMFJtbVE5cmdydnczLXdCSVhidFhFTHIyMFBoSmZySGVWQUJRM1I1ajQtMUh3TzZmUzJhX0VzTERxaUo?oc=5
+- **2026-01-28** · [Unhedged] Fintech PicPay owned by Batista beef barons hits $2.5bn valuation in New York IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZktRY253WTZ3ZGNPWUw1bVVYdnlldVdCZEJnT2diTWYySWs3U1RPQ1dwWmJLbFA4V2loaEpMSXU4RHRDSlpoWnQxSzFuM2FmX2ZLZDlXWmJ0TnRBZ0VlaWdJaWlMSGYzTFY0QWc1eVQwR1dFT19JemhxblJFTFJIN0FranQ?oc=5
+- **2026-01-28** · [Lex] Meta and its peers are everything, everywhere, all of the time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVpqT2xPcG5PcWlQU243Sjg1bXh0SXhQS2E0RGk5cEZPXzJWSDBUdEVFdXhMbHFMM0pZQnUtMGpFczZVZ21xckM2d2s3UWVtcGpGLVJzOHBuQURzQ1F2WTZuY0J3ZHFOR3RSU0RhRWxGSmxvWEZhSnhVbHJZWTJYVk9QUW8?oc=5
+- **2026-01-28** · [Lex] What’s the cost to Mark Carney of defying The Donald?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjJfZmNudDljMWZHNXRvUWFncG1GTzRBeHBvMXNUSFBxSFByemVBa3hBblFSNFdXYi1ZR0wxN09qdzUxZlgtaXZ3dkFfNkYzbWNJcEZLYWJEOWZZLWpWMnlIUFJfdXVnQlphU1BPby04XzdwRGtTQ2RxZktLcDdFSjVlRVc?oc=5
+- **2026-01-28** · [Lex] The case for luxury’s recovery is still in one piece
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3pLMFNlRUNOTVlJTDIyendEMDBFVTR2R2wwdGlKMjZvcWU4Tm5FWGZ0TkNma2xKMDJwT2J4dlpaVFQ1anVQMFRqLTR5THlhZHBTNWZMcURGQzZ2Nm5RZjdkaEg5Y2s5NU5fem94NDE1QUh0dk5pLVpLeEszclhoR215OTc?oc=5
+- **2026-01-28** · [Lex] Recall of baby food challenges a sector where safety comes at a premium
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaE1aTFBXdVVraklXMG8yX0t2Y1l4Yk40ZzlJYTNwN01QQTQzR3JVbVQ0dFA2Q1N1cVBnZl9DUmNSSEpFLXE4V3E0WVFoekdBMHc3Y2lfT1F5cWs5M0tfalMxdDkwcENWTEVTaXk2TDB2QUxyMUxJczlCNENDeDlvcGJCOVc?oc=5
+- **2026-01-28** · [Lex] Tesla’s Japan victory is more retail than revolution
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2k1clpJSktIa1VhWmNCZ0RnZ1lzbWNJakxvOWtGOVA3THRCb1dYdzEyQWtFem1fOFNTdnpCNVpwd0xXZk5fQmVmT1lmMW5PbnplYnFZdWM4MmtmOVd2dTd2ZW1weDkzZ2NfbE4weVgwdGFuR0YzUHRSbWc3cExNMmxWakQ?oc=5
+- **2026-01-28** · [Lex] Carvana shares plummet 14% after report by short seller Gotham
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdm9DbkFNZjZ0dXZiV1hmZmdXX0ZNcld6TmdfeDVMY0FfazBkVWN0TnppTllXV0t1NFB2Y29pNXFvZ1VFbVVyZGV4eDVRaDc5Z1JDQkRMMVA5aWpLSG1fZ21nQ3kxZTM2RklUVzR6ZjlaTHhYcXNMVEQyLWl6MzVUM01QTG4?oc=5
+- **2026-01-28** · [Lex] UK vehicle output hits lowest levels since 1950s as companies weigh defence shift
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWW5CckR3Ry1XV0EyLS1QeGg4RjNjQ0FlamtIZFZYLVFITl84TFRrb0ZHRUdjSm9qUk1GVHZaU05TeThyY3lYMjJoRk5hZDV2dlA1NGRpY3FWM01UalA5bThBMmtKdEFTNENLVzBlRDdKdC1hbzhuX1lhQ2YtaE1JRU92MXY?oc=5
+- **2026-01-28** · [Markets analysis] The art market is betting on the Middle East — but not everyone is on board
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5EdmhhSzhzWDd5c1lNS1JUV1VCeEVoS3RWT1VWYnVGOGlYckpnT19HbU1IRTZ6cTlLazRsWlhJdDZjUU5CVm1zMFdpa2txeVZaem1nd2Y2UUhiUlRDOEtRYWpqYks0TkV2ZkFma3VsYkU?oc=5
+- **2026-01-28** · [Markets analysis] Pay for mid-tier accounting partners soars to record level against Big Four
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmZVUXZmMlY4YlZkaXMxWHFZSTg0d0d5anBqRVJIYzNyTGNKVy1LQWw5WWdvRzFYRmRpRGxoUF9tU2RtVlEwOE03Z1I2VWx2NXNxVjZCaDJGdDhCZWtQNE9Sa3hBcGpwSFc2R3JOWVl2RVQ1TnhEemQtclUyYzlzUm5uNFY?oc=5
+- **2026-01-28** · [Markets analysis] Global green investment keeps growing despite China market shock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSERRZlgtbG9vY1FhVXJSNWxLbkxFX0N0LVhmVGpJTmtiSGh4TW92aGN4aTZpOGE3R1lHYzlMZ3luSTd0T0U2dkR3alhLU3RTN3ZRdlRJNU94X202M05UdldMMkowMDQ0ZFRGWHVRNHIzWmxEQlBkYUZQMk1rMF9rLXJEVzA?oc=5
+- **2026-01-28** · [Markets analysis] There might be good reasons for Britain to build data centres. Job creation isn’t one of them
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE85aWNLT3JpS2FvU2hPZ2xLNlNNWU9DQXFqMEptZ29laUJSQ0pKSnJnVDRoRXR0ZlB0bFVnZllOOFJ4bUVxSEUxNEwxNkZKcS1fWldnZzNEWVJmU3Z5ZG9ici03b1ctSjhYTFJyXzBrX0k?oc=5
+- **2026-01-28** · [Markets analysis] ONS revamps UK inflation measure with supermarket scanner data
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGhMNk90OXlxR1hYbnJ3SVEyWUEtS1Zta2NFZWo4WnhURTZveEYtMU9FT2M5dS01NjZTYS1TUjZTcFFSQ09WQVgtRDRWMk1kOW1hTDJHVUFMbHFGZG5OakR0NkEzUVhfZkJaRUJPcEhHbW5jVjI3ck9fN0pmM29FQU1LVE0?oc=5
+- **2026-01-28** · [Markets analysis] Metals surge boosts value of biggest mining groups by almost $500bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTdaWm9QM21xaU9ydVVmLW5uQjlGZmp3RzhWSHRzaWt2WHBNcDY2ZGpmbS1GV0pxbkQwSGZGWkVlQTBjSTVnT3hWQnJrX2hOWFQzcXJ6SWlpZVJsZmthNWhzX0pvRnVUbHNCVUs5ZUcxSFJDam5mZnBSZUtxZy1qdzI2cmE?oc=5
+- **2026-01-27** · [Unhedged] How does a gold rush end?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWJ1cEcxaThMU1V1WXlDcjNEUVAwbW9KdnRnaXRUY2tSMWN3WXhocVB3RE5uTjFTUTNOQlNzU1lMR3ozUFFZZ2p6ZDFOblBTN3RRcTRFWUphOGVFdHlmWmtyZWIzUm5UVUp2U0ZvZnR3MkhKblk4YWU4aWNqMnNqaHJGSUw?oc=5
+- **2026-01-27** · [Unhedged, The Long View] Rick Rieder is a massive dove
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVJ0M0xiWjcyeHlfUEZUZ1pyYmpLcm1CWXVSXzVpM2U4ajBzM3FuQzRfV2NTYzRnaGh1ZEtha283SG1BMmxhV002RTd1VW54cmpCakpMbjJlRWxMZmxQTDhGY0M1b2hXVVlzdUI0N2g3UWZsSXFMWlY1OHdkbHZIWnd3a2k?oc=5
+- **2026-01-27** · [Unhedged] Who’s been buying all the gold?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSHVjUWlxMDJmd3QxUEk1YkV0VkJPUVdYMm95SF9qa3J2MVlrTFZzRDhpLUExRlgxNWx3RjhUVGI2OWg0cHNKdTBlOUlsa0owenllS2lKODlMRVJUZU16akFXazBqYW43ek1tQ3luTkI?oc=5
+- **2026-01-27** · [Unhedged] SpaceX weighs June IPO timed to planetary alignment and Elon Musk’s birthday
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHFBXy1ZOXR4UEFoNDdTb3MzRktFWXA5SllVZTQ4alBVXzhjeF9wWTNoQmZLRzkwZjV3NmlhS1lHQ2UzUzE4ZmdUWmIxMGtqb29pMENud0RObTQtTWdNWHVNUkhaXzM5VWpnMVVvMDJBRUdzclNuRDU5X1lKM0ZucnJQSUo?oc=5
+- **2026-01-27** · [Unhedged] The private equity giant in Zug facing a test
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObmZNdElfaDBWYXRDZEt1LXVTenhudmI2UzRPS0FUcS05Qk1JWTZfSUZsZnlOVm5qNDFzVlRwZTlZclo5ZUVpT2VWSVFXMUpic3FmWldtOE5NUHdLcDdMd0NUWmtzcGV3VHkySTNfSTZhd08yeko1ZHkxTmdjcC1kdUVxTG8?oc=5
+- **2026-01-27** · [Unhedged, Markets analysis] UAE launches ‘sovereign’ open AI model to counter Chinese rivals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlNBamh3b1RnVVl3dE5nMVdYX0lrd2NwRFhpR2lmdzVjdVdPa3UtSXlCVkFZVFhiVl9zQVpEQ2VDR1ExOXJjYXBBaF9tWmF6Wm1KODZLTmc2eFBuNmhGNEJYUmJJczNqcjVYc3ViaGkxaFFBV3psNzVLVVMtMTc4UjlWQWU?oc=5
+- **2026-01-27** · [Unhedged] SoftBank close to agreeing additional $30bn investment in OpenAI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFVsUDJBTDRac1BRM3g4OFRWNE0yR3kwazFkR1dQNFRVako1aDdIZmxmVUJvX05BdS1mMHRqZk1xRzgyYTFNSXdLZ2NZSnBiQnFOTElMeWRZUnNWVVVzM0tTblRDZWs0bkhNWEwyYko0MUcyTFNQNWNKUUlDblJleXViMlI?oc=5
+- **2026-01-27** · [Lex] Vibecoding isn’t going to kill business software services
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDFOVU9EMFNsd0V4T2Ria291UWU3WVgyS1kyLW90TVdsOENfTDZlR2xqT1hJdFppZjY1MUFSVkh5MkowVWpqS1ZnS2pOMTFDbjBSbjlxcUpBV1BJYndGNE9hZ09jZWViNVpKa3VRRXpVVy1zLWV0QWhyN2dJeDJtbEV2MGw?oc=5
+- **2026-01-27** · [Lex] Hargreaves Lansdown’s price cut fuels retail investing race to the bottom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFVNOGxOZFNzcW5yVWNYbWc1WmJldmRxTDdNaEEyeDZtTDRlRzlRVTJvLUppN1ZpQlNZbkxHdS04cXdhenhveGxQRFZPYWhMT29iN0tPc294amJOQlg4a3FXYkFJcDFjelhCQ1NGVVU2Yk13dmxtNzF4czBKdEl3bzlzM20?oc=5
+- **2026-01-27** · [Lex] CVC deal brings American-style alternative investing to Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQekxwNzB1bjA4LUF1bi1HSEtLVGZ3SUZzSDVaT1hkUzJNVk5fTmhUdEVFbjNldFVRQW9zNFA1dmpTS0FxaWFLNnBjSVd3eTFWMW1SSWNSSlo5WFF6Rnp1aDZxZ2xCX1BOZlJjcEZ0d1hHRmxuVU1wVFVlTDVBWXd2NXB1NDA?oc=5
+- **2026-01-27** · [Lex] UPS to cut up to 30,000 jobs and close facilities as Amazon shipments drop
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGg4SkhyODctUjlZdmtSVFRpN25Oem0zMlNjTXNmNWx4THZHLVJNcXhHeVNPNHpIWExuWHhvUlU4NE9HNXZIUVlnVjdjZ1BTbnpVY1FBMTVBU0FYQ0tkRDVNaC1XLVZpNlVNQzBpUHRIcDVrdmdQeF8tVGpKMFpwdHlkRlg?oc=5
+- **2026-01-27** · [Lex] Investment in Europe’s chemicals sector plunges over 80% in 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdjRvU0NwSlBSdmJVM2NkZ3JqbWtFazZROFdYSlc4RTBUUlZpamNFU3JNM3RQbUF4T2VLRGp3cEFzZzdzR1FTa1Z4d3FiYWNZa1ZvSUVHVGRnMXRnbUpIdXNwQThLejUxVGdUNnkyaDRTTTF5MDQyVWM4RFQ4X0hNYUFqQm4?oc=5
+- **2026-01-27** · [Markets analysis] European EV sales overtake petrol for first time in December
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDIxamVVZG5zaFhrNHRIYUZzUGhITThqYVJjaURfUWpzd1F5WnprYjVRc2xITHNra2Z5STVMRW50c3BPUUxUWFc2WnR1RzNIQUZ2d3lZM1Y5cG1QaVhKSWtCYVRVTFM0bXFHNnFreG5sWXNTSUxPV25WOThCdGtnc2U2R1E?oc=5
+- **2026-01-27** · [Markets analysis] Top UK universities increase their reliance on China for overseas recruitment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUpJM0l5VXpVOEFVMERvR1FNUm5jUmpId1FkUV9YYUZTeVIyOTVHd0p6d3dTaHduN2NwdjR6TDZoUWd2dFFVZDNoTFRqUldERHJQYklrS01taXdOeWJ2MHgxWkFraFJQVnFFdmJ6T2t0LXdON09XV1NJM3R3NUNVZlRKbXM?oc=5
+- **2026-01-27** · [Markets analysis] Investors bet on ‘hot’ US economy heading into midterm elections
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3RVZnFYNFJlNnpRSFlBa291X2JPMnYxdG1KNXE2c1hiYl9TM19wTnhnRVRkQ3F2YkhSMUR1WlM2SkMzalkzOWtBeWt6QjVQRGFvd05ZWlU5VmROUkRYTzlSWXdsZFBadWZWLXFjeTJlVTljWjUwbkpoeXd1OGRBVzVKYmg?oc=5
+- **2026-01-27** · [Markets analysis] Watch this space: the self-storage facilities raising the bar
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeHlLblJLZ2s3V1M4WjlsWXl3RHVBUUNqMmI1cnN5REF5UlRaZHRLUmxPMXlPcGtaSjNWaC1WUGJFZjhSSnU5emtGTWlheEUyS0lTNHVIcVpDSTFwQW93X1BTOFI3ZTNRVFRRZ0gtZWk?oc=5
+- **2026-01-26** · [Lex, Markets analysis] How modern biologics are transforming the pharma landscape
+  - https://news.google.com/rss/articles/CBMipwFBVV95cUxObk9JMkhQdkx3X3pBVjFoNkRxR093SUZiM2d1bHVpLVJIQy0wdGxPVG5fbWV1djdkeF9ZcDZnWnZLX2xLZnUzNy16Vk04djZJU2MzaDRqckt4N3lsdU1KelZwZE5RWXpueVRub1FSczNpU0o0Umt4RTMtN2g1UVlvTVFUMVdITXhldFNvb1JEQWhScHVmRm1CX3owS0JQUUxnRjdaSDk0RQ?oc=5
+- **2026-01-26** · [Unhedged] Trying to change our minds about gold
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHJpZGV6eHdha3B0NmlBcXhGMGJZd0t5VjJReU9GcTVBdlc0Rm9SQW1KeDZjWEI4Zmotam1fb19QNzBHX3YyUXY4MndNWGZUNTUxUFRnQ3UzQk9tU0t3X1lMX1pwWFRsc1c0T1RDZ1dNQ2FWX2RwU1VORmhyZ2JmRDV4dHQ?oc=5
+- **2026-01-26** · [Unhedged] Nvidia invests $2bn in CoreWeave in new data centre push
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR01EZnpQb1h1LWJVWkkydnZtVlFWMzVBTjNfbzlCamxfOHNQVDRWeVhLNWkyQkltOVJBTGZ5b29CeVJqMFpWT25hMWxpTld3QVFKZzNVTS11RndEWjYzdHZJa0VLOHhlNUt0LXk0WE1zMzVSU2h1eVdxcFM2NHlEX3Rmbzc?oc=5
+- **2026-01-26** · [Unhedged, Markets analysis] Gold rips past $5,000 on fears of global turmoil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjNFQ3VhVk01c3p2TldyODJyX0ZSZWg3bDRYTmVOR3BuNGs2eWJYZGFWN2czY1UwVDJoVnZzRV9VeFREOFlOT3kwd1k1Zk9kRHFWb0NGLTl0MXM2TkR2TGxOajNMOWhnZDQ5N2FwNTlydDV1dUcwYklwbXEwc29qc1R2Mzg?oc=5
+- **2026-01-26** · [Unhedged] Big Tech’s borrowing spree raises fears of AI risks in US bond market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzVYcG5hZzBraVdVb1ZkV3hxMWVXblB1dlluQ0tGREFRVnU2Vk9raXJsQV9tejE2S0J3T2IxMEZDdFlXWVdmTmNvMDR2c2Q2a2Vpa2lsT0pKYmIwNnFnSE5ZVTRDZHNqRHpEMkg0c1Nfc2ZPNGFZOER5SXQ5ZGtRaUY1THE?oc=5
+- **2026-01-26** · [Unhedged] China’s Zijin swoops for Allied Gold in $4bn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWS00ZVdoUkFzdnd2czNpd1BrUGw5U3gtaDJzUlItMTlKYmxNVVlKWUFjZ3VOMHdvWkVaSzdoOV81ZFEybHgxcUxZUFgwT2FhakdxLTVwd0VVd2s2Q3hQYkZKLVNST1lEaVE5d2tKNC1FcjZCdWZGWlZpeTdibEtlVWFCeW0?oc=5
+- **2026-01-26** · [Unhedged] Humans vs bots
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU1hcXpyLTdSeUxwSUVUalJ0WkFMVFdtcTV4T0JWWmdLMW8xLW1KSmdob20wVWwyaGVoR1RKTzlId0swYTUtTUhwM1RqMlNSTk9Lb0JHX1ZYUGUxdl95TGtQdXZzYURUYTdDNmZDZndNb2hfZmo4S0lsUjdwMlJicUwtaUY?oc=5
+- **2026-01-26** · [Unhedged] UK shop price inflation rises to its highest level in nearly two years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXRrLWhIM1dWTXU5RF83b1pmZV9Zb1oxdXd3VU4yVUx2NW9RbWM3UTV2cGtUWTNaZ2U2cVFoQzhIN2pieVRxd0VLVHJuVU5LWG5kLThnNGpwUTdER3l3d2drRDQwVVhrQkthUy02M2VYMUNISVN2Q0lqbWt5WUtkX2x5Yzg?oc=5
+- **2026-01-26** · [Lex] Wetherspoons on wrong side of a two-track UK economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXpYTzY1MHRMTzNscGhUYUdoaVdYQ01STG9ncG1hNjJ2UU8zdVhGZkFnVVdlc0hRdEVBWDh3eDM2NHZrdWFyR2JNTkxSdDBjNlBHX2xMaGVnVUhnRVJZbXprNHdYUGs2cXZmdWo4RUJ1cG92a1psRHlWTFFLUHBIR04tMHY?oc=5
+- **2026-01-26** · [Lex, Markets analysis] Ryanair is the rare airline that can afford to stay cheap
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1NHdVFSeXhtcEtRaTJHOEQ1VjhPaUxtUmlyY0FpbUlUbmpXQ2R6ckMtVHV0MlZZTm5OYjQzeFZZc3FXb2Y2d01VMERwM29kTmRCcF9mWDFDaFh6UTZUWTFKT1lzM1pDUDlpVnBVbUFuVVRiU2NiVXgzTGhDYVNvSEo4NWs?oc=5
+- **2026-01-26** · [Lex] Danone shares slide as infant formula crisis spreads
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEg0ZGFkNEczLVhTa1l4YWVQcnNqTTN3RmxvMWhKZFJDak1UVE9kNlN5cmZKSDJuTFVibDdSMXNWaVZwcVZjZ29LbkpPNkJsTTZwQ252YXZqSWVBeWpwc3hTUFQ3OG1ubXNlWEhwUWUwbVVrazdtTlh3ZWN5WTJnTklPSHo?oc=5
+- **2026-01-26** · [Lex] Private credit firms sell debt to themselves at record rate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWs1UFRGejNwLTQzVWZGRldXYlVzMEh5eGFhci01ZV9KbUtVWGN2a0tEZTVlSDhaUWJhbXNqZlJMaENidHNybzBraHdiOFRfbE5PMFRjeHVKem5rTnNJVzl4SDFfMDN6dG9OamowRDdpM3dIaG9CejJoSEdlbGNQZWxVaWs?oc=5
+- **2026-01-26** · [Lex] CVC strikes $1.6bn deal for US private credit group Marathon
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDUzYi10bHJGejk5QXRlTGRrRlowTGRIa2x6Z2w0UTJwTXRvbWh1Y1NvVTVkNC1lVXhZWTVKVTYxLUJZX2xMUWFJN2p0MWZZeXZMU2ZyUF8xT2FWOER3aTVBT2kwakdia180cHhIVUw5RkpWeldXclZJN2doOFQ5b1lDRkw?oc=5
+- **2026-01-26** · [The Long View] Can anything halt Latin America’s lurch to the right?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnk2OUNEQ0tQbmd4U3NvVlR6Z2xzLWZoRy1HQWhQQVl3eWJmYnFFNzFnU3lMWVNHVlFPb0QyS0RUYVVrZk5rdTFpUFd3Q2NTR2tNcHlpYk5LLW5UXzBSNnB2TzVDZkVzRXBJbUtsZks2UVZ0UVZaai1jRlNyX2FoTWM4cmQ?oc=5
+- **2026-01-25** · [Unhedged, Lex] Market inefficiency reconsidered
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkZ0QXVad0xuRTRETWNlNVdzdDNuSkMxQ1NfcHZJSmdCZFFzWXBaQjRrQjRfdF8ydzVTc1JtdldGRWVVVTlpNTJHY0RueXoxV1JSVVhmbUswOGx5Q2xBNkNjY3pJWW11QjlBR3lJanNoUmNLNG94eFJ3RGV2MHJJTEFCc0Q?oc=5
+- **2026-01-25** · [Unhedged] AI productivity is about to become visible and investable
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5NNk9nVzh6V2o4T1RKeXlZMkUteVAwSTltSWdqbDY0a2kwVndicWd5ZnpzcFJhNHJmQmJwQXRLOEJValRXcHFvMlRfMjNHME5oN3FIYXkyRElsbF8tN1loWDJwSl9iSjcxa3lrWDUtcVY?oc=5
+- **2026-01-25** · [Unhedged] Will the Fed bow to Trump’s pressure for lower interest rates?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkVOdzhObWhFRWRLa1Y2cUlnUFVHR2xJVDNjcFllQmxuVXhMdjdnaThMOFNIajhMS21BMnI5amZUUmRHeXZqRERTektLWnVaR0NieXVIZy05VWo4TlVQVFpiVEhxZGhPVmZDZzNHNDhQOF9SbUVtY2RPVk8zMHJZcmZGLVU?oc=5
+- **2026-01-25** · [Markets analysis] The uses and abuses of prediction markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpnQ1lJVndYMXo0SE1YeldDeDd5cEp1T2Ryd2lPTDVzRENvanBLcU54ZjZHLWlYRHVOcnJlOE9tUjcxNm9EeEhadnYzNkFOSUhjeHJLTU4zb3NPZExLM202dG44eThjS1ZSY0x1WjlXb1ljVXROUEN3M3ZiNXJ4WmdwUFI?oc=5
+- **2026-01-25** · [Markets analysis] China’s military says top general undermined Xi Jinping’s authority
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjE4eFozbWt1YlRZWXd1OWdVbTNFVlQ1ZUdzUUc1emlaN19BWktOQWFnSEhucVdYZElNcS1tSkpBdk1aZWktZzUwdWc2SEE3SmR1TmlhQVVSenJLN21kb1FPMmtDdGVmeXFOTV9zMnE0ODVVQjg2RGNaM0hkeEV6QU9lNFM?oc=5
+- **2026-01-25** · [Markets analysis] The quant shop — AI lab convergence
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBMakwyWm9EQkJTQzVvZjhwalc3Y0dGNkNOenNwV0xaZmJXc0RpQTJ4Q2VIU0sxVXV3WVoxMjZ1dGpFOXJ2NUxJZUZlMVBaZ1RxR3ZvSGRQTE1pSGh4ODZ1MHN3elRyNmhfRlhBcGdpOWY?oc=5
+- **2026-01-24** · [Unhedged] The hard truth about AI at work? It won’t tell you
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObUI2ekNSckgxSTM1RjlraHVUa0FnWW5ucEJOVUVZZzhjcHZKVUc2T1p6LV9wTXVubUFfUnBSQnFvNDJfZkJic1BlU0Rrc0VzTERnWmg0dzQ2X1J3dzlPSTEtbHFQRFJOc2hFX25sODhLMXRTYVBsWlM3RmFqSGlHTFEwRU0?oc=5
+- **2026-01-24** · [Lex] Beckhams’ billion-dollar brands can withstand their family feud
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOEdvVFJ4aDZwZTZYd3l2TXlyT251TE5UOXl0WThKdllIejVpaEIxM19HZVU3eDltZjRhWXZlUXNIeUhNclpjMUZQSmRBTmxYZXBNSHNiMVlXdldQRXJLaFVsbVlqUW1BY0ZWcGwydUN2UURYdUVLN1FwRVhxNElxWTlqcms?oc=5
+- **2026-01-24** · [Markets analysis] Robots only half as efficient as humans, says leading Chinese producer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHdmR1k1MVFJZ3IzTDRKSzVwcFJQcS03M2ZnY3ptZ3ZiNWJlbmx2WDlPRjFuc0hwV0JYSzcwU2FhMGVBN1dmRGdmZk43VS1PT2NWYTJVWWt4N1lMNGV2djZUS1QyVV93OVNOc0FVb0MxMmdDa0ZZVVRmOFAtNUVDRzNEczU?oc=5
+- **2026-01-23** · [Markets analysis] Ta Tun Electric Wire & Cable Co Ltd, 1623:TAI profile
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeTNhSjZ5RHRwRTBocVhqczFnNEtKZGIwU1g0SGtBM3ZQU21DWXNXcm5oSWRZaUd4QTluSFVKNTZIYkNkXzdkUDZOUVl1Q19Jb1hIdl9RdllqbUpYVEdkT180Rl9GRGg1N0llSTlkRU1hX1k?oc=5
+- **2026-01-23** · [Unhedged] Poor wage growth estimates led to inflation forecast errors, Bank of England says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkNJUEEycEo0bm5QM2hiWUNnd05wOVdHYUlqMnB2cllsOElMSm1vTDZfSlNxZmkyVjlaR3I5cDhaSXdzTWtCNlluWGVhNjlJVXpTSUVJS3pSUXlFZkphRWVSWjQzZC1mVk9qQ3l5VDhBN3RLNWhsaEZQejY2NEhXUFRHODU?oc=5
+- **2026-01-23** · [Unhedged, The Long View] The Taco trade has eaten itself
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0xmSzNuNU9WMlB4ckY1Sk5uRjRuR1pib1JUWXVDREpEaDJlZ1Q1enlGRHJycks1QVZPNk8tenJwYVBxZUZvZmJhZ2VKbk9FbG9CZ1VVYnU3WmlfRXlTNUJYVkVSM0g2Ym5GeTVGRXNFMHE2b0FERjdUQkV3TElRSzExSkQ?oc=5
+- **2026-01-23** · [Unhedged, Lex] US investment-grade credit spreads reach lowest level this century
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2NsUktEUnJYU1Y4QXFqYTd2NVlxVE1hSkN6TVVZRElkXzkzak5qV3UzNEVfOE5od0p2ZUJtSnZGTWlTRnpYcENpNEtCMklGS0JJT2R0V21NRm9nSS1wZDVZTUlJN0dIRy13ZUx5bFJlVF9STF95TjFycFdwbTBXblJ4d0k?oc=5
+- **2026-01-23** · [Lex] Zurich’s £8bn bid for insurer Beazley produces some spurious claims
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8zaVBJVEJ2TGh5WllRaEhLQWt5UV95ajZ2aUpiR0ViRmJBNjFnSEN3SWg1ZEJXVTMxYTRhT2VlZmszU3NYYzBoSUxWVHF6Mk1pcnhmSkhud3pJR01GNzhhMU1IbFFacE5NV3JLVFVtSVk?oc=5
+- **2026-01-23** · [Lex] Why credit card upstart Brex is selling out to Big Plastic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWt6V3E2M2JGRTRwZjRyRVdqNkc5WnUxOEZhTGY4TnEwbnplZElFa252dmNXYndLNjRITE14b1VmSjBwMEdRZ0Z0UGdTOElWNmVGY2NXWFJaelEyQW1BaFlCYnhKMjRLN2d6aVh5MlE5Sk05Rmhvb2FreEhNRW5TN0xRZFM?oc=5
+- **2026-01-23** · [Markets analysis] Gaza funding in limbo amid Trump’s ‘Board of Peace’ drama
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGxGSFl0TURjNjZ4VTNPTndRNkpORHplSnE3OTRmdEJlUEZKek9vSXR0MWdCM2Rkd1BCM3FYVTZDMUdTby0tUk5HRmNZQWxXeTItREFIWmVBLWRianhBZEp0TkJEU3ZQb04wYmJNaTJ5YTVsRnNDcTVabWVpUkJaODRZMUQ?oc=5
+- **2026-01-23** · [Markets analysis] A better CAPE ratio
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9sUGx0MVk5UE5UazBXZFFvRTJNQXVicDN0aldzeVNqQ3lTVkhrbzc5N2lDSUY4RTFncnVLaHpMRGxLbV9yX1I0SjlBejF5R1I2ZXowTG40M0xmUnc2aV9tWmJaY0w2SlItVTl4MUo1ZDU?oc=5
+- **2026-01-22** · [Unhedged] Taco FTW
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnVRci1oLWZaWVltb2FobHhjWm5DeEFBVHM3Rl80bWpDUGdheXBOVGxxSk03bWZ2emp5MTItekl4aV9vZHhKNTBxX3E1ekRXRmNqQ3BWMGM0cURFakFnNUtFWFpZVE1STEVZR29fdkJpMXN1ejNlR0JZQWVoRHVyY01Na3k?oc=5
+- **2026-01-22** · [Unhedged, Markets analysis] The Japanese yield panic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkVoSktzNXkzWDdVb1RpTENYcnVkYVRIb2QxZ1RiZHRDOXdBRXZmRFpWcE1qdWtIZkUzMVVDS0VwU2lwR090UXNUQW14RUlFa1c5YWY5WnFFQmVwS2xURHYySVJhU3VkdDFQNThDbGJsN283Y2tPZ3BxQ2ZsN1NBU0Y5VDg?oc=5
+- **2026-01-22** · [Unhedged] The (not-so) big Burnham bonds beef
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1Hd3lmNEVkaWdtU3J2ZTZocWN5TGpyXzJwMFZUVmN4LWktQklLXy1KeTRPb2ZzcWw3eDJSV3dSRjJzcGlUdW9nZnEtNVQwTkZFbXhBaXIxbGhCUVBQNW1FMEF3cG5OR0xpSTlNWm43Zmk?oc=5
+- **2026-01-22** · [Unhedged] Transcript: Taco FTW
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5NYVpMbDZwTHJnWFd0V0s4ZGpWbmlFZlR2b3IyR3h1UG5CZy1Ma0tqQ1F1cHczQ3RVRlZKS2dhYnNXNW9OZFhTZ3V2VXdVM2RuTlZpRFVubmVTZ0tKWGl2Nks5Y040LU9aS29FaWxvbnh5UlJ5NS1zUWZ4MER2dkt5NGw?oc=5
+- **2026-01-22** · [Unhedged, Lex] Elon Musk’s SpaceX lines up four banks for blockbuster IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDVEVGFMU0V1VFpRUjZGU1FqOFV2aWljZEY3NWpwekF6cFN2RU0zcU55U1dsSVI0aFdNSVY4bHZmblZMZGZyZElSZ29aWkdHdXk0UTBaVU5tNzJkNWdLeXQ1V0xkbWxXREtSWUZCemVsb3ZaVnVIWDlST1RvdEdYVHozR3c?oc=5
+- **2026-01-22** · [Unhedged, The Long View] Donald Trump’s tariff ‘shock regime’ tests Wall Street’s mettle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnRmazdrNmVwT3JMeHA1YW1fWUFWTXhTaWFsQm5lcV9sMWpzV0VNNURZVS1TM3YwVE9tU2ZmOXJ5cnQ3Z0xtSEdSZTVGUWZMamY5UHZtUXVYaEFPZHBvNHp6RE42b3RxVUhsMnNONDRmdEdrM1hROFFORjhXNkptOXprZUE?oc=5
+- **2026-01-22** · [Unhedged] German prosecutors probe €460mn precious metals fraud case
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMk5TdnNBdmRnQjRkZkJ4ejcyUFkzWUFVZTJhS3hTNVM1bmJXYmRkY2l2dXhrcWwzUmh4WkpIMzdZZjA1RE9yeHJmOXEtMjcwV01hNnpoX2ctWnczQ2d1aWdxZXNTakNTTVlteG1TLVhFMk1xYXlEblhydEFsbFNOZTdNc2w?oc=5
+- **2026-01-22** · [Lex] Thoma Bravo doles out hard truths about software pay
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3BhNjFUR01yanA1OXFmMU84bHFZUkZPZDRBRFBtdHYxZHRNLVBwZW44U2V0SWFFOVg1MEROUVVSUnNNQUx3eWZFV3g3VWhlSHoxcUVFUGhWTW9XVVJDR1EzSlRncGxBQVRHbUctYmpkc0RKcDZmQ3JHaXdMUlJBSkhsQjQ?oc=5
+- **2026-01-22** · [Lex, Markets analysis] UK’s broadband ‘altnets’ need some serious rewiring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGc0MHRBaVV2U0tUU3daeHVuZ2U3ZjA4cUdsQW1uSkJFTXBqX0xVYlh4bE5KMno4akU3VGpwMVd0UmM2NWQxU3BHTVBzR0EzSXZpUDE2WkpGTDVWUFhlT0dLWnZUZV94UjgyeG1vRjNBb3VVWDh4eEt0Slhyb1dIQWJqRkE?oc=5
+- **2026-01-22** · [Lex] Flatter Trump or fight him? Smart billionaires do both
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2dUUXB0b2JDbDZ1WlpOVUU4c2dheXBPUzJiSDA5WHV1cXctaEY4bC01cEsyQzVBUzFySUxDcWY2RHNFNzM2Sk04VlNic2ZqRVI0NkN6RTUyNDlfcGY4VUlaaUo5LUF2dFg5T2hTbGxOTWEtamtBeHdXemRBMThWbW5TbFY?oc=5
+- **2026-01-22** · [Lex] Can a new boss sweeten outlook for world’s largest chocolate maker?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUFjZ1o0Rk9jbWJ3dzc4cW9mVkczdzl2YUxHNjVxbWtnM0QxWk1mRHItMnBsQ0JvUU9USEtOend4OWMzQ1JUTE1ZNjlBNjd0NXQ4NFRBVEdMcXAzU3JELXF4Sm9IRUVINXN6MkI3dGJGZmR4bTBidzI0TDQwOXNma2N0c28?oc=5
+- **2026-01-22** · [Lex] Revolut scraps US merger plans in favour of push for standalone licence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjJKOTE1NUVQRnNyWTJFSkFDRWtNcHBPQ1FHZENOV0RsS05WcjJwQWIxLWdDVGUxTHBmdFByTGREeUoyd1p2eTlHT3JvNW0yeVhXMTBtYkR3RjB3VGh2NGp1eUIxMHRhdXpuRkxvSmxiX3hyZElXajJxUWl3d0NWRG40OGQ?oc=5
+- **2026-01-22** · [Lex] Beazley rejects Zurich’s £7.7bn takeover offer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3NLVkRmUUROUGhXV2ozbUExcUVvbTlodUVGME90eUVTeEJlZlVXOXVaR0FIQWRzNks2cEhJVkw3N0tkNXVkRUpIdmlfeWxhNVRxZGtxczB1eDBvWUdYdDROa2l1eUFmb0NPV2R3cWh4STZxTUVTcWxlcnlremszRFFjM0Q?oc=5
+- **2026-01-22** · [Markets analysis] The AI Shift: What millions of job ads reveal about AI displacement
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0xkajRyOWRmODgwT3JTOXdvWE14UEw5QjlIWS1oano4Zm0zZGpzeVExSG1lRDY2N2JZaXRrZVFUOTY4azdIS3FaWVlqd3VJYWRrN19XdW9hdjQ5ZnAxMF9oaU5yaUtnQVZiUGZoZ29zZnp6dTFmdFJQWkNMb2FMZTJNM3k?oc=5
+- **2026-01-22** · [Markets analysis] China’s fear of ‘selling young crops’ spurred review of Meta’s Manus deal
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5jVXpTQzVvQTloNjNTbFAyOGI4YnNGdUpyMjQ5VXpNNVBUMHQyWUlabUgyYUF4bkJOMGRFb2RMQzk4NU9CdE9PbWFSMU9paEZWQmd3RERXZWRWQ1loeXpPZWNXbGloWHR6cXRUdm1VSDE?oc=5
+- **2026-01-22** · [Markets analysis] Davos, off the record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcU5oYmNIMGFqMGVmcTNqOTI4QjRhMU5CSFFWM2Q2R3psUjdlUWtsNVZKem9BaVRaVEc1YXdycFpDSlVrZDJESjQ3UDBQeWtOZzliajRvcFU5UFdaYUdBRDRSeW8yNHVKWGVwX2ZvMkpIRFQyZ2d4Y21MXy1DTkl6SGhhcUI?oc=5
+- **2026-01-21** · [Unhedged] The case for higher inflation in 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmRUNFhrNndXTnRnTWphWFZ3UE5Wb1ZDcnQycVJUd25ReHRTS3R0T0ppMFVuWVdxSk9QNEpSQm84VWhaVTVRbWFyN3hZYlpiMnMtbWUzcTZ3RXJ2OV9ZM1pmd0xobmN1TU9CeGViUTQ0Rk95M0FITDdrUnc3cFlaTkJIYXM?oc=5
+- **2026-01-21** · [Unhedged] Logical Intelligence brings LeCun on board as it touts AI breakthrough
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmlKNlRiaXVocF9tSUx2eElPTkUtYjNGSVhJWEhPLS1JZXN5Y3BiajRiUVcxUlhqOWYwNFJOay1mcGgzVDRHd3ZmcE42UDJOMmxnWnZzbW5hdm0zOGVyYVo0ckxvajQ1RkZMMlBUWkVyNWZLM0Rjb1d4M0FVcWhXVjU2SHU?oc=5
+- **2026-01-21** · [Unhedged] Chicken producer MHP sells Ukraine’s first corporate bond since Russian invasion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG9fdFQ5dTgwdkNhazNITExQNmJiZW42ZWF3blBTUnowTDBwbmljaEk0Rkd5QUVmM3hvZXVPN3h5X3dOTWdpNzNnNDhrZjRiMWhkNDNUM1ZCWkhFV3FVamszZ0pNVnpPeHdqTEJYT2J5V0l6QkNyYWE2SFdHUUZST0t6Rkw?oc=5
+- **2026-01-21** · [Lex] Japan lacks AI stars, but one chipmaker still shines
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkkxbkw4d09lbEZzRUNiZEw0NXJzUnJNeDJzamlRUzQ2TjdUQ2t1Ylhtc0owZFpqTGVnMkFwUkJESV9zRGFvRjhLNjRIRGhSQnJpYVlaTy1KN2F6MC1iNU9JUFJ0dmU1ekJSZldVZ2RBcURPTWFYZi1WVFlDMWVON2RXS0c?oc=5
+- **2026-01-21** · [Lex] Emerging markets are a better gauge of investors’ mood than gold
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3FFVld0Q1NUVENLejFJZkhkclQ3Tk5ycmduS1RkYVA1eVRmMDFOc3dwR1lKaFl6OTBWczFoSGl6ZVZSQXhtQ3RhU0hfQ29xT2dkWDB6bWl6VGR5WGF4SDB5NkROempwN1ZRMTBnOVJxLS1TMDJ0N05yMFMtZ3JKaVRGSWQ?oc=5
+- **2026-01-21** · [Markets analysis] The Broken China Dream — how Xi turned back the clock on reform
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB4V3ZEOVo4N2RCQlByZ2o2dDBSZGxPaGJ2dnJYTk9pZGFTVGo4Z1dfT2dvT09XTklSajBUdWRkbmFzdDl6RUhtWjhsSTJoN18wcVBaM2VnTjd6MWlwcUVYVzRkc29NU2RGYzg2Wlk2Ylg?oc=5
+- **2026-01-21** · [Markets analysis] The great graduate job drought
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObHlzRnpBQ0pIdjNyY0JHOUd5TENxN1l3S1VYUXExRU51MDlvb29aeUVxWF9vWDZDbW9KOGpTbkhsS3pRVGJ2VjNBVUxia0lZMDJYaHo3Rk5heE5VZjNSVzJoM05VZ1h4RVgwY2JZWHBEUThCaDdhRURBZjlWU3lzcWNnSmI?oc=5
+- **2026-01-20** · [Unhedged] Tariffs and the Supreme Court: watch what happens next
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkRYcVdxVkJmbGNBcTdRNGFQUWpuZVlzN1JhMklDLUdLTkl6RjI5X3ZZbktuYU01TnJacVM2c0xkSS1OWk9QWnlyWDhMYmhJNVpYTWJKZ3RtTFg4azNCNzJmNUhqSFhtcnVBejJrVVV3Z29OdDR4UjhaN3lCTlByQTVySkQ?oc=5
+- **2026-01-20** · [Unhedged] Bill Gates and OpenAI back $50mn AI rollout in African health clinics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFlfcERxN08zVFUyT194elNQMnliOGFmVnM3ZGYtM2xPQkxDUmxjekR5MzNvS01adFVOekMtVzBsT1paMnRBSld2Q2IwY2hZQ2J6TU0yZHh5Q3dKZlZWZWpyMkFIb1pnVU9fZW1GR2FiVzFxS0VMZE9KYzhzNDJSMkJXUHo?oc=5
+- **2026-01-20** · [Lex] Paramount needs a cash spoiler to clinch Warner Bros
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVlmZ1oxYUtuV0pqNjg1dms4SUd3cF9oZ1NfN3VrcUtIbVh3ZmhqMTlIS204QUNLUW9Mb3RCSFkwN2tNZktWWFF6ZlY2ZHRBZElOTUtGa1F3XzFJVTBOdUwxaWFUNnhvLWZVSVY4R3FJWEhyampnSW9Vbno3UXYzQXlGTXM?oc=5
+- **2026-01-20** · [Lex] Revolut and Visa’s loss is the UK’s gain in credit card fee fight
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbXBHakg0dEdHemVUQXdGQUJmMjRlcEhCR1JaRjU2UTVqRGFhSFY5czBBLWZNR3FmOWNNc2l4c3l1bzdDbURLaEVFdFdxdGJDdWZCbTJUNURfZ1RZQzhHWTFBQVNHMGNia21DQlVSSXBjRC16ejhTOXlYMWFmS3Z5ZlZqUjg?oc=5
+- **2026-01-20** · [Lex] Neither Musk nor WiFi would improve Ryanair
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjR0WkVOQW9mV01iSWpMblVkOEtmcl94RUZYbkFaUEVHbmgzWVE1MTkwTTg3dUEzU2RrQUZ5UmdrR0haamxFTExpbG1hNFFYa2RPZ3VKUmFFbFpPR0JuRnhGN1JvVmxqc1hmdWkxNG5TZkFDZEdPNW1tVXdXS21MZC1mQkw?oc=5
+- **2026-01-20** · [The Long View] Japan’s Sanae Takaichi vs the bond markets: investors place their bets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnE5SUtUaVp4dl9hN3VmbmNxdDR0VzJWY3NLR0hxOGRvUTVYZ3ZlbEJNaVFQSmFVZEFoNHFBMTNhQ1dlVnV6RERmUm9TT3kzb0hEQXZTc3hfdXc0SFJGazBBZGpWNlNaTTN2S0c1WENPcDV6U0Z1OF9sOFRqTUNmMEpUaVM?oc=5
+- **2026-01-20** · [Markets analysis] Why China has so many robot IPOs
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBqcmpwbG5ZeVVMQjRFTWlJbDRkN2JFVDBEcHdQSXJqbndQRFhreS11NDNOdkZpcDVSRlVta21GSVdfdmlVTVVlYjdiN2tVc3B5SHNFTDhiNmpQRU9ST3d6VEZxVVZqTzM4TV9zQWgtZFg?oc=5
+- **2026-01-19** · [Unhedged, Lex] Winton UCITS Funds ICAV - Winton Trend Enhanced Global Equity Fund (UCITS) I-P EUR (unhedged) Acc
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTFB6LUxGZnBMX2QxZXF2R1o2bFRzR0tEbGdMZWJvOXhuYVBOQW1zTVp3aDctb0k5TG43ajNxZlVIclM0QzNUdTFOaGMtbGxuZEFRRFB5TmE2clk4aXZvMzYyRUIxSkREYVllZVRweGN5aTJuMXVQZTROYVpB?oc=5
+- **2026-01-19** · [Unhedged] Greenland: Taco or Fafo?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDByVVFfZDBfUUtremU2ME5NeDB2MjFWTldVWU5KRnZBRkhQcmpRb184aTJtdHplTkp5cWE5LTdsNXQ0VmNoTEc3SF9QNHcxU0J6eFNIMVhUNTVJV1BiM1BCN2lsdThMeC1kWm9fTi1JMUxHZzBoR0o5QjJUTGFCeWZhYTk?oc=5
+- **2026-01-19** · [Lex] Amazon gets a dressing down in luxury store Saks’ bankruptcy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm1mY3V2eXNDak82NFhicTBTX01NbXpPclBaOHdpVmhJSTdMdnpzLVBnbExlMG1SOFY2S21ycjJWUzJLOWRSZDE0MGNFaHdMU200Q3lDUW02TjhiMkZUMEN0VzBJUkZZRzBuUFVRZm5nUkRVTE1pVk1DMEFBdklZTzhXb1c?oc=5
+- **2026-01-19** · [Lex] If fielding one bid is tough, try fielding 12
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDYyUnNwXzEtVEZFczIydVlCMDJ1VHctNV8yWkNubXJub0N2OVl2Wno3MkZBNmNSX2RLM0IyNDR4eF9LOEpRNE5KaC05YWJEeUt2UEZrcjhScDNieHRjcVgwZ0hfSEF4Y2RaeW9vcEdKSVNJSllQT0tILXdGMHRCeFdPSUE?oc=5
+- **2026-01-19** · [Lex] UK government to take £25mn stake in Octopus Energy’s tech arm Kraken
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOajZOQV9LMkxYWlV5VFBTMjQ0bllVcjRDM3oxay14QmZ5X3BWZUI3Vmc3TUpkc09oVWk3R0xjUWhDNFl3cElPWUZDTVh1YVF4T3o5cDkyUWRUOXV2bGN5aUZ0QndudDVPOG14Tlk3ekZ1d19Ebkg4Qm5JbEF2WDVLd1BzNG8?oc=5
+- **2026-01-19** · [The Long View] Could Europe really leverage its $12.6tn pile of US assets?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9WVmRFM1BxUzhTY21ZSUNnVHoxVFFWVXRTQTVWMmtremF1S1FLOUx5T0c1SHZjSWVWUGVjenRnREFfazlUanIwcnBlS1F2dzVPNDQ5QnZUNnFkVzFVOG4wRWhTSzNKLXJ3ZFJPUF9lZVk?oc=5
+- **2026-01-19** · [The Long View] UK private sector wage growth cools to 3.6% as employers cut headcount
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1JNc1ZMQUxoNS14VGFyX09hX2xqeVF5LWxUU1lNMF84emFZeGNMbFlYSjQxaEM2ZUdsSDBxRUtEOHFrWmF4LTBFUXlHd0ZPbllnLXpQVUV5VGU0ZW5zOXFhM1lhd3JyMDVRYVk1MURsZXNpcVlKaGw4U0VGbVBGSk1JeUg?oc=5
+- **2026-01-19** · [Markets analysis] The great oil head fake
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVE2UEhXbTBIU3VNZnRkalhmR1h1MzVnd05ZT3EwTFllYnJEVldrMmNWSTJSNDB3eVZJM0sxSDZqUHdHTUxxUjdHczVyZmJGTW1qelpqcUwzcGlsRFR0ekZ2N0JEQ2dFWDRpd1Ria1BSWjFKckwtc191R3lsX2dHMDdqc2k?oc=5
+- **2026-01-19** · [Markets analysis] TikTok owner ByteDance targets Alibaba with AI-led cloud drive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYS1ZTERsN2hpWU9UY3dGZDJpc0JfQkR0VURKdjdWcjh5cmRxb1VoZVFrN3lnUTZEald3NkhaOS1PaWdQc0VMMmZfMkVBclZXeWREeE00ampHNl82M25NQ05GR0hGZ1pHR2RvbGxxT1hfM3NuZjBYemx1SjhnWDVXTjV5Yko?oc=5
+- **2026-01-19** · [Markets analysis] Private equity group CVC strikes $3.5bn partnership with US insurer AIG
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUo5ZE1NXzNlMmVObFRtTEhSVnpoUmRpZ2VWQ0VNYXRxaGZRQkpObndYTXpOTHhvcER0Z0Eyc0psaGt4SGVLTFpLbmlUaDdXa1hKa3VYVFJkNjEyZXMwbWg1UEpsUExIVEt6WVpEQjkyeDA5WV9Zc054bXhtT0RxdHpxbVc?oc=5
+- **2026-01-18** · [The Long View] Europe’s AI ambitions are running into a markets plumbing problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTRFYmdmYVVXRWdYTndhOXQwUm0xTllFajZSbWZ6YVRTUDNRSjV4WFBtWlJiVGRqVUczdzNUWnlSS1lKNXoxT1hMbkptbW54OEFjZ3NPRzRsMV9GX0ZVZW5jdld6Z2NsWGZ4YWIzZlIwWEczZTRLSE9QX2FZdmplQkFoTm0?oc=5
+- **2026-01-18** · [The Long View] Another shadow Tory minister jumps ship to Reform UK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU52NzBTUUpEclZxNm1fWXQ3SXhvQjFuSTNEYUp2VEN6T2xkakNVRkVOLXp0QlFSQlVNNnliMW9vRV9FSkpIQU5KZDJXZnhyd0hUNEQ4Q1NKcTNOWFJvWHN3UmgwZ0VvY0tvNTZOb1M5dVFkVW1IV1Q2UkZrQ0hGTzNZNE8?oc=5
+- **2026-01-18** · [Markets analysis] China will clinch the AI race
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR21qQVRHODdSYmJmQ3NvMTFyT1FmZm1NdjhGLV9pUWhMbmE0dzdMUUp1dU83dUU2RlkwZ2REOElqaFEwdHNMVGRSMFBZRHNNcUg1aV92UXA5eVVxS1hVcnJzQ3dsd3AweHZKWlZQbHdlcjFUMmJQSTAzQy1KWll3NDVteFo?oc=5
+- **2026-01-18** · [Markets analysis] AI’s impact on jobs is set to become more pronounced
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0xncGVuVW5aY2o1Rm1wVXFFeWhyMU5aUGp4VS1wc1AtSkVqazVNQS00QmpRN29lTk9CTFVUVEstTDBZakxFRXVaQUdVVDNnOHBVYzl1N091cUdmallMU1NCaGcyeUptdm5qUlZRLTZLdFVxQVlmRlRZdW5weEdPUk0zQzE?oc=5
+- **2026-01-17** · [Unhedged] Chart of the Week: So the last shall be first
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2ZleHRHemYwY2pBdDBUUS1NeUVxZlRWSFlJRms5Mm1YcjZvNTZCM0drMEQ3ODhmcEY1MmUyNlk0LWZ4bW5TOFQ3a2QzdnotY2VIUXI5X3pXS2lfNVdEYmZWOWFXeUdaeU4tVGk4cnNhRG5EcjUyZFBxN2lwd1h0Qzg1MFI?oc=5
+- **2026-01-16** · [Unhedged] Nvidia suppliers halt H200 output after China blocks chip shipments
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFJrVHJsQ2ItakZrcUpSLWRidHBUOWtKcU11VVdRS1dxaE9MdFpCUU8zWXhZZVUxMlU3UE95SWJQejhZTjl6VkVVZ2hieFFpY29PODlKVnh5NGNkRVF0VWZDaktucWQ1S3Zuel9FTjNTLWJlZFNHVG80MmJqbTNkNWhFTTE?oc=5
+- **2026-01-16** · [Unhedged, The Long View, Markets analysis] What caused UK retail’s tilt to gilts?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB1MlhMQm9QZ3RHOC1hT2ZfY2huVE1NdUFEdXRUUTJkZkJ2V1A5MVc1cjFLcGxtcUdZVlBpUFZmLUsyUndiRWQ4eHdiTDNCTFRoTGtUR3lMOUZWb3VwYnJvZDhkZGE2c09QcTZHdGNrbk0?oc=5
+- **2026-01-16** · [Unhedged] AI voice start-up ElevenLabs in funding talks at $11bn valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXU2bEYteEhDcTlVUS1FYmF5V0l1MWlvVGU5TVVVTzNOczNYZFZKbVVjQURfWDlTMEN1R1lPMlFUV2tOT01ISEFlYUxodXB1NlJ5VXotbk11U1F2ZHdiZnA2UmY4WmJMUVBWcERMUXlvd2l3b0VXVDRaNEJtdkc4ZzFGdTk?oc=5
+- **2026-01-16** · [Lex] Parcel delivery remains UK retail’s weak link
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEJud2YwekF6eEQ3anBKSWJjMnlCOXh2c3RJeS00cFZRRjlUOEdmRGpXYWZCb2F2aTdzOXFSU211WkhrdGN3V19yTmJ4UUsydjhBZ1ZIRTdLbnBzWWxLbDNEcnVvMnJWUGM2eHdFXy1XX01sYmRCZGItamdNbnBrWTFfaVI?oc=5
+- **2026-01-16** · [Lex] Japan’s rally doesn’t reflect the economy, but might reshape it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY19jZUlHeF9NOGc3bUM0WlJjZHRBbm1ORW5uVkxFQWVXTU5mcHdlZ2lWUXZ0WVI1RzN5Mk41XzRROVNTa0tWZ0JvN1pTN18wekZieHJONUN3M2wyZzgtbXVULU9pVGhNVEhDWkFRWlJ3aXlsLVIxVlh1Sm1oS29nTEdPcG0?oc=5
+- **2026-01-16** · [Lex] How to deal with a bad bonus
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA0azVPZVFpUVRhQ0VrRFZPcTFvY3UzYWNhbWZ6TWpBYTNHS3V1elN1Z0l1WlR1eHNLd0NCS2I5bWdZdmpSWHBDZksyWG9kSVhrZERJVzlxYjhrd1QtVEZrMy1tRmNKTVdINl9TajdSTzM?oc=5
+- **2026-01-16** · [The Long View] America is courting the old crises
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Q2J6UEZYQWVuWHdmS1BSWjRxV3pkNmUxSEsxdlBnOThremN4ZFRpSU82ZWU3bHViMlkyQUNTQmxtUl9FTHJfQUtZdDEzUU5xR0RLNTN1NFJVTExjSGRhclc2YVdqbTl4MHBqYkdON3A?oc=5
+- **2026-01-16** · [The Long View] Is Britain ungovernable?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNekwwYldvc190ZlZtaFNMOVduMURaeE1HUS0wQ2lXVE01b3ZhS0Fma213ZDlSOUF0eUJLeVhIMkxlZWV5Tko5VlBwejlzdzJfVXI4WnNTMThhWU9ka2NHS01lU21UdzdJeUpnOG1jQkp0eDRRdWFhVWZ1a1FweU0xay13d2g?oc=5
+- **2026-01-16** · [The Long View] Reform UK seeks court order to prevent delays to local elections
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2lDTmJxT1YzVzlVdHFGZlYwUk9Fd0pObHBFaXYwVEJRY0NwVG45ZXN5dTl5T1drWHR1STNTSTRwTE14UWlBX1pVQVc3cmRsNEJMTlZKTEc3VFRqbk1HUER6X09GYVhpbFNNWnBDeHRtNXd4dVBhUVBZdDBwdkg3TEFVUlU?oc=5
+- **2026-01-16** · [Markets analysis] Labour to avoid risk of 10 council losses by delaying May elections
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOalZQcU50dEdWSVpWQkp5aDZQRVpfQTc3cHE2bzIzd0xzUWxMUkZaS0V6OGJ4TE5mcV9NZ3NkWmFIS2dZZFEzUzMtN2h3anNPUWRyeHktNWVCaDJuZ1dxOVdOVzlpaFVobEhKa3YwZVFBa19NUVJBVnZDZ1AyQTlFdVZNbUQ?oc=5
+- **2026-01-15** · [Unhedged] The risk to gold: global sanity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZThxQ0xHU3hxYWQwZDJSX3ZCN0RXdHQwcDR1RV94Yl94WGlGSG5BYks1cVlWc3JRTHlOalJva041aW53UjFxTDBKUmRaeVZDSDhuT1k5WTNzN293X2duV1c0Vm9JcVV5ekRsWUtCbjdlc2lBci1jMUxESGtvWWNPamVZWWY?oc=5
+- **2026-01-15** · [Unhedged] Investment banking’s liberation year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWnRkelJsVFRuWXhsQkZvb0YxS3pITGQ3aWxUeDZoOVZXay13U2ZTZWh2MHV0MUpxNVVVdmdxWEVyZUx2c0ozaHhGVFRYeEhCcE9HT2ZwNUhQWXZHV3VrQ19hUmJ6emQ1UExEbkhDOF8tYmVIVy0zM0FkaHhHeWNxRmlHa0E?oc=5
+- **2026-01-15** · [Unhedged] German AI start-up Parloa triples its valuation to $3bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM3MwVnpsakF5d3I5Zmt4WHM2X3YwOFpKLUxXdGllLTJTUUhHX1ctTjR1OS1CSVdjOC1KNC1xLVA4SUlBMGo2ZnNSY2hSZ2cxaUFYV2ZDaFl0YmpWbVdkR1NtREZvRzN1VVBzS3B4TnhGdkozQktRLXlTdXNrVjJKOG9RNEk?oc=5
+- **2026-01-15** · [Lex] Solomon’s third act at Goldman Sachs may be the most dramatic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXN2UXFhTU90UmZ2UTJFblpBbmFDMnFHODUzZGdLa2hpc3ItTk5KcWVyNGlxRDFrelJuRWU1OW9GY0ZweTZQWGt1X1l4Z1E0cUN6LXV0TlJERWdwRHlCMjkwcE1xNlVLNEFQSUE0em9WU1VQNTA3QzFtb0c1ODIyNUxhVnY?oc=5
+- **2026-01-15** · [Lex] SpaceX partner EchoStar struggles to reach escape velocity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjVfZl8wU0hmb1hZUVlUSXN5Um5RbzdNcW1KU2ZNMS14OWU0RmJveUdmbGVpeUdiT09lNGktZ2ZxZ3pYR1FKc2VQU2VZWDFDV09nb1g2RktPbGZEUlJCM2NaM1hWMGVTSVJzVEJvSGk2NS1GT21zbkFpY2NSSzRCZ0wtZ1A?oc=5
+- **2026-01-15** · [Lex] Samsung rides the chip slipstream — but that’s not as good as leading the pack
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVY3Rk1zZGtyUVlQVjF3OUJaNExCbkZYdzhsNEd0b0RNRWxkUWRKMnZlQUdjcGUzTkhIQUYwc29uYlhLZ0dGTzRIMmhqc2t3Tk5NUHg1c3FRVGdQRllPRk9pY2V3X3VLMV9HOFJWcDV6TlVxRXE2VXFMWDdTdlZmbk00Tl8?oc=5
+- **2026-01-15** · [Lex] Japanese opposition parties unite in challenge to Sanae Takaichi
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMjZmV2RHOEl4amtzVVVRc1JtZjcyc3hJM3J1SHRSbmMwU1IxalU5MWRMOG40bm9hNXcwNU5NQ0NOZ04zYXdscXZpZDYzQjdCdi1jcVduanFacUZlaVRGS3hiX0k0c1BtOENZNzNPRXphZ3VUeGNjNWhjSWlnQWs4M2ZQYWo?oc=5
+- **2026-01-15** · [The Long View] Letter: Central banks must confront the original sin of monetary easing
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1LNXpGQnVOT2VRN3hsRVZKeHZfbjVOMWZfcC1HdF8xZ2p4b0pUOEJXdnM3bEQwZjN5SW5pWGJqZG14V2JOR0IxSHFEZjhWRm0yY1RLYmVZM3lLZUpfa0tHLUM4NEVoT0lRVmNoVG5tc0k?oc=5
+- **2026-01-15** · [The Long View] Lebanon’s bonds rally on bets that Iran’s influence could be weakened
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWROa2xXbHlfS3pDVWNTeFNpRjh2emFNeHZIWU9EODloa2JNanZwRHpFd2lQcE1XbExMNVRVTHVzeElaWW50dXgyLWFicDNRSlJYcThVSlcwNXdWZXlJLTFkUDBwM3Q4WWdYaDI0dkdJanBLSUNublFZai1UTTUxZ1RIOXc?oc=5
+- **2026-01-15** · [Markets analysis] Middle East governments believe US-Iran tension has ‘de-escalated’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHVib2ZQaDdmRXhfRHdPSENEVl9NTXBBdE10T3gyWFpUUVRiMGs0V256T3FIUTFValdESUZtRFpjbFRKc285TjNwREhleGRCNjZYN0lJWjhyV1llcGdpb2NLU1pYY2ZvNHJzSUlyNDBTRGowOVBjLWpncVdsanNrMHZTQzU?oc=5
+- **2026-01-14** · [Unhedged] TSMC to boost capital spending as demand for AI chips surges
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlhESm14cGR5dlJzTGVwck9YWEtEUVFjVWdOMzluOFlPekxOS3dHZ01vdUpWVFhXQklrRXlpUENVMnRjNkZIRVJ4YzZXZGJRRFNnTC0wNVJMRFRkVEdEUGlJZDJFOTRmUDFwaUk4VVdQcWZ1T01xb0pSVjg2RUU1TVZ0QmY?oc=5
+- **2026-01-14** · [Unhedged] US stocks slide after bank earnings disappoint
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWk16NkJaZ1BjQ0tXWTBEaE1MWjVseWpoX3BCb2NvYUxfUFRvVjFfLUh2eGVmTHBaandZNkpJd0FWdGVYMDV4WDZ5NGl2WE0zZEVqRVRZN1BKOXpDSjVoeDRBVWxjWnR4NTFmcDQ4LThDWVNWNDhhLUYzWVRXWDZQdXRMZ1U?oc=5
+- **2026-01-14** · [Unhedged] Google taps emails and YouTube history in push for personalised AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQclJrZzBWTFlDTndHMzVzemdXUmxYb0xFVmJTTEczLXhaelhMTllOazE3Z1ZvcWo4czRVbnk4YzA4TUFlMFRqUUtfbERVakxWcmMxRHVLUEtnT3dCb1JYZDNrcTk1MDgtSlRaUGpXOTlmN0hub2JTTE94Vm9RSEhXcXVsZFo?oc=5
+- **2026-01-14** · [Unhedged] Gold, silver and copper prices hit new highs as global tensions mount
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYllOQml2ZXV5RFZBZDk3TmtwRHJ5aHpVQVlqUElWMnFmYzVkc1NyVGdKMm84bnVOS2UxU01CZnBoRi1JWmR6anJLblNJUDlxenlWVDVINndNanJiX0wyUzNsRGIxMTNIQ0J0Z3pTWkNXWHhGZHRUZVZXOFg3eFdfdVVOZTE?oc=5
+- **2026-01-14** · [Lex] Offshore wind’s fickle fortunes may finally be turning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON3ViQ3YyaTNqRHBtRWJCX2FyV1BEYkpESVJwb1BqS3NoT1dBTnV3QUw1RFQ0Nm0xbHJ0amtWVnZBd0lWN3RtLWdqdjk2YUs0RTQxa244OUtYbzNoRGtwVlJDZTJ3N1ZOTWFjd2xvZWZUemdGU0hHWjFyNVQxREZkNGxYWC0?oc=5
+- **2026-01-14** · [Lex, Markets analysis] Wall Street trading champs give sports betting the ‘old college try’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHdiclVHV2pvdGNfbzRCS0hSN0NJZ1o1aHFJTmh3Nm8tcGVfU21VQm4xdXFOQnUzOVRHTW9BZGRxUmZ0Qk9TX3Q4Z2c4alZpdDkxVmxSX1luZGNCZGxZLWpUS2lNcUFtWjNrT1NYV0t5Y1RLaVNHVnNRT1FMWUp0eE9QZWo?oc=5
+- **2026-01-14** · [Lex] Bank of England accused of making ‘mistake’ in loosening capital rules
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdkF5WnlTYTY0WTN1dGVzQ1FPU1dUMEVpRzhMMFFGaXU5eEk3YmtRTFR0UGgtMGhLaFZzdHBnNmdEa2RtTVN0LWRTb1J3M1hfNGt2OVUtWG5KSk1EYzBzNGN4Z2UycTlOVG5DU2J2LWtWc2U5ZW5iVjBvNUlHdDg0bTQ1MU8?oc=5
+- **2026-01-14** · [Lex] Tech sovereignty should not be a subscription model
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBjaTlPYi1wNkFNMWhXMFhxQ2xEWGhENTdfenhBMTJnbENBOUpETnNQbFQ0MFdVQTltUy0yZVdCNDdnbzhYTEdJZ3JSNVlELUozN2VDaFBQRkZhN0ltcV82WFNHR1dRS09Fd3ItZUlUQXk?oc=5
+- **2026-01-14** · [The Long View] UK borrowing costs fall to lowest in more than a year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVd4MU82dnlXMTFkTkpQTHpEVERJVnRXRzNyLTBZVmZmRjRVbld3SmFVdlRhZ3I3V25KUndJU0lqLWVyVGMxRmtkNEJXY240Mm1Uc0hQTVpMQTN3OEZaeHpMcHdmdkJCYlVscXlGMjVydEIycG9TVWRGRVBHaEdiZnlpa0k?oc=5
+- **2026-01-14** · [The Long View] The $1.5tn Treasury basis trade boom
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9NbTdXaGZTMGlldzY3cXhzcWNkTUh5dXM1RDBjeEVTRW0wVDRJR0xGeU81eDdsQjBpRzFFQXl5bFNldlBLUEl6R1NvTUJ3dTBwWHhkbGdHMmIxVzM2LS1iNmpNbzZ4TnBKdzk5bU55TF8?oc=5
+- **2026-01-14** · [The Long View] How Nigel Farage gets away with it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDB4Y0lITUIwWjZHQ2ZmRHNUSWsyMVRuM0xBU2lTZ29HakJSVWxzN1NUdmxIOUhscXNqX2FKQ053T2pXZW96MHdrcHk2UVFOZDhfaDY3aUFqSXdrUS1wc2hHbmVoOU5TZ2g5Sko0bk5PSXRJdE1KbmVIM1BjclV5MElNb1I?oc=5
+- **2026-01-14** · [Markets analysis] Kalshi and Polymarket race to crack ‘parlays’ as stakes rise in sports betting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGNuYVNxaGFUNnc5eU9SYlo4TkxybTI5N3JydTFtOFBacjI4ZjlQVmN5MnZ5WTZMWEduQ0dmUm4yVVBzMmk4blh1OE1jR0d3RFE0YVNrbkJtY016d1kxaGJNdFRJeEJPS05QTkZLOEZJdGxqb2tIcVU3VU1UcWNRODFRczU?oc=5
+- **2026-01-13** · [Unhedged] Progress on (half of) inflation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmwza2R2UTJ3VndSQThIREFNcDhqSkQtclVCckhvcWxPNkVKbjhjempPMGdxeTItdFp0OGpON1JPNEE1RGhMQm9Lazc4X01HVm1mQXoxa21qRVVvQ0FwQnk3LUZSMldvR2xmT1NTdFZLYmZxWHV2QTRUMjNkMmlNQ1hZd2c?oc=5
+- **2026-01-13** · [Unhedged] Transcript: Showdown at the Federal Reserve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjNiZ01peXlEMkdjbzVGU3JfM0hlSXRSOWVTVkx6aVNrOWplbXhJLVMwal9jR0NBNjk2SUhSV05BZk4tUE5RNnJ4VkVueUhyVWRRRWV1dzM3NEtsM2htdFVGNDdyMmQ5dnRkX2c4czBrV241enRBRTVhZDFIU1RMVjM4eFc?oc=5
+- **2026-01-13** · [Unhedged] Central bank chiefs ‘stand in full solidarity’ with Jay Powell
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTNXTmZSYlExcEZsSzMzV2VrWk5CSDFlVlVJbnhQd2tqRTYwcFZMWFd1MlExT1IyVXVETEIyVmwyS0NZWDVtX2xJWFltLXZQVGt1emlhci1GUUlSUzlkNGlyY3lJd2tvMVQyT1lpM3c5bjlhaDRDM05lNEY1R21FdDBncGM?oc=5
+- **2026-01-13** · [Unhedged] Former Fox News host runs the gauntlet with Jay Powell probe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0ZBdFVTbEJ5Qjk5ZzNMQlphMm9nbm5uZ29pQmVVUFQtT3B3Ymp1M2hSaG94X0VwSm8xTVRhZlppS3hQWXlTNUZvdzFYQTlxWGVEaFdkaGtRODlhVi1OTGd6TWxuamh6QXVwSDdpTjN5TF9VU0Z0RFhNUllpV2VPS3JxRGM?oc=5
+- **2026-01-13** · [Unhedged] Jay Powell sent senators details on $2.5bn Fed project following testimony
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObko4eFJDLXdzVHphMEdUbnV4eEtDUVhLTnZVUHZYTDRNa0lEWXhyZjFPUFZFcV9yNWV1ejE2OEFLWFFRNERZWWMwcG9Za3JfY1NpUVVsN01wNjhCWUJpQmU4UlZVblZDcGhmQVFubjNlMS1yZDN5SXpQVnhraEVJSU1vbXk?oc=5
+- **2026-01-13** · [Unhedged] US inflation stays at 2.7% in December
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTc3OHU2TEdwUy1uUDZiRDIwdElQX3YyYnJEYWJGanRCMmJIWUQ2RjRPNGIxeEsyeGd2UWZxNG5zVy12RWkxandwbUxBWm8wYWZtbWhxUlc1a1BsQUVFaDBaRVhBTWI1d1lXX0x3T3VLZHg3ZnlmSkx6N0lUV0hvaUtTYlA?oc=5
+- **2026-01-13** · [Unhedged] Repo is even bigger than we thought
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE4xMjRpbXJkSUg2bHJIQkJjUTVDTTJnUWhjWUlrTTFyeDdkdUw1bGhKWS03Y0xEdDhDRjc2Qmh5VzdQbGIybldtaDV4NWVYdUR3SnM2T0x5ZXE2bkZhcXhLaVNlcjNJbW52VHE3YW15bXU?oc=5
+- **2026-01-13** · [Lex] Ermotti’s UBS legacy leaves space for a third act
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVJqbFRwZUhFSElxYTdnRlljVGFVaGkzTWxBd2R1ODNrVGVMaFE2cXhqS3JmVms4Z0UtNFhxdkVRbXNLV1lIOGp5cG9nTHlULUhpWDRiWjMyYVFxT0p3NTFOM2dGZHZVU3ZsbEVVQkFVS2NhcV9WblVaUTRTZkxnMmxxYlg?oc=5
+- **2026-01-13** · [Lex] Elon Musk’s $1tn mega-bonus is now a meme
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzZpMVQ5ZjFrWjBfRHJUNnBNakwxM19XcElsUnFYSkczblJrN1Bkd1l6UjA3Q2k4Uy0zY0M1TU9NN3hLeHduWjNabnNkajFvZ0RfT1FOcWswWHZBa1F2YkhheVdrZHpKVnJBZ0pVSnRjODRVcUdLWV9hcTdjQThhSVh4Q20?oc=5
+- **2026-01-13** · [Lex] JPMorgan investors find out who their friends are
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQclNycnZkNGVmNmVVN0FDZUw4SldWY3BuLUtvZS1CcGFKbnFndVhrN2dRSk5DMWU4R2J5Q0IzckNURy1iOUZJcU1uSEhZZDdFYmd4eHozOXlBMGFJRGxCcm1pek15bU8zajdKOGhCa1V6dU1JcFRTMU9RVnQ4eXN5VzZSanE?oc=5
+- **2026-01-13** · [The Long View] How investors should deal with instability
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1MXzhhTjFMc21ZTEZVbzBOZm5uN0ZNWm5sUjZwU1p4OF9UVGlBNW5zRlB6UENtcFNoRFNjNnJtQVNtMkd5bWJkcGhuak9nc1hRcm1IcVpmTmYtVlZIRHpUYk5KM2hZMG1Ya1Z3M3UxeDA?oc=5
+- **2026-01-13** · [The Long View] Wall Street groups hire traders to wade into prediction markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGRxLWVZNndHeWJic1BFWFdZNkhPckdDZVRzM0syWkVNZzBwRXprOEVhcnc0QjdfMHNmWWl1cTZKS1VhVXpBanA2UFN6UlpyT1REY2VVRk9aZVQ3RjgzWllQT2M3WE9yYk5FTTdERnlXRklxQXlwZ0FUQ3ppaXRIbkl3Ul8?oc=5
+- **2026-01-13** · [Markets analysis] Art auctions rely on debt, divorce and death — can the latter keep the market moving?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBQX0VYc1dINlpvNmVXelNWOEZkc25IQmE4MjRsS29Sa2t5Ty0xbWVEX2toMWY5WWNIQjVOWUl0MFpRdzFpTjhOT20xS3haT2VqTjhsWlVDNmx4NUFkNkZlazhoeG1KRTBwdmpGZzdWd0o?oc=5
+- **2026-01-12** · [Unhedged, The Long View] The next Fed chair is . . . Donald Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzhFc29fN055dG5VZmpObXEtLWxId00xcmFIWTROQ2FCbGZWMlZGSnBoMU93aVdaRWJNWmVSV211MGh0SmlKLUFPMmpuT0s2QXBvWkNwT0ZvVG1RZXJXTTNDVDZsZFIzRTdkN3hMNTRaRDltOUdEVVItWS1Qb0VNX1RvSjc?oc=5
+- **2026-01-12** · [Unhedged] Get your ‘Free Jay Powell’ T-shirts here
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5ob29zR0JNVDBLd0RrZFFBaWlXdlp1SnpvNHJuOS1sZF96Q2JRNkVIXzJnclpYS1lSYUZhdGd0Uy1IbExCZU9HMldIUFZkWVdHYkhCa3owQklNdW0yQzdnZEc0V1JrNlJ6R3g4ZXBsckQ?oc=5
+- **2026-01-12** · [Unhedged] Justice department’s probe into Jay Powell galvanises Fed leaders to repel Donald Trump’s attacks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONkhHa05QbmpuWlk5UlFRZlVKOGZ4d3puSTlubzFja2FJT1VPV2JSekVWTDMxQjRCTzVST2dDYUN2dnl3VTBudWM5eC1SY1NybzJCQlFDMnJhelZKeWk3R0RSdmNjWFJ4eGlia2F1LVRINzNyQXg1NDBOVVlLTk0xbmY3TlI?oc=5
+- **2026-01-12** · [Unhedged] Gold hits record high and dollar weakens on Fed independence worries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnZaZ0JWWXJoMzFfdjFYMFJNVE1QVEF5ZGhiLWFhVDZDcjVWZklOV0RyV050TVFxaHNwdnRvQnVaQno4ZW9uVVdWS3ZzT0gwU085NHhsakVzS25IQkhYRlBzRER6RVphbG1DeXNBUUE2a3VnTUx6a1RvTHR1bHZKMWlOVnE?oc=5
+- **2026-01-12** · [Lex] Donald Trump hits banks where it hurts: their credit card divisions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlFyWGJsVTd1aGFTTi12MzlERUdaYi0zV0NUdTBUV29HYmtmNkdCV2k3bHhGSzhTbmxEZExlUnNkUVVuNDFtdGNqT0VsWjRzcXlVYTNkdlJoQkZ2cHFvSndNXzlKM1c3MDBydkw3amRIYVdQbjhCcFQtLUZmTXNrblcyWDI?oc=5
+- **2026-01-12** · [Lex] M&S might just serve up something fresh in 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3pmM0pMaDZaazhiOUFpbjZlcTVuQmJrWG5YUWZtT3g1eXBHY08wTWxMOXYtajU1cDRDSGtSOEFscl9PeUlzNzVUekFZTkJNMjM3eC1lS09IUVZib2ZzdVhJbS1ySTEyb0pidFlkV09SRnBPbVVhQ3JiTGhKN2dBMVhPaVc?oc=5
+- **2026-01-12** · [Lex] Shares in US credit card issuers slide after Donald Trump calls for 10% rate cap
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX01KakxzZVhMUDBMRkZSWkFCaFg2ZGdtVkdkV2h0aVhwRlBSSmhjS0Y2MWtkejhmbVc3MlRQZFZXSnRUWWFJeUpEa1FnYW5aT0N5Tmgxb21CSGktcmQ5VFFsY2ZaaFpWOWtDTEpXTU5ZMVJDMlJ1YzVpWTRCSUQ0dWctNUY?oc=5
+- **2026-01-12** · [Lex] In charts: why Rio Tinto and Glencore are in talks about a megamerger
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSE1BN2s1eVlUQVJzQmtkU1hsN2pKOUo0YlYyZ3E1M0ZOaG1XM0hNbUVjZllSOHVMX0FWWWlHcXB1YWtDNzlvbFRFcXhxejlVUW9YUmU4WlF2MmtxWXhWemt2dGc1eE9SbzdmTDJUOVB3aU43cEtodWNsckkxYVFrU05fUEY?oc=5
+- **2026-01-12** · [Lex] UK to outlaw non-consensual intimate images after Grok outcry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzhiT0xFVTFRRE1CdnpzU2loM2lLR25IY1J2d2ZNcmlIalVrU1Atbzhkb2JldnJwVTBUTXl0MnlQbEw4WXA3cGNZTWJhSElRcFdUbEFrNTZMdnd1ZkdfZnc3OHY2Ty1FbGlMaE84bUt6bzRQVDNEZkVqRENmaWlFTnV3N28?oc=5
+- **2026-01-12** · [The Long View] UK to compensate tortured Guantánamo detainee
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1FTeGJreVF4NENzdktPbEhfU0lUSXNPZmZCYzFDVDRoc2JaaDhoaEZPRUlMY2VPa2NLVHhLdzNZVVE4Q3FReHNOa2pXc0ZrNGZPajFRa3F6LUtRc1huNVE5enpLOXhtRXlmR0dwS0hySWh6eEYzVzdpNzdKdF9xQ3J0WUM?oc=5
+- **2026-01-12** · [Markets analysis] Microsoft warns that China is winning AI race outside the west
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDU3R2VLSGUwVmJMQ0ZmZ05IUlZ1Q3FPSXRMLTh3ZnE3Z0djLVc3bkE5Tm91elNraHByRW13ZFU3UTgtTzZQenNLVlJ4ZU53RlZCajhIUFJIbjV6aFNleXJvenh3d1ktSzVLVTRoek5mUzRtZEtPSTgyRnYyTkRJZENTZm0?oc=5
+- **2026-01-12** · [Markets analysis] Don’t hold your breath for robots’ ChatGPT moment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOakZkUFQ4WF8wam9jOWtqYk9RMlJUNm0wQVkwbnBYS2dDREQ4Rlo5T2Q1bE96TkJRRkVxQU1JeTEybmhISy1pVnFOV2Q3TlJmV0NCMVpCUzBiUW4zTGRoSTd0SEV6TXVkZW1mcUVSUXVMY2NUUGxGdmdrd0RvSHoyLTVSYTI?oc=5
+- **2026-01-12** · [Markets analysis] How the UK ended up building the world’s most expensive railway
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTNaNkVWTmxwRWV4aUdOaWxQbEZLZ0ExcUdGc2Vtdm5JdWZiRk44QUZYd1VDVVNYcWc1MmtGY2tmdFYwNjNuSzIybkUtbjJqS3lwRXZuVGJSVEY4WFFXV28wckFOblRZQTBSWVl2eGhNNTlpbEtUVVFBYzFrRlZYTThaMms?oc=5
+- **2026-01-11** · [Unhedged] Criminalising the Fed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0kzX1M1ZWZZcHhfN0xqajc4VDE1WnhITHpGNlFPcHVqREtLRlg0UmxBTVNEZWV0bDc3dXVpR2dLRk5UV3lvZzZWY05ZMlIxdGsxaGRJc2EyNFZsenVTWUJpdjl4RzhjVk5tTjhjbVdsaGxiZnRjS2c3TjNlX2REclF6OTc?oc=5
+- **2026-01-11** · [Unhedged] The risky bet by AI start-ups
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEM1RkNUTUlSWDZxR2hjajBHWGQtYnVOWjE2ZTRjdEJQYWk2ZGF2MUdxdldlbTB4R2xsbzJ0ZW9zS3ZLeml5c2NHUEFNbUxDMExJUEdIUURwcEZ3R1BEdno3X1lnYkxQYmhHbVc0ZzV1WGtOWmNuRDdQeFBWbXp1ZFF4VkI?oc=5
+- **2026-01-11** · [Unhedged] An analogue native’s guide to digital success
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9BR0d6QjNjUldYMXpONGx1cklQU1MtQk1UaFIwbTFuYzd6Nk5jaTJ4UmQ2S0hnT2loVWpaZW94RmZYMUZncXAyQk9nUWViejhkMW5ISjc5aXNnLVhtNUFYLV9WVm1qVl9PaDItbHZlZ2s?oc=5
+- **2026-01-11** · [Markets analysis] Share of London homes sold at a loss higher than anywhere else in England
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTk5UHNwaWdSY2JoaWRJcnB3MmJYMm9xeEZBT1FXMHItbUtZNDlfTFUwa19sNmwzTGNCOEgyMEd2OHFLM3l3XzRWZC1RdjY2amh1ZzEyWnd0S2xaQm4tNWJmRkxSSmJtZnV0cVljMGsxa3ctOTRZaGVYc2o0UW42ejF2dlY?oc=5
+- **2026-01-11** · [Markets analysis] Eight tail risks for 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEg1a1pQd09OS25yQ3BIczM4SHB4aUxCYTZIQS12Z19veDBKS2Q4TDZxNktHaWc3NEFUeFlfVXp0NnFDQl90djBHTE9lLVNHUV9Cc0hKLW9fTElXd3JoekR5NHN2UUhOZXRCVWJMckpKNnA2eDFnMmpHMWh0ZTBMQV9zT3g?oc=5
+- **2026-01-10** · [Unhedged] Chart of the Week: Donald Trump whipsaws markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjBvbjE2a3poWUZRQlFaM1FwNFR3ektNbVd2TUlXN0lSMjMxdmpXdFFmVUkyVXM3Zm5GS0ppX0VhTjRKM1RTWWRtYVdtR2hFcURadEZOMHdNVDRxY3Y5TzRDbDh4LXdtMHh4cFVjUmNWS0M5M1phckxXQlZEQmc1WkNuaTE?oc=5
+- **2026-01-10** · [Unhedged] US corporate bond sales hit $95bn in busiest week since Covid pandemic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXNSZzdaQTlOYXZ6SDBCMlRNc0dzVERnNUNad0ZaQnUxc3BnUW9kSV9uV3VrdVdrS3I0ZGJxMlh3cEtCb0taTHhvUzdZQVhpNGxfZGRncUNhdWNBc2ZfZkJhRkVveEZZa2lZX2NhRUtWTU9EUDBUaTFON0taWTZoZkpYcGU?oc=5
+- **2026-01-10** · [Lex, The Long View] The good news in the UK’s rising unemployment rate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTBoVzg5dUdHTVNYbFh6QWlSVjFoTjVwQ2pwTVo5YkE0aVVicTRJX2plemJwQjQ0UjFPRzNjdjZ2QmFobHQ4VFVSUElkUW5wd0otckRzQktGVm0zRUFlcl9ZYV83RVl0aUdobTVUNTItSE0tMUx0ZXFqajRGWFVfYTlEaGI?oc=5
+- **2026-01-09** · [Unhedged] Gold and silver under scrutiny as index changes spark wave of bullion sales
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjhYdWU4bW1mSV8wN2dyVnU3STd2MEdGLWhtb2g0SFVBS2xjcko0ZUtEbmdGNXFINzZzckhoMDloWTZidjBuZWFDd1FQbUN5a0VJTW9LdWh5a2JNQU1ZbUFmMG9kN3dVUXlmV0t1MzRwS2Y2QWJMRnpKMmtTTGRpX3BhU0k?oc=5
+- **2026-01-09** · [Unhedged] DeepSeek rival’s shares double in debut as Chinese AI companies rush to list
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmc2b1N4cC16U1l1OVp1RmxhTXZBWW85aEZpZVBMWnNyT1pGMndINVdLTngxaG4yY2trX0RUcnlZS0lZNmRzNllGWjR5emc1S1Z0UV9xQktDd2FRLUVhWWtwQV9sRFVuQlZ6OU1WR0FvMUc0VEhQMHd4WmlnQ3dxR0ppUUk?oc=5
+- **2026-01-09** · [Unhedged] How do you value a company like Nvidia?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHYtUWl5OEJiOWlFN1dDWmhVaXRhM2lYak1BMHFfbmFSOHowdWRVV0Q1TlhWOGwwV21jZlZpMjdPZ1lSc2hFRU84TjZ1bjFRSTI2Zk5XdTFySThBUi1qYUU2ZmE4TFh3Y3dGSXZTeTdhYWdRbkZDRmdNN0IzdlJubFpzay0?oc=5
+- **2026-01-09** · [Lex] A stable Venezuela could offer visitors more than just oil
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3hJWWpiN1JCSHdZWmNGNEpwWXJIVGp3YjhuVGNOdjktcHF1bkZqWXA4Q0VCNm5IWEExX0xVQnpfMlR6c29kOUdNZUtoSTVVbnVCcl8tclFyd2dsZHMybEF1T0J0eWRQNUNCWGxyZWNfTmZaLU1OcW5zOTgtVHdxYUhMMEg?oc=5
+- **2026-01-09** · [The Long View] What is to stop Trump upending the rules in global finance too?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFRwMnhoOXdJQjFCZ3A2b3ppQXBCdWJsWXlOUVpTVmc1MWxSTGlWdzZBanVMa1l2bDQxTUVhMVBhWmNfeE9VWE93bk5MUlhyWk5kTnlERjF4R0R5dnhtd05ybkJUTU9kV2pEVGUzdktlcjcyWnVmZVlfSHlobUNUWUVKOXE?oc=5
+- **2026-01-09** · [Markets analysis] Donald Trump posted jobs data early on Truth Social
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTBTalh6OG84M2h2WkNPSDA3MDlPQ093ckFtblFZb1RKUHBTRktJODBaTnNXdkVaYkRkNy1kSUlBem1EU0VzbkVac2c3SWpfMHdaU2Jfakdxbkp6QmpFUU9WRk1ZMjBsM19Xc3hWTDJ3cjlobTdLZ25YYXJabTBwYnlUS3o?oc=5
+- **2026-01-08** · [Unhedged] Where are the hated stocks?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFI2ekJPQkdKZjVRbzg2dF9FQnlycWJNaFY2RVZHdmRDdnFGWDZ4NFB3RHlHN1o0ZU9qcUZsVWx4MDE4VzdmLXVXWnpyLVFBSVV1X0lPdjdxNm82c09FUUtjSlowQkhCTzktWWFKTTFwbFRORVBGOWFocF8ya0lVaDhhZ04?oc=5
+- **2026-01-08** · [Unhedged, Markets analysis] Putting the US AI boom(let) in perspective
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9oNmxjN2tFV2NWa01LamJzbGpnbVNEVjY5X2lwV1FScWtJM2xtbGtwMkFIbW5JWDAzVXhZSVh0MnZMQXlZSUJKM0VSTEptb2VoOWY0WXR2Y0E3SEs2QUZ4emdHNGk4cTdjNDY0LVpIWTA?oc=5
+- **2026-01-08** · [Unhedged] Greenland-linked stocks jump amid Trump takeover threats
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDlBUHEtRTYzcGVyVHk4eTBsLUhObms5UXA3THpnVkcwdm5kZFIxVmdST053Ty1saklUcDUtWEhackp2bGZLZFk4VmZldlRnVGlONzRtYWsxMDJmODJpV2VxM3E5SlVLZ0VMZnhyR0U2ZXFBcWZOTmxUOEFEaEpzXzJtSno?oc=5
+- **2026-01-08** · [Lex] China’s AI chip dragons’ firepower is mostly mythical
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDZUbEhhdy1EczkycHVvRnBKU01scDh3cDBkZ2hoSi1vZkVhR18xTUVJS2lyNlZMMjJ5eVVKSXR1N2gwNG1vYmp3QTRzWFUwMWJ6UWdWZDMtTVhWcnRvdlR5dUhRbnJjNFpnV0h1QkIwUW5ZNnBNdTNQcGc3bzFJZ3pvMG0?oc=5
+- **2026-01-08** · [Lex] A fantasy M&A guide to buying Greenland
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWNjQWZnU1lOU1g0eEdyMUpYRzlNZHI2bEFXTHJDaGF1bjZ0ZFJSRi1yd1RNaUFIR1NBUDZoN3U4T1l4SVNkYWNVS3hleG1YYnlyUmtoOGZUblZDdFk4OGx1ajlWdnBYc2dLVkdMZkRpM0h6TkdYUVNiemFXM0pySG5hLWs?oc=5
+- **2026-01-08** · [Lex] Private equity should polish up its good-neighbour credentials
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2pKV1ljbTYwNi1uTlNXOFVZYmhDOTZjRGsxbGNPOTkwaFhtTTZxTmlXV2cyVTB5T012cW5sWTlYT1VhT0N3NWhlYjRreXc5emVkM2VqMjZ1S19wTnJyOWpKR0dqLTY4ZWFka0VkUGxCZ1ZId0R1cjh6SWRqb1k2NjEyR2Q?oc=5
+- **2026-01-08** · [Lex] Argos sales drop damps festive cheer at Sainsbury’s
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFgwX0ZZbEFQRTN4ejR0ZU5uMi12SktaUnBXN2ZVSkV0QTdBY2VhczJucXZOWjY5LTZHaGFDY0pDXy0waFRBLUJpYVR0UnlsMnpSZFlFM2RsdUtkM01PZXJOOVp4REVDa09lQk1SbmN4MlZnenNJQ19aRW9NLWR4MnNqcUQ?oc=5
+- **2026-01-08** · [Lex] Uniqlo gets 10% of Japan sales from foreign tourist boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUtFUlBwRWg1TUV1cUVFZ3pGT2dab1NtWEhlNGlab1FYcE9kNXdtUFFWUHpUaEdCRXJVMWFzN1NDY1NaeGdJNjlldnozTEpOYUVKanlyNGlDMTdCLWQxdlpPWHQ4RDZqclVtMklHeEctY1BiejlabjBIbldDUks5X1QwcVc?oc=5
+- **2026-01-08** · [Lex] Primark owner ABF warns weak clothing sales will hit profits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkhuRWpNUzJCRzVOajJUNTRQWmRqMHpxQkY4bGpKUDQ2Smx5ejVabFNpcXg5Smw0RTFJbEhhT3FCclM1Yl8wYlN6c0M2WXJudnF2d0lPZlYySXltSmhyTlR3Z3ZsbGtfU05vZjI5ZS1QTkZrSGJxOHFUVGlmelVNTzRGVnA?oc=5
+- **2026-01-08** · [Lex] Pay politicians £1mn a year, says Ryanair boss O’Leary
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGpXMzU4OFk3M1RmaWxuYkJkaXBtZzZDTkl6X3BrYWxJYnNUYnJVYk1nWWI2WVRUek44UHd3TTNEM1FVS2xocmtFX01NWEE5TGN1anBaNXY4MEVrNkp0ZUVVeFhlbkV3WVM2MGdaa3M5S29XTWFIT1dsczk1OEw5bng5SDM?oc=5
+- **2026-01-08** · [Markets analysis] The AI Shift: Agentic AI is coming for quantitative research
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2FlZ21ZZDhZX0xfcG5peWFwV3VhSlBUSFlpSTRQRU9NS2tMUkwtRmEweGt3ZUNCdmI5d2tZT0FJYWk4cWdOQWFJTXd6VkpxQmt0MDdsLUlVZUdlSlFkX3pZOENybWc4QXdTOTVoTlJNYVZyeU9WUDE5elFrZEhSUi1JVmI?oc=5
+- **2026-01-08** · [Markets analysis] How to AI-proof your job
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVml3em9pajZjZlJ0SzE1VkluX0dUaGp1NW54SExoMTZqOTYxbWFyWTBPSS0zT1R0bEhyUE1OejJXTFdxc2lXanRpdzVCTnc0amZfc1dGNGxLc3RQNTVxeG5mWFRuTWpxNjRfYVNiRndtVDhveXFwenNXVmlXQXlYaVdvTWk?oc=5
+- **2026-01-08** · [Markets analysis] Strategic supplication is Europe’s only Trump policy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUMwTm1HTm1OSjBzUGpFWmIybDREQU8tVTNVQzhPYnJRUmExZ3lDUXN5MThJdmxtd0ZvWjVaTDI0TEpMN1p4VHROX3NlY0Y1aFdGVUV3U3BmMkZwV3c3S0JxSzl2QTR0WjZxWFhsV0UtVTJxWTZGNUUyMmE1T2NTRFZ4Yzk?oc=5
+- **2026-01-07** · [Unhedged] Bank mergers reconsidered
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWV6VHktd3E3OUFSZjdQamVISVVETTJ2VldSemJTRF9Ha3NvWGtfV3RabHZvSl9kVmQwMUVYT1RRaGtUUmV4R0c3YUZYMnc4NzZHMmh4ZVJwdFZndWVsNFFZOFZWSjdfZF9hdGFWQXpDUXlBc1FOdi1QM1BJenIzRkZwcHg?oc=5
+- **2026-01-07** · [Unhedged] KKR to invest $1.5bn into European data centre business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFzTnQ3X1RqQjZ4dXNkZmhXc3NjMFdYUHVRcDdQUXVOS3B1c2JtSFRWbDNudmFJTjRXSEJ6eTRKdWt2XzBRY254d3J6TW9lXzgyVDRhRDRLdzFSa3V3bVpjdWtSZ0VVZUh6NVlHMkhEcWI5alFPY1NmVUxSMnRGX29ISkg?oc=5
+- **2026-01-07** · [Unhedged] Trump cuts to academia risk ceding AI lead, warns Microsoft scientist
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcTY3RjYzbnM5cVpBbUp0Uy1lRjVmS01HbW05NG9EUFBVUjN0X1NMX0lFcktvOUF4VEU1RFFBZU9QazlkcUVXWGdBSk5fc0FydHFuNE9fb3ByVlNOOFotOFlpLUNVTFpFUmUxUHVfdmZOWEtDYnNNR0FtLWFDTmozNGdOTVM?oc=5
+- **2026-01-07** · [Lex] Stablecoins could shake up global payments — but not with technology
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbklrUDBjLTRhSTI4T0haY2NMYm1FbDUwUXNIQnQyd2tfQVJvQ0huYWg2bGpLYVhSV3NaWExEdXQxVXdvdkVGaWpoQlpybHRIcHkxeUZUcUxyT2F5LS1YYm1ZcFR6bmJIVTBPdXNfOGQzV0VZNW44Q3ZsR0ROTXg3b21oeE0?oc=5
+- **2026-01-07** · [Lex] Investors ditch proxy advisers at their own risk
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNckE3OHp1bHNVNXlSUUlBWnEwcnZOQTdtQTJCdm1fdXhUX2MwTjVEcUdFZDlsMVZzTXo4b3FsSG9vY2Y0SGdJZGw2QWhTZ3dFZ0MyM0Q3dWF3Qk0yMHlhck5sZHpXZ3FmYWxCd29BcTdZOHoyOWh2cC1jWWlEM09Ya2piOVY?oc=5
+- **2026-01-07** · [Lex] Forecast, beat, rinse and repeat: Next leads the earnings guidance game
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHYzNHZVb2UwRjBVRlloaDNUR2NzVHB0TnBiRW9YV0hwMFZDdFNGNXJodlJBc3FodEpiYVp3T0o2MXBTMHBZdmRGSFVoaDJiczRpdWlJSlVZcDIzb1dkZmZIUWVFOEM5SW04QU5QQS03ajQ0Qmx1VUhuWkxyN2JxQjAtaHQ?oc=5
+- **2026-01-07** · [Lex] Chinese miners strike gold on record prices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdXB6Z21ZdERiTWNJd2N5OWhQWi1YQVFKYU9LZXc2UV9BR1Y1d3REU1RMeTBXWUNsQVBzVHpRQUdXMHR2ZEJrYmdZTHJfekZzeVl6YkgzRlowMTF0U2VjT2RtUXZMV2RyeXZ2ZlFESVVXVEhZQjRWWWZCLW1BNXcteFEwbVc?oc=5
+- **2026-01-07** · [Lex] GSK hails promising trial results for hepatitis B treatment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2U2TVBnajhQYjd6aTBKRXdNUUFVd3B0c2NzVGVfTkZSRlo3OGdHZEJiNXdDdGhpbDdxZHJJVzdUMUUtRVV4d3V0U0trMXcteDZDRnl0ZFZNek9yQ0R3VnRrcllNOGNUTDA1aFRIUmdCLVhoSFJEd3M2QmtDaGVpRWVuRi0?oc=5
+- **2026-01-07** · [The Long View] Strategy’s stay of exclusion
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5FY3BiRlNHTVFyREdGYk92UWthM0pTNG5Ha1h2ZFBsWC1GUWxSS2lMVzVmbHFxU09GM1l6d3cxRWlKVC1xODRMZnF0TWRDZGN4bnFoSURsLWZLMTdxckZQVGFUVjd0aUhqUVhkVDJyRVQ?oc=5
+- **2026-01-07** · [Markets analysis] FT launches new global subscriptions campaign: For The Why
+  - https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFY0Z4QTA5dTAxcjRwMkZhdVVTZ1ZoLXJGd19JMFlYTGpubFR4RmpLRVpsQ2VVNUhrbzVLRVVNdVlvRmRwS3hZYWVkbFZBVWg5bUFXLWxPYkQ5MXM0?oc=5
+- **2026-01-07** · [Markets analysis] The auto sector’s bumpy road to an electric future
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0FmZWlYN1o5aVA4endNQXBxa0MtS08wQkVsS0kycUp3YldFQVIyZDlpZlBGd0dWY0JYNWlSdWFFcGxHbnRvTXc5dkNxSW82Uk1nMHVNc2ZyaUZfZnBrRW1LNEpwcTNEbkVQQmRvR3ZzeGZ4TDAzcm5QZUlGSFBFaWdEWGU?oc=5
+- **2026-01-07** · [Markets analysis] Samsung forecasts record profit and signals sustained AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPekRZeUVDMm9Jenl0QTQ0Q1U5enJrYXpiSGFfUFFOUzFmTWNXTVoxelUyc3FnOEhLVHROLWtZVmdheHZ5YnJGSDhhdTQydW1nUGY5TGZmNE9DRlIzNGtxb2RqQTU5cG1iY1pPdDNzdllNV0tlcmxYWXpyVG1NMmktb2FiYkE?oc=5
+- **2026-01-06** · [Unhedged] AQR UCITS Funds II - AQR Fusion US UCITS Fund IAGB, LU3206486022:GBP summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE5fNTdyMzU1R281YTM5d0kwcmxvR2NremU4RkVqVWh4YXYzMnBFTVViUm1IejZUVjJPZXpGdnladjBKaVNkbERKYkpSZHJoTUMxMmxNNHlyTEo2aEdVYTlzSllmRllzSF9NRkxMM083eF9lVklodnRNRTB3?oc=5
+- **2026-01-06** · [Unhedged] 2026 predictions, part two
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXlqbUNPd2pLZGZXUGo5azNidHNfOTQzYlhwYWlOQzdZX08taWcwMEtYbTFiV24tRXZIMkVtN2ZwSUJqdE9kQTgyYU9yUGRmYjBKYUFGUEdDOGtWYVY5Zktqa0ZWNXM0RXpsbkVsS1dhV01nOWJmRjFjTnp5enUwT0dsVi0?oc=5
+- **2026-01-06** · [Unhedged] Nvidia steps up H200 chip production for Chinese market, Huang says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZllvSUdiczRqel9hN01JLWI3NlZoUWhGUHlMRldDVGcwZE5HRjRqa0ZxUlRHYVE4Z1hILW5zT2lkeVBfbWN3TUY4ckpaYWNWMDZRakZScFdXbzMydDdGS2YzNU54UEVFVVpqMkVrT3F6a0JfN3FEMDhuSFRFeTJ3cE9rNnE?oc=5
+- **2026-01-06** · [Unhedged] Goldman’s role in FTI’s talent exodus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSERET0xlVUxLc0RpRTJMNHdEZlNFLWRkc01hWWlCeUZiQnF0OEtrb0NoZTUzb0g3YzVnaE9HelUyR0hnTWVFVThWNjRWbGJFNFpteG9hazI5NjFSS1FhaEFCYktLemQxXzNCcmN4T0otaUpNVkc3Y3YxYy1idkdsNFdnV0c?oc=5
+- **2026-01-06** · [Unhedged] China reviews Meta’s $2bn purchase of AI start-up Manus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnp4TS1PYXc0c2Z3anRSR1I3QnZpUmdpTkdSVFFLZTNjNGM0bE1GWlhpa1NHcnZkY1VxVGlYOFhMRXhmcERxNmVzVExOdnFLR1ItLWhqNkxwWTFLZXBhRjJqQlk5aEkxMGtGUHJYTG11ejc1bEtaaTRxa1ZPNzJtQzNzbmc?oc=5
+- **2026-01-06** · [Lex] What will it take to get nervous UK investors to ride the bull?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW1mYkZrSG4ybGRuMlRtQ01hanJOVWpvUER6ZkNtWkMtTUZWUVpkb19TbnVaTmRTRkMtX0RQcC1ia3l1NE93aWpnMGc1MTdidnNHdkdPYjM1RFcxcHhQZVZFRzYzbm10TV9pNjE4QzZxVF8yV3pPdEpvV1ZUbUVTbDBFTWc?oc=5
+- **2026-01-06** · [Lex] China’s humanoid robots come out fighting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVBMc1UzcU1fWXRicC00UmFWQjdVSUFhWkRhRkkwY0ZrX0IyaDFZcmN3YnBZRldCcGd1cktDQVhTemw2SW1PRnctV3Z6R1ZGQVRHb3gxaF9PNTUtUS1zZGpkQnBaUjkxdjhna1hzZ1lrb2pYWXNhMmhmRDB5RGNjM3V1czY?oc=5
+- **2026-01-06** · [Lex] Versant’s stock market debut makes dismal viewing for Netflix
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGxLLTdnN2FIemNQYlVVY1ZmejFMbjN3b3A2TkdqMDFDa1RVYjFLYWNVU1hSRjQ1RzZxbENOY1lEOU9wb3otdHRpWFdpek9RRF9pX2d5NVRWaFFTUkhGZkpXQUZ6NmlxM2Y5NnJOQW9rblN2TzJSalRmeFRCNGJaNE1Fb0o?oc=5
+- **2026-01-06** · [Lex] US car market shows signs of fatigue as costs weigh on buyers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUFhRUFZVW1HcklRcTBvS2JqRW4wSENlRGl5M0UwMk8tNkxYY3RQeXFtdEZPU1pUV3NOU1VZM2J1dENhVVV1cmtjRkc2MUVnVUxZblVxUm1OYU0yTUU2cVFuZHM1b1ViTU9UMzdDN2YyLWkzQVA1dnB4R2psNEhaR0FSM0E?oc=5
+- **2026-01-06** · [The Long View] FirstFT: US says using military is among ‘options’ to acquire Greenland
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGd2SEVPS1ROVnVtVm4yZE5UcEZmMDBZYTlEUE9BUUZnS21ZWXg5Z2JtUHdpTEpObUtiaC01MGlsS01WZ2JDUUdud1U2SlRZNTBoMGdHTnNoaWdrNVBWM2t5RFJoNG9HdXBjdms1Ml9uTVMzVVJjMWZFSHRBUkVNdm9RbTI?oc=5
+- **2026-01-06** · [Markets analysis] Copper price hits new record amid concerns over supply disruption
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNMa3duMEcwWEJKNDlSc0xQTXgzc2NJZkN1bU1IR1lzWjFxcTZxLVNoVThaZmFFY0s1TGlwZTZzbEY3WVA1TUtVX3d2WDhzeENHZzd5ZUZicHlHLWVjM0xob1VWcTE0Z1loLVFfY2tid19sSjUxYllXVVpQeGJDQ3JHb04?oc=5
+- **2026-01-05** · [Unhedged, Markets analysis] 2026 predictions, part one
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmNRaXZsMjhvakNHdFo0X01rOVlqa3U0MmZLUUk2NV9xWmluRkFhR2ZDWUtMRVVSVExiekdiTVAyTFFIYmRnaGYxVHRjcXNFelV0VWtYRVhCaWliSDMxZWg1R0stWFJyYzdQWk01eWJZXzIxRzlVZ0VFNnVYaC04RG9XWVM?oc=5
+- **2026-01-05** · [Unhedged, The Long View] Hedge funds profit as Venezuela’s bonds surge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcF83V0hmNURtSGhrelJxVkUzZmZwYTlwdVZiTXNUWlM1UWM3aDJYRWdoaWZGbndBZ012VFBEY0kwN3FIeEpCTkFVa3FsMUVQVlpRellLSGZnWEd6ajFJa3NFVVhTQXBZc2gzZEFlZzJ3WmhtRjF6Xzh3ZW01eEJNZjBLSVM?oc=5
+- **2026-01-05** · [Lex] Trump’s Venezuela punt could turn into an oil-drilling own goal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcm8zeFZCX0hfQlNsZTVId0w2T1RmSnh6ZTZvNFlDczlDSk9zTjdhNnBlUDlWWExpaE9VeVV4OEF1TDBvWFZzVzZ3b1pTOWpITmR6eHVKckg2bXNIQXc3eFVicWFvUTg0RHJIOGF0NTRFRS1DWWpRRldZenFsTi1sNU5JZWg?oc=5
+- **2026-01-05** · [Lex] Interpath sale suggests there’s still a case for making the Big Four smaller
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjVZRlpxMTJ0ZWk1NmhWY05heGkwbUt3ZllQNTVDVXZST1VraVNnR0JLZy15bGVWUjd6OUwtRk9SWUJNUW9fY29wMkF3Y2paTXp0cUxaNTBKNy1HNXdGRlJXNzhkY0JQUndBTDVzNWpJMU4xb01XQlNaRmNWcmZicDNvMF8?oc=5
+- **2026-01-05** · [Markets analysis] The ECB gets speculative
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcUJORnNXLXhacGNhMlFNM0t6dy1kU19nbXZsc09mYXA5b1I1YVl0XzFUM2lsSGNjNWpjWnRjYkttSWtVclhqUjhCbUliUno5NHAxbFRHdHZPMTMyUjVreHpyMlczSkl5bkMxQWlaN1I?oc=5
+- **2026-01-05** · [Markets analysis] The outlook for IPOs in 2026: oversized and over there
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRWdIS2wwUGVhclE0dWNGYm1uNUNObVFKTmhZQ2hOdW5oSDVSZDUyWmktNm1xWFJ6Z3U4VjJPcU8xNXhtRlI2UTRhcnhOZmF4d0RaN09MdzNRWEUzODBLUXdYU3psaFRaTWVLeGtqZDA?oc=5
+- **2026-01-04** · [Markets analysis] Leadenhall UCITS ILS Fund I1 GBP Dis, IE000YIXVT46:GBP performance
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTWJyMGdlekFvZTJqOXoydnZCc1Y2Y2Z2TW9NUWxaeDhxZ2lkUkVzc21lTnVDWFdnZ3llTEV3TGxOdDFZakxtVXZsa2xiNlFuUURhVHVfYWJmTjFxQ1hMdU1ucXl0NURSUXlQNjJnSzk2OS1JSDVFQWhJc19nUFE?oc=5
+- **2026-01-04** · [Lex] Bridgepoint agrees to buy former KPMG restructuring unit at £800mn valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJuVktzLW5DYnpSQ3FaMlNtRm1WRDlod3F1LXpjMzNNYXBsSGpEdTZIOEpWYXFDdGpyRUxtdUU4WGdoVmNqaU55czVPNV9RcHA1REphNGJXQ0NfZ2JUUVp0SnVmdThIZ0Q3bFNjcDBBWlVwQzNYMHNyT25KTExoU1ZhV1I?oc=5
+- **2026-01-04** · [Markets analysis] The US is losing its battle to break up Big Tech
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdC1yOWNxbEtUN3JpbXlvTmlpVTlObHVLd3dqWlNHMXpoTk9FT09rM0FyRml0aGpWRE5BbllFenJhYXIwSDR1Qm9ieTlncVFuc20yMGFzT29IbzlBbG4zN3ZMbllxM3Ffa3hNeXlfQ0l1MmtkV29RVklTazZoUzM0dFAwdGE?oc=5
+- **2026-01-03** · [Lex] Junior lawyers want their pound of flesh — or two pounds in a good year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0lGRGU3MUJTcnFOVUx6SnFEa0ZEcmZ0Ui0tNFB5Y0ZWVkFyTHlSQ3o5T0ltU2RZQklUVlFDUUEtQnFvQUttMVZ3YlI1YzY1MjI1ZTQzUThMMFk5enlodFZ6ck1zQm9hOTRhb3JCQm5Ec1NwSkRDRTRQdm01WS1nQ0t1Y3g?oc=5
+- **2026-01-02** · [Unhedged] Three questions AI needs to answer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQekpZWVBPWGNzODNXbUFmdmk4MUpJMXFVNmRDTG1hR201b1FCM3lvOHEyWFhKMU5kYXI5NlplYVFtSmxDWGs4UzMyZU4wQzlCRmpGQzh1bWJCcFhvTzJOZlNRSHVqOEwwa2lRbEtfQXhhV2lhSVhTaE1lbG1aRjhJYU03bmY?oc=5
+- **2026-01-02** · [Lex] Tesla loses ground to China, but the battery war isn’t over
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVlKbjZMU19OSmh0WGI5NHNtLXhLNEVIb09SWW5xcjdiVmlKbzR3R21KT190MkI3TWZjcDNmYVRUWV9RRlRRVHpWTHFtWUEtRVBNbUMzaHp0WkU2WXZ6OGFfUEd3Y3AxVXZQN1Z0TlN5b1ZXUUhQeVRvV25ndV94RXI0czU?oc=5
+- **2026-01-02** · [Lex] How punk icon Dr Martens’ shares got trampled underfoot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHlGT2h3UVVQOWtPcWxGNEhwcGtITFRFRjBPcExuVTdNUWoyb3VzdGJFOEZqQzE2c2VKalBVWHVDTmJZOVBzaUhMQnRHMjRWaU5zNEx6TGRTNjhGMWFwNXh4YjUtejc3dk1GN3lweEwyQzV4R3l6SzJrMHNTVGVFdHY2cHA?oc=5
+- **2026-01-02** · [Lex] Pouches give Big Tobacco a shortlived pick-me-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkEtSnpoSzUtNzBmRnczX0hkY0V1Nmp1bG9vZE1pMFpkVjJzNnQ3dW9DSXVaQW1Hb0tab3pqT3pBamk1aHh6bldZZDNBbEZCZlgzVU1tZXJhNEpybUE5V1NFZTJYTWs3X1F1TmxZWXZnUFBEQVZRQ0ZfN2ZLSmpzeVNhMWc?oc=5
+- **2026-01-02** · [The Long View] What a Soros theory can tell us about the AI boom
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1kZFlLbER3MFVqQm1JbmJsM21idXYxcld1OGZYOHRFQ0pTRHc5OGlYaldRdTBwamYyM3J3elJzVjVVdE5URTYzeVRHekpXNXFtcF9za3c0akE3cUQwRHNKZk9QSlFtZTJHM0tpV3RXQ1k?oc=5
+- **2026-01-02** · [The Long View] A year that will dictate Starmer’s fate as prime minister
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHN4R1NaVnVsdUt4LUZOa053dHdXamp2elhuVmJzY1dFSkxDY19pOGh6UzAyNF9jZ25NWXJEWUR0SjJIMVVTQ0hGMGNjblQxclVPQkpPXzF6cGZ6aExxUHFYVFpvRGZzTTVNZE5MMGRkT0c0MXNJX0M4V2tmOElVQmE3Vm0?oc=5
+- **2026-01-02** · [Markets analysis] The red flags investors should look for in private lending
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW1nTXJBU1E4cWRkUzlmanRLZnVvTm91dzcyM1JZVXdhaHZYa2FKbUpLSWxocnZUNnpjTElTN3ZEZTZ3REJZempBLUhxUG1EbDRkMHo4dmk4RGxYT1dQa0dfUTBSVUdWX2R5SE5JZHVlTTRSSHJ5N1RPVGwtNWNGZUhoc2Q?oc=5
+- **2026-01-02** · [Markets analysis] Tesla loses EV crown to China’s BYD
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0tVUEpNdWFTR1FuRzg4WVZ3aFR0bm5pQ0VleTFoZG9mV0IzUUJKWFNTQTZzaWlPZ190M0pBX3hCQ0FmRE1Obm95SGNqLU8wOG9EaUMyc0hha1pIOVFnS2NWUjdOd1ZPYkQ0WmlhNVpmaEUwWHZVRzhULU1KNVdqSlkweHA?oc=5
+- **2026-01-02** · [Markets analysis] Criteria for weight-loss jabs on NHS tightened in large parts of England
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnRjektpMmVpbzVTb2M0bW1WaEU2WTRHWjA3b2wzMUducldUb3JzeGh2akkxeUJieVJGMUFYZmJ3NnNtd0hYdEZOOVBQaExSVFB6UWdxY1BNLTVwNk1wbWk2emlON2hoUXNXaTFFbVRSbktsbjlFMExwZjF5VFVSZ0RfY3Q?oc=5
+- **2026-01-01** · [Unhedged, The Long View] Bulgaria joins Eurozone despite pro-Russian disinformation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTZuSVBRU2xuZFNVTlpuNDFiV2tSN0hCOFdJakw3N05YNGFKQlNaUmJhTmNXWU9RZF80MVNwNG5XZVZDR1hsVlVtbTlIUzA3YUllRWtpQzZ0Z2VrUjRZVDYzRHNBR2JLQXNKNklDNF9tNGtHcGs1NjR6VUlqSEt5bU5wYnY?oc=5
+- **2026-01-01** · [Unhedged] Dating apps turn to Asia as swipe-right fatigue takes hold in the west
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmE3dHVwNHRxbTd1NjdBSE53N3Z1U0ZjMElldWNtM0NFSzdKalUzVFFMQXB6bzd6S1Z2R0NzaXdHaVVidVNtRXhrLWdZVTh3MEdrc0w1bDJVQ0tQcHdKRl9YTFFheDhrWFRUQkZIaVRpTVFvNFJOZDFYM0M3SWJyM3JGTEc?oc=5
+- **2026-01-01** · [The Long View] What are politicians talking about?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5kN0pvVkRoa0E0MXRpc3FtU1ltLTVveVR2OC1lQnE4dG9xckh6VnlZMk1LM0pnYkpoaTAwcEsxYnVEOUFsWldxZTNCWlVUYmY2ZXNyRWVlVU1TRzhUa2ZTSkg4dW10Y05kTnMwanFKajY?oc=5
+- **2026-01-01** · [Markets analysis] Christine Lagarde’s pay is 50% higher than disclosed by ECB
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZW81TkJZa3hkZkhjS0JnTmVXTVFudDVpMzlGY2xEdE5aTEY0a29RYlg0M1ctbE9CRW9PZk83QWo4dGJLYmlVRlFjLS1Jb1JBZTFOQ3kzLTRLY3Vta3VuTHJfWllRVDNUUERoRWNXeWNwUEltbXhXMC1OaF9CWURqZnlWY2k?oc=5
+- **2026-01-01** · [Markets analysis] Climate action faces key tests in 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPN04xa1VNd19HbmhIa29ZZ1JuamtKbnVFMVJnM2ZsQTNwSjZzQi1qT3VtM0QzUzg0T3FYQlpZdlBZT0VBUUwwZXFsdGNkdWo4ckt5RjJSeFNSa2lYLVlMdUFiMHU3Q2dkVTJkbTR6bDBUdGEyeS15TWhmUkFwTDVNMUpPV3c?oc=5
+- **2026-01-01** · [Markets analysis] Luxury discounting on the rise as years of price increases bite
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEc5eU9kR1RrZTRzV3Q0dVAxenp4M2E4YUg5d1QxZlFTd2ozNzNuZXdFRkdzLXZaQWF6bXhJSU5lTWl0NkswR255VWlqNEFBVUNKODZQc2FOSlp3OVQzMWcwSU0waE1CZFpLN2xDNEFnT0x3dUtId0dPUVJlYmxKYnltam8?oc=5
+- **2026-01-01** · [Markets analysis] US retreats from Donald Trump’s Italian pasta tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjZTRXZjbHFnQjFjUlIyc1BuOThWSDhEUWVBSG9fQTJsRHVFX2NhWktTaDF4QkJEWDZxSW9TTE5US2VUUXI2emdKQTVXNUU4UHdJdTdxa2hVanZ6UEo1WkpSS1AtMFlNeExBRjNXM1NmVmVlUkcyQzZrYVNyOXRnYUYyVzk?oc=5
+
+## 2025-12 (250)
+
+- **2025-12-31** · [Unhedged] Central banks enter the gold trade to choke off smuggling
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2NOb0Y3VzB6RXFuQWJjT2FwMnR0Z3IxZzhKdVZvTk1xQi0wZGtZUHpvMUN0aDBxSkpySVlPSHdYZ0lrYnQxSzh6UVd2ZHFqaG1icHpmNmJpY19CdDhVc2VkdzJVWE5TaEhHazVtX25CUUY1ai1laVQ4R1czeUFJaklWbzg?oc=5
+- **2025-12-31** · [Unhedged, The Long View, Markets analysis] Global stocks post third straight year of double-digit gains
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFBZbU11R1N2d1dWcDl4dHlNUHBfei1hN3M5bGpiaTNYbFdKUFNMTjZoODlKRzBpOEZwR3NyaVltTFVmalI2WmFfZC0zWFo5N0VKenlXWUoxZFhUTTFabTNtNy1lYnU1akZiMlp3MC0yYkR0S0NEbnNSbWFJMmV3Q21uZzQ?oc=5
+- **2025-12-31** · [Unhedged] SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFlHS0txX2FaZ0xVcFpvbF81LS1HeThOTjl2ZVJzOFl0Y1IzbklVeWlzMWxNUUlhOXAtRzJ6UndjOUZMVWVmMjFlZVRnVURDeE9hcmpsakRVWUdlRWhOM0huZFM2RTd1SVNBYm1MVHpLZVd2LUdoSTZoVy02Wk5LSUhOX2c?oc=5
+- **2025-12-31** · [Lex] A garbage-strewn planet may find a friend in fungi
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjVwaHNJOHFGOVpHd2NJQlhUUGl6djg4WGprVUtpTENaenBtbUxHOUlEWGpxQkFzUU9hemZ3YVdTMWVOV0tjVlo0TGRrZHFCTHJVSmxGZHBGTXBmXzRQdnF6UzE0ZkpxbnczRDBGVnh2SHBPV3NCM1FSSURjVS1zR0ozang?oc=5
+- **2025-12-31** · [Lex, Markets analysis] Trump media group plans new token with Crypto.com
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2lHS0dsaHl4X2NkM1pLdEd3R2gxRGU5c0NwNkJzM0FBQU93YzQwOXRlODZzQzhDRzFjYi1MUTFXcy1NbTVUelUydFlqUnNIOHREb1ZvNEFTdlY0d1lTZktfN3NITE5tWnlveXU4VEdZdkdkd2tEZFRGODhCZ1k2QUVyRmk?oc=5
+- **2025-12-31** · [Lex] Revived Siemens Energy fends off activist call for wind spin-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObU1kRmNpTzRZZGhCZFg0THd0WnBhd2U4bzVkTHh5WkpFSkdxZl9ZWVlzVHZDMmJWTHlYZVoxNzc4RF9oTnpHVl9PQ0tzRWdpcWxoN1VhNXIyQllDV2l3SUtxLWFhVGdKUUt3SGpfZDV5YkhwUmxKTDE5SUJDZzF3T0tiaWs?oc=5
+- **2025-12-31** · [Markets analysis] Russian shoppers pay double for sanctions-hit luxury goods from Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1M3YkNwMm1PNVRUSkFmNDBBeWdQQkhycUpDdzk3RGE1NHhmLXNCVnFqUERjRHhSb0tQN3pDclFvTlgydXduYW43N3c1LWdlb3Z3TjJtanRTVVU4ekZlRVhUSmVyRjZkTDBISDlES29BY3RMM0dRX2o2Q0ZGX0s4UVQ3MWE?oc=5
+- **2025-12-31** · [Markets analysis] FirstFT: US dirty money fines drop 61% this year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3RtN1VrZGVnb3NpNkY1ejZXcVllckJ6N1JMLVotT0tUS0xySmRQeXgxbUo0WXAtLUpYcDM0NVRhSWx3ZkFRS2xmcVVYQWlGeXltenBXdW5yc3VHUmY0Ulo1Nnh0TUgyejM0Tmh2MldTUXQ4R0gzSVp6bFhXSi1WOU9tWHY?oc=5
+- **2025-12-31** · [Markets analysis] How the UAE-Saudi Arabia alliance ruptured
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE1vU0J4OWpGUFdVOU5WNWttTEtxSWhjRXBCU1Fuc0tRSFZnOVVqalQ2ZVlLUG1rZnlkZVVmZmtWLWEyRnVaYS1lZjlkV3NGTGJHbzExUE42cUsybk9wR1c4d3o5QWMwN2RQMXdWZ2UyWm9tVU1yZnFQLWJQLUFBcVlUTmU?oc=5
+- **2025-12-31** · [Markets analysis] Number of women barristers in UK Supreme Court cases fails to increase in 17 years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2ctWDY3T0xNX2hva0hwbHd6X2pjUzBJRlM2SWxrbklOM29kNTRMbGI3N0xZTTdRbUo0QXI0NkVlRDVYX21JTnA4NE5WM1l6eXBSRzYwU01oRkRiOEdIbUIzMi1TenYtVWNiTmNhNkxvb0l0bWlRYVRhajZaUmNDZURpRjI?oc=5
+- **2025-12-30** · [Unhedged] Quiz show!
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1hibWQ3Y2tJb3pESTdxVmhvSnpldHVzeWlSQmR4SDF1SFdhZkk3eEVkcHpTakhjYUVPYWg3VmpGVmxsVjJkbzN4NU1FMnZteGU3Ml84dWZTeHZHbWdnakZGbE5ZUGZmOWkxNW10cmJuRVRmVUdEcUUzU1VTamFMOGhOc3A?oc=5
+- **2025-12-30** · [Unhedged] Transcript: Quiz show!
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUGx3azNvVkVPNTU2QTBta0QyLVB3QkZfRUljODJmbHFqbXN3aGFlaW5PNngxVzJ2eVZyUDlvUFk3TzFBYUxGck5uQ1pzeU1oU0N5TlZKTm1ERXBiZzFTM0w0SmQ3THkwUGY1VHE4LVE?oc=5
+- **2025-12-30** · [Unhedged] How the AI ‘bubble’ compares to history
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMENzcHoxVlBoNnd4RUJmWUVWcmVETngyb2hrTEM5Y29uaHl4ckRpeGVFbWVvMXFHbGVwdUwzdE9MSnRIRmZNUEZ1R3ROempxZF9YWWRhTnk1Y3I2U2FtMlMycWViSkhCU3dCTkxXMU80X0k4RGx0TkRQNnhrczh1RkRJQlk?oc=5
+- **2025-12-30** · [Lex] Zipcar’s business model is an evolutionary dead end
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHpfeEFJb2ZtNFNOM3l6TFZpUXFMblUwVTluYlJWZmM3TWtMRjFqYzV6eXhPUnpiRmlwampQZU03QXZrOTNaOTlCOHFxVG1uQzh4WF90YkpJQmVnREtUNC1hNUdNVkxVRGNTQk14U05ON1JCTzRINEJ5N3FKZWYyeFpWYy0?oc=5
+- **2025-12-30** · [Lex] Why big online retailers are setting up shop in the real world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkp0LXpRby01dnlTRzdrU1ZMT2h5ZEtXN200ODhoM3R4bGlIVDhCTlFDcjVaMjRzMGd3YTFSQ0gxbmdzYU5OTnBPOTMxSnh5cUpyb1ZnRkMzZkg2UEx3LXlXRkMyUXVxOFJBS3A5NHR6a1RTTXZBM290dk80M1g2eHJ4NXM?oc=5
+- **2025-12-30** · [The Long View, Markets analysis] European investors must brace for a year of geopolitical instability
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcTdEVGY1SFRuUWxtQ0U1ZzQxX1g3V1BIYXFaM1Y3TFc0Y29tcjBlaXZNVUhIa0oyTkFRakhyVlhsTTJPTXBhTHdVUVBiRjNHQVJGMGJuTnJHZFRnODVkN1ZPQXlLXzRoUHJwOWRuczY?oc=5
+- **2025-12-30** · [Markets analysis] AI forecast to put 200,000 European banking jobs at risk by 2030
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEl6dU9oWll4ajI2bzhFaWQtdVR1aVV5Mk5OQkpMYlVGc3hfeUtwTm1ydFhCR0VrckpmV3hjYWlHeGF0bDZncVBZTkxLblU5R2dDUk1QYy1CQmhOQnhwMXQxeW5PMEltOFNMS2g2eVV3cUV3WXAzeTJnR21VTXkwbmFfeHI?oc=5
+- **2025-12-29** · [Unhedged] US stocks eclipsed by rest of world in 2025 as investors diversify
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkNCdGV0cWpFa1pCd0IwcXotTmc0aUVRUHFxQ0hjVEdDVVNVOEhSTXlNNzFGWEpvMmluV3ZydURtTHE4cWxkT0JObU94UkpRTWUwanpnaUdUTTlORlJXZDVMZEVvRTlXYUtkcmc2bnN2c29WMnV1WkZBbG9nMTAtQnRYMWw?oc=5
+- **2025-12-29** · [Unhedged] Silver price tumbles as record-breaking rally goes into reverse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaW1nRlZqS0RrYnI3b0ljUUttM2RsQ19WZlBla2o1Rjk3V2FEcHU1SFhJSFc0N2hjeDJSRnlsUk9QQnFVMmMtTW9tLTA4b05NbHNjYzRIbFc2MXU3dVlweUVWYVZhSVZGblpubklQdlQ4Zndmb2ZldmlkWldsSTdMb0ZDWnY?oc=5
+- **2025-12-29** · [Unhedged, Markets analysis] Meta buys Chinese-founded AI start-up Manus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVo2ZzZPbkZyUmdrUzFaZldpMXk1R2txbmVDVzVQMVpYYkROS1YtZlo5SGc3emN2Q1JPcWFLbmxuZm9FVWRtOGc5T0lNRGFvV3VweEN2eXMxVGlLQjIwbDR6SnFpaURWbldOY2dRSm9JcWUwd0JvYVlxRk1YOGo1UTJkYkg?oc=5
+- **2025-12-29** · [Lex] Mini nuclear reactors are already losing their glow
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOU13eEdZQWJNek5wQ2hUWF9ITWZDNVV1ZDdLVi1LN1B1ZmV5Q25tX0Zzb21haGZ4TUtsQkxMczB6a3hYZDF3UWpEY1FmU3VQNzFjS19YdjQ4WDFXV2k2blo3aG5DSHQ2WHd4TnZBbk9GWHlvYzdUZG1aVTZ6Y3VHZUVRUnA?oc=5
+- **2025-12-29** · [Lex] Games Workshop’s galactic conquest starts with UK market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXoxYzg3eHQ3M0hFRXFNVUY1TExrMnh0R0ZmalFabEZkcENrWFp3WmNpWV9ITmZuNWpIWTBWeExQVXRTVjJ6b2dHdkIxZ2VqMHl1Vzl5dEFoMjF6bVZOQnEyOWZBRzhqM19GUmVhaHdobnkxck5ManhKc3ktT0x5ajhseTk?oc=5
+- **2025-12-29** · [Lex] Delivery start-ups finally get the K-shaped economy they need
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGpHUGRZRm1wYXc0d3ZKUjJzNEE4b2V0TEU5ekgtbDFMX3kzbDFMS3NjZDZrajFZalpjbmtuTGsyb2IyQjNWYnYzbXVDS2NweS1wODdVRm1pNXZzbXR4ZWEybl9BUHo5Q2RnS21xeXRMXzlOa1oyYTJ5RXRRWFZEN1dXeW0?oc=5
+- **2025-12-29** · [Lex] Lululemon founder calls for board overhaul at struggling fitness brand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0YxNHctRUN3NEtfWXFvXzE4WnE0R21uR1NmNnZaa1hlcXdQN3VmZUtqTExsU1U5NFNqd1NYTUxSWERKUVlpa2lKaTNtN0hVMFFiMEFUeF93elUwRGdoYmNLaGJOM1lqZFlBazcxZkZHZEdwbnhZTm85YUVmMTdxX0oyMFI?oc=5
+- **2025-12-29** · [Lex] Pop Mart pushes global expansion amid concerns of ‘peak Labubu’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXhYUy1BeXBlWjZGQzhNbTBNckozc2d4bVBid0x3UzlWR1c1bzVINFBkdEFKRERsR25QR3lYTHo2YVBwdERrWjNPNjFnMXQ0M2EwcmJaaVpYT0tQRDZsVVlMd1lCTlk0RW5KSnNsTnY0UXNBV3pVem9VWWFka0lKQXplem0?oc=5
+- **2025-12-29** · [Lex] SoftBank strikes $4bn AI data centre deal with DigitalBridge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVRybUJfRUk1MlY2RER6NnhMRGJMUENWeDNVQ2k1ZGszOGZET2pYbzd1eVNuRlFFRm5ZaXBLb1hGbHA1NEJDb2U5aW41bzJ3ZE13SUxFZWFrQ0VzaHdVb096YWZ1WUVjblI2UUpTVjA4OEVDWTA0NktpbHQyMTNFc1JJWkQ?oc=5
+- **2025-12-29** · [Markets analysis] Charts of the year: Trump’s attempt to reshape world trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzJLT0hnamZjZ1NIVkNMOEVLelVEMGRxRDdMZGJkT2Y2TnNmbWkyQ1ItaDZYZ0sxSldJaTI5Q2h0Y0Fzamo1bXROdHRqbG00WXNNUGprc3M1YW4xdTR3ZHF4ejBwWGJTNmlZSllzWkFMNXRteDVkT0E4RlNIOWtTNlk0cmM?oc=5
+- **2025-12-29** · [Markets analysis] The liquidity curse for investors
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0xU3E5U1RZQTFyZWxXcEt4Z3VXTFVaTVlhVG9FU2szV1E0LXlhQnRZdWpSdk9IVHRvZ1FlemF0b1BUUHJNeGZ6c1lweGlXUG53dHJvazZmRS1tRFdPd1Z0VVVyRjcwZC03WDhnMFZNeFM?oc=5
+- **2025-12-28** · [Unhedged] Why don’t companies target over 55s as consumers more?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNY25qTzlkYURieW15T0tJU0dVeVRmYWZtaVpQRVFxRmdqNmdYWWs3Sy1XdGI4eUhuTTB6X0Z3emNfSENiZl9NTmp0T3NQWTl4SlhRS3pid256YU5oNzgzaEhYNUVGR3EwVVhpY0tfNXVBem9FYTRWc3h1N3FiLVZ1WUJXTEI?oc=5
+- **2025-12-28** · [Unhedged] The AI boom is not a bubble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjJncG9BWVN4ZWFieEI0ODVBYzVxQVhJUUFzaDAxbnktV1MxMWpJOERGSmk0OGZTbElDNHFiRFdJUDlWVmRMdHpCX2xWY3VWUHdwcVpRQjdVZldJNE1uWHlRRWg0NEp1QnQ1WlRJcDh0elJyeWpzM2s0bWVyOVZTeVJuMG0?oc=5
+- **2025-12-28** · [Lex] Why don’t UK banks lend more? Ask their customers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDBkUXhwOUc0QnQ0WEswTE4wVDAtLTdzVFRZbWtOQk54cWNFZWVVMGZfbWZnWWZDdlNUZjFsQ2lYOU44YTI5N1ctNmxvbmFsWk9ybWhLbGVWX05JWndVaUpQUk1SWWZGRG1SdFlVcVdrODZMMzJmOG5HZEpkUEY5MjFkMW0?oc=5
+- **2025-12-28** · [Markets analysis] Europe’s largest defence groups set to return $5bn to shareholders in 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0haWnY5QzlsZWo5bk9vZEE2VzVlSWY5MFRUVE91czIzSnFHVnozSXhsUk45RGJUN0VyNURjQ1ZCX2ZvcWpjSHRKM2xEeHlIVVJiRHBaZHJOU1VYVE9aWlNXTUFXcVdjb1ZiRFQ0QkNzQXNubzRIS19mMDN4ZEZyVHg0Ujc?oc=5
+- **2025-12-28** · [Markets analysis] Copper prices rise by most in over a decade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUhiSGRDMWtCVDQ2SlpiVEhFT2o5aEt2UHNTaWI5Nnd1ZHp3eXBLR3hKWDlHS3Rqa3JUUjQ5WUw3aWlsTjBTUF80MENoTGoxT3hCOWlIUGVjRk96OVVuZzFseDlwcVdZMHZ2T1BUdm9iejBsQ2tYWDhPMm1CUGVpWUdvUGY?oc=5
+- **2025-12-27** · [Lex] Why visuals work in the workplace - canva.ft.com
+  - https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Gcm11b3JNOE01b0s4d2VJdWhMNGNRd0l5bkRHMTIwVUtySmF1c2J6bU42ZDBSVXNjY0hvYWRnU3AyNFhMR2pRT3FqMExFWU45QUhKbzBDWkM3UklqUTh3dVl0SlU?oc=5
+- **2025-12-27** · [Lex] Lloyds shuts invoice financing service as small businesses feel the squeeze
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGo2ckc3N1F3bEd3a05DS3QzUTkyamVCdThZS3VPZnNPbkRfZk9DdEQ5dUhibHNHQUpELWxsdGJIQ01rM2VLbGViQ0ZoQ2tlTmM3ZmpxaXZtd0wzY194WXA5TDNqX1JoZ1BPY0FJMVdubUdvaGVxekd0ZEtzQVAxMURrdnM?oc=5
+- **2025-12-26** · [Unhedged, The Long View] Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2pPczRrNkYwTllLWkpmWEo3MFJlVVNsM3hxbDR3RFQtb3N4ZEJQMzdlU29EZ2NJWDVvbFFScGUwdWhfbXp0bS0xMzl2VlY3b3FIQVp1TFp0TGp4WDY0LU1NbDAzcEw3NFN6cnFZZlg5SjktNmpMNzg5bHJPd1A1dzhEZUU?oc=5
+- **2025-12-26** · [The Long View] So long, American exceptionalism
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFh1Vm1NcmJqUXdUbURIWGNjWHBVcHpVQ1N1UVFqc1Nla3dVWDFpenR6YmZKdjgzb0FEeE5ycmxTQVdvWWhSOTQ4dmRHWGFSbTZ4Q2h3NWZfTDNGV0NyTFhFMldMZ19WeElyU2t4c191NXZmTFdhMF9IeVltZDEwaDVJOHM?oc=5
+- **2025-12-25** · [Unhedged] From Against the Rules: Michael Burry Speaks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjJZUGRfYW84VGJhczNldHd6WFYtMXlPR1FrbWxWYnVSUzJTd3ExRlJCcU15ZmlkM3FTUnBwV0VybjRWekNMcTc2Ykp4UWZJalhzNFFucEVJWTV6RTluNGQxakhWYzNsLVRaYmZGRXA1aUhCM1FZUjZiNEdacUYya3phbDM?oc=5
+- **2025-12-25** · [Unhedged] AI boom adds $500bn to net worth of US tech billionaires in 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3RMNHV5VElrY1Y4SmNuR0huUTViZWM0VEhkNW0wN2Y3UndGU2Z5cTNtSnNnWkRlWTZHLWVRYXlpU0JzaFY3eEkwUmp2V2FxVnFkTXc3Vmh6blQwR0RibFljcWplTWxTbngyZk4tQkVFREZWOVdvUkVVVDRjZEs5MEdFSUE?oc=5
+- **2025-12-25** · [Lex] Cocktails in a can: the new frontier for drooping drinks giants
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORU1Gd01tVzJoczRMVE82TWEyS2pSTzIxMzVoWi1uTjRNbUE3V2VTNF9oMlVRWjJwY2tnUW1ObDlOX2FaLVNISGtYM3ZRMjhPZldvbVlSM1VoUHpfT0hWUDZVVlRiaV9KSXg3Uy1Ic0FjS2RmWUM4SENNcHpjYVJ5dGM2WWg?oc=5
+- **2025-12-25** · [Lex] The FTSE 100’s worst and best performers in 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0NQMDZqRFJiaWVTZmFmYjF6UWVPOUVLYmVuaGtxb3YtWVpoUWNlYVd1N3VzRlFwbTY3SzVZRmh5SEZHb1dDcUVrSE5ZNmY5MFBGcmczTGtQdkpaSHZKRW93OV96dF9Cak5MZHBVLU5lSmFlWlJOS0VpLWJDQjgwbGxMcWg?oc=5
+- **2025-12-25** · [Lex] AI ‘world models’ promise to reshape $190bn video games industry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFVyV19hSFFPLVdycEtoSDlWUzNQeloxVV9qVzZidlFRREctNTJkTU1kOV9ibXZqUnZscS01UUJhR0w2Um5SQnRoeE5sbzVWTTVJMkhsVnlRSWpSdFBQLUtzY29HV0xBTVhxUmNZUDJmdElISGdENU5IVFNrTHFteXpvU3I?oc=5
+- **2025-12-25** · [The Long View] UK aid sector braces for spending cuts in 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3hLaERMMmZWbFFOVG5rVXp6OWp3alk4UW9RSVRmY1JDY1NmOXVTcEFwNnVJckQ5Q0p0Nk80c1pfazRHVFNNMlIwLWZzUmd0cE9UVUUwM0JRM1lyNkRnTlZZam5WQ0ZmSklnc2RFNnIwUTgzSUJFejZmRDNUdFNPSC04dTQ?oc=5
+- **2025-12-25** · [Markets analysis] China isn’t just dumping cheap goods anymore — it’s sending caviar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDQ5a3NLOGpvVUZwazctWTdOdVRFTVJZZ1E3cEZQS21JS0VxcnVzcldkcFpUeklReDJtTV8zenZwZVhSXzBJLTFDZmtuTTRIaGxJZFJuMm9Pb3NGdE1YMkJqQkowWmlGRDN3VVhtbW1yTWFHM3RydWN4bEpldXQzcjkxc28?oc=5
+- **2025-12-24** · [Unhedged] Nvidia to poach top staff from AI chip start-up Groq in licensing deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3hmam9WTWJRdGRreHhXVlZDUmlSRG51ZmlHNW56d1gzOTY1THJFbUphM1o2U3BtS3Y0NTBCTzdoNnMwdjlEVEhFRnFkNTZLWVRoZFE5eDA1dlNITzJtMU5xdllmU3pkZHBzVlJvSlFDdFRNcFRlcGZYVWlYanVHVURzTXM?oc=5
+- **2025-12-24** · [Unhedged] Banks and traders race to capitalise on gold’s historic rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnVFdkhTdjBkTTRPcTRmV05jWHZpZXhtdnU0a1prdnFoSTF5M19mbnQ2QU9MVHlybUJLNTZoVDlXNklVb2s5Rk9PZkRzbGdGRjZTQ3ZrYVFsRjUzNXVLOVBPZnZKUmpFeGVHcEt4X0hKNDdTQm93ZVFjYUFILXM4d2tLR1Y?oc=5
+- **2025-12-24** · [The Long View] Tariff turmoil, a gold rush and the sinking dollar — 2025 in charts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzFhOTltZkFTeDZ2YlRzV2RlejdCYmVfUndWdDY3NkxtWnhleGdtcFI0WFVmZG5zSjRXUm5Gc3NpQVFKdi1BOFoxVXJmOXR0ZHRFWEJTaXlKcDhXUzJMMW9QbFdUbDVhWnhiZE5lR3EzRFNhOUViaHVNLV9lMVp4OUZzNEo?oc=5
+- **2025-12-23** · [Unhedged] Subscription overload is exhausting Americans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzEwWUhMTENkQVN5RTRBYl9JaHdXTjRGdUluZEQ1UXhtcXFpUVRjN1hwN1VSa21hNXViMlVjVzhhR1Jwa1RDNlFwWXZFSDkwQ0Y4UDFEVl94eTgyMkQ0dVNSb1ZHVnYtdHM5ODVhY3Y0M2E3ZzNjZWhFUjMzYXZhSllFb18?oc=5
+- **2025-12-23** · [Lex] What Tesco can teach fintech hotshots about cultural imperialism
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3hCVXlQQUN6TzFuVElMUElwOE1SNmVDVGhxUF91WTltMEZ4SFZiSklOWXc3UEpIZWFfOEdWZG5hRVRpc1NHOG5YUWo0MjNXeHM5Mi01VVEySzI4d29Ca1JYbC0wVHFIbkxNZWVaUm8xbEhOVEZWREpTN0dfWUJtLTVMdkU?oc=5
+- **2025-12-23** · [Markets analysis] Tech groups shift $120bn of AI data centre debt off balance sheets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObE9QeTJCVnJsWHVUdmh3dDRZS2hobHFwSHo3REJabldTemZpbnVfU1ZMS1FudnBWTFE1VGVHZ2gwbDJyN3ZaaGhrb1lEM1hKekp2a29aRjBON2VpZmJQTVVZSXJWY2VTZTJ3T1p5azRPTjFTYVhGUkFQMGplMkVlNVE0RmE?oc=5
+- **2025-12-22** · [Unhedged] The year in review (part two)
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFhwbG91RXQ4R2NqUDM3ZXRxdTJkQ2xpTGNwWXM3bnNJcFJKYk5DYUxrMHhhNTdvQ1FvWkhYRzg3V0NqamlzVVlGcTBkNTNSOWNheHVXSVFlUHNwWm0yc3ZrM3RvUEx4dHg4ZTYxXzZJdVk3YWhMbERGUXRBWk9kMThmZ18?oc=5
+- **2025-12-22** · [Unhedged, Lex] Alphabet agrees to buy Intersect for $4.75bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWIxMHhaYzFrRFFQSVNFVVhLOHd5UFJPcnAtQ2lVXzFnRjM2bERsTHhyX052UU5ZVGZHNWhJbXJKYWVIcURURzYtYVVsOWFYQXRna21OazdBWFlCRE1wdjhhT3NvOEJUcWNVUGlfRzhpOVlSZWxfa1A1eTdXVHRlZVBuTWo?oc=5
+- **2025-12-22** · [Unhedged] AI debt boom pushes US corporate bond sales close to record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQU5wZW1yV2VJLW01UUNscnFPdVRTem9GMmZrLWhKOVhtbTM3cnNpUkRjNkVwZjZpRmtRcFQycjhXWVhwZ25ISHNBV3dXMG8yeDMtWHE5TUQ4eFctU0lOM21TRW5pQWpVTFlOM2lHc2R2c1l5ZjQwTkRibGNlRVpZRlFqRWg?oc=5
+- **2025-12-22** · [Unhedged] Gold and silver hit record highs on geopolitical tensions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXdfWlhoWjRuc204ZWJGbWVFUlhxMnNZSFRrWkFOVnE1M09RTW93R2FsRVR5M0xoV29kSlhNeWtycjVZaExaeXp0eTVCV1ZTcHBQNG8yXzNsWnRSeDhyV2pid3NvY0kzdktERzhPT0JJSWt3NE9CVGF4MUZ6VDZwLTRTU2k?oc=5
+- **2025-12-22** · [Lex] Nuclear fusion is a brainteaser for investors as well as scientists
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWdWaFUxOUNTY0xpeU93R1VPREoxTDV2SzBGejhvX1RpeW5VRmhrM2hDQ1VIU1JGSUJlOVI0UkVLRDdxRGVWZmtyelFKT3h1bGZGdFhCTlBaMm5jS3BsYTRLU3RuSjVneE4yS2cyeXA0ekVrSXdsNE9FbE95NURNcm51QjM?oc=5
+- **2025-12-22** · [Markets analysis] Russia’s wage growth slows as wartime economy cools
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOalp5cDU4Ylo3Mlc2SkJqUEF4UzMzRTVLVjVPUmstZnBqejkwdzB6RE1qOU5qZW4ya0tJXzFIQU45TmtOYzF6aG1Na1dHMTFBdzRZTUtrdWpYaFhnbGE0eVI2bFZlUDRabXd5ZW1Wem5zQnNXcG8tYXlwem53M2J1QlZEN04?oc=5
+- **2025-12-21** · [Unhedged] The year in review (part one)
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjRSZVpuMDZyWUU1VGQ0MEhKLVpkdTROWnliMFRQankzNTZMaHYtbWNLTDk2WTRlS0IxaHRqNWVLUU14NkZlNi12YkhPRUFUSFUzaGhCa0dSb3l0Vmp5ZWgyMXNWMGFsbGdYMnpkY1huX25sakstajVKLUdsY0pPM0dPVW0?oc=5
+- **2025-12-21** · [Unhedged] Fraudsters use AI to fake artwork authenticity and ownership
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1BPeVBIYUEtREcxS0ozbnd2cDZ1X0Y1S1BJTHJ4cm11cUZPdnpaSV9oOXFyakZQMXJXUDAwazJUSFI1QTZYOWh4TE82el9FTFl3dFRTVU44TW5qSG1DdjNjSThhQzlQWXNrQTJnRlFRd3NuZndVdWgzZnFCcGdZS0p6amc?oc=5
+- **2025-12-21** · [Unhedged, Markets analysis] The stock market winners and losers of 2025
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVXhqTklfS3VNLU1rVno1dEhyckhKVWs4VVRvYktqUHk0bGNaNnN4djZSZjFCQnJacDRGRTRiVk9iOWhvcUllWFBWSjluLWRiYlBqWXgxaHNldzNrRFJ5ZmE0c2V0Y3g2ZGQ2MDBWVmg?oc=5
+- **2025-12-21** · [Lex] Europe’s banks turn to private equity for M&A without tears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzBnVUhYb0ZiTlh4azRNazlzX1hXRXpuSXp2djJBYjRIRVhEdlFHWE1DWjY5cVdBVk1lTzBJYm5jWk80ZkR1OEM1dlRORGZyY3pKOFI2d0tjYUVjbXdzdF9rMGNiU3J0MFBFR2tpSFpoMXFNc3hSU2lZS1hJM2pRNld3dDI?oc=5
+- **2025-12-21** · [Lex] Coty hires P&G veteran as executive chair in leadership overhaul
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQajJVYWljeTZMSTdDS0lGdWcwWXBmS0x4dHdOQmVUaWZiNndHS0E5ZDVXQTYxYlZDY2M4UnNpVTQtRlpxbUlKZ3NVZlU5V2YtVUNlWDVQMGd3Z0VKR2xGSEduUi1yQzdSN3p3b0hJOEVHdkdLNGlIT1VHb2lHSU1seGczU0Q?oc=5
+- **2025-12-21** · [Markets analysis] Binance allowed suspicious accounts to operate even after 2023 US plea agreement
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeV9hNFZiNFZOcXVoQmZfZVV6b0V3LTRTUjg4a09JWDFPVnJjc2FWN3V5VzBiZW5CZmc5YzlrSHV0aEljMWZCUXpoQUl1Y0FPQkIta2liNFhic3hDRkVJcXo4NHEtX0cwSWsxdVNVRUdvQVY4anB4dnRvZnR2SWhXSGtvV3g?oc=5
+- **2025-12-20** · [Unhedged] Chart of the Week: America’s current account woes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEFWUW9lVDVtVW81eUZ4SXlfeHp0RGYxWGF5S1Q1UG82MTJ6NFlDV0hKZ0xRV2NDZmF0WjRWRnp6UlhVMjJZSzlTZFQxSUJva21uMUhYZVY0TS1XZmJrY09tYkc4RGQ2XzhaenJJdzNhSGNsejUxaDRldDJYOTFQTkk4SWQ?oc=5
+- **2025-12-20** · [Unhedged] Inside Tencent’s deal to use Nvidia’s best AI chips in Japan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGZTcWo1eVQ2SFp1bGFsTzdBMG5yRjRSd19SU3FJdFBIdzlKejdYSURLOWp5RG5LQkI4MHY2RExERjhEdm5scW5Icy1mVS0zOHViclg5a0tGc2wtdDVPZXZkcF9ueURGdUJCRlRqRld6MmFrQ3M5Vi1NZm1ITXF4YnhTMmU?oc=5
+- **2025-12-20** · [Lex] Wool is no longer the black sheep of agricultural commodities
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWw3N04yU3YxWl9Ec1k1NXVxRmZ4eTB0V1JmSFR2SHRmR2RXSWM1RlJiR0dPTXVGVWJUTXl4WklweW1pWVUtaDA5NldQZTlnNTJDUDhiRjhwX1pzZmtQOVZsY1dnVTVHSGpVdTNTMEhYc19ENWxSWTFURUI4d2lkMklycVg?oc=5
+- **2025-12-20** · [Markets analysis] Role reversal: how foot-dragging France blindsided newly assertive Berlin
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQV9FLUE2R21OLXdfUW9qYVNtaHhHZ1ZiMWVlSmVEM3N6TDU2ZV9FeGpsa2xSdVZOQ3JPclZFMXl5V1VVZWdhNHBSZndLaWNkSmtobVF5bG40QU5ueHdlNVo4NEdFTVU4UzAwb2o1WTJTM2xPTTdLNm9McFlIdWFoc3NrdUs?oc=5
+- **2025-12-19** · [Markets analysis] From Scoop to Strategy: Real-Time News as a Teaching Tool in the MBA Classroom - FT Professional
+  - https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFdhR1lTZnZiSllMNDRjYlVGM1NrdmwtZlVnWEVXWTNIdTk0Tm1zdmttS0I0eXNDZTN6b0Z6X0VweDNzUjVlNTFwWWF5Zi1jNnFNVkRnd0lzVTZjUUozMDQxNEtkWFlOZWE0SkE3ZXVNS21hai0tR2Mxemt0MzktZ3lLTHpYdEsxTVp2cUM3djRZN2JCd00tSGdnbnM2WWpKdGN1UDUySkZ3X1Yzci1SYTY4TEt3U19V?oc=5
+- **2025-12-19** · [Lex] How cyber leaders can get boards to buy into data resilience
+  - https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3MxWV9kbm9WYTZEY1VuczdIb1VlbU5qQ1duVVJabkJZTC1VMjNUSlB1Y3A3em9IVWpTU3pTZDZFdkx6RGNNQ1l3Wkk2SjhiMGd4TWNKRUI1MnJVcGlOUDdfQmlhLTFjdk1iRUxXaEpHcnk2Q1AtRGV2TDRxaWJ5d0R6M05SS0h6NUMyaHhSemdudnY2RlBXUUd5OGhaT0phNERpQ1ZjeTU?oc=5
+- **2025-12-19** · [Unhedged, The Long View] Have we reached a tipping point on public debt?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3llaTV1aUxUR1kwQlQzMWlKaW0yYmlhVGRrQ2xrRnItT1JwWDhKaHlFNUVnZmdDY2JPYU05UFB0LWdyeGZrOHIzLVBUU1h3RkhiRzB1VkFCWmFRODlReWF4THB1bUVod2cwa3pKOFRvb3JBamlvZFVWdFhyamhoZ0VrUks?oc=5
+- **2025-12-19** · [Lex] Lululemon should roll out the red yoga mat for Elliott
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFozWVpIUl9hZmhXME1BZDUtZjRuOWNPdW8yWVRUUENuTC1Gc3J1LXNtVENMdGR5RFhVeTdaYm82ZDlWZUlQNWczU2tmOGFJRXp6QWE3S0JPRDdLTWpoNmp2U3AyRW4yTDREX1lwQlhXRGlLaU1uRkxzUDdjcTUzMVJaNFI?oc=5
+- **2025-12-19** · [Lex] Management consultants’ new gravy train: buying other companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbjJtczduS09hMnB1dEtuWVZ0bDZ2blV1cVgtdVJfbUhVbEJFVkx3QzhublZGb25zanpxQi1Na3BoVTl2MHc2YzV3cDlEcDJSM3VnTW03YXBMOVdxOGpIeFY4TFA1UkRwaktwQUVfdGlSOHNTc3cxTXRQalFLQzhlbzNRak8?oc=5
+- **2025-12-19** · [Lex] Elliott’s bookshop gamble is turning into a page-turner
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2ZQMDNEQ0NDNkJLQ2VrSndmOERpWThUclh2dDlOWk92ZThKQ3NZS0dVa0JEZzZPZC1YLS1rY2ZFVVlVSWUwWHlyN2RuNnFiZVB5MktjLUJIQWVYcXplaU9ZOXdzNk1yYjUzRy03R2t4Wnh0SThBaGl1cXBDT2JUT05RU3A?oc=5
+- **2025-12-19** · [Lex] The billionaire ex-Enron trader trying to upend US drug policy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkNBbnl6N2pyTi1pZXg5V3VrTW55dDMyNEE4VHY0bGp4ZFc3WEZrRlZzSlhhVlB3bTRMTGo1YXItOUx0Q1VXVExsaV9zcVgwU2E0RkRWRlYyaUFVUEp4UVJRZzFuTFNVUE54enlWUmlwaUxzczRpZnd1OS1aWDktbEhESkE?oc=5
+- **2025-12-19** · [Lex] Roomba rival Roborock bets on AI to clean up market for robot vacuum cleaners
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXlnb1hqdG1qVms0aWxNMWVHejNYZzlRQXFQcWRIWjg2b0JuM0JsVDlYNlVMek11OGU1dTlaSnFIWDNneHl3NGZ1ZmVsLXg0QnJFMFQxQnhjOE5fNG5fakxZdmNBRnB3QUZSRUYybDZhTnQ3SElyRE1scUlMZUp1UnRrT2I?oc=5
+- **2025-12-19** · [Markets analysis] Prediction markets barely make money; sportsbooks make money
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbGVPWWREaXhnMkktUks0bmoxZE1DeFA1dk50c2VTQ1VOM2ZpeXhJN183WkphLUl4VFJGY3pHNG1jeFZuZlpMY0JnNnN5SVl3TFZuZXphZnFzQXZZNUF4bVlfbXp1TnJmWkU4bHNubjY?oc=5
+- **2025-12-19** · [Markets analysis] Ukraine’s wartime battery boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1JWYXpLUUNpQ3hsdUpBb200c2dNQ0VtR2toWFNQcHBOdGVoc3JqUDZIV2FZVy1keXM4eEFTMmFkX29NRndFalRhSUthcG56aWFBcTRwUFRPcXFDYjRlTFJRYnRka0F6NEREZ2xhMHRwOVF2dU82NUNjejBERUNVTGFxWG8?oc=5
+- **2025-12-19** · [Markets analysis] Europe risks a self-fulfilling prophecy over the threat from Russia
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBZQXktZ0xQNGtabmUxTlpPTFp2emVLUEp1LWdFekVZQW84UGYweW1wQlUyZlN3TXNDR0N0eHVnT0pHZDRpTnQ2aXVMV1Y2YmIwa0MycnJtZlZfOGtLcDJqWDRMZVl0eDNjZkRRWGlFc2U?oc=5
+- **2025-12-19** · [Lex] Where ambition meets partnership in corporate finance
+  - https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTHZOVEc3XzROaWN5QlZVRkc2THBYZEpqbGFNR24xcTM1aE1YMlZyelZpeERLYzlvQzNkMG1wNWxkUFNncEpRSW1YOTJia2lWWldVZ3RaSW9PNWhtaUkzUjMzSjhuWUxLbjZzTHhaRzZmcV92Z1MzeG50bW5pRzdIa1dyd1NFdklBMTg0dk1vMDZvdVJOLWV6RDFzWlNDOVBsQmpjVng4b1o3UnVRcG4xVnVwTEsxXzVkTENYdnYzZ1lWVFBBdEg1OTRLVVE0M25IT0dzdDFnQnl0Y2hmVENiOXdEMkZfR3ByNHNDOGxOOVhRcjg?oc=5
+- **2025-12-18** · [Unhedged] Economists warn of flaws in US inflation report
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLU1iOWQ5YTY0TXgycVhWbEVtRUxnZlJ3U2Z0UTJjTGlIQjlrUnZzdVBhR0ZnVUtCVklydTRLb1dPajc0U2ZFRjNSUWg4UC1wSEd5SUtrVU1lNkNPdHMxNngxc1FvaUxReTZ3Qk4tbXpMeW9XanplY1dEYUFBdFBGbWxuZ2Q?oc=5
+- **2025-12-18** · [Unhedged] China boosts AI chip output by upgrading older ASML machines
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2JBbWl6MXhLdGlXMXBzWjZ4MHNRSXRrZmRFejh6cU1pS3UxNWRsNWttNWZ4Z2gxOWF1UWpIeWMxYWU2WENZdkVUdlBqb2JWdWRlX0k0WFQ1Y2d1TkRfLTIybklyVUUxLU5KZ2ttMmJwMk9LUGxweW1EeXYxT3A0T3U1OVU?oc=5
+- **2025-12-18** · [Unhedged, Lex] FTAV’s further reading
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA3azVqUU9NY3VVX1pRc052SFNreHYzbzJmR05TZy16d2ZHb1BNemZNY1oxUkpkMC10ZG5jZVhWaGZnZi1qWGJuaGVzU3VOUThLbE1Cb3NOcnllTjFZUTVkOFEyWkJzaHBpRDlMb29CNlY?oc=5
+- **2025-12-18** · [Unhedged, Markets analysis] Prediction markets and the casino mentality of 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOemVJcGhVbV9kNUp6QWp2YVNyc3RqUHBPakNNN0Noeno3MEhpNlpBaFIwaWhwRHhPbEo4d1RtRHhidXR3bGY2SlNvUDlOYmJ4OTVhcnlTa1FTb2hVOVJqQzM1eWhfaXdLcU1GZHItMUg5bV92eHd0NVJYNW1EM1lsako1enY?oc=5
+- **2025-12-18** · [Unhedged] Welcome to the age of zero-sum politics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcm91V1AwQl9jdXdkd1lhOEkwS3hqOXV2b01HbUZwMnJKakhReFEwWlJXY1h1R29qVklMVUExQ0U4S0lnbVhIMHRqWkJvbjRtYmVNZ2RjZ04zZU93SXo2QmJSWnJKOTRuX2JFREdrbkRqazEwRGxTLWhTZmtKVnB6eDFxWi0?oc=5
+- **2025-12-18** · [Lex] Trump is on to something: finance and fusion have much in common
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHh5OXZxdWI2ODV5UDBtaThZNWRvd3ItMlRqMENhNndJdUk4QU1aajAyNTlSYVgyTGtSNmlIUWNBMS1aLXBKQ24wOVVRSUdGTlkzM1NjYldCVVpfY2NrMGFiajRWbGNQdDZHaWJiQ2R2T0VGOHdjLVBCc2ZhNHFteWFhMEc?oc=5
+- **2025-12-18** · [Lex] Nike shares fall sharply as weak China sales dent faith in turnaround
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmRSVk01cVhUczROOEhERzBOYlp2RjlTRjVyN1ltQWdmbTBBZ21nRU9rRXFmU3RweGpHVkdjbmJmcm52eExOU3d4LU5DQi1XZ3J4OGRMTDUzYVZWM0lqeDdoZ3pyeG5pUUVkX0pRR0RDU3FhVXJVdmdzNFRMMlhxd2IxbUU?oc=5
+- **2025-12-18** · [Lex] Law firms Hogan Lovells and Cadwalader set to merge in record deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2tkRlBZMTJQVDJlUWl3RTAtWVFOZ0gtWDFOdU05Y2V3dGNCWEwzeUU0RjRGNGthc0p3VVhDcWFrMU1tNGJWUEd5VHZhMEpPZ2xvNEVDLXVfbER3M2pDdnM3cDZfVU03WFFoRjNrTndFUmZHOGlzTVJOYk5BM0tnRXN3SGU?oc=5
+- **2025-12-18** · [Lex] Trump’s TMTG is merging with . . . a fusion energy company?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQjZVVkNzekJwVlFVVmNvWi1hbHIxdjZnT0l4UFNkNDB5bVcyZElTVWpZN1RTeGhWaG9Qekk4ekgzbEN1SC10RDNIN1dWUVEtVmN0clBPRkdLVXhyTXNkd1RsU1NudjJMSW5GcVhrRzc?oc=5
+- **2025-12-18** · [Lex] Trump media group agrees $6bn merger with Google-backed fusion energy company
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkZaVnBXR053Vm5SbHZvSnVQWDRYU3RWSmxzQWZLRHZBQmNtcmZOZER6ZnR4eXd4WXRUcUNCMXhNQnFqNGp3RU95Q3lkMzJjNnFodkFNU2FqTXFjXzVCS1M5V09KQk1FUzFrd3ZDalZqQXQ4ay1DcmF5dDNaTjNraDZwcHM?oc=5
+- **2025-12-18** · [Markets analysis] Lenders set to lower UK mortgage rates in early 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDhtcWVNVU1VZmFJMEpQdGsxRjhDSnQ2dVV3cVBwOVAtMmpSaWRIOEpOeS13ZlFKVVdmdFlmTGZjcVZNd0NMRm16bjhscDNCSXBKZnJCeWZwdTRjeUgxQjdVZExUVVdmaHJEWGtrVDR3VzlxTlMteWdZR0d2M0ZTTkZPd0U?oc=5
+- **2025-12-18** · [Markets analysis] UK financial watchdog to increase scrutiny of home and travel insurers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWhjOFZ6ZzhVUVZOYUtrb2hQYjdWeHFjaUlCLWxaaFR4YXJoNUFxSEtDd1BuY1AyQkttcTA4ZjdDc0VaSlR5UGJrQVBhbTdSWnNEenpjV3NsQVY3UnRrRV84c1dibzU3M2RmeFVxRXdENzF6X242Y2tOeV9YVUk2ODY2U2k?oc=5
+- **2025-12-18** · [Markets analysis] Donald Trump uses rare primetime address to defend his economic record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGE4SUFabHVYTFVVX2FuOTI1OUFsS3lXREZGcWxJSHNIRWVSRFRvSFZrdWhmVW9udGFRVjNiTTExZGdENlFsYzU0NkwzbkFYeUNSdWExQTc1NVVLcWRKZm0wa21FX2pqZlBNV0xfRjFWZk5nTjhaN1FLZjZ0OVlfdnpyeWk?oc=5
+- **2025-12-18** · [Markets analysis] The AI Shift: If AI is coming for junior lawyers’ jobs, why does their pay keep going up?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBjZHRiSEYyY3k5dTg4RmxpWGdxUkEtY0pMeEprWnh1enBGUmx6djBMTmxWVU5GUXoxN1BEVXpiWnNUUk1mN1pKRDlxaFozUERRWFZ3dFNuMzVhZnUxM251RUtNTVZITHp1cFVNVXFtQVB2eU5yVVh6NF8xeE4yNmFKZFo?oc=5
+- **2025-12-17** · [Markets analysis] Institutional investors adopt digital assets as fragmentation persists
+  - https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmlzWXJxQ2xJbnh1THlyTmZFRFhaY25haVBjT2FlaThYeHptbmFhU3dSQ19OckFyMnRaTmRQRWJEUHlvZDVZWmQzNjhmU21nWFh1aThJVWpyNWkxb2ZZM0xDQV9KMTlVWDZXWGpwR2ZVTlI0UXUweE16OGFpNGJVT0pqb1JyTTZnakVjc1ZqTTNIc2hyYnBsbWJGazhVcnVkSTlVVGNpWkNfb1dIOFNoWUI3OVY4TGdU?oc=5
+- **2025-12-17** · [Unhedged] Two views of AI and Big Tech
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN0E5LUxndVp1NUJpTDZCQ2xQb0p1ZEVQNjhjSV9ETFFaRjBGZXY4aUlvZ2wtSDBGaXBncEJhQjR4MFo1S3JHdEU1YzdETHJPdG0xV3diUGlwUWcwWWNnM25TM1dKMl9yVWdxeGpqbHBMeU1CUUNiSnRuUEFyWnV2RGZXWEs?oc=5
+- **2025-12-17** · [Unhedged] Andersen Group shares soar 47% in IPO by alumni of Enron auditor
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzBPSTF6LXpMWkFkbnI2RVFmQThNYmdVTUtpbDV0VXNHUTd3UWdYMklhMDFjOUR2aU1NUV9DajUzVV91cDM4ekRkM2VuMlIwVUVneTctN3huRm16SmxoVjY0S0ZOY1NBeWxaZGJTX29zdVczSUJEeFZtdE1lSEFscTd5Tko?oc=5
+- **2025-12-17** · [Unhedged] Medline shares leap 41% after raising $6.3bn in biggest IPO of 2025
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGctZ2M3dnd1REhsUHprLTFKaFctcENKZEtDZ2N0NTFHeFBvVWF2Q19wNmtRQ2NaczlNVWV0RVRXcFM0bDNUeHFsQTBPSXFnQkpBSVBfYjdySDF6M05CY3plZzFHbUhDVTVJWFU0ZkQ3dzNhNlR6Yk5XNVhCVDJlNUx0UnI?oc=5
+- **2025-12-17** · [Unhedged] Elliott gears up to list Barnes & Noble and Waterstones in London or US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUWhld1NFWklLc0R5RW9uLWtjZE5OSWJtSGlQWHZkdXRKVEdiR3ZiSjJVV0lSaFBoRktYTU85OTI5M3FabGt2dnNQVmVaOVFSMDg0M1kzeVFrZzFSaXh3c2lYR0hLRFdmclNteG9XZFAwN01BMFVOWGtsSFlUMmdPWk10TGk?oc=5
+- **2025-12-17** · [Unhedged] US tech stocks slide as Oracle data centre setback reignites AI concerns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzZ2NV9TdUhlZllRaEZFU1k5N1J6dU5JV2Z4YW1Xd0c1TTNpVElLM29HQzhJQktiRUtCeGJfaE1kbllLUnhfU0UtWFhscG5vV045WWN6Z19vdy1aN2Y3bHYtbV9SUXRkcWU4b2NaS21QT2JSMGFHc0g3Q000Mk1PQVJiTE0?oc=5
+- **2025-12-17** · [Unhedged] Amazon overhauls AI team as chief declares an ‘inflection point’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXlXbnBKUVRjc3VQQnRuaGlaSU44U2JQdUJPUVdzbm0tblFMWmdEeXRtSFRncUg2ZzNkekhkMkwzNUpTWGNsUGN1WFBueTd6NnctNHpCNF9EWDVpMmliYkNHVlFqV1FhSEFvdFhyOG9TUm9OMGRGdVNhbHRnbW92a0Vya1U?oc=5
+- **2025-12-17** · [Unhedged] Fed governor Christopher Waller says rates could be cut by as much as a full point
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObmlSaVQ4dnhjajJxTElLZVFLa3lOX2hFRjdOWVFxVjlnY1VqRUoyNDl1SHlpWjRtOVlZX0tfbU5qdEdLQjJZa29YaEJMQkZiWG9UQ0Z4OV8xa0lSWFlXR0FOcm04RW1KQXBZSGVfYTJJbEhYbUtPUUdhUy1sZGhrdXNPdEM?oc=5
+- **2025-12-17** · [Lex] Elon Musk makes an unhelpful cameo in Warner Bros buyout
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3liVDJnbjJseVZIYldBNEFSdWRuY1RsREhnSnA4ZXFoLTgzcVM0WEJDQTNYd0w4YmpaNVlqRjhEYzE0Z0t4bERzQnB6YktPR2xTc0xvZTNKN1Nwd3pFVm5qOTA0U1FTZUVpTEk3OGYzQmNoMWNSbUpxTHQ2U051Mm9INHU?oc=5
+- **2025-12-17** · [Lex] How Costa Coffee went from hot property to tepid brew
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3RBN2xYbENTTGtKVzlISXZobjdRSXhvVmdwOE9kOG42UUdaaUwyNWNpbWkyUGcxejhfV1B4SmQ2OG8ybzlXZUdhU0ZobWtHckxMaDI1X09KQU9RS01GZE0yNzFfUjhUbXBPcWlJS25lVlp3cUFiSWt4OUFRX2tGdjNBQkc?oc=5
+- **2025-12-17** · [Lex] Rocket Internet accused of marking down start-up stakes to ease buyouts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPakFsaHhOclVfaVNnQ0g2d1JRTzJod0lWblEwd2NZOVg5c1V1Wk5jNTA3ODl2eVZReS1VVkxwNDJVcG4zQjZrN1lMbkpuZ01rY3EtVDhTRVp4aFhqV09rLTg5VktnSThZbTByeDNROVpYVE9YVjd5aUtjQmZYSXNHRVFwMWk?oc=5
+- **2025-12-17** · [Lex] UK to shift more research funding into AI and video games
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWpSbmN3N1pydGloUVo5NnpBT1UxOGtXaV9xWTVvZ2tVODkxTDRyRGJfV0FuLTFWZk1ySk1jSThFa1FUczFVcVJ2Qk9GeG9oUkFicGJBeGZEaDhXc1htMjlSZHdNMWEyMks4UnlQX3Z1WW5NRHBKNUpWeC1WeE1WQXdZWEc?oc=5
+- **2025-12-17** · [Lex] Carmakers sour on EU’s ‘disastrous’ petrol engine rule changes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUlRZzFvUjc3eTJnX1pIRm05ZG5wNzJ1cVppeVRZTDktbHpnZ3NId05rUnlOODc5T3dWM3hGVm0wbEkzdGtXWVB3eHhQZl9TSjREZXhZX3ZBZHlZSm8wTDJSYThoYkxYTGxQUzRhQlB2eFBJS1psel8zSjZRT1p2NFR6S2Q?oc=5
+- **2025-12-17** · [Lex] Inside the Paramount-Netflix brawl for WBD: 10 takeaways from new filing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQenFGNnhSUWowR2s0NFZsa1pYVG5GTk1kdVFlRXMyb2trUlNVdjI5anp2M09NcDY2c1Nnbk8zMzJWY1lhZzFPWFBxZG5GN1ZaNl9MUnExemxvbzJseldBTTQ1MHFYNDFyc3RXOXNGMWQ5VldmQTdEZVhyQ01LY3hSei1BSHo?oc=5
+- **2025-12-17** · [Markets analysis] Christie’s turns to millennials and luxury goods as art market struggles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTFHMXZtcDhKME9ocm56Tml3cEh6NHhEaUI1TlUxQXFnT0xkVzNmS29xWGg4LUtRNlJnT2JmREd5eU1fX1g3cWYtQlRkN1BKWXlmSnlvNzBhbjhBRm5MRVhULTVvQlpzaC1YamxGTkh4ZzJPTl9wS2JNczY5Wk5XOHNyNlE?oc=5
+- **2025-12-17** · [Markets analysis] Student competition: conflict resolution ideas
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBnLUM2NVIzbDV1eDFNakJWTW5VTG9oMU1uS2w0a25qWExIOEFiWW5mZnhQTGZQTzltZHEtLVBqMndSUXNwMmc1QTdORTk4eHhOeTdhTjNYbDFMRjdreFlCUndRaE1qNmRIa3E5clU0aTE?oc=5
+- **2025-12-16** · [Markets analysis] YourIndex SICAV - YIS US Government Bond Z2, LU2553527768:USD summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE96TTNuOWFTR0hVWlF1aFpQMGw3NmZhUHlsTTNrd2RqT05FcXJHa2FJZVZaRDZlZ1RsOEM1UHA1Zk4zWi1kZnlQWFdNdEN4aENRTHktSjRCSU00UmR6QVpzOEtJb3BaSlBnSlJDXzdqV2RmNlNtblI4czdB?oc=5
+- **2025-12-16** · [Markets analysis] American Tungsten & Antimony Ltd, AT4:ASX profile
+  - https://news.google.com/rss/articles/CBMickFVX3lxTFBELWZnS3ZpTWcxeWtMdVR5bndxVnowcWVzbE00eHlHdVNmY1V0bGZDWFRYSkhMaDdVdVNqdF9JR2FxSFRLMTBSOUVHQzI4Tm5HdEZuVmlwUHYtV0VESHZ4bmdMN1plZXVwenlzWDJTMFVyUQ?oc=5
+- **2025-12-16** · [Unhedged] The economy is fine and everyone hates it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3VvWVhkb2tGaWVCMHBoXzEtVHM3THhUcldaNFBKVFotSkxLcFpqS2V4N1l6MDRJSUFUZXR0Q2dWZGR0VmdTUEJmSWNGbkZ5VU9lUndfRDlXOEVSOURuUGx4bmU3dnhCS0RPeE5ENjFDTkJrUl8tam1qb0phWnFraThmLWM?oc=5
+- **2025-12-16** · [Unhedged] Bullish investors pile into stocks as cash levels sink to record low
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEFTU1U4Qkg0TDRkQm50QUxudldiZjFPbjR6M1p2TXlGdnJhNlBSLUF1Ui1HZ2FnMk1MWlozZVRPZEpsRERLcURQSldWakdWQzFxQm1sVUV3dkxhZXRHdVcyZmJ6d2lwTDRSZFVGdktwY0tGY2dTbllrZ3FwMzM1YUo4OVA?oc=5
+- **2025-12-16** · [Unhedged] What happens if AI data centres slip the ‘surly bonds of earth’?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlkT2VhN2dyLVdqZmpLc2V1RFEzTUJVbjhZa2I5aUtyc2VJdmszYVVHN2Eyb3V5LVlSakJLQ3dvWDdPOW5yWUdVR0NjVWNFZ1FZSFlOQUJ6MmZ5ZHF4ZEZhN1czTVhwM1NNNDZrdUhYVHZWanlUT1NWZXVlbTNORlE4V3U?oc=5
+- **2025-12-16** · [Markets analysis] UK financial watchdog finds no signs of insider trading around pre-Budget leaks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFZvV3k2U0MxQjRIcXQ0bjZGUHBYZzVGS0FqVGpGM2kzZDRINlNHelpvVldKR2tsVXVJcHB2TElIT3Fha2czUmszYXU0bHZjVXJLRDlEXzNLNHZtdEpDZUJ2aGpISGhIQWp6M0IzdEFPVXVOdEZWcUIzVWFvT1ZHTFVuRUI?oc=5
+- **2025-12-16** · [Markets analysis] Trump’s war on Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYk5ZZ0J0TXNJOGc2T05zLWNaVFJzOXgtQmYtQVhJeTVIWGk4TlR2aVl6Z204dHVSczA2bmNwa0tNcV80b3UzODJNZ2hTczZQc2p3Q01zc2hUNFliTnl5Zms0M2ZaVF85OWVoYTE1TkhMelVPNjQyMFJ0WWNOX2ZXQTBxcGY?oc=5
+- **2025-12-15** · [Unhedged] How leveraged is the financial system?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2xkNVJrU1A2bEx3YXVTUXJhc0hlTFM4STd4Sm5hQlZaSFlYSW5mTEJCa1NtZVFlU0JTQUtLeTdtajNaNU8zRjlhQ0dBR3NKYVhSVFBSM0l3TjlLUXowUVRQaFAzYUpNTFRxVXJBVGxUUVdQTkNOS0JIUThXRl83d1ZJNU8?oc=5
+- **2025-12-15** · [Unhedged] Fed decisions distorted by ‘phantom inflation’, says Stephen Miran
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFNsSUJVYkxSaTRwLW5XbEd3cnhNdVZyczU2bEo2VU1FMmlmSjFTWWhtbURwc3h0cEVxSmxvdXBGWW1EUG5WQ3JfNGxHdVZSXzV5cjdhOXFvb0dDWlYtV0NxcHZBWHdpSzR5d2haZzc3YndxUm5sNGo5ZE9pbmY0cS15NjA?oc=5
+- **2025-12-15** · [Lex] Lessons from Roomba: sometimes being first mover sucks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPN09RTjZ6WWZhMmw0VHlXcTNRNFl0c1VuSm5kY2pQQmt6eUFpM3dqbmxVeC1UTUgzV3g5MHRYVEV6eG9peGc5S0VJMlNHZ1IwcG9EQ2Zlc2FvRnBXemlyNFRHNk1MVDJWM3pDemM2TVRRS2RJWnZUYm05ckQ5QmdQbmVlRXU?oc=5
+- **2025-12-15** · [Lex] Juventus bid battle brings a new meaning to ‘crypto vs fiat’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1RSenp2cDQ5UWdhR2pWVW1rR2NxRHhhUnliWEw5Q0ZFU0dTTHhPWERZcHZkX3lIbXZ1ZGlER0loNDYwUHhnOWdLa0VUNVF5eUUzNjc0SzRnU28tMUdHVVFSTWhrWW9mam9LeGFfYU5ZSjQxZUtGYmtUM0NtQkUxS0lhZ2o?oc=5
+- **2025-12-15** · [Lex] Why China’s robotaxi industry is stuck in the slow lane
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORUgwZ29lb3dJZVpSZmxkUjBSbDN1UFMyekZuTlM3alZDTVlJMHc3Q1pueVk5V09wZVpWR0VGallnNlJLSjFDRktGaFc5cmk4aU5fSG1MRnQ2X1ctUmoxcEtBVW5BRVJWbTljd0xIU2RRYm5YX1pzZE5ZU3FKRDVtZmpJUHA?oc=5
+- **2025-12-15** · [Lex] VW gears up for first production closure in Germany in its 88-year history
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5lWVVVMGhlSWdfSFNwWTF5b09iV1F0bDVqRjJ3bEJUVjViVGM5ejdyQ0dXb3JtUDR1TkRCakk1a1A1VF9ic3dFN2l6Ul9DUzgyRW1TOTU3VkszS0ljdzlaMkJ5eEN6X2FORlpvbXcxZ0c?oc=5
+- **2025-12-15** · [Lex] UK National Wealth Fund to prioritise direct investments over third-party funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW5PN2dTUUxCWnJUdHFfQlVKbWhSdWlFM29ndkIycGUzcmswVXQ0QkNjaWwteDIteGF0ZHVDZWFnbTgxVmt2WEd1UVJjQ3pKMndCQ0VIYlRLMWg3RG0wdWw0WGJqUUliWF9teTQzNWY2ZXVCbW0tSGEtVW9CdmRxb183V00?oc=5
+- **2025-12-15** · [Lex] Brussels plans to scrap 2035 combustion engine ban
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDlBOWxvM3JYQVk0LVV0d0dVcTJqMVpEZjg2aTNMaEp2aVhhUW1EUFVOYXZPQXhPY2NaMXlNQVZ6TXo0T0FucVppOWVPWEZ6RXlSd3B2ZTZ4SE5ic1JZdnRta2VfUmEyV25salJzTVdfUUFNNWNmR2JDTjdrNFJaOXBjdTk?oc=5
+- **2025-12-15** · [Markets analysis] Here’s a new angle on private equity’s volatility laundering
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5hLTMwQjlGM29UdE1IX25DT2loOVd3ZWNjNG5zZVVDQmswUXZXTU1kR0VSbnhUZVVVVE5xWXpUWWVvcHlScEVoaTNVLUozaUJMNno2a0R1T01vb2U5TVNoLW5hU1BvcVd0N21vWXRvV3A?oc=5
+- **2025-12-14** · [Markets analysis] Xtrackers II ESG Global Government Bond UCITS ETF 1C EUR Accumulation, XGVC:GER:EUR performance
+  - https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZU2oybkUyaXM2YzVKakQ0UUJEN05veVhSUDFmWGV6V0hOd19iVGsyM0diNGNRdkhPdFFMU09wSVNpRWZpWDlYeC1CanZMSzZtdTU4ci1oSzJwZjVQSElwU3Awb0pYUFJ5cWJ6RWRfWWM3aWtNV05lZQ?oc=5
+- **2025-12-14** · [Unhedged] RMP = QE?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT25XR3haWG1wcy1kbU1IdF9STU04YWJKYnRDa28xMXZzaGtlQ0h6WFJKdlIyd1p2WEhqZXkxR2dNY1VXS3Utb0hsaTNpSEo2WXVIQl9qMno3VUpscWpDemU3R2NGU2VVTzhremwtNDJPaWw0WGhheXE1NjV4SHpzc0pxV3M?oc=5
+- **2025-12-14** · [Unhedged] The four ‘O’s that shape a bubble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0gtbHFWN3ROdnhlTUFrb2Jranl6WEtmd1NBNFBNUHdwUWhuSW1Ua2tXa2JaNllsVFc4UmZiRldPVEl2TmpzaWp5bWhsclBUOTdBdmluWXpQeTBlZEFESEs4X3BDeGwzZ2xTa3NVUGZJcGVDRUpMeGN1TWdwNFI3Z203Y2M?oc=5
+- **2025-12-14** · [Unhedged] ‘Game recognises game’: How Jensen Huang won over Donald Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVjVuRTFpaU1fM0dnMzdoN1dPdlM0T0VMX0FxYjk3b0ZMQ1pFeFZmWW1OcnJmVnNiSzhEN0JwTTZGNlo2M0Z1TFplV3daMGFBWjBGRVZJSm9jTFREbHEtTGtic1A5M0RZY2lXT3k4UWN3Z1FLbllGbHd6Z0U0ZVJoNUJIWmI?oc=5
+- **2025-12-14** · [Unhedged] How Warner Bros Discovery’s David Zaslav defied Hollywood — again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWRQV3hhaWRaSlZiTktwMk1tLTlmSWdadVhUWGFuMUJlN2F2azExT3dqdmxxOUQ5ZlNpdndJamp2R01uTFhqRmd6cU53RFdaSzFzd1E5Z1E4N0lvUU5RU2JWcHozVFVaWFZ4UC11R1VxYVc4WExoSG56RU0xd0Z3azUwZ3c?oc=5
+- **2025-12-14** · [Lex] AA and RAC private capital owners set to exit roadside recovery businesses
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVNiaU56MTlpWnVHemJ2N2lpclhsX1doTEphNXFQNjFqaGtsLVJNaHF1YWJNbjRSNHlrRTZmVlBTYlY5ZzRocmFuelhaTlYwMTFJMy04cXJBdmxacG9vN3FfOVV4NDF5eDliRWNWSVUtUi04ZFNrNVJubC1MUUNQQ25GZHc?oc=5
+- **2025-12-13** · [Lex] Australia’s social media ban carries health warning for Big Tech investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2ozUWRaV20wV2dRa3lGR2NpNm1aM3lXVWtydE9DczNUS3FqUmNtUkloTU5XY2RBQjVFeGQtX1VjRnVNOUt0bzNrZEw5eXZPNXVyeEF1VURuVUlGLXdiRGRWVnhvY3NoN1NPYXlVcW5BYkh2NjVwQWk0TDNDejBBeHpVaEQ?oc=5
+- **2025-12-13** · [Markets analysis] How the ‘Brussels effect’ backfired
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHFmQkd2R0xXRTlFUVZSVm41YTdvZFpVUnVGaWtBTi1Td1BQNmcyTV9iZ0VoeTVHRTdzSkdoTFo5TzlfS0ZjdnZJem9DeHlzNFE4Wi12d3ZrcTVDODFGRWg1algwaVZJQ1A2Z2tFeTBoS1NjUTZRZ3JoSVQtTE1MOEQ5N00?oc=5
+- **2025-12-13** · [Markets analysis] Hedge funds pile into commodities in search of fresh source of returns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQalowYklzd044RFIxWXRxT0RFNlc4XzdlWnlIdTM2akUySHNfMWJuUTVQTkFxWUF3Z29LQm1SVjNrSEJISkJLQ0twdGxESnZHWUhYUk1EUGxCZXdwLUNoclZQSllQRXVKYjM4d21JVmtzOUE4UkQxSlZLeFpWM2dOQkdXOFY?oc=5
+- **2025-12-13** · [Lex] Subscribe to the Financial Times
+  - https://news.google.com/rss/articles/CBMiREFVX3lxTE5oMUxXWk9BOFB1VTRxX0VOblR1RUd4emdCRjRqVnRDck9FOGVxVm9nMGRMUnZIRVk1ZnFCYTNOTzVmYlFv?oc=5
+- **2025-12-12** · [Unhedged] US tech stocks slide as fears over AI boom flare up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWxEdk5sMUUyM3NVY1NhMHo4VGNRaTQ1V3BZZmIxSkJIdE1pZ1dnNUczOUxfODhCTGhadzV4VHhFNDAwb2gxOW9XZ1BkQlVFS3dKNFQ3b1R6LTVrR29nWW0xdDVhYWNKY3Q1bkVnSE9Tb0RwNFJTcE1ibVl4OC1qMFh3MmQ?oc=5
+- **2025-12-12** · [Unhedged, Markets analysis] ‘The darkest depths of winter still lie ahead for America’s capital markets’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5hR29Ic1U5S0ZOclVXNE1wVXBVM3h1OWwwWWxQdkoyQkpyaHJ2WjRLN3RrMWZkYmRILUpaS1dlZnI3MUFMcFNwNElhZXNCM3R3dlE3WXFFWGxiSElqSGtZbTdvNFRtV3pvY19FTmlsRVk?oc=5
+- **2025-12-12** · [Lex] British Cycling hits on a money-spinning idea
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW1rU2xMNmo2YS1YR1k1cU5BTExqVV9VLWRHTFZENDFXRW51X2wwejdPNHY2azhsbTNyaXZBVUVUMjlSenMxazZDX3h0Mm14dHJFVDhSOUcyZmVYQWdyM05pUkNmTTBfY19Fb201enBxbjZyOHpTTTFUYmlMdjc2c29melA?oc=5
+- **2025-12-12** · [Lex] Coty chair to leave as owner JAB plans leadership shake-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN21qTHJKWFJOMDZyVTAzQkNkZEVLTGNsLVVzVUFXVlNUZjE4MmFfZERTMGZLcDBIaXRyN3BieXlHbkptZk1UendaS1BiNkdHaFduOHJ4LTZXei1rRi1fV1VHRkY4MU5QTW9XS1pqWVQ5cnA5d183bThKeXFzQVB1aGxTUE4?oc=5
+- **2025-12-12** · [The Long View] Can bitcoin bonds fund economic development?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5BR19sZVMtMEtFWG1oOERySS1ubnRyYzAweGk0b2pSSWhpSUZYVEVxQ0ZjdHQ2UmNVT0NIY1BqOVJJZFhNYTFhVWNQRDU1NGdWOEtjZG8xRHhuRG1lNk9LWVNDSGZ2TWpaUWZ2YUIwWW4?oc=5
+- **2025-12-11** · [Unhedged] Cisco finally did it
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBMT2Rha3BhMjI0OHFwa2tLY0xiV1ZnaUlrMTBjZURTT0hwZV9CMGpjTThHZTBTMG96SER0bUZmdngwTjdVWlY1bU52MW5aVmFzenB1akJHWVN5Zm5XRFQ3VEFMUzN3RUlVWXd1Tmp6aDA?oc=5
+- **2025-12-11** · [Unhedged] S&P 500 closes at record high as consumer-led rally blunts Oracle slide
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFRHWEtHT3gxcnVLVkVNdXI0ZTNzTkRJaXZJU0FiQk43Tnlhb2tFMkV0WGloel92SlF5RjFEcmxsVjBpSHZFaGdrRUNFbm8zVS1BYklpdkU3RzhvZGhVQ3MwSWo0alBKOU9FNHlkUHhhZEdnc3pvTTJLeEE0bXhrbTVSZV8?oc=5
+- **2025-12-11** · [Unhedged] Europe must be ready when the AI bubble bursts
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE84M195Z1BjbjMyWkFRVjc3SFF1eEIwZUJEV1V6ODEwTGtQSll0b3V0YWVKWXVaelVEa2NlVjUxNHZSbFBIT2poNHk0TW1Kb2llMV8tUmREcmRsY1JQVjRIX2o4bkpqVkxESURNTlpfbmo?oc=5
+- **2025-12-11** · [Unhedged] FT Person of the Year: Jensen Huang
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDN3V2drbWx3TjlTSFZYaVVRZWhzQ19waTRBX3lUdlBhRFktelZHWEpFSGJfTkIxYndNR1lNYkRGVDlyNlkwcnZZcDJkVEsyN1V2Uzh1SlFoYW5XcWVQOWR1UTZyUmdUek5abEtRWWNDcFZXU2ZnV2h3bEw2bVpER2djLWE?oc=5
+- **2025-12-11** · [Unhedged] Get ready for a spectacular IPO boom from the big beasts of Silicon Valley
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnYyNUhsVWxwaFJQRHlCZEtFQ2lpMkZlZkRaYWJNUXNvM0xmeWxreW9HT09LQTU4WFpneFo4cVlSZzFkUUFWUVY5WUVta3BqMkwyQ0Y1MDhXeXk3SG9sV2xRYWItMERDTmRkLV9Gd3RTeHdLWnFBMllyX3E5a1NYci1fckQ?oc=5
+- **2025-12-11** · [Lex] Why media titans are duelling to get Batman on the balance sheet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWF0UnRfM1doZzQ1N1lxeHpRZnVrbHZ6VzlzeE4xOUJPa29kYUc2QS1oMktKV0ViTElDWGd4MmlLWDFOYjhVSGpYOHdfclNJMF9YSXZHVUVJdlQzRkdzZzlhUE5YbWdGRGYyTmcyVDVTTUtINXd4OThHT3FLaGZLZS1qWmI?oc=5
+- **2025-12-11** · [Lex] Lululemon shares jump after chief Calvin McDonald announces departure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR0NZcUdMVVQzaEUyanl5WEJaenl0T3FvaWpsVWY4WWNzaGtTQVo1dEE1OFlvTFNyTE11eXNVTldKVl9CN3p1LVFKOFZLLXhJNkw1VDhpVzJ0b1FLZ0xZLWQ2TURmSXhEX0RpTFV0SHhpckt1MzJKWEluclN3MDFVT1NxRUE?oc=5
+- **2025-12-11** · [Lex] Eli Lilly shot helped patients lose 29% of body weight
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNek81aVdfRVdNLUZVWDAwTzNteDNDM2dVdzRMbDVRR2hCM2VmNVZOSS0yN2loengxUGFhRy1nUDRHdkxNRWw3LThXT0dYT3ozMUNJb0Qxd2VDaFYtSUV5RndGc3dfS0hBVVRyXzN1RnE0cjV6bEhoTmtQUWU3WXVJNEo2Rkc?oc=5
+- **2025-12-11** · [Markets analysis] Russia, US and UK emerge as lowest-cost hubs for fake online accounts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3BXbFpuWWFpTjhZWi1kWThvblg1VXd1bzUwOTNZMDBSLW5lZVdEVWZvVHoydURVN3ZnaXgtZTZJOG5ZTXlLX1ZKaUtKY3JVenNOUW45QlUySFZ5RGx3TUpzZTliNEg3emNad1FCWmFfa1E5bXItMWZNb3k1cnhUTmZRWkg?oc=5
+- **2025-12-11** · [Markets analysis] ‘Hollywood is shocked’: Warner Bros sale looms large over movie industry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSi1JRXM5VzlEY01QbGdIa2JQbjNHakJKTVhxZGcySFdSQmZQcmd3SjNRY0xHY19tdWJ6aWVvckNpWHd4enVsZ3ZoQ1oxb2UzQlZKT3lXZDNMbHBRR2FSTHgyWGh0bEZxVHdZVXRCRmJmZTV3MGJ6ZTlCMlBhMms0XzNxcV8?oc=5
+- **2025-12-10** · [Unhedged] Federal Reserve cuts rates to 3-year low after fractious meeting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORXhuSXVVSS04a3VGS3R5VkkxdF8wZkNJOTRNdUtVcnZtTUplSXl1T1BXQ2ZLMW1DRDQ1NGlGSC00UlhTdkZjX2VpZjRwYjlXUUVnT1FBOXdhbFk2Nk1kOWFmaXRqaUhGUXlJaUUzUTZPRzl2Ty1rdUViU3VGZi1ILUtWOHA?oc=5
+- **2025-12-10** · [Unhedged, The Long View] Argentina raises $1bn in dollar debt sale as Milei plots return to global markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmRnM0F6YlRsa1RDWnRYdzNnUVVyVUc1QVhFeGFFc01ZR29BRlRqZDFIdUZlMWp5Vlc3cGdqM2hnWlZCUVVIU1d5amVSWUtpLW1GeVU2R1dHMzQ4RWdMTTVuTG5kTTM2S3psNEZSaDlWLXlva2tNUGhCYXQxd01BX0FzLVo?oc=5
+- **2025-12-10** · [Lex] How UK real estate companies can repel private equity bargain hunters
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3hsUmFaTUdvMWgyMThNSmNrQV81RWJ1SElMSlMtUVlyTVIta3YtYjBpYTBKNnNSUUd4TTc0NURIbHpTQ2dSMV9pcm9aMG1HeFdjY19pN1VobFg3a0ttN0NxMHBGNVdpX0NQVDgtNVFtN041U25UOXZBV2g5TmE0VkVUc0s?oc=5
+- **2025-12-10** · [Lex] The hidden cost of ultra-cheap solar power
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDluYk01eXpGM0pGT09Ea1Y3TUhMQmZLczJBOVpHb2N6ZmFkQnkxUmJBX1VIWEIyenNKcmZBTEk2WFVJNExHTV9lYzdaVTZPaDNUWWwzSWUtQTlCUHdqdks4MS03OVN1NmxQWHA4dDNISW1EYmtXakZuS2ZRSnA2Skt3NGs?oc=5
+- **2025-12-10** · [Lex] William Hill owner Evoke explores sale after Budget tax hit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHk0QVhxNTFnWjVtYkZnNk9IQkFTQVEwODFRUWc5ME5VWEdJTEVkbC1ZY3NfUUdLRHYwZmRMSllIa25XVWR0MlhfVTJaMnJsMXNtSERaYzJjU0R0RmE3QkEyZnpiTzF5a1VWRW1jOVlIWVlaYXpmRnlualB6MlVJbldINHA?oc=5
+- **2025-12-10** · [Lex] Kenrex theatre review — a small-town murder becomes a blistering one-man show
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQU9MUVMzajBuZ1FYZDY4UDJjVzFQYkMtcG1lY3AxT1VyaVlnUkVteldDV3VjYzEzYnpoZmt2R2dlWG93a0Q0cVZ4SkpMdWRwU0FhZmVnM3cxSGtWRVhXT1ZvamlaYmZ2SmtjY1A0UmdCSVc5Y1dxQnBLUzl2QllLTDNtcWQ?oc=5
+- **2025-12-10** · [Markets analysis] Ben & Jerry’s governance crisis is a uniquely sticky situation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFV5dFlRZFVtZG4tTjBmS1NjTTdNN1BfekhkeklzeWthNm1tcExWRzZMRTdlSVpKUEpBYU5sdVowbHFFaDdFb2NZT2hpRVVTUFJ6Y2VmZFNwYmE2T0NnaWdKcXBFeVZtTlNHdmxFYVVvX1hHRUY3UnZTemhEZlZ1b1YwYzM?oc=5
+- **2025-12-10** · [Markets analysis] UK energy costs likely to halve by 2050, says system operator
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0taS0RrbEl5YnZlcjBhSVl6RGM3RS04Tlk1Y0RKRXVTdXFGcmdCU3lqV3pyOUQxVUJiOGg3OVBFcE83R3BzSTQ3Y0R1MVFpcUxTeDA1QU9CRjQtckNXQUppSjVYbjlZTFJGdjZESXMxRjJUUTJMeDd3VkYxX1hXSGUtZXE?oc=5
+- **2025-12-09** · [Markets analysis] The FT Global Bond Summit | London | The definitive event for global bond markets - FT Global Bond Summit
+  - https://news.google.com/rss/articles/CBMiTkFVX3lxTE9adHpzblBJRWJJYTZ3NEZEUHh0Vmpsei1DLVBqbUVoT3FqSy1uMmZyLW9uMGsxTXphYTdfSWpQZFhIeXlJZGkxc2JKSXlWZw?oc=5
+- **2025-12-09** · [Unhedged] China set to limit access to Nvidia’s H200 chips despite Trump export approval
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2p3a0RhS0djQlZldERwNVVyNzE3ZFFSRlVnUzM3S3p1eDdfOHRxVUhKZV9VU0hKY19oMElIT3g1akU1b3VIeFpYRUVZMVFQZUhKLWxFZk9acEQxUUFQeG1FaFdpLTZGUVBaNDdEM0REcnpYZnpCMzhNNHVIU1RvNHM4NjI?oc=5
+- **2025-12-09** · [Unhedged] China adds domestic AI chips to official procurement list for first time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmhvdkhRdXJibk5hYWpUeTdEdThtWF9WbEdQblZ2UHlnQVVpa0d4WGZiSkxKbjFzU1cxdlQ5dlFvYk9tMkNneXd4ODBfeFktUURVY3h6NHV4Mzd1UXNxX1ZCa3FmV2pXWmtla0ZqMGtkRUtUb25ORUFNOG9GUlNVTTQ1QXU?oc=5
+- **2025-12-09** · [Unhedged] Nvidia can sell H200 AI chips to China, Donald Trump says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGk5c09Ocm9GOS1JY0lKNVBsaW8tOXlrdXJaeVl0U1ZzMWhCd0ZCbm11NTNMdm1EcWF1UDU4NUI0UWlMem9kOERCeG1ibThrd3V3a1ZYVWNOYVp4NHhQcDBCdW16UER2dXZ5a0I5WDlvczhoT2J6OW81TjVUeW9wdTBOV0E?oc=5
+- **2025-12-09** · [Unhedged] Silver surges above $60 for first time on global supply squeeze
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXl3NHZPaHc3THpoeXNiYzE2X2hwbGIza1dHZ1pEak1uN1BQMXVIaUY0ZGt2c0EzRktyZW9fX2Mwcm10aHhGOUk1U2xTRWlqdV9lMmhfcm9qZlpyYmNxTTB5Nkt6SXplTHpnR1QwalhkUHBwc0E5YTZDZG5vd0Z3cEtHdy0?oc=5
+- **2025-12-09** · [Lex] Biotech rally mints huge profits for hedge funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1lSdGhEanM4MVRaNnllT21OVDV6X1Q1aDJ0YjNMOVNZeHRTamI2ZWM0T3ZZd1Z3a0wtTFB6UnJCeE1yVzQ2WGVRbGpaM1B5a0pSeVdTNHJMN2JmOEdURGdFNGFNWnJTUFcxU0txbnNGMkN1czN6b0llSVZPNzRfWWZ1blY?oc=5
+- **2025-12-09** · [Markets analysis] Central bankers, let Turkey be a warning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmJUTTI3Mm9HS3h0MUNFZ1VfNjM1c1JwSmdzQ00wZVdRdkxBVHp6bVFtcjBUM1ZleGd6RkpSOTAzMUZaVGxFYTBfZDMyVG9xTGVPa21RX0JNUVk0V1Z3SmpMMkk5dnM5ZDhLYjUyU0xxQzlVVFhEb1NtYWgxLWowbUxuN2I?oc=5
+- **2025-12-09** · [Markets analysis] Bank of England rate-setters divided ahead of decision next week
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUpVV0tMS1J2Y2hHaGtGVzJXaFRybnBBa2c0SF9zZkJ2QzQ5S3hRMy1NVXBTU3dZV2JPaGxsdVhyUndUQUw0X0hTYnY4X205VUh4dWlFMHBoXzZJTnpiSnJPTk1NUEhxbFNSUWxxYTF6bU44cW0wRUtLWHVKZlpncmJlUEo?oc=5
+- **2025-12-09** · [Markets analysis] What is wrong with the UK’s Ajax armoured vehicle?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORUNtUUk5Njh1SXB5V3NZdUJoSU8wMmsxbFIyUmFVSnZBVlFObFBBYmdzOVlFYXVaZ3VUN0NmYTJLNkRlMHB0aklOdnBEWXlQWWJ4eVBsVFNxM3NTc0JZRDctckxMNDNodWs4Z3I2TWZvT1o4LV9POVljbnpmTGNxbllBU3c?oc=5
+- **2025-12-08** · [Unhedged] Watching Netflix makes stocks go down: study
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8zaktPZVo5NmQzNW1zQWxXVVAwd0Z5WTBHS19oZ3dvQmwzZ2V5c01ieTJ5Ql9lSHNHX1B1bHlYTXZJUDl6TE9MQnJ5TWZSODRoY0xWZjl5d2NvdlRlUXpDOTJmdnJaQmx0UWl5YlJFYm8?oc=5
+- **2025-12-08** · [Unhedged] Retail investors help drive gold and US stocks to bubble territory, BIS warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzVmSGN5X3lkblFTaTRfanRzejlkMTVxX3ViNFFOXzd2MHlKWDVSNHFxRkIyWUpLS2p1MUxlRmF2YXRIZncxSl9JNFpMZXlrcHkxMFc4YTVqeTNCejMwTVo0cmtjR0ktaEVhTmJHLTNHX05CY0ZWNXJZLVEtY2w2cngzczI?oc=5
+- **2025-12-08** · [Unhedged] Investors increase bets on ECB rate rise in threat to dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1FhdTdEcUt4T1l0N3BSd1ZYRnY1Q0JYSGxGUTdEMEE4ektodFdRbDBwajNhT2k4ZGRIdGgxeU9WLVhUb1J1S1pKQVVWOWNRVXhUOHpWWXl5NUNlOWs5UlRzbnJ3QTFYOUJjcTBLUWlxdU53SzUzNWdwQjJQVWVYUnVJbXY?oc=5
+- **2025-12-08** · [Unhedged] Google’s ‘TPU’ chip puts OpenAI on alert and shakes Nvidia investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVBGaFluX0tnNFkwejZlb1VLSmhnMlJWemh5cHhHZHNfNnk2Y0k4dHVvYzlieF9fRTU4UlA0ZG1OWXZTZ0h6b0gtQXQ2MTdaRTFqaEk5LWw2LXZFS0ljTHFGS05Sa3htY0F5YlZaQWY0eG1DVldiMzhvVkcxcHNCR1A4TGU?oc=5
+- **2025-12-08** · [Unhedged] The State of AI: life in 2030
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQajllY1ZyYWVocVFSN2dfZWVLRWpKamZJTUVROEExajc4a29YZG5WUU4wUTlvYWtwZ04wSjZRYnVJSll6dk42dS1UM3ZyaEh2c3hhT2Rodk9Lc0RhR2xqSnRkaW1lUjBiOFZ4LWszM2dSMmpWNXkzUXFUdmxhWU1NZXZ4dHo?oc=5
+- **2025-12-08** · [Lex] Unilever’s ice cream spin-off doesn’t hit the sweet spot
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFo2OWhjVjBYQUFtYWFfb1dYNFJHd3daWGZybUk0dTJ5a2lYRTNKRmNhV3VnbzlmZ3ZpSV8ta3pZaDZGeHpiQlNDcUttUGdLSWlhLVE1SUFod09nZkRjY2FNZWlHSjh6dXNqV3ZGU21GcGdpbTR5NnZtankyVWwtZGhESzE?oc=5
+- **2025-12-08** · [Lex] Big-name US department stores take credit risk and put a bow on it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnFMSHZ4ZXhxUVZKUWhIamtuVHlQMTZCNnl3Y3A1b0JGNndMSi1RajdMaldRYnZzU19fa3dFVEdQeDF0N3dOU1dsdmtWXzBuc0dPOTRxOFN3elNyRUZpc3BOaUVBc2drLXk4NXJfVkxRREpXZ3QzNi1DSWRXM2VlTldKNkY?oc=5
+- **2025-12-08** · [Lex] L’Oréal bets on beauty injectables by doubling Galderma stake
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNS11YzE5SkZWREtBYXJRMkdkZVNrbGo5dHdhQ0o1TkhSVFFFYmIzZmZRREdsYXFPWGgwRXhsN3NiXzZzbElPU0hvV3JwOTQyQ0FjQ1pKSS1uVTdLeUYtaGpnTlhtYWlQNm5MLU9GdXdnSU1jRjBJYkdrVHdMQmNjcUVUVDk?oc=5
+- **2025-12-08** · [Lex] PepsiCo reaches deal with activist Elliott to stave off proxy fight
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTF9OaVJFQ0pOTzREQkhLSHRFdGRwczFzWnFKUGMyUEp0eFVNOVhBOVF2R1JyNVIzTXhUeFNLclRsU1k4a1NTM1N5MmEzQXNlYWJKWkhtUlBSZElhX2RCZkRobGtnZDlrV0xKV1JCQzROT25yQ3c5eklTUzc3SXpSU2x4TTM?oc=5
+- **2025-12-08** · [Markets analysis] Bank of England launches cost-cutting drive to fund analysis upgrade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOejdDU3AxalotMnFMWXplUlUtaTZxVzdLcnFxZDNoajYtbkphV2tOWkFtY2pCYk9nT0dUWDNvNjAySFc1d1czb2kzMVpUQnhaY3dDTnNweTJiX3I2azY2WFFSdEdsS3cwdWg0dVc3bzRNaXBtaTh3VXZuWkctQUdyOXBiUlo?oc=5
+- **2025-12-08** · [Markets analysis] Data centre boom sparks deals rush
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMjVsblRWN1pUd2VKSDVqWTJXbEpxYkJzaGRLNG8xZ2JjUy1xTzJYQzdickVobGlMcHE4eWRrQ18xM1ZzS2Z1RkdTa0JYV0xmQjNranpLLXFsWlJybDJlOEg0SkVuRUZRZUJZOGctZEhjVHpZRmRrWEdmZVlESnUzX1JCeWY?oc=5
+- **2025-12-08** · [Markets analysis] Law firms adapt to future shaped by Trump and AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbU56TVRYZUNPQkxnSjBfc0taQllYdmtuVTUwY3liS1hHRW1wdlpVRUlQbnpMWUViNm54OXdsazhBNVlkUHJEb3RvMno4WVBfQUxEM1pxVW5RWHh5UWZuSWV6ejVLYkxXd2pjSkFSMmpWZTFYVWl3aGR0UVlzaXBjYmZjM0g?oc=5
+- **2025-12-08** · [Markets analysis] Intrapreneurs: the ‘hard yards’ that transform legal services
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzZUcTNXdHFCTnhFN2xxcmpCS29nblE4UEF4ZWJLT0lGWG80bmg5RUktMjVadTNNNFRhYnM1R1B4cUUtUllwbTRIZF9OXzhWMHdPNjdYczJESDNGZGIyQkRsTXFtb3dETVZ6bGNJNjZfMTh0M2ZWTUo2bEFuTmJuWVRnM2Y?oc=5
+- **2025-12-08** · [Markets analysis] Ructions test Delaware’s primacy as favoured state for incorporation in US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnliNlQ5WGtneF9qWmR5YktWQWlTNkxuWjVoN1Q4bGlwN1h2X3VlZTIza09ISmxhWUZrODVxMXB5Z1ZiaVpWSDRwUmt1NXZIdDgtYzcwYzBaUUFIYXpIbDQyTjcxZllaTExNZFU3b0hXS1dEX0RpTXROMHFnLU5lWFN0TDI?oc=5
+- **2025-12-08** · [Markets analysis] The significance of the next Fed chair choice
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXNEeGxxOEhlc0dHWVVldXlNMGVXbk4zY1RMbjRKWGJtSDcwSjN6djhmRG9MZ0lNX0xhNlczMi1KWE9PN1FzS1d5SFY1NDVLdFNnSmxjeGVuX2dxVkVhY3F2NV9EdVpyN0N0SVFGeG0zZUU0djROOFV6azFFWXhvcmNBOXk?oc=5
+- **2025-12-07** · [Unhedged] America’s affordability crunch is real — and worse under Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWN4QXkzMl9SSnptcmdGWTF5ajVsMURQbGdOWXJFYUd4cmlTSzhvcUR3R3ZneUxhREppQTlabHRzUFpWZm14UXg2TEJWYjctZzkzZjFIUEhuQnFKV2RBcW1TU0FzS3RiQVYwWTktbU0xQjZ6cm1RRXVQTjZwTWl2RkR2MUI?oc=5
+- **2025-12-07** · [Unhedged] Fed expected to cut rates despite deep divisions over US economic outlook
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTdDYjZvR002S2stR1lZc2ZJSU5La0d6WHJYdExhMGg3MGRMSzRQZEZudkxkUlN3bEY4SlJUYVpYQXpybHdCYlJVNzExTnJpcERpYWh1T0NaTTJITjhDYXF0dEE4dnhfRW8tMWRnZ2l2amJfZlpCRFhwV1g1NEhEQm5rWk8?oc=5
+- **2025-12-07** · [Unhedged] Transcript: Federal Reserve set for divisive final 2025 rate decision
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGY4ZXNyd0YzNTNhMHBLWTBrandVOUk4MEhId3VfR05aTnV5c20xekZpTVlZQmx4QVNxM2NQVm52TU9yMVVhWHZqRUtUUGRLb3ZGU0VnZUp3blR4ZVJtaTRKc3AxUHF2SEVYTUlwMWtuZ09yZ3liTmdES1d3aFAtbnlSVjk?oc=5
+- **2025-12-07** · [Unhedged, The Long View] Inflation, inflation, inflation — the main risk ahead for investors
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0zMzlOUzZMRFhJMUMwZzFOVXo3QXpoNHl4NkRKSU5hR2xSZTVxOXBWT1JmWVJDeFBwUnRRbERuY2VLOGE1aWRVODlMVW1xQ2IwWGtQSmpoOWw5N3oyT1p5QUZoTkdxTFRDZW9QeGlJWGg?oc=5
+- **2025-12-07** · [Lex] Deutsche Bank seeks 40% pay bump for highest-paid chair in Dax
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDdud2pYdWhIMDhORFF5Nms0bjVjMjUwNFJMZExOUUJVOFNTa0l2Vmp4UEd2cWlCWENwNzZraG04MmI0U05LQnRvcks4TkNveXlqQVAyb0ktcTdOZkJ3NnhOZ3ZoaV80a0h4Y0VKRzdZdXkzOUloR2xKRzM3MXhWWjg5OG4?oc=5
+- **2025-12-07** · [Markets analysis] The lone bread maker: Europe’s half-baked single market in services
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJ2cGFvTVpUd19LUUtPNUhIVjdpenQ3cTQzRXRfSG1MOTVLSHZLd29tdnU3aExmeUxLcHBYeW1QcFVFTmp4amgzR0kySTBvLTRrS0xvN3pvand3c2huZU9lNGhUdW5lbW9yWkZLRFpqem1UeW5NU1ZPUEtRczJiaXRrS0Y?oc=5
+- **2025-12-07** · [Markets analysis] Central bankers take centre stage
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTB3QjNaM3V2RnJhanJPeUh6NWJXVjR6WV83N244c1ZIOXZPRnJKU3ZITGE2VGFqWWVzTEZmY0ZKdFczTFE3MldveGVJZjBwaXl2T2FIZnNwbWxMSjdLVVpqWWxHR3RXUjQ1a1dhaTNERzhYb3RTSEFkZ3IwVmduRUlfSHA?oc=5
+- **2025-12-07** · [Lex] Magnum Ice Cream Company
+  - https://news.google.com/rss/articles/CBMib0FVX3lxTFB6U0dPNW1wMWJINU9jOUhtc2ZuQXpvbTBuUVBuRGtHWDRKM3pSN3hRTzRGZUczYVNNUHIwRG00ckUybGZzZTRzSENjaVpwX25ScXUxSG1HU1FQLTdwM2xxX2NFeDR6NHp1a3RJeEdWaw?oc=5
+- **2025-12-07** · [Markets analysis] Fenghe Asia (USTE) Fund Ltd Series A, KYG3365C1096:USD performance
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTFB6S1doSEJwM2NIX2o1a0NzQkRweWQyQURLbDN1M0ZlbXFYVDZJNDVLeDV3Rzh4THJVd0laSVVMUVRyOW13RlBHRURTOWY5dFU4aE5jMFBZUXN1UzExYU1ZZkxObi1ZLS0tNjJQX2NwRG1aeHdQUGwwUndlMV91Q0E?oc=5
+- **2025-12-06** · [Unhedged] Chart of the Week: The yen-yield break-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXpuemxaNlJhSms3cDZlUWR2bTMwNGxuTjk0Q2FzZGlFNEtDUy05SEVhTlJYVUl2UGdZcEg0UnBLNjQtMUdoa3pXQzFwQ3NVb2N5ZkRLdkVVaGN3a2Rkd1NSM0Fra19Rc1VjeThZSXE5WlRIaVRsd0R1elFLNnlXc3JmLVI?oc=5
+- **2025-12-06** · [Lex] Should Europe fund Ukraine? It can’t easily afford not to
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjc1NUJoZEhXZHNRa3FSdVhNQVowajVrYURRR19Qc3JYSXpBTV9jVGRjT0lnVldBSjJ4YVpWSGZUUHRpcWVWQm9YNFdXYVVNdXJpcGxoUFdlcEVqUDl1WmNYMU0tbnJtdGR3Nnp2RDF5NXUyVkhGdWpwdlA0dXBzelp4Zmc?oc=5
+- **2025-12-06** · [Markets analysis] Hollywood fears job cuts as opposition to Netflix-Warner deal grows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWtqQXJxTHc1RVNBQTR4U3QzR005SUFMY0d5SnQ2VEkxb21hVHpMUDRrUW1Ha0dTam1ibVduSTJOcm5mNXFZUmduOW51b3B3X20tSFZTMTlYSG9hbWUtR0JBelBYcjBsUUlTSGNUa2pkT1YyQTVSdjhNN3RIdHpTdVFMNUs?oc=5
+- **2025-12-06** · [Unhedged, Markets analysis] Reframing fixed income: the old rules are no longer fixed
+  - https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0dwcnJtTUl6TnNtSU0tYlpCLUR5YnM1T1B2dzMyZUNXSFhUMDNzZE5heUM0VDJzM2daLTdxc3RPLWpPNC1UMVJ3LU1PVG50RkxBU2stZkFMOExSRTlkM3hCUmhLYmJ4bXFxbUxZTHZQUnJtNjhFNlQ4QjYwblhZZmsxdndKSFR6TjZHMXA0QWU2SVYzOVVBV3lHV3VOb054eGlWWVZPZWw?oc=5
+- **2025-12-05** · [Unhedged] Elon Musk’s SpaceX targets $800bn valuation in latest share sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkpoVWV0cm52NlM2WWI1SFpyWHpVQVIxcmZyZG8zZVNEU2FXdVNkOUxybUdBck45cWlkd3FONXBtbkNwbmlFdnlIekFaWF8xRGZhTVgzZ1B6SFJTOWZfa1hYOGx3MG1zWG5MaFlxR0RkdDBjc3gwSlNmWU5EcmwxSm9hQkc?oc=5
+- **2025-12-05** · [Unhedged] Chinese challenger to Nvidia surges 425% in market debut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzh3UnFNVXB1UjRUT1F1QzJTT0IxVHhMS1FPNlRQM1prU0QzX0JxMGlxNHByVEphU1hrbUI3aXhuS1pNT0s3Tmc3bGExUkJWeTl5cUJIYUZ6M2lLVU1TX2Y4TU1jQWtqMkI1X3RUZ3VtZ0lWVVhTQ0dFQ0ZnbUJtc1RlUy0?oc=5
+- **2025-12-05** · [Unhedged] Facial recognition technology used by UK police is biased, Home Office admits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3owN0R5bTdTLTVvOE0tSV9LclB0WkpESlR2SVh0SmZweVduSndBYU4tdDl2SGJ6bTVHNmdfcTd3Y1ktdGs2VDFBLWZQMks0UHJSdGdDTHV6Rkt0R0ctTl9YSm82ZktJQ3Uyb1RNNVBjNGhfdVdPenFNMjVITTk4YnhYanA?oc=5
+- **2025-12-05** · [Unhedged] Crypto treasury underwriter Clear Street plans to list in new year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTdCejJNMllRNVpuXzJZOFJjQzJzQ3BjTmxlSjIyS1RkS21hSjdyQi0zMTlHY1d6SEJPRWhiV2I4S1VVRkQxeGJUMUtzWkt3WTBjQTJHSGJyUlo3Z00zc3E3ZXhrTXpXSjNTQ1BwVno2cVliUGRUblc4a296TGZyNjVNbEE?oc=5
+- **2025-12-05** · [Lex] Netflix’s WBD deal swaps history for fantasy, with a dose of high drama
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWlZOVTN4Ql9VTjg2WFBfSThuN3NaNnBOU2daYXVYaWJ5QUtFaFVuR2FzZVNyekhWamk3bkFsRHRQckhudmEwcnd2SGN0eGtxY2d4N1J4dHZSekFsNDJUWUs3MDhpSTBmaGJHWEZFVUVvdDh0dV9ZeHR3OF9jY1VDRDExdHM?oc=5
+- **2025-12-05** · [Lex] Glencore’s copper pitch: buy in or buy me
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2tRbkVJbXUxV2plLWV5d0paSHczYXlXWVlXVmVDVldtVF9uaDB5TUdGWWNBU1VfZkpIRGEwOHhhVkstR2JiZlhKeVhYVnZCaVBkMEZiU3c3QU5NYmJfSmVRa3p6aF8tWkNRTVVpS2xoTUk4Y1hpbFRLeFlzQXF6Z2ZWN2c?oc=5
+- **2025-12-05** · [Lex] Boaz Weinstein’s tilt at UK investment trusts succeeds — though not on his terms
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVNFRlVmbDRFY1JyNktmaXdja2hPTEZoS2taOC1pV2xUOTdWcXM3RmN3RmJEM1ZRTnFRWFhWYkQzeUlLTF85VnZ5TWwyelJUWmhQTEtCY25MclFxdjdRTWpwak9aUHZNSWp4bVZ3dFV1bmloVkRFeDVHTGxHWUhTMTR6eFU?oc=5
+- **2025-12-05** · [Lex] Leaders and laggards in a strong year for FTSE 100 stocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONmUzc3NuejFSVS1XOHFvakZsYkNVLWF2UXdhZHFzMzdKTENjWHZ3YU42cW5ZdEwtdkw1bnllQS1DRzFEWXZJdktLaXpWeFRiMHFCLVdMbTMzZXcyWjlrY3RPWlVzSTh4M245LUNud29TdVJ5UWF2eC1NalZVa1FMejZsRS0?oc=5
+- **2025-12-05** · [Lex] How Netflix stole Warner Bros from David Ellison
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnF0dlZvSVlsNlR5OG9Rc2ZGTHF4YWYzTXIxQVNpYl9qQUpldFZudThyVHctWXg3ajVwUjVvVmxXclNrODkyT1RTZDVGLXlMM0pyY3NRMzU2OHV5d0hrd0MzSzVWZWNSbkRleGJWWmNZT0pFUnJDeHlpVVNXbnI4b0U5Um4?oc=5
+- **2025-12-05** · [Markets analysis] Will the EU’s bid to use frozen Russian assets hit the euro?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWpkcG0tTThYYnJMRTd3ZXZXTVJCb0dVX0hTamlpa3d4Z0o4Y0ZQZWlPQUE0Sl9mQlpGckVqN1ppUmtlU2RJc3hiVnVlT3EzakE5cVFuWWNIT3NHSkxHVy10Q3Q5ZmIwclJua180aGRpRHpFTDlBb1FqUm8zTlpLUWxQbWo?oc=5
+- **2025-12-04** · [Unhedged] The US slowdown, and how it ends
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDl6dEVEOVp3dml1T0R4Nk1ZZ0UtcUUtQkFYSEpUTzQyU0ozYnZmMXJnbXJ1Qi1EdEYwZ0ZtRE1sRjRxNnFCRTBzTDFrX0xOT0pCYkFkTXBEQ3hoMkI1Q0pIeGkzbXgwRm1JT0NYcUZYZnpaSFB6QnZQakFxQ1UyeUdVb2c?oc=5
+- **2025-12-04** · [Unhedged] There’s a black hole where central banks’ theory of inflation should be
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNWdqZzFvZUdpdXYtWVRmd3hFUWt5N0tCeEdHTU16cnZCcDg2cjdpZnUtSGtEVzFLNFIzUkYtTnJJTmxvM3Q5TEc2Q1BQTmNYVWVfSUN3S1dSYXBCbWhFaDVjdjVlTW9nRWZEQVhJTlRHaEJWQXljcnZRRmhaNG9yTi1oWk0?oc=5
+- **2025-12-04** · [Unhedged] MSCI launches index combining public and private equities
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWdTcmhTWWlIY2gyRHl2V1R4blV4Nm82NDdOMEY4Wi1iZi14WjdVM0xRYmExV29rS1NJLUw1TlBEN0tWX1kzWk9NaG0xbE9aVVJleldNVHdDNFhZbERJRDRFamduVXFZSDdCYkt6U3BQZVhDNjAwNDBicjljZlpmY1pPbF8?oc=5
+- **2025-12-04** · [Unhedged] OpenAI’s ‘code red’ moment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDA3YzhNbG9CeE1HVHNXVWNnQXRnb2tIR3JsZWtCYzVVajZDMDI2SmdRYXE4emw3WnhXS1B0Q3FvTm53QXg3dVQ2WkNPbnlkc0JoR3Y4RzMxVmVwcFBGeUZqVXl3V2VNRGxfN0VVVE45bnZ0elZuSEV6SFZVdlJGVm05MDg?oc=5
+- **2025-12-04** · [Unhedged] The US may be running the wrong AI race
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVV6SXZ1aEFsV096MlltZTJlVUNNZ0xfcWtmZ0dfenJXeWZsMXpzZmFjSGJhcXF2MkVJTFBpNFI2UUYzdlB5VkhmVkFZNVNyWExQaE40TExiLVlhbTNFTnQ3WnhaVXBoNGZ1QTRydGhqWmxJYkRsYmhZTVc0ekVZUzJuNS0?oc=5
+- **2025-12-04** · [Unhedged] The hi-fi that costs as much as a house
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSV85WkRXejVnNU00M0NqbGhtQlI3cEdZTVBzZ0JQUU11eWFpV2ZSTHhFeEM5eVNpMi05Z1hyRnduNnl2OU1uQ19TZHJiUlNIZUUyMjZqMGpwTzFpRWw4d3FvS2dWSGhqSFBISEo5WE1GTWdzVVNhR1JpOG1yWHRfUmd2OEw?oc=5
+- **2025-12-04** · [Unhedged] The AI Shift: Why are there still so many radiologists?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQS05Kb0RvZXBhMG5MWjl2czk3cDJ1MjI2V3dJYWxpNi1hQmgxM2FELXpKY2FLVTJWZWo4T1g3Ujc1U3QzYW9IUC1NLUNCYmU5dU9zV0ZLa1NVY2FScDg0MnFNemtGRTUxb29zZUs3LWhZUVRKUHpxRzZaOFd3WUtWVzlWS1o?oc=5
+- **2025-12-04** · [Lex] Why French leveraged buyouts are caving in like camembert
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTgtWXlSYTFsNGpfeTlRN1g5RVF3MmlqQm1scl9SM0ZHb0xnQ3FyTkkyOTB5a05ZbXJhQzVBTmEtZE9yTnE4STJibWRHQ3hZc1BHR0Ewa0x5Nm53Rk9BTnh1TzB1OGJGZ3pZX2VNQ3dlMDYwb2FGRXJfRXFfMFFSMmMwWmo?oc=5
+- **2025-12-04** · [Lex] Private equity’s hot ‘continuation’ trade leaves some feeling singed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnVxR1BUd0VocUkxVzB0eDljdEp0bTh5eDVSQ0JiZ2N0UTcxemczbW9QanhvVkJyZTdGMUZiVDdDSzBjQV8wai1EcDNEVmJsMzZlZmp1LURZZ0I3ODF2R2VlYUNKNGN1LXNFbFY5ZjlrN1U3R3lXOVhBV3VrS1kyd0E5NTk?oc=5
+- **2025-12-04** · [Lex] New Rio Tinto chief to cut costs and sell assets in push to boost profits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnA1SV9zNGVlZ3NzcllQd05LOVo2YnVKTHVXWm1UWkNqWmFvazE2U0VETnVFcnV0MWtERzdZN0dGUmlmYjJJRTRUQnpXTlktTlNyTmlzWElxNDRxdms0bnNDSDJyaVhLZVh3OU51X3dZNE9jby1RTTNZRHp2YVltTV9FSHA?oc=5
+- **2025-12-04** · [Lex] Trustpilot shares plummet after short seller alleges ‘mafia-style’ practices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOd21mR1JRWnUwZmV1UjFFeTdEUWprcTVpQzdqclZObXJpMDdOczNpQUU3UldfT1pzSW1iVzlqcEI0TFdNME13a29oMDZjamVrbXhGLVZMLUQyVWx6ODlNcFFaSW9wQzE1S2N4cnZjZ0hHczR2Rlp3U0xsVUV0cHhKbDVFVnY?oc=5
+- **2025-12-04** · [Lex] Zipcar’s UK departure leaves users stranded
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMktQNGRrRGlBeHN6NGdNZkM5eXhybHV2TENIRmR2LVJWbXk0ZXQxTFl5Mk5tSUZDZkVEa0Q2aHBmRDFMNjJXZGdCQWNBRHJVLW1IejcwQmsyYVdwa0wxUk1ZTlhJMnNmUlhFR1ZCVFNNY2FHQ2VIOUNZY0RCUExzbl9BSzA?oc=5
+- **2025-12-04** · [Markets analysis] Ostin Technology Group Co., Ltd, OST:NAQ summary
+  - https://news.google.com/rss/articles/CBMickFVX3lxTE5fRHVKMWFVRmluX2pMajhtUWNVRThhTGl3dVBRQlU4V0tXTGRpR3BDQjlBbWxFanN6MW5MN3htQmx2dWVEX0RIbHlqbGYycVdtVFc3TlBxMlJJNWc4MFBqYTB1QVpyR281eG13Qng4M3hZZw?oc=5
+- **2025-12-04** · [Markets analysis] Wall Street raises alarm about Donald Trump’s frontrunner to lead Federal Reserve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTk5NaC0zNW5TMF9keHhYemVDVFQzMHRkWHBQdnNCOWRVaVBPMjA0REhlUTZwUkFRQjRXNlRxOXRWYTlMTU5sX0FqMmM5TUVpX3ljT0VVRGp3enFtdkhSWFZzLTJfckxDZ2hIdmJRQjNFYTFuQ2piZTFwT3FQN3psWUpiQ0s?oc=5
+- **2025-12-04** · [Markets analysis] AQR UCITS Funds - AQR Managed Futures UCITS Fund IAS1 SEK, LU3076186215:SEK performance
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTE83ZVhUMWZBOHBtZ0pGNkJjYnhjcHljcFFLVlJxZUtrSjRRNlJPb0hTWklaWnJJdXNDblhLaVlwMDRmLTBWM3gyQW1vTVZoTG1CNExISFRKck5Fak02RURUei1wSkp2cGxrR21hVVNqdFIwMVNGU1dJUGtONDE3SDQ?oc=5
+- **2025-12-03** · [Unhedged] Stocks’ irrational rate-cut rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQemlVWUJ6NHF4NDJDdVNtanprVVZUREoxb3FLUzJJNzZlS29MYVNMamZpdmY0OGlvSHRQRDNCNzZKa3dEOWFQMDlFcHlydlQ3REhUdWJGSmFDc0dXMFNoZFZBUmZCWFFGOHFfalhITlRxVTdIOE92M3IzTzFEYXk5ZVByeEo?oc=5
+- **2025-12-03** · [Unhedged] Leverage is crypto trading’s faultline
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybkIyTDMtektrWkF0U3VXTVllcVd6NnZTRExRaDRXS19rZWY5Y0VLa2dnZUM4VGtHNFBFZmNDUTVSZHA3dWtHVlEwRE0zd2JoNDNRdUJwZ0F0ZlVUcUIzYWpnVWNRRFBFNnlaOVMwSXo?oc=5
+- **2025-12-03** · [Unhedged] Bond investors warned US Treasury over picking Kevin Hassett as Fed chair
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaW5DdjhRanptckctVURQTlI0b09qa1VOVHdZUGdnX3poQ2FxaFJuVGN3WWZseF9ZX0NvaWFPZk5OTGtjZ29JU0thLVFhYWxuNlpUT1ljX1pKSGNTRDhRMlpoeW9WWmRFMUF6VUlmb0JvTHJSQ2k1SDR1WXZ5eDlEODhycEQ?oc=5
+- **2025-12-03** · [Lex] Zara owner Inditex is the anti-fashion fashion house
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOblhrNVZqVlRFcExhMzViOTJxN0pCcWw4WVlDQTl2TVJsNUJkN2pEdUV1bjRyaTRVREdaX05WV2RLMm5aSTVEdFV3a2cyRnNmVnI1VHpnbXlPT2VlUVJKTERtY1RFa1JiWGliMlFsSVBTUW1OWVVKRU9vZXRxU2tXcHBQVm0?oc=5
+- **2025-12-03** · [Lex] Bending Spoons raids the digital graveyard for paranormal returns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTlhWdUV3RzFIeG9ndEc2SFFRaE9ERmwxRjRaOFlVNS1QdlpLa1Vkc1drMjhDNFNTa2JEeVRGc1FFMC1SbE9SQXVYS18zUVdxNXh2UUJDbG83Z1U1MEI4VEtsczZCTm1JdjhudU5lT3JpcVdGZjdIeFdqcVZ1bFlRc1JMSU8?oc=5
+- **2025-12-03** · [Lex] Anthropic’s IPO pitch: helpful, honest, harmless and hulking
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVdhVUJZVUZsSG5va2lDaUkwN0hvdUI5TVJqb3V0RTIxUXhmQmJpQ3pwXzBLaERRaTZyak04LTNRUW90SEJCaWc1ZDh5YzdNVVhPeGI4RGNXUVQwX3c1VXl3ZWNwSmxOQ1J5eFVPOXVwSWV4TkVweVc1Z0ZPcUFqZDZYRHM?oc=5
+- **2025-12-03** · [Lex] How Brendan Nelson became HSBC’s stop-gap chair
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUxid284SmhabHpXS3BZNWRaQUhrQU1XbDBKWk5BSUt0REpDQWZ2dFU5VnhrLTFyNldxSzRzRGVTeHVsZWxZRVVzdVVzU09uWFl5emdqRDA0SG9Pdk8wdXVab2RKeW40WXJtQWpxUFI4enFlTGFtamZtY0FyY1RpeWZlUks?oc=5
+- **2025-12-03** · [Lex] Qatar to cut Sainsbury’s stake as long stint as top shareholder ends
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYk8tLV91MlAwNkN6MWxyMFpxNEY4S3lEMzh1bkF0MkZPRkd0TUNha2FQamRkZXZuVDN0eGdQb29URGJPYU9vY2FyVy1GU185NWVyV2NUNkxuVzN6NnBkeGpQWXdxRXllSXotVjJLMFhoTnZCcU1kdkpZSDFqa1B2ZFhrYmk?oc=5
+- **2025-12-03** · [Lex, Markets analysis] The UK stock market concentration problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdjdkFlMzlaZVduOElNSzBoU0VndnZncmxXamNvNXFnYmh3SG5hb05FVXV5OTV0QjktN0lfYVh6bFhfbXV1UEdHWUFkb1pXdTZWUEFqV1dWcFRJZDFyTUhEdnNaVlJVb1lnbm0wb3Q5WTJMTTdSUW5GMnZnMWpZWE95YmI?oc=5
+- **2025-12-03** · [The Long View] Why the vaporised Austrian century bond was actually a great bet
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBBMDV2NnJYNXRYN1FoS3NRa0Y2Z3Iyam1kLTBibmp2S1FKbTM3SkZJSGpIQ3FMWDJsYzdSSU5yd1lrUDJkMXl5YXZWMXRDekRMNnJHdTEyTjl4cDVicVd0VDhNVzdCV3RVUGFxaThXZ04?oc=5
+- **2025-12-03** · [Markets analysis] Activist campaigns more likely to target female CEOs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPanhESjFjMnVKelRscHBudnU4Qmd5UzZPakhaMjR6YTVra1hwVC1wb0NtUUwzNnBmR29MUGhZeHVUM3MyaU1SekRnY3hITUpvVmw3RGhJVUZUMTNYWV95NlZHTXFrOXV0TVZITFBrR0E5U1lSaVkwb3BEeVV0ekFCSWFlUTQ?oc=5
+- **2025-12-02** · [Lex] Event calendar
+  - https://news.google.com/rss/articles/CBMidkFVX3lxTE1OdVdITVd2bkUyVHhjNnl1TWZTSjlLek1KRXZlMC1zejlnMkhHZ1NyVDlqNkZ6anE5NHNyQS1IeVpaTmlzOTJlYVVQaTBHNzhyUjFrOFl4YzVMYTNTaVlXa3dUMGRObjRoSkFiYzFEVWpFbm15Z1E?oc=5
+- **2025-12-02** · [Unhedged] More on crypto winter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNekVCTEREVGZTZmVPYjNOTUtUdlJhVldnc1lfSlVhbVB0R2xCNjlBOHFSQjhCWXVZck11bjlDajZFc0pCVFFJT0ZjQ2RTTDFPSmx4NUZNaEt0anVWdC1pelVyY3MtOVVEdld6VndjTmpySUFZNUp1SnhIY0hKSFZodXFTeWY?oc=5
+- **2025-12-02** · [Unhedged] Donald Trump says he will nominate Federal Reserve chair in ‘early’ 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXZ2Ny05TXNwaXZNSzVkMEVpeXIzN2IwM0hvanJWV3N2TTVOOGN2X0Q0LV94UDdxbXNKVktRRjlsTGJmb2xtOWtXek54UGViSkFsWFl6ejAyV0F1a1NGNkwxZVBnTW5TMjdRVHI2bkJQNVpCOHYxZzZQUTd5Vy1YVUhiQ0Q?oc=5
+- **2025-12-02** · [Unhedged, Lex] Bitcoin faithful prepare for a bitter winter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPem81czFQMlBuS0IxRkdRdmZ3NTh6S29TOWpYWXNneEllQzFqalY2bW5XYWZUa3pud3ZpcmZxdW50SC1xc1IzT08wdVRXeTJ2cTdrSDM5MEh2bHYxd1BRa3hjeGR4Uk9xYVpxTi1yX1NoVEd5Zlhxelo2eUdkZlQ2Z2o1VEc?oc=5
+- **2025-12-02** · [Lex] Just Eat Takeaway chief to step down weeks after Prosus deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN0pXc0FxUkNFbkFtYkFEUU5OenRhV0kwajVlZm4tSDNja2Rib0RhSTFQbzMyM1V5aVBwejEzTExEWXVfY3RXS1V0XzJWLVpJV1lNLTd3OWhOUVJ0Zlo3UXYyVEdWU0FKSEhFM1JNNnNhYjc4cHd4Y2o3anhWVUpVNE1RWXo?oc=5
+- **2025-12-02** · [Lex] Five great sipping drinks to savour
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE90MFBvSVExOVNyUEU1b3J5cHNZUjBtTlF5OVBNbjRVaEFzUmladDhUWkp0VW9fRTZ4bWlmdlBBaWZuM1hXNHFYdFNmM3lfVG9ESTM4VVk3cmpKdlhSUy1EQVAwNThjYnMxaGhJbEkyMk0?oc=5
+- **2025-12-02** · [Lex] Bulgaria in budget turmoil as it prepares to adopt the euro
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFZzSGt1WE5laUxORVQ0cG9aWk9fOTdjTl9OS2JzSVJXQi1uM1NNYWpveF9UaDRfdmE5T2cxQ0lKMG1hLTVyZGhBbjdvUWVJX09mRlFyTGlWYXFxMmppakhZaXNiTzUyTkFfbERuYm0xY3F6SUp4UlZwWF96X3NRT1NDRGY?oc=5
+- **2025-12-02** · [Markets analysis] The hunt for copper to wire the AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOamxsNk5EcnNlc3g2VmtLQjZENVlMQTI4WEFNUnpWaE9MZHRNT1B1ZUw3dXJJRXNKem9wX3p4T2RueVRPZVJReWduTGFDWE5UcXI5X1NyZm5kZmpuWUZUTWlxZEJRaGxGUlRNWjAyaThMaGNpRWgtS1pjZUpJWDBsOHhWZEU?oc=5
+- **2025-12-02** · [Markets analysis] Letter: Analysis that Brexit was a disaster fails the smell test
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9TSG1oRS1uaXE0WlREZnhTcVg1Q2piTllGeFFTR1RmMG95N3J3S29pMVNfWXhCeUNodF9hYkV3ZUVBRG5QRk9PRVpDZDM3QVltSGJ4OVI3QXNKQ1ZNOEtZZTJjcjE3THh4dm1ZdERvQ2o?oc=5
+- **2025-12-02** · [Markets analysis] The EU single market’s elephant in the room
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWRlMElLMVhUZjJjTlVjbU1Ed2c5TE5JRlp2WmdER2pobjBRZ05ZUW0wdmJRcDNveHMzZkpIQ1QzWUNhQmVzTV9ZcUVWdlF4Qmp0eDkxNlRMMTJ5bFZzT1dzN3ZoeUZTQkk0cDJ0cndCRk5Cd0xxVVdmRlo1TktCZjJKNmo?oc=5
+- **2025-12-02** · [Lex] Techwave, kl n, DK0064421028:DKK summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE1LRGQ1S3NjYk1tMWg4QlJ1WlBqT1Vwd2ZfbjZVYThid0hHT2xxZjd2SWZIUzVaTXI0TFZWLWQwcFdXdWtxVmF4QUdBNDJ1YXNuaXRFZGdtS1RJd3JXbl95MHVTVk5TbmVnVF9ib1Jpc1ZuSTBDektGOXRn?oc=5
+- **2025-12-02** · [Markets analysis] First Trust Vest S&P 500® Dividend Aristocrats Target Income UCITS B ETF USD Distributing, KNG:LSE:GBX summary
+  - https://news.google.com/rss/articles/CBMickFVX3lxTE43cUxGeUFNZWVVSFZGOW01UE5kRVdfbHNTVzA3T0dVUlZObjVCdHpLdVNDbXNQemJOOEU5bzV2amQwclBYeEJQUHczZUVzMGxXUEw0NE54RjNpbHZ3R29oa3BxSnNrbm80RFFpRUw2Nk5adw?oc=5
+- **2025-12-01** · [Unhedged, The Long View] New finance needs a new kind of Treasury note
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1wUHAwR1p3X0JsSXRGdDJRdDNEeEpYTi1kdGtoNHc3WlVnMVQyQW5VRko2NlBfVzBxUk9Xckp1YlZTS1g1SHBHa3hHdHRUSUZaU0pQNFd1cnZDc3Q4NTNMYlI2XzZYek84S2FiVHJDVFY?oc=5
+- **2025-12-01** · [Unhedged] The State of AI: when will we reach economic singularity?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOamhfSEJ3dWJFOWZWUm8xNTJmY3RoRlRIcXVLVElVWlJQcnZkUUNNcnM4Z2hJYmVha3k5SzNIOFc4SWo2dHc2ekF5NVh5UzBKVE1PQXdsbVdXSEQ1aThOdG5lb2QxeDRWNS02WUpHdDVEWFU2N1VhQ3JPaDc2OTdaX3NOZ3o?oc=5
+- **2025-12-01** · [Lex] UK Budget’s energy price cut won’t stop bills from rising
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMElDMm9MV2M1d3VmQVQ1V1RVWThpOTVUZjE3WnVTbDR2YUNQblFnOUhzMEIwNXk4djJERGxyN1ZZNlZTQ0pVbnVHMWFxWkt0S3BtdGNsM09ad0NVQzQyVmZJMDd2b1ZHYmZyc09SVDV6b0otLUR0WDJGem5SYWphYjdOb1E?oc=5
+- **2025-12-01** · [Lex] Barrick looks for gold in North American asset IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRDFIcmV4ZF9vZGVjS3hTNmoxZlVYazJoQ0N1aExaV1A5TEpfM1BLakhFWXM2T0JWeThJaUhBS2tjQnFIWDZaUkxEakJiblBGVGEwRnppUmRHMnpJWThnclhfXzhwdjN2MjlmZ2s2WXdfVHJSNEE1QXhtSFR2QVg1ajdXLUM?oc=5
+- **2025-12-01** · [Lex] Europe should repeal the directive that’s killing growth
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA1b0JEME1aNzMxYkJDVWVldEhaYmFZb0VoX1pjM1RLa3pldFVkQXBPSTBpRVJSQzNZQlRJN3pWSUhVQ3lQNmhxcjMyT2xVdHBUZkJydUxSS1JzdkFNU2t1b3ZzRW9SSTNIdE83RnNnNjE?oc=5
+- **2025-12-01** · [Lex, Markets analysis] ECB refuses to provide backstop for €140bn Ukraine loan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcm0yalA0STBYMTFwWmJnOUswUVZWdWZCVlhQaFBTSk5pWXR3UHlVR19TVzhZWXlJMXRXZ0NzbkZlZ1dDTXczNkJMUFJKT3pkeklDZFpkSFk4QWVmMTNJdG5JQWMxZFp1eFFseHg1SjRnYVlzeHRCWjJ2dFRmZENxQzZLMHI?oc=5
+- **2025-12-01** · [Lex] European Business School Rankings 2025
+  - https://news.google.com/rss/articles/CBMiggFBVV95cUxNY1UtaWpxWV9IaXN2dVFraTVvR3ZqR0doZVVuWlIwRVQ0OFY4QmhtcGt4ZVg0dmRTTXFQQ3lDakZnQ01yMWtlZG9pTlgwblZyeWNiUk5SRFNJbzhRYXJ3UC1sLW8yX1RvMnVkd2hrU3JEdF8tUzJSaVM4ckVLU25FRW9n?oc=5
+- **2025-12-01** · [Lex] Brussels rejects Dutch request to dump manure on fields
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUdwckp6ZEJiaHI4WVNBVWc2dGN5Yk1DN1ZOZExGeUQ4X25MbElLbFJDUzlDU0V4OU9NYXRUQklyZGdOSE9qOWZMd0Q1Q3NvVHU3dUQzbWNlaUpfUWtFbWRlOWlyQjJOdlVZM3JKV05yMmxGMFZiclJkYnNnUENqamtsVzc?oc=5
+
+## 2025-11 (244)
+
+- **2025-11-30** · [Unhedged, Lex] The essence of economics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQclRsQnRuZTI4M2F4Um1MSmhtWEg2MzFJME1NTWxTQTZCczl0Z1JwQTdsd1lualBtZ09xTlVVUldHX3ktazhILVVTU0lFbFNLOHVFaEFaRVRVZUpPYU40RWlIOHlDamxKX0VaV0FhMlhlU1pKSG51TDNObHBsODVLYmNFMmU?oc=5
+- **2025-11-30** · [Unhedged] ‘A full-blown crisis’: Americans brace for a surge in healthcare costs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTngzZUdHNnBENGRyVWFScGNUT083alpKR2Eyamp5akUwaHVEcERPN0pJdlpad3lSNjJxSnBjcDNkdFRGdzlleHI1UDdjNXBOVlRPdFJfWjViQVRsNk15MGpxblRCRXNEa3JpRjByRkNrM0t1OVNDUFNEYkthdzhWSGVFVjc?oc=5
+- **2025-11-30** · [Markets analysis] The AI skills employers want — and what business schools teach
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZDVDV01aY3AzZlBhblI1MmNnNWk5VDhrWUVqVEgzNU51TG15dm5DU2M2Qzd1YmozNGdhTDZneWpBZElfb3RWNTVpU3dYOXZiRXI4aGlBbTBRVjVUaXVFVi1aejhVc3ZCTGhvOWxHYjk?oc=5
+- **2025-11-30** · [Markets analysis] Who killed Europe’s single market dream?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkNMb2U3d051dFNzSjRhVmdvYXFkODhRNV9qbFlBdFVpVkIxX201VnRjTUdJX2RaVTRxZkhNQTNKdnFIX2paeGh2Z2llc19OcWFENTVOMThjZ3dYWnlNQjY4VWg4WGRzTHFkZEVVY1J5WV83Q0szTEVLUWpnNURkQnE2XzE?oc=5
+- **2025-11-30** · [Markets analysis] HSBC signs deal to use Mistral’s AI tools
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjdEVjNGYURHRFRGN0ZNcGk3eldvZndFWldhSWFJYk9kZEVNaHV5c0haM3g0Yll3TjBNLWw1RnRLNWhmUUpoRFlHT3J6aC03VTgwWHFSN18yUmF2YUVhNEVqbGZJZVVmUGFGREYxNXFkMjYwVm1ybEYxbzBXbjlTLXhGODA?oc=5
+- **2025-11-30** · [Markets analysis] The best time to buy quality stocks is now
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSnRYSHlrRDBCQmtpeUpVeHRmWFZ2RHkzbl9iNG1NZWZkdE41U296Q0ZrTEFQdkREeTFudTNiNG9lUlI1NHNDZzJrM2NYX2dRREJHZ0hmS1NTQWpQLWVYc2pxS0NuRzRYaGVnZDFjZGNHYzl5alp3clJlSzcwd3otdy00QkU?oc=5
+- **2025-11-29** · [Unhedged, Lex] Morgan Stanley and Goldman dominate Hong Kong equity deals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQemN2VExsU2FGMDItOHBkcEhLQ0phRkJITmgwa3VCSEVteWlwaGRnSTFFeDhTdlA5SUN6bng4QTI5V1BTeFVpM0ttYVg0dDUxeUlLTHFLb0hPck5SdGJacGtnLXZMNFZ0QXlCaDJSWjBUWVdwcjdnS0VYTVdZOXE3SVp2dnI?oc=5
+- **2025-11-29** · [Unhedged] OpenAI’s lead under pressure as rivals start to close the gap
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVdQMFMxQXV1WFVxeTVOTnh5NHJiZzd5MnQ3UndvQW50cU5xVXZqU3dnc3JfOHlCMU8tM1FrR2tva3pmbVFoeGl3UHJETEMxVGY4YzNIbGdGRXNXWHcyTklVelhyYnZnYURCSjJYR3dCUER3eFpIVlRLa0NLY3BISC1DMS0?oc=5
+- **2025-11-29** · [Unhedged] Logitech CEO: ‘The mouse built this house’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnltNThOYlBaMjhubUM2YUFOdkhfeG05XzhFZnFHemtKWThPRjhhVkwxRHJ0T1lqai1uNTVpc2RlakJUT0RyaTczODNtZy05WXoxSlV6c1lUNlBPcUUwbWlEd2hCZXZGLS0xMU9DXzRNS1BNOVlocVNYUlFFUGtPZWMtam8?oc=5
+- **2025-11-28** · [Markets analysis] HUMAN MADE Inc, 456A:TYO profile
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE1VVHVVMS1kckJQZGN2TTg4LXl2QVFVTE9sM05kS2tTaWpXWnpBQmxIbllJcEZPRHd6bnhDWDhPdTVCUG1XaF95LUZELVJxaTlmcjBHdjdfTjJ2Y2FNaGVRSDR6Wk1KeUgzbW9ZeGpOUThfZkk?oc=5
+- **2025-11-28** · [Unhedged] Seven ‘shoppable’ design exhibitions for surprising seasonal gifts
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5PV0Jab1FZUC1IVWVQMnBvWWRjUjZ6YUpKcE1yU3VXMTF0UldKTldSZXJadjVkb1pIZU10QldpVXJJQS1PTHJGTElZalVVdTNGcWtrSHNURUZ4aW5VS2lPbHhrXzFVdVZqZnlRRTZJckk?oc=5
+- **2025-11-28** · [Unhedged, The Long View] Almost total bondholder wipeout
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5sMGJITmw3akRKTzQ4eTlYSGFBdWdIX2g3Z255Ry13VFVwaTFYTnU5ZzVoNXZnbnhLT25FOWtqekp5ZmxFaEVFNWtFcWZsc0lLUFBJR3E3ODlDSWM2bjVGalI2V2JYNE5sVDdlZDVRbVM?oc=5
+- **2025-11-28** · [Lex] Hybrid-car believers should bet on platinum’s renaissance
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTFKSERjRlBQanVScFFOd1JVTFVjU2xhN2czeVh5eHpzY1NaOHJDZFQtZC02dENJUkNJSTc3MEJvMVIzQTdQM0YzX2hRZFFaOGJhdE5CUnVwcm5NU2doazZYM3ZzRVdGOEwxa0NnWllyNFRQaHBZV2hxTUVvUHBVLWdxS1c?oc=5
+- **2025-11-28** · [Lex] EasyJet’s taste for luxury flies the flag for the package holiday revival
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzBVNEJPLTI2eDFKZUd1TFZyVVJIQlJtQ016TUZtdXpIVDZWNkpGRTlnYTJ4Vml3N2dsMl9CTlExcU1FSV9fdkUtN1RsekxfSlVCanlLTFB6d1lQYTgxbjgtSk9yLW5DSm5MdUNUQml4dFc2OHBzYTVnQXQ3T2djeWZONlg?oc=5
+- **2025-11-28** · [Lex] It’s not just gamblers taking a punt on prediction markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONks5SmNQb19FOTl2M0I4eHB2Nm5INTJGTGI5UnF5SmlsSjNpbVU3bl9GT2ttYk1la1dGdGlHRHo0anc1eTdBSXhlNzFaekxwV202bXJncG1sMzNZZXhIZk5TOW1sNDFNQzVuLUhZcmRQcjRVejJsMHAydVlmdUxlUjRyMXo?oc=5
+- **2025-11-28** · [The Long View] This Budget’s tax decisions will haunt the government
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9ibzM1ZFBvX0xPblZoVGhsSmlrMmFMOThBYjBmLURoSnZocGd3d29EYVcwQjlxQ3oxYUZHNXVpZXR2Y3JUcjVGMjBPWjgwOFQ4dzVXMWJ0dHoySjh0ZnNVU2JqeFZCQVpoM25mQUFyS1o?oc=5
+- **2025-11-28** · [Markets analysis] CME trading outage disrupts global markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUc3cjVkdmZNLTBfZzZWZDJDTHc4OFJiZkhOdVpPWFN3NHdsRm0yM1RibEFtVHJXUDFMcjU0bDdXaV95X2JsQ3BfTThqeUc4NUlSaVppdXhfazByYWVxRmNkb3ZwWFZMdHBReTFWc29LbE1BV3pjSGFzQWNXSnNyT3ZseW4?oc=5
+- **2025-11-28** · [Lex] Can green hydrogen play a role in the renewable energy mix?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0EzV25ReEV2bi1Ia2toUjRyaVliekl2TzE2OTdlM2ZVQWJ2czBUc1p4NHU4V1ZJUG83Zmw1RVpfeWhJcUE2Xy04ZXcwOXlNT2VuT05wOXBiMVNfY0xJRHhzUS1oOThSQWIwVVduZTZHNE1UQ1JIZjNrVy1wWlNib2pPTDE?oc=5
+- **2025-11-27** · [Lex] Speakers at CFO Summit 2026 – A FT Live Event
+  - https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYVHlJZ25lSW5OUkFVMkVrVHJrZlFYbFR2aDFhbFA3Zlhsbmlwbmk3RUlRQzRWVXIwSlZfN3pMc3ZNM0JQTkkzRkZqaDBzekVsUENYUEt0WkNGbzNJREFTXw?oc=5
+- **2025-11-27** · [Unhedged] The Clock of the Long Now is a 10,000-year-long timepiece backed by Jeff Bezos
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbE5ZcVZhY1ZSdGx2NUtJdmJFWXo5akNITEVISGY0VWxRRTY1S245UERoeGtzb2lHUU1KVkJrYVV6TTBCTlFWSUtGMEV3alhvTG1oWFNPcWttVnlCZEhDcHo3ejlvTURFdjIyMEUxd0tZM29qS0NoT0tKbndRSVRLazZ6d0s?oc=5
+- **2025-11-27** · [Lex] Steroid Olympics backers try for a superhuman feat of finance
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUVGQVRuZjVEb09mQjdYMTRObGRFZVpNVmZlUDBNTzlNMmUtbUVOTFk4V1hhejM5WTN2cTlfZ3BKY0EtTml5RE0tQWVrOTFjaUo5UmZ1MEtTb1VwX1JVTnh2TFl1Qll2Q2hoQ2lGVHpucE9oQTFIWDNzQVF1d19zRktpSjQ?oc=5
+- **2025-11-27** · [Lex] Why I couldn’t help torching my equity funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmVKRm1qcGhSc1kySnRXOWpRUkFpWVhMWDVjUUk3V1loemxRenFlMWQzcm16dERGbVo3YVhMNnA3dDRKdTdsTEhZS1l1YVRzaktKc3BYUF9aUjNqZGNqSTNzbm5rRnJtaVVjQTFoSTJZLWZac2hXM01OdXNsS19kejltVTM?oc=5
+- **2025-11-27** · [Lex] Getty warns over UK operations if Shutterstock deal is blocked
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnFEcU1nVHBhWDIxWjM5THVYZUl2aElUUlZiLXQyY0RVQVlZTTd2YUo5WnN4RXk4U1ZGempjU0Fvd2Y0Y1dKay0wU1plZUo0dkZyR0F6VjMwTGpJc3BYTHlQTHlTOUF4ZXJ2NkV5V3hQRmlaOFZVU281bi1MUDFwNmJQb0I?oc=5
+- **2025-11-27** · [Lex] Bubble talk has not damped Silicon Valley AI rush
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTloVDNMaXd0c0dpUFVjcFZSaUtCRWo1aFhoQzVBM1luZGVTWmM0cnFjc2NOUUdZV3d1UDlpUjdPdDcyeWcxZEt0ajVubWt1U0FiSWwyZjlIUi01VEZMeUhQU2lLM1dYUHRqOEFUUnBPazBlcjFPR09hQWZpWlU2SU94QUw?oc=5
+- **2025-11-27** · [Markets analysis] The housing crisis is pushing Gen Z into crypto and economic nihilism
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTEzWjNqZy1pMW1FVzZ0aE1Tb01HWGZUby1tVDd3N1dQYmxWR1Uxb3RsR0ZGbVZWVjBhU1FWTG1fdjY1YWx4c3hEVzdHZlE3aUZidGcycFBfRE1FeldhSWR5NHFVQm85Tm90T01mOWlzVXppRVdLdWk2Z3JtYTl5Y1VfSVU?oc=5
+- **2025-11-27** · [Markets analysis] Brazil offers lesson in winning the ‘Taco’ trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWs4RkxNRWJyX2U1TFYxYTdmOXZiR216Vlo5N2tWNmlSTmNTUF9yeC13WGVRbjRTUnRwdHhPRmNScS1SSm9YeHJkVFZBV3U5YWVnanVpTW9Zb1NldXRNQ24zdXB3dGlvQ2FOSWl4MlBZM3lSekpJYnpZNV90TVhKSElnb04?oc=5
+- **2025-11-27** · [Markets analysis] The Budget’s unusual ‘winners’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHhxS2xFWGVyeEVEZGkyT3duYzFGN25OeDBrNzhwMkhmRUtBeVE0UXFQblg1T09iVmZ1T0tiOGRES0JFOUdGYnJmejgyQk9vQTRQajluTklpR0JFLUdEelc0ZGV2X0RHY0tyU3pFT3dhTm1nWVJRQUs0a3ZlaE8xa2IzRno?oc=5
+- **2025-11-27** · [Markets analysis] OpenAI partners amass $100bn debt pile to fund its ambitions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlVPV291UHVKcExpa0VacW5xd2JyRkRkS1VNQVZqcXFvem5oQWptc2JzTXVfbWN5ZUFkWkFKajBISmROVk1MQ3RfcGJvaHFBQ0Vic3Q3b0c4eHZPWGFlZExfM05ZR1oyMm9FcWFMZ0xKMmNQRzlyaGxtNDVCYUhDeFNmV2U?oc=5
+- **2025-11-27** · [Markets analysis] James Lamont to leave FT after 25 years
+  - https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KekhrakpnU3BhbnB5QnJNcXFDMWhCMzZ5VzJtM084bmxYRGxxWUtNOFNHWGQwQ05HUWVLbFB4SFlWaW9wU2lKbWQ2X0xWTWJRUzFJVktteEo1eDRjNnc?oc=5
+- **2025-11-26** · [Unhedged] ‘Infinite money glitch’; meet arithmetic
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5xWExOWlJFLTVjUWtDM29TSXRsRFdsTDdqY25uV3MwR2JWTWpKX2o0XzJxeE1jZk0wd25oTGNaa0xRSl9YbmxuOHVMUElIOHA1dElTUHU0SWdiWmU0b3pHNzdtZm5hZjN2RVM4VXpZU20?oc=5
+- **2025-11-26** · [Lex] Pets at Home chews through investors’ goodwill
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYS1DLUR3SklqRklZVzJCckgybnFYcUl5UVI5cU1McVdCVFZTQlJJUWlJRzJvQ2lwUVY5SnR2RGJpTjBfUlUyNW9KVEpyaFdnNEo4a1JYNFRSQ0ZfeGNqRHZiRVh4SFZmNDlUMTFSU2JfRllYZnJtY3JrQVk0RFRGMFlTMXQ?oc=5
+- **2025-11-26** · [Lex] Citi reshuffles deckchairs but investors would rather it made waves
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdE1TZkQyU3JhUVQ0cmtqVEsyU1JTV0pBU21hU240a0Rra2o1SVpvWWgydGZiZGpidnFnVjFkdFk3WkpSRHRWUHUzVFdtQkdQZkEtcE43MDZkakVaTFZicnFfZmVOZnV6TGFmdGpsZFlMeUV6dVVlcGt3aGQzVGVkemJ6cXg?oc=5
+- **2025-11-26** · [Markets analysis] Kalshi hit as Nevada judge deems platform is subject to gambling laws
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPM1BPQWpOaUgzaGFmOThId0NKWndLMGp4UTZxT0tVZ0hyajBYeE1CanJ6eGNkMGc5d0JYQ3F0ZlloWTkzSkhGdnVVVzlCU0ViSlN3Vy12bVF3THRaQ1lyMkc2TFZyYkRUbl9NalJaVGUxNWlMemxnWmlCMVJHSG1qT092Y0M?oc=5
+- **2025-11-26** · [Markets analysis] Fiscal watchdog under scrutiny after Budget day errors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkRIRDV0S0pLODdXczhVLXBXOUs1ZXduUUZHSmdpUGJQWVV3aThuMmtpOHVIV1FnRDE4a2RxZVNuZ3FGeTdfaGI0ZEFGTjFpLVphWkRJNWU2ZW9uczZ1QktBN0dWbUk0SnJReDVhSkxWVFRMR2VxV3dIRFFrVWRHdWxiRXE?oc=5
+- **2025-11-26** · [Markets analysis] Millions face lower pensions after salary sacrifice changes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmlkNzZVWFJxeVhZVEN2d05TWGpyNWNKckxPRGNDNXdYVXV5czc1NW1pVmxfVkhDZE5iWGd3NEVTZWdPN0kxaVoxd3NOVUd5NVBWVUhtRUpfRVllWXd6cXl2NHVDUE1KQ0VCY0VmdlozSm5RQkdfMGlqaUs5Rk10MkRzZkg?oc=5
+- **2025-11-26** · [Markets analysis] Budget in brief: what you need to know
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTN4YUxqdTFGZ2pNNGc5b1I2MjBCb1NDV3dwb1FZNW44MzFxaGVMVHNaQ2FlTGk5QWxoNXdmRjdqeExzQjc5RHg0eFgzdjBPQUVOTmQ3S2EtVF81ZnRIVmVoQ2tDclc5emJhbVFyR09WZnc5QXFEUE1qN0d3WjkycXpSd28?oc=5
+- **2025-11-25** · [Unhedged] Nvidia shares fall on signs Google gaining upper hand in AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWlxUUlpUkFqNVhTNHF0VGJsLVozdnU4MGtaVXVLS3pGdFlYRnNnZHo3NUtBTkZNVlZUc1RvTnVoaG81Y2FsR241eG8xcnRqX2tjcXhvOTlZSUdTdl9fWTRELUpYUHZLU2JZUExkbWdyY0RCaFZZU01WM242NllTT2tyUHY?oc=5
+- **2025-11-25** · [Unhedged, The Long View] The fatal flaw in using bitcoin as a currency
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5
+- **2025-11-25** · [Unhedged] The AI cycle will crack first in Asia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0R5QVdwRjdvd0VGMURGc1Q3b29aZm1oQjg0RzVCQUxyVnJQRTV2QkJKSG85VkdmaXlTdmlqdTBncGpwNG1kZzZoMVJVR0FYOW5pTlV3dDVQX0I3WF95RmlMSGdTRlZ4RE9MR2RnNUtVWWhGTWRMN1BoVUl2OG5FNHg0MTg?oc=5
+- **2025-11-25** · [Unhedged] China leapfrogs US in global market for ‘open’ AI models
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHlscVVVRXdXVWZhTjBJLWNncUN1NXdadzVBTWt4TGVsa1dqdWZ6azFJa0YwbE9ydEF2dXdXR2hpd3lJYlhvcFZKeGNNWjByWmF2VXZOSnN1UUVLOG5HZlVTcENwcmtPVGk3R2poQWgwa0dWWG9vNXFmUWxnOXRUemJGcGQ?oc=5
+- **2025-11-25** · [Unhedged, The Long View, Markets analysis] Don’t worry about another leveraged gilt market blow-up
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE13RnFJaWNsVE4zb0p5aWNKMlRxRTVTRHFackNlSGZEZFVocTItc2NibkdKV0NfM202cmUyZnRXcWhUNy1JS0ktSlRxSzdXX3ZKR0VKaWVyc0VFRGJmNHg4X3NsbUdHVEViTF84a2F2YWM?oc=5
+- **2025-11-25** · [Lex] Google is a near-$4tn monument to monopoly power
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnMwS0szaEkzamNBZ2NsMVEwTU8xaXNXZ3NMamVqdEZyT2xRQ1lVaE1zVnNhUHN6clJaNkxGU1ZEajFZZ3VwTXhYYmE2WU9qQnJVTzBMZ0s1djZ6WTZIZk9GX3BobW5OWDBCb1RyZ183SHF5elhRRkxiQmtid1BZbTRtMms?oc=5
+- **2025-11-25** · [Lex] Private equity can help lawyers grow as rich as their clients
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUE4UVZYUnA5UDdDYmw1eWFfYUtkSlRwUU1WbTZQUWtjTXN1YmZmU0FWcVZla3Y3NDVQc1dXX2FIcnBsVUhIZGlBcEZtd1NKMFNuUkd2eU5IUmNHR0tybnVveUhVT0tfSksxSDV0RDVTa0k2NGFaTjFXUGtTdVI1aXJ1OVI?oc=5
+- **2025-11-25** · [Lex] VW says it can halve EV development costs with ‘Made in China’ car
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzFXdnVQamVoZjhGYVZIcE9vcGNXYnRIMnBOdXpBaFU5d1IzZ3RBdFM4WXgtaGVwZkxNZmZRQS1TT3ZqaGJWUVJkc251NWZpbXoxWG5BZmlydDZqOU1nbndNdXA1dVZLZ3NmaG01LTVzOEU3VHNtUWxZR2RSamNvWVoxeUc?oc=5
+- **2025-11-25** · [Lex] Klarna launches stablecoin to cut cost of cross-border payments
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3FjUkxKM0EyRUZHRGhOQl9LNk9rcHZyVV9ibnFSV1RrcDAzaDJPTFY1OGtPLVBHa3Y0S255OEhCNVBvUGhXY2tMa3FJZ1FaeFZkQlRhMzRFTjZyR3RPSUJsMnJIZWE1UHhhS2IyWFJ5NXhqbjQxb1MxUkdmdW5hU1VTWTY?oc=5
+- **2025-11-25** · [Lex] Altice USA accuses creditors of forming ‘illegal cartel’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlM4SjZVQndOLWtMM2dDQ1lpOTdTc0ltQWk5NXF0eVFMNjZNX3h6UFduM0huU21RY21DZ1R5RXJSWW05Nk9YcDl2SDlEaFNWMzVOMDFockFxdzNTZDZjZndRZWk4WVNiT1VTbXZUc0Y4Sks4c1NmazFzam5VQk1QQnZMc2c?oc=5
+- **2025-11-25** · [Markets analysis] OpenAI needs to raise at least $207bn by 2030 so it can continue to lose money, HSBC estimates
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE41cmN5dDJmQmdMY2pNQW04ZWVGU3hpVHdhRDlNUkVRUGd2RU9nQldKZFNXMk1aZDJ1UkZFUlA0OXpHUTFJOUFaa1pWZzVJUFQ4WTVkRmdKb040eEZUSzctTlBnbjhnZUdmdWxBTkEwc1Q?oc=5
+- **2025-11-25** · [Markets analysis] China is making trade impossible
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGQ3Q3BPRXZxSjJaMGR5Nm1jS0VnMVZJamdEbi1BOHV3S2tjMUxrbWh3SVRpQ1pyYkxsSkRidjBZNU9GNS1BTlBiQ1NxQUNtaWs2NGItYmNRY1hkSU9zNEhVbElERTlwd2JoaTdDdTd3VHhtaUNKb2FmMTJfWGpvQTNsVHM?oc=5
+- **2025-11-25** · [Markets analysis] Spotify to raise US prices in first quarter of next year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzI2TU1ZUVZ0NG1MVGdodU9xaTg1Ulc2d05fM0pMaDBTbkZ0ZmVCanF4X1g3TWU1QjFwcmllWFN5ZWh3elJBUExsZkw5Q2ZEdGxaOTJFeWQ1N0NPdGVIZ05TS1dLMWtWWFE2b2lZc3Vmb0RLNHVhaFNLRzk4cHhkbjBmeEE?oc=5
+- **2025-11-24** · [Unhedged] Tech trumps tariffs: why US exceptionalism will last
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1XZHVSSVNBVzlGeVZSTFQta2NsamF6YlhKN3IxdjFUUWlXUl9oa20yTkJ0ZVBnLTlLNHRwN0JaQWFhbjVXR1RiV2NUSlplRUY2WE9waVBuVFUzMVRyRXozTG4yNlJlcno5VC04QmdFTzE?oc=5
+- **2025-11-24** · [Unhedged] ECB scrutinising claims Deutsche Bank underplayed financial risks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdm5NSjlWd2VLSDRrNUtJZUxrNTY2Sm5RRC1kdjIyTktQNEZVUXRHXzdwb0E4Z0dEREdKTWdaakZqYjdlVEUzVlFiRVZfS2ZJMXNacnJ4aDQyY1NmVlRfUkg0bHQxVWhnRXNMWTVGVUEtY1RlSDdVQm9ocXcwWlBLX2s1cHo?oc=5
+- **2025-11-24** · [Lex] Glencore could steal spotlight in Tullow’s debt drama
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2ViamVrbl82NTFVLU5mT2dzQmlkOEZSYnltemFxSkRwdW9jNVBYSmNrb19Yblk3ZE4wT1l4VHVqTXNQRGh5MnBnaHBJckhOT1d6Z3NuTzVCdWhOZk5ybC05Ml9OX1M4U0JBeE9ZZ2t5VGk3UXpjUEN1RHhiZ05XVTQyWE0?oc=5
+- **2025-11-24** · [Lex] Is Fuse’s $5bn funding the start of the ‘Revolut mafia’?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2psWXNWekcyRTBBb21OZngyM3IzeWlNbnVyYzZ5NUwtRTdvMzZQR1dGcEJDbmp4Szlab1lQcjBCcE1vY3NvUGZLMC1ndFZrLVFKOVY4TmJKWGZkYnpPX3F6MVMzMVM1bDNPRVBEYi1wTTY5aWJkSVFjZXB1Y01BT0RHWC0?oc=5
+- **2025-11-24** · [Lex] Can Europe Survive? — where there’s a will, there’s a way
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlllTjlrenhkMzI3QzNSZGhRQ3RGWEhJMHFva3U5dUxwZHlzWUs3NHdoODJGNW0tLXdSWndONk9iNzFFSnR0TFF2VG9rUzRlcTFmeERtLVoxWV8tQ0w2WUZYZ0Z3eHJRMTZQZUcySVJMemltQVRYZ1NEbzFaOWNzZld3Zlo?oc=5
+- **2025-11-24** · [Lex] Julius Baer hit by $184mn loan writedown in blow to turnaround plan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjlnRk5EX3hOSkFDSW45ODhfeGlpWnZiRndaS1FVOFN1bTZrbDVrWVR5VzF2NDlPaUhpR3Ftc1NEN0hXa18zQmhxYWVhbUVCUEJpWEpBTWVJRlZMQlh0MXA1Vk55WDhNN0hRemVFN09DakhuSW9XZERJVWJ0Yld5bnozR0U?oc=5
+- **2025-11-24** · [Markets analysis] UK’s shifting labour market threatens millions of low-skilled jobs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnJ6ZGNQWkRVWnhQV2RqQ3IzUDVOWmtsQnROaVlMTThFVlVMSHROQmx6cG5CWHg4N3lUQ2pIV0NIZnFMUmFUUW8yYVJDWk93TGZNalJQRTd5dGNoN1NtVkdGMGZLVnI0MUx2eU16dXRQenNLMnduaTdHRG90Q0NVVTE3ejU?oc=5
+- **2025-11-24** · [Markets analysis] Tether, the gold whale
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE91SmpvTHFxMlJtQjBGb25DWFdVVDloRWduQnVwcHZyRnFXaDZQTkxvR0stUnFXa2daU2VNLUxsYjc0bUlyeldqU21JRW52TDNIT2Q1a2hpbUhtUVpSa3VDdktMMW9WZXVFWDg1dFpFaEc?oc=5
+- **2025-11-24** · [Markets analysis] Mining billionaire backs Australia rare earth project in race to boost west’s supplies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOemprNVNGUFJLVktaQTdkblktRGNXWjVxTHl0ZlgtaU9GcHU0Mk0tb2g0SVZJTktneUItT2JFV3pUMGdJZUxjTnhDcU91TDZVeC1KMkxTYzU4U3NRVVF3RmFFM0RoQ0lnWS1NZV9LYzJPeTY5S2dCNFpNNFlmeV81b2JNbE4?oc=5
+- **2025-11-24** · [Markets analysis] Ageing populations will lead to lower living standards, warns study
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3JWX19PVDAzQ2pfdmlSWU96VmNqazFSZ1VaQTF4cC1MM3VyVnhmNG1OaUpYTG1NSTNWLUxmUTcxS1NXR2N2OEc2ZE1MbGpFWFdBUmpyTExITkh0ajZneUNLa3BmWS1qSUg2N0JEVDZwcEhyS0I5dUNkdU5XOEdYckQ1UEE?oc=5
+- **2025-11-24** · [Markets analysis] US criminal immigration cases overtake drug and fraud prosecutions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRW5SZDNiT09tb0h0cHg2NHJpc04tV0dmSzk3OGIyUWRYdGJyVUpvakdvUzI1M3pDWG90OEtTZDdpdHQ2ay1UdTh3LXdueGRONGY0U0l4aUNyZElTdjJucWhfUDMwU2w0QkdOQVotQjdlZ0pYZ29VNzRIMnRsNHVKTThISTQ?oc=5
+- **2025-11-23** · [Unhedged] Howard Marks: ‘People are shakily optimistic’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUxBNU1ReFVIRklRRXlaY2xXWm9MeFBDYVhxamxLdF9INmQ4Zllsd002MFJ0SERsR181eG1XaUY4ekY0TWg2TDktQUpYc2I5ZzhBNE5hVWVKNVkzcWV3ZV9jdUtBLWxZa2hyamZtb25yanN5cFd3QWRlLWl5THI4Wm55MEY?oc=5
+- **2025-11-23** · [Unhedged, Markets analysis] How long will the dearth of US data persist?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkRLRTdxMDk5NkhmTnhzUjZEdndIT3UtOXNGNm9Sd3pqUWRiRVdpVTlQaW5Pd1Z1a05BakxRNFFyRUFCV1VJbW1wakpBbGxDdV9lTFN1SmZTZFhlaDZUaGlrZXR2QTBuQmxmTGprZ3pud1d6andXdUtrTHZ0UUN5Vnp6QVE?oc=5
+- **2025-11-23** · [Lex] BHP walks away from fresh Anglo American tie-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmZRRVZtVGE2ZDRVdWFjX0VETE5IbkQyUFZQMFdQenp1ODdCeWFoZWUwUk14Wmo3Z2duYXJZS0xhcGloMjhHME1EbFVmREZCdGFibW14ZS1ER2FuOFhXMkNGRV9WY2MtbDQ3UVBrN1JQRExxYl9vQWR4bWtScUphV1BPUXM?oc=5
+- **2025-11-23** · [The Long View] How to get the UK out of its economic hole
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHRjOHlIM1JndU5HTmhoUTFXZU1za3FmdlVOenJYYXk1eURyNS1UMWV5c3VkZlhIa3RIVG5FREdZTDU5MHFkNy11bnRaM3oyd2hZd2d1VzdXc21CUEF4NWh6RnFZaVBoQmt0RFRObHRXNkJJNkE2aDZzeDNQcWFFb1oySWE?oc=5
+- **2025-11-23** · [Markets analysis] Global fund groups to reach $200tn in assets by 2030, PwC says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWlhYmJtUmpIVEtKRUhzclJrcUp4ekV1dVExNmp0cWpwZ01xRGNzQ1JWLUMydUJmbk9WUU1TMGhrdjV6R19ISUxsY0QzMDg5a1M1NlVoUTVvUmNPd3N5Wk9VcjZMdUVNbjRlUUdPMDNRVlZuRG5ZYXk2Wlo4UmVlU0JZdFE?oc=5
+- **2025-11-23** · [Markets analysis] New York and California are losing their shine
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGl3bmZ6b01zUU9FNlhWS0M4R19FZkhnVzBXOWdSOVJRelB4RkM4THNjTkk2VDhXUkFMNkJoMm11YTYzR2x5SW9Qd3J5eHh6OEcxTVhzOWQ0eHg0N2Y2c1VFZTFpb3Q2V3FKbXFWLVRBZG9KM09kV1p5WUFWeW1oYXMxUUc?oc=5
+- **2025-11-23** · [Markets analysis] Global industry to hit $200tn by 2030
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZjFNRzJEdHRjV0NaVEhuQ3ZFVC1xM2pHNE1wSk9rM3A5dXRVa0RNTnRHQXp3YnI5LXhLLXBmS1NBUjdkclBJVFFCQksyVkNFTGRXZ21qeU9kY2JFNWlsX0NBbmFBLWk0cno4Q0pHRWVVWVdpd05xVVRVaEl1VS1CRXV6QXg?oc=5
+- **2025-11-23** · [Markets analysis] Northsand Inc, 446A:TYO profile
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOGI4M1pKWlNHMURSYUs4T1dHelJKbE1WQWV0SnVTRUJ3TnVPaVg0bUdTOUotRnJWaG1tbVBPTEp2THEtWjJyc0pvUHpEM3VEZ3ZWS1ZYcTBULVlLWnpoSTUwTU9WbllvNDEzbkFfMTFSck0?oc=5
+- **2025-11-22** · [Markets analysis] Safi Silver Corp, PNTZF:PKL forecasts - markets-data-api-proxy.ft.com
+  - https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXy1PTk5UX3JHWC1PVU85S2lGcUJYSndZc0dpVHRzSTBXU2EyVGpVcjZQMTVXNF9VanJqM3VHOVp0MkZZYjNadGxKYjE4cmxHd1E5eG5ULWZpT3lKNVlJYjB3SFpieTktelVJT0pSSllqaU96aTBnc3JfWGxad0JiTHZfMEhlVmhKU1NN?oc=5
+- **2025-11-22** · [Unhedged] Insurers retreat from AI cover as risk of multibillion-dollar claims mounts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGpuRFd0Qjl3cFR3NkZfSS1KbHAzVlUyOWtxenhobnNNTHBSNXdBMDJBSGtkUV9sYnVuUjZ0eDlBMWI3dnh4R3k5TEloOWhoNGp4SWFULXkyTy1VNmVHX214bVpITURTRDhHSmFibXVEMF9uRlEwQjNiQnE1Vy12bGpxTGU?oc=5
+- **2025-11-21** · [Unhedged] Trump needs to tackle housing supply, not mortgage rates
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE05ejdDREVmcEd4YmlSOE83T19UU2d5UzI3el8wM08xbTNOZHBCVllXbUdNNzc0U1JJTzZ3RDE4RXlneVpEWklJS2pSLWlDb09WdkF5TThYLVpVanVHX1JmQlRsZk1JdTN6UjJ2bzVpcUo?oc=5
+- **2025-11-21** · [Unhedged] US stocks rebound after top Fed official signals openness to rate cut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRm51R2FXdHdqN0hoLUpyM2hSNnVrQndadGtVcm1UckFKSXlxckZlNmlIMU1DaldpS2ViSW1uNzR6MmFFa2VDS09aZ2E2NHlfZmpDenVFWXJ1Uk1sYXdXS1M5QmN5cDRpSlJwbE1qa2MtTkFTMEF0THctRUUyVXBDR2FLZ08?oc=5
+- **2025-11-21** · [Unhedged] Five questions from an ignorant no-coiner about the crypto crash
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1TcVZwY0gyQWZlQW1MTW9qSy1RTXdES0F1YUpuaDFGaUVtQ20yakZ4NXpFNmlHSm5JTnc3SHlGYVNJSEJmeHl1eUJJZmstdlBURFlCaHNNSUlfWVpVZE5GRHAxQWtiV1RyNDMyY1llcFk?oc=5
+- **2025-11-21** · [Unhedged, Lex, The Long View] The warning signal from bitcoin’s fall
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZFRfZjgtSDE0Z2FZMkJhVU1ZRXJkVi15Tlhvb25jdDh2RTVnQ1NtT1RaNi1mOUVrRmdmRlgtUkFpZmd5WEJJc0pNRUItelI3ZVR6S24wYnduYi1IZUFGZFo0d1UtMGR3dEhPTFMyanZPZmxSY2U4WWRobEIxbXhxUTZNeEg?oc=5
+- **2025-11-21** · [Unhedged] How will Democrats handle the Mamdani effect?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlhFSXVLakczSHF5b2pENVNzV0lhdWRCZVBUQXdhcHVMYTlMcmN4SVA0TGo3b3lZYnR3eWYzSzBiT3U2N1Jxd2NLU3kyb0hrVllJbXE4eW5jcWFPWi1YT296ekJVVFhWZVU1eWZrSFhhS0o0M3FCZkVFTTZMeDZ6end6VzY?oc=5
+- **2025-11-21** · [Lex] Eli Lilly becomes first pharma group to join $1tn club
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFpLVlpoT1J2YmdGRFo5MXN4eHNjdXNEWkVSXzBta2pnTmQtbzI4cWZHZ2M1bVJhNXIwY0M4WV9VNnRsUzVSR2xUS3hrUkVtSmtGOXExSVZINm9zYUVWZHlHSUpWS01EYnc3WGNqdk1DZlkxak5JTUw5WDd2d21sdGVvUlU?oc=5
+- **2025-11-21** · [Lex] Nicolás Maduro tightens personal security as US strike threat intensifies
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1PcHJqcHZ4VmptSDAxZEFReUY3Qlo5SExJNldWQlFWTzB3eVpMallVZTVGSHY4dzhrOW11WXVackVqNFhKSDJid1ZsSUd4eDMyWm90X0ZHZGZlbmJKbjNiRVJBeEtyTkNxWjVvSGdrRk4?oc=5
+- **2025-11-21** · [The Long View] Former leader of Reform UK in Wales jailed over pro-Russian bribes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTdrY1JqRG9qVXdKSXlNYkZDdFgxOFFmb1RXODlhOUkwZWw2MGJseFdCekdqZXpqY19Nb2kwT2tTVWlLUEFKNEJFb2thNG5oMUJXOHZUVThFMXJ2YUdQdGVUbWJvY01wRWRFSDA5OGM3c1lvNUFZYUE1T2dOU3IyRl94NC0?oc=5
+- **2025-11-21** · [Markets analysis] China’s risky challenge to Japan — and the US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQanNDMEVqanRCcHNSeGxWS1lpeGs0TzNJelUzNlZDUjY2WnZpUlZ5WmVESUhLN0p0OHhGMzVMTE9ReEtrU3Z1SmFJa2twMm8teUpiYVZkdjlvQXhiNURfU3BhS1NaUWxMUHlLaWJyVUkwTS1mV2pFZHhVVlBuc1Q1Z3BtZXg?oc=5
+- **2025-11-21** · [Markets analysis] Christine Lagarde warns European growth is linked to ‘disappearing’ world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU3FCTFMxSGFDUGFPMHFQNm5jb0ZwRGdEZ0FOdm5kTGpKVzRpZ255UEZxU0VsQmY4WUhMc1JoN2RJQXVUMlVLSTlmWUVFbWJDdzRnS2pEZEFaTDBjS0c0UFFGa0I0Zk1mRnVPazhNWGVwcW96NW9hYmVCRG9NYXJjX2pOcHg?oc=5
+- **2025-11-20** · [Unhedged, Markets analysis] The bear case for 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPckE0dTVZUVFRVFItcDdBb0VNLUlVdUhuV2hXR2lQdElkaWc5WEJuTGJLbUZCRzdfZHpjcUZEX3dxc01udlhmd014TVpqaldoNmZwVHdwZThJTmlXTlU2azEwelNJZDBHZm1KX1BGM05OakdJaEVDY2FFQlYzYkJaLU9PWkE?oc=5
+- **2025-11-20** · [Unhedged] Nvidia’s lion buy omission
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVWU5VmMwT2hvek5fUFBIdDJ2b2dRZ3N3Y0lyMWZMejJzTnZjTGdpSTlGTE0xS1RpM0JnQWM2Nm0yNFZ2b3Q0OERURzRIMXVmZXhNZ0MyZTZXbVlISldSLV9PV1EwYzB3OURoVTZfTkE?oc=5
+- **2025-11-20** · [Unhedged] Wall Street is banking on too many Federal Reserve rate cuts, Vanguard warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVB2aWVPcE1fZjd3cjVtWDA5MHBSREhrSlpSQ2piNldUSjVvdjZTcHQzN3N3eXBCLUJVU0E0aC1TalRIQ09hNzNLeVVCazIwZWduV19wa3oyZEM1bUNJdkdOQ0hZT1puT0RxNFE2VE1kSU5ncVc3bEU4RDR5NXdKNGxRdU0?oc=5
+- **2025-11-20** · [Unhedged] Behind the AI bubble, another tech revolution could be brewing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXRncEkyZGYzODVaTVdHSVN0YkxmU2xjQTNxeHk5THhQdk1HWVNLLW1nZmRId2lWdHI1enZFN3FiT29KQThrQjR1ekgweUpZNGxyUlhTVEhIS2s1TU9LRGFiS09CcklVbUFENmNNSzV1Nmt5V2dKX3BINWF0RUtrT01Nc0E?oc=5
+- **2025-11-20** · [Unhedged] Reeves must avoid awakening the bond market bear
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkg2U3NBcUZ5VHdqODQ0VllIb2xiTExTX3IyN3FtZGdHdVlnMXg0Rm45MFRSS3BwTnFQVWYxcjlTVTBrV1RGc2c3djVhQTk1QUo0R29JVHVFRE16N0xXV0lhOThGM2dPTDRuTTMwNVZObnpFTWFvZVNKTldnVXVMWUlTVUM?oc=5
+- **2025-11-20** · [Unhedged] Lawrence Summers’ extraordinary fall from grace
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGhuelpEQ3RDcGJGVDhMcTd3VENWUlhTUHpVbl9MeUZic3hLYXdWVjZ0clY0TWVHNjdRd0RMZ05jS3FjcUhqVFdfcG1XWV9PLUg0R3FXVFZmbVg3Q19WTHc5c1h0LXNvWDlfeDNoYXFxc3NXdWRqSWpSUGllNENIcXN5TEM?oc=5
+- **2025-11-20** · [Lex] European chemicals go from breaking bad to breaking worse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObVVwRUF2bVRiaFcyckZ6aG9PSHB4WHBjT1dHYVM0bDFQWDFBa1pHX2Q2bWg1RjBCOC1TVFNoczBuS3dBSXQ0NzV4V3hPbkdocWpiR0NVeU1tVkJoSmFsVHBpRGhScGNTeDFULXdLcGV5NUZLeVdNUDBPNHp1WDBGT1RFV1A?oc=5
+- **2025-11-20** · [Lex] Walmart to shift listing to Nasdaq as retailer raises sales forecasts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2RZNTRjM3N4RjdUYXdxWnZIYVZoZlpGQWFvaURfUVVpaEx1ZDUwSm00YTcyYUFLa25sc2E5SGRzY0VkV0xQeHNPeWNpSmNVbVJoV3FnRFZIRXVVLXlOZ04wVHBEeUduWkQ5UWxmeDVsRVpWRmFzQk5TdHdPUlhVRnJOUE4?oc=5
+- **2025-11-20** · [Markets analysis] Britain’s tax system combines the worst of the US and Scandinavia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVlJQ1RMbHpEOXNCUWY2X0hBSDhLbVBGZEVZMFNtM2JLS0c1eTl4a1dBbEZWRmxmVXVSNGlycTVIdHVxeURvNUhlVkx1R0lXZml3dmpHT2VOU1RnUmZjN3RCVVZ1b0l4bWdOUWVEY1NLc3lCR0J0UkdJbWZfV3JkMnFPVFk?oc=5
+- **2025-11-19** · [Lex] Xtrackers S&P 500 GARP UCITS ETF 1C, XUGA:LSE:USD summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE9haERQOUl3RjVxZ3M0ZnVnWEQtcF9EZmNaNTE4Y0tvSEQ5ZnZBaTdXaG9XSHZ4eGM0M3ZjRHlIUUJnTVIxZXRMY3EwWldQbkMxRmVLRUU2UVJhcnRBcU54c2tnLWZNX3c1YWhITXVwWGhNcUE?oc=5
+- **2025-11-19** · [Unhedged, Markets analysis] The bull case for 2026
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaktiMTdzZ0U1NVM5cmcxdkFJaHV4VVU2OURvM0wwYVQ3M2Z0ZkFkeHNTcllFRC14cFp5cFpSdTgtSVowakVDMW1uc1FoZDU0MGFTaTkzY19rSzFUUV9oYUFvdWYxMmFpdUEzLVNBN1RqY1paNlJHV2N0YVYyT3FvaWltZFc?oc=5
+- **2025-11-19** · [Unhedged] Nvidia shares set for $300bn swing around high-stakes earnings
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWZrTUs5THJ6NUF5dExtYS1kRUM2Q016dnFJWXlWQW4tWE1KVXdzZ2xOcEZ5VTRBc1NxZFpRcVFmQi1JdjcwRXlTSkVxbHIycDMxc2J0TjduNi1XcTNVbmN3SGVHdzZCdzRnZllTS3E0eTFzQVU4eGlGank0ZE9IV2hFUkI?oc=5
+- **2025-11-19** · [Unhedged] Federal Reserve officials ‘strongly’ divided on December interest rate cut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzYzQ1prY1hza1Z3WGxnbFdDeGwxLWNnTE1UdmhkcUFsTzVwVU5RMEYzRDk4X1BXNjdvOU5jZFRHa3VvdndCUTgtRDZqYVVNMXdBcXQ4LVN6eDlydFVHZnNXMjZjMWx0VUh5bElOakljTlljdG9pT1pCZlpYZ3RkN3NENGs?oc=5
+- **2025-11-19** · [Unhedged] Nvidia shrugs off ‘AI bubble’ anxiety with bumper chip demand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa21FRWxURXVsbXlsaFlnRjlqcTd0NzNXbFc5clp3Z2RybXpzeXhuaUMwalJtZ2JMamQtQlctcGwtSERoSG04cm8tOXk4MEVtaTdNQnFHbl9WVjgwTi0zMjFWM05vd19GUlUteG9nUm5NcWFtdnV1bzlBQVFudEpWUktHOEQ?oc=5
+- **2025-11-19** · [Unhedged] UK inflation falls to 3.6% in October
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW50Y0FqbllYZWY5ZU5iSDBHbEY0OFlZZTZiNmN6dHd0THBkZmVVQmt2cGNMZThQc0duUXNLTGgyNUlqYlhOVjh3RURzM3JsUzRsaGloa01kVjN1bEcwd2h0enE1NjZtSFZmQU04VWNSbEFBZVZFWHo2S0xYU0lIcnVNX2k?oc=5
+- **2025-11-19** · [Lex] ‘Baby Shark’ still has teeth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYktmX0NqSFNuTlEwMWhnaS16bWMxOVJQLUR2OHZaeW15SDBINWgtQ2psR2U5RDl1UzFyUTlaOTYwcFhILWJHNElSMXc4am5rS2RERnpMcW9uUnl3dUJVcUxESDVvS3NPUlpsbnVhVWcxNWotd0JINTVWSmVReU9wZUVtS2c?oc=5
+- **2025-11-19** · [Lex] UBS’s threats to move stateside might come back to haunt it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVFDcUpNbTc1Y0pFRmlRRnZXX1NmVS1YcE9LNDRMTDRLRjBrOXhpYjRmNi1KWjF6amx0WXJLUmlFOS11OXkyYVkyZEhWUEVQVy0zZk5xTzdNMmFJVmlEVmQ4OFliOE9qSXBKbEdrMWpCRnJOUE11U2gwOUQ4RDk5V2xsRXI?oc=5
+- **2025-11-19** · [Markets analysis] Big Four partner promotions sink to five-year low in UK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU5PMF9DZndjaHpHWEhEN3FIa3VuT2VXajlvQzZuaEhUX1J4dXZOS3BOMkMwMThrN3ZfQUZ0aFp2Z0tyQ2x4TmlVWVJMN2pYU3VUR3c3TWVBZlVMWVpjX0JrQ0g2SGRzUWFNc0N4YjVxelg0U0YwbXRDZDZ3S0E2Ym5rcVA?oc=5
+- **2025-11-19** · [Markets analysis] South Korean banks take the lead to bridge gender inequalities
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ215ZXpYdDdiVXYzSWFfTFRaNTVSQl9xUkgxaGVTcTd4RWx1SHRfWVBZeFhZTUxwWkpoWVpzOTQ5QTdwSzNUR1Q0LVFzdnNnUkdZMVRfaVZBMVNfQVE0Z1E4WG12SUdsTTRhQi1SV1lFTWRHQ3ZtR2xiNjJXWncwMjByV1E?oc=5
+- **2025-11-19** · [Markets analysis] ARK Space & Defence Innovation UCITS ETF A USD Acc, ARCX:LSE:GBX summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQ1VORWZmRy13RXZKUWpEVExrVlRlbm9PcVMyYzRFTXpHczRQdThNeWVReE1tUWxaSTI5NkpLQml5UDdya3otOW1aVWZCdFhfTWlrTXhrck84SzBsX3N2bDdldFotcXVpZXpJVUZMUmVCb2c?oc=5
+- **2025-11-18** · [Unhedged] Time for anti-tech stocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHF0eE81M3o1d1hiYlk4WlNNTFZqQWtUek4wMTNLVWpWbE5RT3hLUzBCYndrbEdjQXEyVXlJdmZHZTJMLWZKR3RVZEdjWTRTZGdDTW8yY3A3TzFWUE4tbl9FeHdmV2YwMWpXUWRYaDV4WWdMYWhYbDQyNDd5T19DMVdmZy0?oc=5
+- **2025-11-18** · [Unhedged] Elliott builds stake in gold miner Barrick
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWtQZFY0bHdyVzhLOG5ndHQzRkY0ZnBUSHJpTFM1ME8zVk5GMUctMnFVY2N0XzRJbGVqU0xodEpTbXhZY2s1UzUtQ21rRUxpSmhNT0M0UHd5d09WdGp3UjRZc09vMDVDcXFvM0FFUzdBektjM2w2enJvRFFKaTFOd3ZZM1Y?oc=5
+- **2025-11-18** · [Unhedged] Europe’s battle for control of its money
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVJFZEJLS3g4MUZEa2h2TlQ5SDgyeXlDZC10TFp2RlJrQTU2ZXN5NVZwNDhibTlfNWhHZWY4SXVIaUZsRGZ2X1JlYkplLUxiLTNiay1NOGl3dktpXzExUVl0LXZ0b204NHdBZk8tdGJ1UW40THRxYThqRjdrVUw4akJrUzQ?oc=5
+- **2025-11-18** · [Unhedged, The Long View] US tech stocks slide as traders fret over ‘frothy’ AI valuations
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWxBVG5YNXBEWFZfWUE3YjgyNjdUejNTUjJOb2FOem1BSjd5dWloX3FUQjI3RHRJdlM3NnN5YUVhZ2lubjZZcldHTnRfNWZ5ejRRbVRrckFPbGxlZ0poV1ZDM2VwM2dxUTloc2NlWk1lRzMwRWo5SF9Ed1JKV1oxQWxOWWg?oc=5
+- **2025-11-18** · [Lex] Helicopter makers are circling a shrinking market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmhlamRWSHprcGd2dnk1V3YxLVM5VVBqdW05X1VQU0tteGNOcjU2NmlDbHFvNG1WRDBHWnk3bEVBZU9NQ19TUUdDLWJDdWdhNW1JbkVfNGVsUXJhZnlKcXI5Wm12Z3V2dDlEWGtSSVlmRUhnektiN29JZW1zT3NYdkZZc1o?oc=5
+- **2025-11-18** · [Lex] Callaway sells stake in Topgolf driving range unit to private equity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLTVfb3N2ZVA1eVMzaGQ5S0JOYnlOSlNiSmprRnhnLWZTalFGRlExT3RHV0thSlVLQzNRS2dxNVRnRGVlZ3pqOEZveGw0Snd4MVFyUVFtZF9rckJNeWU2eS1qOE1QenRSdjc2b3p1cjNQM1RKazZiUmdoVmhDcjRCcmJpdVI?oc=5
+- **2025-11-18** · [Lex] ChatGPT and X hit by outage at online security group Cloudflare
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmZROHBCc2lDYU5PaWk0MkJZT0xueHlYaGlYeHJIX3pPS3RQa1VES3BJRDFlRnI2X2szOWl6QWlZcVE5Q3hPczY0LTM1ZE45SmJodUpuLWRSZUtCOW5ULS1qVXdYMFZFQS1MTlhxRkM1QlJqb0VtZG5LYUFHYjVSMWxzWjM?oc=5
+- **2025-11-17** · [Unhedged] How much of the market is AI?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEpkVmVxSndSMUl1Ry00LXVzRDJQdFIyUXVHaDZGT0ZYcS1RSVRCc1JPQU55a0JrWDZGU0t0SVZLUmxXd3phSGRfRm91OTdLeUVobUlPLTQ2VEMwLTNqUVE5ZXRJMUwtV0R2ZWJxdThySGlVZzYtenZyQzhZdW1CT3ppU0g?oc=5
+- **2025-11-17** · [Unhedged, The Long View] Gilts stabilise after tax U-turn sell-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2NCcGtaT3U4TlQ3S3VLbWtVM24xUjJ3MnpXam5nVGVicjFXRUdqdEhMUVowaV9mUjB5dVlEckV5NWJac3RjV0NlOC1VOHRUMGNCYjg4cXJkaG1mSmJ3bTQxb3FVY05Fb1Z5UzY2UWlIMVdJS0JkTmxCZU55YVpKNTdQYzE?oc=5
+- **2025-11-17** · [Unhedged] ‘I’m nervous’: Klarna founder challenges trillion-dollar spending on AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWFDZXVoNGt2eGFnY3JFSERRY05MWXV6ZTdJOFFiVTk3U3Y4X0dVdmVFRXF0d3hFUEFTaGdmRE95Y0JxTEtTeW9oNU5WWmxtMWtwVXJOVmxvcUdxZTgtdHBPVTk4M3U3dFBfdVVhWFdRdDlaM3h5THozMUZ5TVZzY1Rwb2g?oc=5
+- **2025-11-17** · [Unhedged] Deutsche Bank lays out plan to become ‘European champion in banking’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHZ0c3VFZElyVnRLYlBmN2dsU3JLVWZaN0ZjX0hUNllSbG84eXNuNFdoRWktSWpwRVFwR2tXN1h1WUxNYmNCZFVtV3ljY1JaSnI1eTlyZ1hQSXZBUHpONjhVNWxjSm1mNlRCMTZ1aTI4WFpSOTBHVHViZFl1NmlwaXVoOTY?oc=5
+- **2025-11-17** · [Unhedged] Epstein and immigration will unravel Trump’s coalition
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5sT2w1VkVmLWNIOGNHQmR3czhDQXBKTlhObWFPd2ViWXhnS1Q2RURiRXR1OVVZWlRlY0xyMnFjMnJ2UG1VNHU0dzZHUTdtd0pJTnFlTEZsei04UWdDcnh6TjBXY3VFZ29zU2lDVlNWZko?oc=5
+- **2025-11-17** · [Lex] Donald Trump’s 50-year mortgages are poor deal for homebuyers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjB6QW5QTVBlcVFKSEZLeVIxalRpV081YzRTMF9iUTIwVU0wcEVRZWRuWmwzcnNidWxvTWxQTFpZcF9Qb2Z3NnMwY0UweDRjTGpRelRSdFRHZ09TaE4xa2ZiY0lEb19YUWJ1VnBjOWNheFM0V011QjBPZDBuUF9ISWNCNkw?oc=5
+- **2025-11-17** · [Lex] The great British revival of Mr Kipling cakes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWx0X051cHFaYVFqTVZZem0tY3JlY1FBd0NNVFdjREJfQWs5VHFXUWZKNWs4X21UX2doOWI2ZWFpTmd4WjZaTEpjbjRrbk5McENnU3Rsank4RGZ2NktvR25nUUpncmdlRXNaZHE4V293SmZ5bGtBc2NvSkxNeUR2OHdiZFk?oc=5
+- **2025-11-17** · [Lex] Oracle is already underwater on its ‘astonishing’ $300bn OpenAI deal
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8xUDExMy12QkxGdHlHaTNSNnZ3b0xHdThCNGZMODExSmVzcC16ZTJoUWlkVklvUExNWmI4WUtLRWYtUWQ5aTRLUDBta08zNGFCd1VRUmswcmdNdmI0TVM2NHpybV9TVEE1MWIwZ3ZkNm0?oc=5
+- **2025-11-17** · [Markets analysis] Struggles of the world’s ‘second lung’ put one of the most beloved crops at risk
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3oyRUU1QmduUTFxY3lxSmEybENMVjhHWFNJTVVEbGNkZzBJTGs4UGdxQTd4dF8zSGk2eEdDWmVTM0tvT2Z5WV9nLW1ZV2p4Y0NtUDNsWmhkd19xd0VFRUlFV09ZVnRyMFBKeVhCUDZqWDVscERxbVdNYUlyUEZfZktBa0k?oc=5
+- **2025-11-17** · [Markets analysis] UK to ban resale of tickets above face value for live events
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEZQUV9NYWZnNGNNajJyUzlFTVhoQXMwakpwbFV6LW9lZ0pyS0UwdVJYVXlmWVBNcmk4N2tFT2hNdlZ0MnNIUzZ0cFpXdTlYdk5QYlp2dWVqRXMyaFZoYk5hclRVVHF0VUtUa1E4UDNVRDRDeFJEVi1VVGtyb2o3M3hwNTc?oc=5
+- **2025-11-16** · [Unhedged] BlackRock takes on hedge fund giants
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWRQVVd3bWJ3S2twVWtnTUxrdWc4TTFRWFBMQmlYaGhFRDdHS1NhUGNGOXNuM09jS3FNUnJfTl9KVEsxNUNvM0lqOTJsQ1F4aDRrX3hZSVZPYnJiU2Uxd2lic2xxckR1Z2ZnekZGLU5BNnF5X29ZOHduTUdOT3BVaXdyU0Y?oc=5
+- **2025-11-16** · [The Long View] Blue Owl private credit fund merger leaves some investors facing 20% hit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3dHOW1kbm1aWUZINTRjOWxtdzg1S3RLQ0dodTNiczVkbzNTSWlsSk1la3BDSGgwUC1vcGppX0VHdmtKV2NWSEs4XzBFaXctYTEwRlB0cGl6bVJxd25faktjVHh6UFdVckFYMmRYRkdKakdDTnI5VnJ6TnljdnBlU05TRk8?oc=5
+- **2025-11-16** · [Markets analysis] The hot new investment trend is the ‘Total Portfolio Approach’. Does it work?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5maV9Vd3JjWTNQbXlhRWxZTXk0NjBwSmlkb3ZwQkVRUHVLckVPdkl2M1JkUGN0S1RuLUFndTRaWjZjUkFvcW5kXy10NWstT1ZzR1UwLTViYVZuS3pRT2hnRlEzRFlHRHFOb2prTTg4RnA?oc=5
+- **2025-11-16** · [Markets analysis] Number of new foreign students in US falls 17% over visa worries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1ZDX2dlY2ZtUGZtSG5kZ0QyOFZGTW1EaEJsNjBfcWRwbWp5amQ2bW1RN3ZXQUtxb3lFR2hkRmdKa0Rhc0NTekh4SHhvcUNaWFk3QUFHTVJUWElkUG43T1I1YktGalVOZnlHMEhtRHJaemg1d1FLclFuMnRodVM1V1NzT3o?oc=5
+- **2025-11-15** · [Lex] Renault and Nissan in talks over reviving alliance after leadership changes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR19SZ09UNUxBamJ4SXQ4WFhSaTRJVU0zSjRqeG4yVFY2VXpkTGxHSEtXakxlaVFNWDFqa2Z3d2M5TXZiQ1RaelNmek1ST21QeXdEVHU3ZGROQnJFX1RNdVJvMF8xdnkzdUhFMWFheTRCdHlRbmw0OWM3aEMwVnlVU1JIV1Y?oc=5
+- **2025-11-14** · [Markets analysis] Euronext NV, ENXN:MEX historical prices - markets-data-api-proxy.ft.com
+  - https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGE3b1NQREt4dlZUcDdMVlhmZENkTWVKam1xRUFlTWFKOVk4VFlFSjZiMGtEYmdGYU1IZHlkcGUteUF0aXBlRXRMMFFIT2hNaHRsOEtqZ0w2ck1vZUs1SFhpNEFYVWoyaUZFUkFoNFRNaFMzNFhnNmdrREZEUVUxcG91MC1nZ2w4blBF?oc=5
+- **2025-11-14** · [Markets analysis] JPMorgan Emerging Markets Growth & Inc, JMGI:LSE profile
+  - https://news.google.com/rss/articles/CBMifkFVX3lxTE1aazQtcVZ4RjYxNUFXQkRsRXFTcHZFQlMzaGtQanN3MkV2d3VvZ2N0RmFmTFdCZmxYT19uUWJ6Rm1VNjVGWk1tSmJhQXhxT2ZwcjZXWGJDcERTMmtZU2xqS2RRZlBadVdERUVSVWxiOTVrRmdScHgwV0hDMmZjQQ?oc=5
+- **2025-11-14** · [Unhedged] Companies still need IPOs
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdmZ1VlQteGVDelZyaTJJSjVkTHpjQXp4WS1xbE5KZGhyLXJpUE9QTGM2aU9paVdmTXNyclZzVjU3bGZHSVcxVEZVNlRXWGlaWnZwSkNuQ2xqQTQ2NlNLa05vQjlJU0hCWjNQS3N1ODY?oc=5
+- **2025-11-14** · [Unhedged] Michael Burry, the short seller who bet against AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcE9HQWVvb2UzN3pCRVlwRjJsS2pXMk54SWNKNS1UX0FhZnlQOENJVk5maXVqYnFfQ1Q0dzdNSGdXbVhHRDVTX3VOX2Vnd2ZEM2NTWGFJdU5DRTd4RFAyUUthdHZHclRqTG56MV9ST0ZZbXFna19yc0FJVDBoemFvRmtBVVA?oc=5
+- **2025-11-14** · [Lex] Skims puts a $1bn price on keeping up with the Kardashians
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVJJVU52Tk8yUE8yX0I0czdfejcxRWh1bmFWV2w5dDhyWnZzQkNETDVIY2ktckFId3Z6aFRVLXN1d1o3UUhMS09qZnZTMGZBV2ktaXctV2JFX3BtTzJLR2xIZ1lEbXVXeVZLLU9CdkI2SXBVWmp5SVVaRWU3NldXbnVBVGo?oc=5
+- **2025-11-14** · [The Long View, Markets analysis] If private credit breaks, insurers will fall under the microscope
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTIwZHRqbzNvRmVtRUhTNGk1MEFDdXB4NGprY0NLSGQ4NU1pM1hBN1Y5blVGZ2NhcUxqb1pOOGZUN2dlZFg1Zm5VS19RX1FXaEttQkx6WGF6bE9Va1paNEEzUHJxbU1nbFVBeHJleFFncE5lQXZSUkR4dGtqRXd0ZVQ3OVU?oc=5
+- **2025-11-14** · [Markets analysis] White House memo claims Alibaba is helping Chinese military target US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0NkNGRZMFE4bXRoTEJlUl9PSmVaaVozSTJTQ2VGTDM1bnd3QnNTdlZlcGVFQk15SjR2N2dTekpCSndWYXlEa2M1LU5HUkR6SHVpQzVYYXQxdm1Fb1ZCOHNqVVE0ME9JdVB6X0U3MWpBd2IxNjZlVXVHT1k1RExSbjMwTDc?oc=5
+- **2025-11-14** · [Markets analysis] China left with tomato paste mountain as sales to Italy collapse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHhGdUJRYUM4cjNDaEFKREEyaERFMElERzloMlRvNFlwWE1fSnVPU2VzbDMwQUl3UGV4dXFOY2JUYk1felVaYVpzZTlxWGdrNjlLaEdxQlh4Mk9zbGp5c0ljLWg2NUNzZkVwSkY3Zm5mSVREVXFmZ1cyMDhRUkNFajVhNmM?oc=5
+- **2025-11-14** · [Markets analysis] Number of Isa millionaires hits 5,000
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjBpcnpUQjZvLXd4a1ZrSHZhTm1BU2tacEJwNlZ6cXVYYXVGejNWUmlOMWU1c3R5d1U5VWtsSW5EeWdMVGo0SEdyd3VOS0xvWmZWYVBsUF96bmFvYkRyMFFDR1JiTU5MaTRYNUlUVjNQT0hwQlJtbWY0SUVmcFo2SklCRGU?oc=5
+- **2025-11-13** · [Unhedged] Is the K-shaped economy real?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdTl1aTdfcS1hel9CYm5WZVBVSHU3dG9raVdtNmRwWFRzVW8yYVoycG5Fd1ZtaTk1Q3BUZzFRbDJhMHY2eElYa2Rlc0pkSlRnVHVDazA3Z3JaeE9DM0ZSYnlMRHd3MVkwa0NNQkhmcGJ2WWxfYXNNVHdyTGdqOWdKQVdfMVc?oc=5
+- **2025-11-13** · [Unhedged] The bond market crashes the AI party
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWQ2aEIzSHZMUWdSWThXWHhTbFBWLWJYeTdwZmF4VVlINWpURURzdllhTGhzcnE0b3l2NmFBeGtKdzFOZkI0dU9LaEo5VC1ZTmJGeVRZWlg0NklFWWxHM3FacGdfV3hVVlROTHBJWHdTVlZ5YW5wWW53X0RMVm9FbFdfZlM?oc=5
+- **2025-11-13** · [Unhedged] Transcript: Is the K-shaped economy real?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1UYVUycUl1LWpQNmpGZmd5aTVBS1NrOEY5eFZrUEd1WDhjNUFscVBJTUtuQzJ4ZlZqblJJRWNWNFNRWklmcU1NZmNoM2xwNG40YjJldGxDTEFWb24zdXpnTF9mTUhyZWl4U29yXzJfLWQ?oc=5
+- **2025-11-13** · [Unhedged] AI bubble trouble talk is overblown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYk13NTBGb2ozd3JyQi1ELWRzWDFiLUFMZE93R29lSkhXQUlreGs4Y2JuSWl6UzVEWk5oNEJPSzJrQnAxSzNrdzVnN01mQ3cwRHJMYi1NVXoxamhyZjdXUVBQQzBOOGs0Y0NrQ2NnaDllSUFuU29VMVRocDc1V1hITFpWYjQ?oc=5
+- **2025-11-13** · [Unhedged] Wall Street stocks slide as tech jitters return
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGc5SkJaQnMtMlhEODJGLVQwSm92S1BlM01tZThUTGt1NUZESjNTa2o4UzFBSUR0VmlNTWNFbDFrRnFxREY0cUhHaUN5NWpfZE50NE5MQmVfTkw1RURNbzg3YjJDMWszZ0hUbGZpOWswUFQ0YWdzcW1MYV84dzNWRUJMX2Q?oc=5
+- **2025-11-13** · [Unhedged, Markets analysis] The AI Shift: Is hiring becoming less meritocratic?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnQ5Y2pzNkJBRnNBRm9WQVo4b0NaTHVSNURRaURFZU41dExQTk5DRklLNHBUZEotN1RRVUhuY1IyVTNXWmE5WUtHcHFtOGhPbWFzSFp0TWxGY0dRd2RHRUswVFA0TVhmV1hOQldoaGszMmdqUHgtYjl5TDVqV2g4dWVuVXM?oc=5
+- **2025-11-13** · [Unhedged] Donald Trump pardons former Tottenham Hotspur owner Joe Lewis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWkhIbFU3bmlOeXBiUUJKMzFPTDdrcktJOEV4ZzRCNm5NcmpQakhBRlpKdVBKa1o0akl3X29VYmNsOV9LN0o0YUp3a2NtYWRBRGk5SkY2S2prTmRLemkxV0wwcm1Gbk80a2pwMEU1dmFweEE2eGgyaGUzSE53Smo5TjR1cTI?oc=5
+- **2025-11-13** · [Lex] Burberry returns to growth in China as turnaround bears fruit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGtCREg5Z3lIV1N2bDJXN0tGRXh1bkY4d3VNb2EyX29keEdoMTR5LWkzcUFlRDFickMtdklvZXBtRHh5aWNCbkpHT1I5bTFPbjRQNVdFeGRQOWF2SDJCcjk3S2k0bV9RSUM5SDRwLWtUSnBRU2NLN1RPemg1bjJ3SWoxVTM?oc=5
+- **2025-11-13** · [Lex] Walt Disney shares slump as sales at film and TV units slide
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2NoTHNBM1d5VHdjY1JkMHREV2JtTmZkdWExTFlfeUtmUnhGR0xwMEJOSXlEanRtQmQ5QnVyc0VoUUZ6SmN3VW9uU2VoU0Y0SGhTM3NSUEl5dHBBT05taGZzaDVCZFR5YlY4Uy00Wk1ON1JRcDd1N1J1YmZDRXEyQ3k4VkQ?oc=5
+- **2025-11-13** · [Markets analysis] China’s secretive gold purchases help fuel record rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWwtRmJxandXekR3cGZHZEtEbFQ0R0kzQ1d5QkVJWU0yZVYxR3p4Z0tRNGZjdWNEX2dfazJqN1lyYXFWWFh2YlZOd0xDQTZzdVAzWGFDN01WaS1sRGJKYm1peUpPQVNESjBWRFJuZzNhWjdfVHFpa20wNGI5NnhEX0lsWkg?oc=5
+- **2025-11-13** · [Markets analysis] Canada to reroute lumber exports as Trump’s tariffs bite
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPekV4Rk1NeEJLaDZ4SENJM1hjX0ZqejlRTWZKdUg2bGpvSTBkc0xDN2h5a3ZEZkh0SGJxTGVxb1MxdE5KWTNQanY5ai1NZHZVNVhpbllLck8wWElkMURMNFlHdUFhaGlaeV9xRHBSQ1k4aURXc0p4VU02RmowcENNcVJoQ0k?oc=5
+- **2025-11-13** · [Markets analysis] How golf became a long game for luxury brands
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5CRGFVMjIxS0JHYzY2cERYWldpUEtuNE9tcVMySnRIejVjSFZzTXVyYm5LYVQ1TUxjR0NoTGNWWU56NTBlMWJwb1RBRzlJYzNCdGZ0dVFaeklfZW5ocnFvNFNfcGdLU3VoaW5RZ3Fpcmg?oc=5
+- **2025-11-13** · [Markets analysis] Alarm grows over household energy bill arrears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaVJSZG1Sc3lVUzBaV2l0VXF0UzNnekJDSEdxZ0tGdS0zQVZYQnJjeWVxWGZRc0g2VWVseFlQelRMN2IyTGZUR1dqWWpMMFZSV0g1YTR6a2pST01nZFRZUmdoWVplSVAxUkJfOGE5TlV3STVicmp6U005akRNaEMySTZzMTk?oc=5
+- **2025-11-13** · [Markets analysis] Donald Trump faces fresh claims about Jeffrey Epstein
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmgzTHp5V2ZNSWVnQnlIa3VOdkZ0SGNaUlk5TGhiS1FLWHRWbzdLU0g2ZnFveFFTa3k5SWV2S1pMQ3dTWS1xZnUzT1NQTnZtcFNEa0RaWTM0UW5GNkE0OFVua05XZDZXbFhCQ0k2OG1fUWtYU2szUDJWRlJQSTJRckRaeXc?oc=5
+- **2025-11-13** · [Markets analysis] Why Trump’s team is betting on stablecoins
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMy1Wb0tNc2FURzY4enllMU9sS3E1R3dOemZvUEVUczUzSTBSVDdsMHdxYUtqSjlTT05NTnptZUMwcVgxSTF2UjNGWmhSWkZ6d0oyM3FzZTg5Yzc1Vlg0bS0wd1FYMkE0RWdzQndUTWF2TjdYb2FpTTF4djBrTHlXTDRJd2w?oc=5
+- **2025-11-12** · [Unhedged] You won, Jane Street. Enjoy the t-shirts, we hope they make you happy
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9aVU9EMXhQSnpRUWFzRC1PY20xVlVZUDVjYzV4SDhIcjFpZWUyZm9aZzdwa3VVMzJPbUstVk5FUE9GTjBSdk5NSkxhRm5nM09Sal9jaUk5N3FVTU1jZmZKVmhIajY1MFBOY2NldV9qSnQ?oc=5
+- **2025-11-12** · [Unhedged] SoftBank shares slide after Nvidia stake sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWpta3dLUUhJUzZxNVVEbmhaZGlENGhDTjZWRHBSZ0N4S0RETEc3VnZQeG45dFZHYkx5RTdNSWJYd3JuRkN4d3pZRGZXT1ZFUGNtajBVLXhwM05rWTQ5NlBTeFktTUxHMDBGejB0M0dPdmxWcl9lal9WT3RxRUloNUdrNzU?oc=5
+- **2025-11-12** · [Unhedged] The EU needs to rethink its AI rules
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVp6dGYzeVhFTEMtMm5CQnRXRUVkNUFmTHV2ZVhXdWhDZjZsa1E5Qndib2J0OGpMVWE1VXU5bXBmWnlGeW1JcVg4QUE5LU0zTC1IamdaVS1XMVlYcWw1cFlPTEN3YUszXzZFZklrbHFCeHpzYUpaZmVlTmpxN2h3YmMxUHc?oc=5
+- **2025-11-12** · [Unhedged] ‘Phantom’ data centres muddy forecasts for US power needs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmtsazFNZVM3QzZhckVHdFdwTlBZRVVVUFJmRjJDbUo2NWx4X3BYRE5sWG43VWtoeVJPV2dhRUdhU290Nm5CYkRBVE53LTVNRm80NEl2MTRfUWdkM0NNSnBNbThlQzVwZ0VrSGlENVREenhBY3hXWW5ra2hzTmpaRkxOZzA?oc=5
+- **2025-11-12** · [Lex] Novo’s M&A failure could nurture future successes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHQtVnByNHdjMnl2NVRfNFlOdHp1TXlZQTlIcTViSzJzbFJwUXZoV3dyTGtEczVYbU1JdDRHNnR0a1NjY3R6R0xWWlpjZXoxV3lVcXJ4TE5yYXRLTkZQczB3cU9CbmlVblg4QTJkQ0Q5VkVzM2todmRCY09EZUdZZVUyV2E?oc=5
+- **2025-11-12** · [Lex] How Ryanair makes a virtue out of unpopular ideas
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdkw4ZERIMjVGNFp2dkRzSklWbFd2cVpWVkdCeW9TaWFmMW9aRkFYZHd0emxBM2pGUVh5aFdPZXBzdUs2WjExYk1wTWdjSDdEb2xuQ3RVdjZLUEcxNzluOGdlc0oxTi1VX2RaVXZEaXU2VlBLRThIazQzdHUwV2JmQkhlT2Q?oc=5
+- **2025-11-12** · [Lex, Markets analysis] FanDuel to launch prediction markets that bypass US state gambling bans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNDFLSHNubldTVHBzRXZadms3NDZ2OVZrdlllN0UxMTRRU3lvWTNFblNCai1XcmUwOHlYTGIyQ1dtZU1EZWg0WVpDRUxrZDhnVklTWGVXcE9tTFF2VEJZN29xdUREZUlvd1BzSzBtOFdhZVNOaWtmdzQyaHkwZ1kteHJNZWc?oc=5
+- **2025-11-12** · [The Long View] Downing Street briefings plunge Starmer into leadership crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0F1ZGZPZ19ZbmNoWVNBWUQ4Tk9zVUxTU2VyU0VUa1ZCUmFEUTBYUzczVXNYYXJjdUNqU2dNamZNMTFTd2IzVXJBNzFLU3VpUDExZW1VV3J1NFlISVI1Tnp2aGRQTmFpRlFIRVd4SjhZbW5GXzg1TDA2YUEzS3dkczdFUzc?oc=5
+- **2025-11-12** · [Markets analysis] South Africa lowers inflation target for first time this century
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9xcnd3blF2Smw3RGVGa2RNWGtOSjAzRGQ1emFRRTlXcHN1LUItdTdzWE5IejhxME51ejU2aXBwTmxjWHFicU8tU1prZnNwMS1NRGNWMmZzUUFpYWJxU19yMGF5WUZTd0lJYkdBNVBJX0M?oc=5
+- **2025-11-12** · [Markets analysis] Indonesia in ‘golden share’ talks as rivals seek to create $29bn ride-hailer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWMzNmEzZ05MWVdBVC1HWWRkSUNiWVBQOWZDdjU3cVM5YlRnMVRtNi13U2lON3Vfc0YwZHIzVkd4WGdlc05zNTdpNmRlR3ZDejlhWVNuNjZIYWN0aXd3bGpmTGFjZGktTXk4SVc3SVg5MDR3VmlMaWViWjlTbTV5cy1BaG4?oc=5
+- **2025-11-11** · [Unhedged, The Long View] How K-shaped is the economy, really?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc24wOHVaQXN2MW0xWV9IRnVoM0FFMVFlSGtucms4OHZEOGJDLWJBSC1HWVhfdVZMYmFLUHFoRTFmdWZtRHJrVkFwTkxRU3FXdlY3cWpWdFAtS1RsVWhRbXpSMjA2Z25uUTlpVGFFd3FQVkQtYVh2VWlMTmlfenFuYTRIT1g?oc=5
+- **2025-11-11** · [Unhedged, Markets analysis] ‘The global data centre and AI build-out will be an extraordinary and sustained capital markets event’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB6STE4ai1PMEFqYjJZaGlVWWg0QjZHZjNnX2FfcmZKWFdEVXB5Slc3cXZZWlg0akpxOGtXb3FDZ1JYMlBBMDdtOVRBblFzdmhHaU05Y3VFc29vcF94T2ZTUHRnVWItZm5EWnJVXzRRQWc?oc=5
+- **2025-11-11** · [Unhedged] Investor angst over Big Tech’s AI spending spills into bond market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDhqbXhnczBmdElnZmVabjNQQkNERjFRc3N5TkNvMDhBSjV0WnRMV010dzJQd0dCM3RiSGZCbHd6RllZdE1LY3lRSG80VTJxb3ZnOXQwSHNDSDRJOHlaYmxzTFRWV01RX0NuVDVaQjdfOHVSYkVIMk1Md2RweWRmVlF4S2g?oc=5
+- **2025-11-11** · [Unhedged, Lex] Why Nvidia should be glad to see the back of SoftBank
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3VTbXFhRWxHMUE0X2NLV2Jic2FidVBJbTdQOG5UN3F2eFR0ejJaNWxVRC1vNjlBbFFiM1Zaa1lqMVpFYWVBWHNCTmhjQWRPOVZWM3VlQjI4SWVuU2g0QzZkRzdpU2R4Y05JaFZoajJLcE5LU0NIQ1dlQzJRMXZka1FJSEw?oc=5
+- **2025-11-11** · [Unhedged] What if the AI race isn’t about chips at all?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW5vdkoydVA2anVaZ1RrVXR3eXJOaE9SaWI0NHhOZHU5OWliRTBZVW5ZbEV2MlJ0Nk1lam9nUUJDQW9XVjFndm9JMEpVZGNTcWt5aEVUbmdaZkdoeUlWS3JjMTJ1V3lVWVlIcTNCdktwbUZrLUhvVGtCaDRCTGQ0WEl6bWo?oc=5
+- **2025-11-11** · [Lex] Disney and Alphabet’s football fight will win them few fans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDFFbXU4NEozUFpwdmNVaW5Xc0hVa0wyRHZCUERlUG1UYTlab3RHeVNSaUNrVzZydy1PbjRhazVjNjBfQVZ6NjJodEdGbFo1V0huZVVJUXlFaWs0VzEtZEpWMmw3RjY0S2V3UFJoNWRvVm15bi16bGtxc2gySi1HYW91WHY?oc=5
+- **2025-11-11** · [Lex] Sony launches cheaper Japan-only PlayStation 5 console
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHNjem1UakVSdVRfRWFEa3lhS25DSVNPbVo3V1YzNkJYV1RzbGNjNWJpZHZYRk5YM204b3lfcDVYdlprZDkyUzdPSDAzMFdCaUFMODlxQjJBNUFRSDV2eWZCRENYUHdFU2xHeVhEY21EOVdMcnRSMUl3XzcyLXVZa0tWSEU?oc=5
+- **2025-11-11** · [Lex, Markets analysis] The global south does not need a new credit rating system
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE80SHhmNTZ0dHMwS240R3NhOHhyZ2FybURvVWR2LVBDdnRVdE5RdUFkendkZ2Rqdjd2VTNFZGdZMkpfcVdGNjVSUTZHNUlXY1RBeUNaenhGamJzbUpQLWgyc05yTUJkYXVLNHdMRFpjZFc?oc=5
+- **2025-11-11** · [The Long View] Markets should pay heed to the affordability squeeze
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZURTa2x1cHpRWmNIUjVDam5EWXNWVlIxM1FqckR6ZThMb3paSlBRZmE3YXlMZDhLTGhVZ0ZqT2ZXSmkwS1FCTGtOdVU0R2tQXzJuN2FqWW9pWHBsMWtNNVVKeDEtSkF1bkhsck9QaUhQcURVMXBIMzc5UGVsTlQ3OWxockc?oc=5
+- **2025-11-11** · [Markets analysis] Europe’s companies need cash, but the retail market needs safeguards
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1MtbFByaFU0Z0dyblZzYklITURJYVhMcG9sOVZmS3pZUllrSEpBN080MURlcFp2R0pGc0R4MHc1dDN1bHVtUnVrV1QtYkk0WkVkZkhINVRmNGtPaWhNb0tXaE9lMDJ0RnBoQlBpcE1wT3c2QWM2UGxsVi0wa0F5UE9McUI?oc=5
+- **2025-11-11** · [Markets analysis] Private equity group Vista to cut staff in favour of AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY2RPNDVWUldpMDZCaFJXaVlYYUNzNWxlcUhjYUVUY3F2RTBWdTY0NDBBczdPTkNVbFVMcUFIRG85R2hmM0ZHOUJtN3NzYTVqNFVJdGZiSlQzYWttaWQ5YmNQTk83QTlCU09fZ0pJNjd5UXBLbnhSR1h2UldpYVNWbVBtUDQ?oc=5
+- **2025-11-11** · [Markets analysis] Bank of England’s Andrew Bailey says QE will offset its costs in long term
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2Z6cE51aGo1V1hHSGtkY1lhZEdkRmh6TXp3RG9TamxkZjRqSUFMZEhPb05VV09udm0xUUdXSnI5Ynh3YVF3T0s2SEkxVDhUSU9GN0tnRXFTaG8xZ2I5YjlZZERPSzBGdDNBM2Vmc0NaS05GZG9zN3pIRjlzNFhWVDZmUGo?oc=5
+- **2025-11-10** · [Unhedged] Sanaenomics and Japanese stocks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnNjUTRfMGJJWWZSVzNOZEVkclVmdV9iZjR3MjBkbmV6N1hQTGhNRnowZnJoYVFHaXpLSG1hX0Vkak5zcHpESXlnZDlVaHQ5ZmxBMlhVVHRxbXVIMzJLUmliREFDbHpOR2w1djMwQkF2ZVZzVkJ5MlV3UUF5WE1Fa3BjdlQ?oc=5
+- **2025-11-10** · [Unhedged, Lex] Gold rally tempts jewellers with a literal debasement trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZXFyLTZDOXJLTldfb3NiQTFnTWg1bDhOV051V0Y1X2hfWDRnYWxYUmEzNUdaQXJ1cHJGZTBqUnNIckZ2QzZmWmRLejdkdVNUUnJLNUlPZGNjMDg3MjMyRmdaM2lzZHhXR2EyRTBQaTYyTWNlaElReG55N3hxVUF5U0kyOV8?oc=5
+- **2025-11-10** · [Unhedged] Warren Buffett says he is ‘going quiet’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkhrUFJ2VjJUb1VVcDN4aG9rNHdHVG9qdXZra0REYmgzaTNqZXZGTHl1eGEwQnl1MkZxdkFYYVVWNjgyRzFmQVROSkZjc05pMGRRZk05ZHB3UTNWdU5mOTB0M3ljOC1GVzRTX1lreVBYT256ZUp1YXN0WFBsOUhlUkxSQ2s?oc=5
+- **2025-11-10** · [Unhedged] Rating the rating data of credit raters
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE90ZUFUYWhKSUZBU1BJdFFOTUtna2ZRRzFTN0lrQlVNcF9sLTk5cHpUb0Fsd3RKS0N5djV4UE5oRGtvTURMWFU0Y2pnSk5QajcyRG9yVnBrMTY0cVNnV0xwaGdJU1MwNTJJMTV0Q2tzR0M?oc=5
+- **2025-11-10** · [Lex] How ‘Drastic Dave’ can revive Diageo
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTFNZlJpZTVnUUhqS21BVnpOV2x5cnRxR3ZhaHdfZm4tMXBPMTdrdVBXOFY4WEI3dG5maDAxQkRlSDFjdmtkbm1JMGpzYzRDTVV3TXM4V0l5ekV4U2hWM0JjazFOY1YtZVNtWm9OVFY5WXptbGxZbkxVeW9GRDdfQ2xTd3g?oc=5
+- **2025-11-10** · [Lex] Apollo to acquire majority stake in Atlético Madrid football club
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOajN3bDcxQ09KQkxpWHpfNHFXU25VSGpFTlJYQjkyRWxjSDN4ZEdCY1EwNXhPVlpuZW41S0VYSDlQSm5nT016YjVYT1lEcFIzYzFKaV9idG9pNmQ5NzBpV3Z4NWxqa1JjdzFZSVl1YUpiTUxYeThJZzBwRXZtRVkzQkFTZFU?oc=5
+- **2025-11-10** · [Lex] The coup at Sequoia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU10VkJIVVpKUm56YU9WNjR0RHFWNGV4bFlxaE1vNkQ5Tlpjc3JjalpUcTZXcEJFZjFidXpmMDliS3FEZlNLWEdfNW5rS21fTENNOHc0MGVxdWxFRkoxUnpIbDc0azFxeDRweHN5SWlPRUNxYTVNeWxMZzNaNXFFZktHVGg?oc=5
+- **2025-11-10** · [Markets analysis] A tale of two Christmas adverts: Coca-Cola vs John Lewis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkhEQ2k4aTNpb1ZrM1M0ZmFFNmw3S3lEYmlTcmFXWktORjlSZkZxN1gyZ1dqTzlZRUU3SVltYk1rY3VPS1pXWHBpajdiUGY5ZmZUMDhxakprWjFiTWd0TFdXSHdTYXJNWUJxbXhXM1pGNjJJNjhuQnhTdzZUb2pFN1k0U1I?oc=5
+- **2025-11-10** · [Markets analysis] Cap on UK salary sacrifice benefits is ‘short-term’ choice, warn experts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnemxINmQxM0V2WkxtQ3F2YkhNODRTTUdxVzhmVm1kY2xYOXdmbWRYbzFudmVCY0Jkb09wUXdFUTh6RHFma0NEa29tbkdxMmFldzJQNDlFVzZhNjVhbjJtazBGNU1ab0FJS2pwZVN3Q2F5RkcyWG45Q3d3QTJ0cVl0clA?oc=5
+- **2025-11-10** · [Markets analysis] Lloyds used data from 30,000 staff accounts in union pay talks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb2FEeGVxX1lCLVM2Wk50VU96amo3dm1JNlYtRG5teFo1dFVDNlhXb1hqUllEQ1ExTFVyaWxNSTVpR0tRdjNDS252QklYRFBoSk9CMFJTWUJMMlZtMDVGMExSSWRXNFBmTXJFcG9MRjNVNHpzbHNlemRuT1o0ZGVWLTdGbjg?oc=5
+- **2025-11-09** · [Unhedged] Is human imitation the right goal for technology?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNREwzeTZvUkVvbTRuTUszSi1UaVlKMUxTNEJ1cGQzaENOeFg5X0gtVEs2YlFjTHBNUTRjV0NRWHBnam1nb1g3MUdJM3FyYUhBV1NhM2Q3OVkyMm5jbDNjOHVLUDNmZ085Z2lzQlBkYURaT05QNm9GZXJ5LWM1cVRva1RBTG0?oc=5
+- **2025-11-09** · [Unhedged] Voice phishing is AI fraud in real time
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1pT0t6NGxIMkhmWnBwN0VNc1RTQTNBcEN5cDhyWVlLNllJUFZPS2pxWVZwblJSNXBOdmpHRDdtcllzS3NPZThzY1hNZmJUUUJPQnhJRWxDOHh0SUl0LTgycHlCUzBtamxDZEttUzZSTmk?oc=5
+- **2025-11-09** · [Unhedged] From AI to ROI: some positive evidence
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB1UG5aT2RHdXdnODFSanREdnJwWUtKQ2ZmbFk1aXp2SVgzalhET09ZRDZ0d3ZNaDlvU0JyVWxNSXVPZENoVXprZ2VQMmhLUHEtZjZqQ2Y3djE4MDFzVl9qanFXd2JjYmV2UWQ5RmNUQTE?oc=5
+- **2025-11-09** · [Lex] Robinhood wants to allow amateur traders to invest in AI start-ups
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcURWNy03ZmlqRWs4TGYxTXhlYUhhMzR3Q0duTC1IZi1zZW5laWdYVk9FNnNJNGZOU0RCZlNEX215N2pCMms4NnFybGdqY1FBRU56UGdRNnBRTU1hWTJ5c3FvSHBfLVVIQnBCSG9ZNWhnSHZFUXUyaEliX2RLSkpMR2xHZUc?oc=5
+- **2025-11-09** · [Markets analysis] Business school professors’ picks
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBQYkJOdk13eXpONVVJbTgtelFtM05iaVM0cFpIZDRRTVZUQ0drU01nX281ZVlfSGZHWlNSUThLekxsbXAxenhGWi11LTV3dFpnX3JhX2N3cnQ0cnpxaEwwR0dSc05FQlZPejlidjdmeUI?oc=5
+- **2025-11-09** · [Markets analysis] The new crop of rating agencies behind the private credit boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0pNeGJfeUpudDJ1UVAzWTZIMkJsQ0FMSkpoZjlrZThYdl9QeXhzbHJjdzlRRzg1dVl2bkZ1YmFwSFZYZUZMMTFoOU93VUNvNlNRbGY2SFRfQXMzM0ZvZjBtb2xwWk81SXVjN2lDYTdDMmppWjBpZkpFZE1UNzREMHl4c1A?oc=5
+- **2025-11-08** · [Unhedged] Gulf between rich and poor risks US downturn, Fed official warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHRIcmdKb2ZMbnFMWjRzbEd6Yl9qYzFQc1Z1NHpmMVg5Wm0tbUtEODZFTURDdFNYMnN1TmFoRlZZb042RmxjY3NQQlptcl9RNHR0R093d0pTT0dIT2p2M1VyT09YY1F0T2JHTFRiTDhfMkdYWDI5bi0tZ2tUVGozbzR4Z2M?oc=5
+- **2025-11-08** · [Unhedged] Demand for secure crypto devices soars as hacks hit record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHJCQVNqX0FwbDlCOEdNMnJENE1DN1hQa0dyWGJ5ZXhNQWk5RVNXeXFLaHYwX2NFajhueF9yTkJTUEFScEctTDcwbG4tU0ltMWthdVRlcEVxN2VsaS10THZ6alEtWmtDU25RbUVXTHZRQ2NvQnNCUlFreGNaMERxdXFmamg?oc=5
+- **2025-11-08** · [Lex] Lloyds Bank’s landlord experiment starts to earn its keep
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVxcG56Ti1KU21mTWRCdWhnVWpoMTc5M2lwdHRQeE5SVGpWZVNxc1FYaW90Xzk0SmFxNG54NDM1RG1CZ19VS3ZMUWZtWDA3Mld1cXZETU5CdXNLNU5BVXRFWm56aU9JY0VkTVd3WS1Caml5VXBMVnBQaW43aVJMTlF5NUo?oc=5
+- **2025-11-08** · [Lex] Pfizer wins $10bn bidding war for weight-loss start-up Metsera
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOENTY0ttekFUMnF2ZE9PQWppTnU0WkJDZEVqbzJnbnkyUDVOck14ZWlxSVdEMklGMXJWcktfeE00NEgyZVdURW00czJyLTBoZEZncHg1YkZZZVBTLXBEWjJMTDZINXA4eUROR3NOUms2TUx0ODBBMVoxQXRFSFlyT0szdkE?oc=5
+- **2025-11-07** · [Unhedged] Maybe some repo ructions could be a good thing?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5DeW9rdktiX1dDRkRtS0xmMU4yZURMVS1LUzBpZkthM2RzV3N4d3RFN19FekFYQS1mRDB4NnBUdy0zVnNBd3FFX01xVDZnLUdFM21QZkFMMVBreE53Qkt5bDF5RmNBNlB0bVZHWnVhd28?oc=5
+- **2025-11-07** · [Unhedged, Lex] Snap crackles while Pinterest pops, but both are a solid bet on AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNE9ZQ0l0SHgta2YyY2ZscHI4d0JjcEgtWXFNbWdCZ3QzMHZ3X3UxRDdfdmh3VlZlTkJRcmRwQnd6c2tDMTVNdzhxY0stVGx3SGdmWWppZlhac3ltRmVHZjhOMTZBcVFMV1BBQjBEN1JoQ19UUTVjeG1LbHpYYUU3X1V2Zmo?oc=5
+- **2025-11-07** · [Unhedged] Tech stocks suffer worst week since April after $800bn AI sell-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWZXU2xFVkFKWXU2azZWLXBrcFUzVWQ2d1RfcS1yWU40d0dJMW1mcHNhQkwzbU00UUZUUWl4cWVwSXpiNklkWTZQQlAzeEhOWEF0SEprUnc4SnFXblVDaVVOdmdJNTRScWc5VlcyYWNwTHg4bk5PeFkwcGU4eWdrTUxibHI?oc=5
+- **2025-11-07** · [Unhedged] AI bubble: don’t throw the baby out with the bathwater
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1VfMUF0VEpZR3o4ZTJKbGdNbm5XcHEyVVV0WHRPT3VEUk1oRVg0cFlJdk85WVo0LUhsWjFhdVp0eDU0SUQ1eWpjTHp5N3FucW5ldFZkWlRpREpqRm5lYm1ENXM5LWtZYnFvZUJCM09qaHZ0RTRpMDJLUDNZUHBtZ2dkOWg?oc=5
+- **2025-11-07** · [Lex] ITV’s kitchen sink drama may yet have a happy ending
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSE5kR3JTdXZhU1BNbEN3RHB2d0JPLVNEVWR0OWlzMHE3cjZaSXpuMVM2d3lyTDlWcThkc2doSk5yTFQ3MjJqVnd5b0J3N3ZDMWkwVzJVNVJwSWVyVEdYdWNuVVN3MEdJeHZOdW1STDA3MkljYWVQZFB3VjhlOWlNVzlIc0k?oc=5
+- **2025-11-07** · [Lex] Diageo battles investor disquiet on prolonged CEO search
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUi0yN3JGZHAtZFNBdWEyenIxc3ZXYk5laXBQVDJhS2N2NjV6eFRPbFZ2Ql9wdHBtS2x1bnl3YzByWXVkZ3pjMnplVXZYOHdzaTVBMExSVkw0SE1kU1VPR2UzV1RtaEpZZnVxVWxoV3pUdXUwMG1HcXdoQnhVdnF6Sy1sUk0?oc=5
+- **2025-11-07** · [The Long View, Markets analysis] The unsettling message for investors from the financial cycle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONjA0bW1PcVNMRjkwdXRQSElfNXNnaVREUTV4RDRod2FoM3JTQk5nTXBPT0JxTWM0Z3R6b2o3UlJfeElISG90d29aWGN4UXZnTjN5VXFoUUFYRVdPTlpNYUpwSV9tVnZ1Y1A4THpBaE9iVmRnc2xUZElnV3g0dFM4TUEwb1Q?oc=5
+- **2025-11-07** · [Markets analysis] AI’s awfully exciting until companies want to use it: Rightmove edition
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBLVkp6QnRmcFdtbVFDajV2Q1FGcnNDRGFDWU5XVUtVbThVaVF5bEN0SmVxWGs0RFFvMDJkZUNodkk4Zm1MeFNMWkxqY19QaXdnS0NMRnF4amZFWkNaeFhfVlRHQURFbVljOWdaXzJLWWE?oc=5
+- **2025-11-07** · [Markets analysis] IAG says US market is improving after summer air travel slowdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGZLRjRCX0g5TkxZekNrMndSclpXTlJLbnB1bUwtbEVaaFc1a1pDRFp3SVhRMklMYi1LYkhjbnpFUGF6eDJkR09hZ0c1clF1aXI4d3VNSVE5Tjd2d0lEbGhwTjh5d2JzVEM3RmJfVGJvUWIyRVgwcUhaSm5MSk9WUllCRHg?oc=5
+- **2025-11-06** · [Unhedged] US adds silver and copper to ‘critical minerals’ list
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUp4NHRocVFBZjJiUEExSEJZWnJvd2hWWlphUlM4MXJwYVNVQmx0aFJKSjJsUTVmMmQ3a3lNa2JCdVJJNUdhcW0ycXE0QlBpTlNzZTNDdUk5aWRfVjVFNVBfVGNxYm9naGluR2toSGtxTVdmNVZrWDZ6aUhfNFEteHhMZXo?oc=5
+- **2025-11-06** · [Unhedged] US stocks slide as tech jitters return
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXBiWnRpdVd4VkRLVXlDSGdkWHJ2a0FuYjBvRFV3aml2MjlYbkYtWFJ0NmxuTUloMHV0bkxFTXV4eGFBUXViVkpOX2RwQmg5MUoxOXJaYTlqVVQ3aFJBc3V4ZHY0X3h0Ym9pZ1Y2VDhNMTdnYVQxeDFOUDY2ajd5SVQ4cjk?oc=5
+- **2025-11-06** · [Unhedged, Markets analysis] ‘Best way to describe the market is bonkers’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBGWmtpYy14RzJTSEN4bVlaemtRVDNaNVhzbGdSWHhlM2VKSVNvQ2ZSZ1MyQzFaTHNmMHNYenZnbDBUMG9UODB2T1haZUFZdWFnLTdDdlJvWnJ4SUc2TWEtZlp4TGhRaDV5R214SEFTUG8?oc=5
+- **2025-11-06** · [Unhedged, Lex] Who’s right about AI: economists or technologists?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmw3cUdLdGFjQ2drUHkxR09ybGxtYVV5MXplR01EQ2hjSVVzV29PanVkMjVqZ0xKMlBFOHBOaHlGUDF5b09rajVTOU5sSzFFdC1IZjg3elpLeG5LZEhadS1rQm5Rc0l5S0gwZ0tsQlZnLXoxMTdybXBxeUtjMnI2YkdiSWw?oc=5
+- **2025-11-06** · [Unhedged, Markets analysis] The quest for an anti-Trumpian economic consensus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzlacTZpZFFMYS1hWGsxN2tfMzZMN2NGdXJFSWFkOURfOGljYTh2Q1BUbE9vbVNDZUxsc0dZalRNNGVVcjZocHVtazJlcjFLTlVMUDBkcHNHUWxSb0NFQm9DWjRVSDhLZXNUSmw5V1dOQW1tQkFtZ3BGbmJ6ejRvWVdnNzE?oc=5
+- **2025-11-06** · [Lex] ‘Perpetual god’: Gupta trial reveals cash crunch and Greensill reverence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGpXWldEbng4czNzbVR4RmtxSkNEMGpCem9JV2M4bWN1WFdVR1NSX0FQRnhHZHdqSXhhMU1RemgweklvaGk3NFhiZ09PQ0l0eXd4cW5NY2k3dVpsZnFoX3FtNEluREtqTjRKZmpMa21uTTdkSURZb0tyNnMzYmxDU3NFX0w?oc=5
+- **2025-11-06** · [Lex] Diageo cuts sales and profit forecast on lower US and China demand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbUFWRlJSS0xFQlRMcXRjc0VjNmcwWDY1VmIzSzE1Tk5lSndCa2JWaExnZGE1a09VSDExajdxWUs2ZEE2ZXdyM2pZVDlqdFp0bi1MdDJzS21vMGp5NmFhZEhweDBTZE9ROWRsOGhDdEVsb2x2ZHFwY0dPQnZOVUJoVWQ2Rkw?oc=5
+- **2025-11-06** · [Lex] Novo Nordisk challenges Pfizer to raise offer for obesity biotech
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGtpdVlteXJkTW14bmRMa2hudWRjN2syelB2TWRxT2F0SXNWZ1BIZFhfcm9DTklzTW0wYldYbEc5dVdhODh2c2N6akRjczJRSFZacnl5UE5penN0dXBYajIxNnpVRGxXUkFKMDh1SzYzN1paLVRzdmNIWFpuT1VzZ0wxbjE?oc=5
+- **2025-11-06** · [Lex] Tesla shareholders approve Elon Musk’s $1tn pay deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOXzZTaEp1TzdtT25DX3JRRllPUzh5UU9qTHE5ZmpIckUzM281bUpZTzlVMWdiX1VjNDA1eldxQl91a0ZfSlR6ZmM0LVV5amVRT2VwUmpYVnMtNHcyV3F4VXJCY1dDOGlSbzNsN2w2b2RfejFFY3Y4MUpYUm1tenBKWG9OU0o?oc=5
+- **2025-11-06** · [The Long View] UK interest rates coming closer to levelling out, BoE governor says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHBFaHJKUU1XQjZtS2VVR29FNjNKVWFNS1kwYjlUU0ZmbnFsZnhmNmQ3d1VCdW1lejdja1RER2FRZEgyVVdBWTZKUW1fWXJyTjIzXzBmM0o0akhkWHlrMlMzSWc5bzQ1dnh3WDRwd3hSOFRlVTRfUFBWalFZYjhOMXhZZkc?oc=5
+- **2025-11-06** · [Lex] Leverage Shares 3x Long Futu ETP Securities, FUT3:LSE:USD ratings
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE5HaWRhVWYtV2NQZFBqNHg1UE1YZ3ZMRzdUenR6ODlXeEd5VUZmSHpTNzFYeTRWZ0FEVjVpaVo0YTFTb2RWYTd2OUJUVVEwOTRtTE0zT1hSdWkxd1FVQ3hSMm12emphOFprVVhwRDZrRTIwM00?oc=5
+- **2025-11-05** · [Unhedged, The Long View] China borrows as cheaply as US in dollar bond market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0h5dm1sVDVzVjduUXR1eTNuTkc5UENGeDFDdGZEUU5zZjA4d1JIVE5aRG1kSFM1NUlNZGgxUk0zT0JNRHRYbnlObnBSdEpobWd5TXFnMHdmTGVwUktraVNWWlRCN3QxZEYyUEZYelJZbTNsSmNWVFJTVHQ2bkFXb0ZtNUM?oc=5
+- **2025-11-05** · [Unhedged] US and European stocks recover after tech-driven sell-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVNuVHl3eHhrcjhKeTlIVDR3ZHBkTzBhOFBGeHZaOERkZFN4bnFFeXROTUNlcktQblNTbUxINVhsNVVmSGUyVnB6ZUF3aFMwbTQxdXJVc0FqektDSmNyNEh1RXphMTlmQzlLdllvekpyZWw0TFkzWW1BVERBOVZEVTdZei0?oc=5
+- **2025-11-05** · [Unhedged] Leverage creeps into gilts market as insurers seek to boost returns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2w1MHNleTB3NGFmeDRfN0Q0RkR0TVFEcFgyQk1DeUNsY0Vqa3JNRzVWY1JUNjhJNU8yYjhPODJadjVXN1A2d2tKQlpzVDFMUVlta1JwRFdlcXZoODNSd2RuTlVjejFfTXVScU1jZGI5WTNVM294WWR4UHVydnY0a2tsVlQ?oc=5
+- **2025-11-05** · [Lex] Profit rise and buyback boost shares in Europe’s largest wind turbine maker
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTk5tVXZNeUg4X2w4YkduZm01eVRnbmdRb2lZVmhxTFBoUmhuNnNHVGpIRkdTMG0zeWQ3TXRhOXNfblRrT3dSaUdSanc0NWkwZTJhb3RTU3pQb1ZiYnpWQ1JFanlYamtWTlZHeU03TExqSS0wY2JyWno5d1V6NmFqbEM5QWw?oc=5
+- **2025-11-05** · [Lex] Snap shares jump after $400mn deal with AI start-up Perplexity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnZyM3dSZlF6TGRnakx6OTVLcDVEV0loQTlaUVJDTjlsQ0RESjFLRE0zd01leEJmclFiWFV0UmM4Q2QxTEJqU09LM0ZtYmdUU0tzYXNBb3FwdGpYQ3ZCODh5V29oOXhrLUV5WEFlMHNoNjk2UkNCZFBDbWNhN1VjSE5WOXk?oc=5
+- **2025-11-05** · [Lex] Nvidia’s Jensen Huang says China ‘will win’ AI race with US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDZxTE5YeWRleDIzaEo3Ql9QYW04QUdscjd0OTA2VzRObWp2dXUyN1FMWEpwSFI3ZXRldW5PUXBJdkdINFhYeUd2QVYwV1hXempZVjFBXzN4UkNobE01QnN0UXVhU2FaajkyQnlHVmlacm5lay1wM19EUm1RalBzbHJJNWc?oc=5
+- **2025-11-05** · [Markets analysis] Thanks for Watching!
+  - https://news.google.com/rss/articles/CBMickFVX3lxTFBTdTQwQnVzWWE4YjZTWWV1VU1VakdoMTF6ZmU4WTdfLWwzcWVicUdwY0pxMkZDQ1NuVkdLMVBSRXJTRlNORjZGM0hlTWFmQVY0S3FpeEUzOUhEN1FuOHZGbms4NjBYZXdiY3dvNXgtSXU1Zw?oc=5
+- **2025-11-04** · [Unhedged] Michael Burry
+  - https://news.google.com/rss/articles/CBMib0FVX3lxTE9qcGlweFhXamRwRkxoanhDcldOY2pvV2dBOHlwbi1vYUpZWTVabnRzekkxbWlTU1NPVDJ3U1pnVEU1MGNabzJFM2Q4dXRiSXNlZlh1ZUc1Mk9ieUxUQ3VmVWljY1o3TnZZbzlkSVA2dw?oc=5
+- **2025-11-04** · [Unhedged] US stocks slide as investors fret over high valuations for AI companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUJlT3BFOUl2alo4b0lyNC1LbUxxUnIzTDFMdjZLaG1IVzNoZXR5WVl5bWQxcG5mNjlWNk12LXFESXg4SDRhWFEzV0k0Zjl5R0JmdkJ3R1RGSExoaWY0bHBhOTBjNzZFbmtMUWx4ZjI1ZkhfTTJyOC16eHp3cVFVcU0tZ18?oc=5
+- **2025-11-04** · [Unhedged, Lex] How many ‘bragawatts’ have the hyperscalers announced so far?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZlI5SExlcmd0bU9EUWdHOU9sSWFsakZtMTVOR0pXbEJpUW1vWmVQeXdJbVAzOXhQRF9VUHNxT1pNcVp6Qk5ZNXJXODZNZ2NwZUthYmFWVG5JMGZHUTdFdWxMMlp1ODZJQmVVTDVSTG0?oc=5
+- **2025-11-04** · [Lex] ABF explores spinning off Primark fashion chain
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmxRU0pzdzNuNWNxd3V4R29RaGJ1QlBKX1c0S3Q3c3BYOTdkZ0NVNmk2elFSdzlsYnVfb1hZVTFkNW5kdnZrQzMyc2tRU0FnZ3V5a2ZjZXFSY25yYUVwVmlZS3lEb2U5cWNQZjhSTkpPNVVRR3FjbjNoYWtXMmtIVERSUFA?oc=5
+- **2025-11-04** · [Lex] Starbucks ducks for cover amid China’s coffee wars
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMG9LeUlESWl4WG5PMU1FTW1JWEx5cnVQRXRhYkRaZFc0UG9yNURRSUxaVTFzQzJWRmVENTQ5Y0VmeGdpTXNNXzV4cThjVnNrTldRX254M0NodUhmb1FkUHJNYjRrVm01VzdWN0ZmS2VKcjZBT09peS1KM09ObWtlNWtpUmk?oc=5
+- **2025-11-04** · [Lex] VW starts developing AI chip in bid to claw back China sales
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWJ5SnZQLUNOSmVaQThYRTdMWlg0YVRyLXpBQUM0Q0c5cm1lQTJXZ25ZNnRLOHplekdyVVNSZ0JxV2h2SjdPQVhZX3pFQnVaMDJGbGRzMFVGazVTbk5YWG41NjJjTlI5d2NPNGh5QldIUTFxTVJISENmeTdEWmVfdlgwTnM?oc=5
+- **2025-11-04** · [The Long View] Britain’s ‘fit note’ system faces shake-up to get more people back to work
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGtsWXZYU3VVOVUtZzlNMHppa0xDYWpMMS1Ea3ZpalEyNlNBMHFjVm82S2ZidGIyVjZlOFFXOW5kM2xhVHpQUGNCVUZKU1JpQm0weXZZTU1BY2lvR01raE5Sb2tZOGZ1dFJWN284YVNZNW4xSmtiTS1zRkx4VmkwckNiWnM?oc=5
+- **2025-11-04** · [Markets analysis] Why the bond market still relies on voice
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNXNjUFlpRmREN24xQ1k1QWpxdlo0OGVvdkZ4NXlCdjRpMU1SMUZGalRZR0N2OHM1dWs0cDhmZnB1QzFpVmNwdFhzaWdUQjE1V1ktT0g5SFhtMkpFZE1FZGd1MFFEaGNYdWs0ODVWamE?oc=5
+- **2025-11-04** · [Markets analysis] Palantir shares slide after Michael Burry reveals bet against stock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUm93WDE3Zmt6X29jN0pSbUNBMWluQjZiemtCM01Ga1lKUEhVTWxNWjhTbWZmclhWMTdsby1VRlZlN0hHYm9tblpZanhldGoxTUNRRU1PanVfdldmQWZma2pwY0RJWHRBTWZjRjREbk9xMHhla2U5ZWVfQ0ZrRlZkTWdDSVk?oc=5
+- **2025-11-04** · [Markets analysis] Will higher defence spending boost the European economy?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWF9mTkR4WkdXUVdid05aOFF0Z1VwSF9DemVwdFlxRUIxWFhiN0ZXTTBLMDVpcENGRVkxUTd6cmhwUk1TZ0lGWDgxUGhTUDF1SEdHeTVpaTNDTE5WY3JPc3AxOFVMdlhaNlZlLU85OUx5VFU2NmFiZDV3MXA0Uk1HLU14TVo?oc=5
+- **2025-11-04** · [Markets analysis] Thomas Piketty: ‘The left has been a victim of its own success’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOY211U3o2UHVPd3Nnb2t4OWstRjNud2N6Y1BuLTYzZDFrOEJxM2hqOVltdGx6cWJrbEtVODhrNEFrWjkteTFGc2p5NXYtaVJxNE5aNE93NUxTNVVhUFFuOHBURUVUTDNoMGVPUkxMZFpPVjM5T0JYYUZaa0gwU3RVSjBSSjE?oc=5
+- **2025-11-03** · [Unhedged] Crypto’s ‘decentralised finance’ sector at risk of attack, warns Chainalysis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1VmcjVXLUhPSWhhdm5RYk5Cb2RuQlZOQVA2cVlMMWNXTkhxNjc4RFhxeFpLZnhPN1R2aHpDSlJVODJWeWgtZ2xUMHloUHNMOW4xMHY5ZGZVWjVuRmY5a2g5RGV2djZZVUdkRzZNYTRRck5lME1JZ3FQTlZXZFlLU05nZG0?oc=5
+- **2025-11-03** · [Unhedged] OpenAI strikes $38bn computing deal with Amazon
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXJmQzVtN1l0Yy1tN0tkVWJJTDlvZjJ5T29SaEFjV3llLTBwS0Fidi1DNWEyYml6dDc1dXNJdGk2UkpMNmViVThYVlVaY3RNRmcxVEtZbjRiU0NXQjVLdVB2Q290bHVfZFl4akRzb0t1QjFiWU03cTlVclJoMHVVby1MLWI?oc=5
+- **2025-11-03** · [Unhedged] The State of AI: is China about to win the race?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmpmamt5TjhLNnBkMm1CNnRieDFaYk5ZN2UzZW01ckJRVHFxMTZ5Vm1iNzJpU2prWEszOTdiMkU4RDdyTVJfYWpIZHlVYmR4V3Y0a1pVeG1jZDVIWXg0YWRJVkZfZ3hCc1M2cG01TTFGZmNtbmo3OFFuUW02LU9Ud2V5OUc?oc=5
+- **2025-11-03** · [Lex] Kimberly-Clark swoops on Tylenol maker Kenvue as US deal spree accelerates
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzFTNUdRc1kxTWJpc1FfcWVsZW9QVkdKRUY0eWkzMW1sUEVNSTVZd05iaVlfczBsYUE5NHZucWNETkVCa2RHWHBlSDZQLUZkME41OFplbGs1UUxEWmJNc0dDemFfSXlCblBCQkhaUl9jSUw4N2dDaHpTb3pmeGpJVFVhOXQ?oc=5
+- **2025-11-03** · [Lex] Eli Lilly calls on Europe to ditch clawback taxes on drugmakers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFRnMVo1ZFJ2ajJvazE4ZzlkSlJ2SU0zQTVzYjNfbkFNWTBBSGwxTzJvS2xtcy1nNmszRjBfZ0dHT2NlcnBBa25vbXlQUkJYdGJVMGNoU3ZUazBrcHhxMy14Tlk2N3hfaUtva3F0eG5zN19EWUVrYnNLWEU5R1hDYk1oUU0?oc=5
+- **2025-11-03** · [The Long View] Former Your Party members still waiting for fees to be refunded
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzlSVzVhNG9DR21rMVIxcUQxVWNlbk0xVDVibFBWU05SMUZVaG8tUDV3Rnd6clg4WWN4aFlpYW1TWkgxdUZFbHp0ZGQ1RDc4RFlQTnlBTVU5eU9wUUExWlN3MmdabEgtMW9rLWJhdlc0Z0V2Nmkwd1Z1ZXQxMm5YQ2JOLUc?oc=5
+- **2025-11-03** · [Markets analysis] The far right can win in Europe but it struggles to govern
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzJXcVlYYXRjVV9MZ0Vma2I4MW1USU5rV0J1WDF1UldiTlR1T1BPVkh6TlBiWWpLdW1YQXZVUk02ZVF0M0s4NVlRek1hdFZVWElfWUZvSGhtNnpSSlM0WjF0TGZXX29lWjVTMVM2SUVFdXd0cjA2Tk5rWkpDR0lqQWxBRDI?oc=5
+- **2025-11-02** · [Unhedged] Lay-offs and AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPclA4djN0Q2xzYzNuSi1XZ0tIVnUxQjNtcjVuSFBOSjdIaU9uWFhRemUyTVZhbTl5MVZ2SE9VSlF3UTN0UTVvaFBLcTlvaFRqWFlrZ2dqNlBWNkFQRl9PdDZTVmxZcDFTQ2otNG00WGlXdmotYzJ6Q3pvcFZTNWJvRFhOYkg?oc=5
+- **2025-11-02** · [Lex] Investors need to look beyond the ‘bragawatts’ in AI infrastructure boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3I2U3hmNzR4NkVrYTFRRE00a2wxUEVuejNqcjhVUENDdW9ONnl1UTJBNlJFVVNrTUszdkZmeXd4OGx5endybjV4ZTFvZXBmWlBSMkM5V3JMSk9nSlU4amhjSDBVVEd0Y3B5SnRaMG1lRi1DWDY4d0FHTmUzUzktS19MMC0?oc=5
+- **2025-11-02** · [The Long View] Bank of England expects closely fought meeting over interest rate cut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDFNUm9xTE00SXEyMUU5VGFNNkRNWnRxdklHb0I2eFUtSWNCazE5ckpaZWxjNTRha3c2bEZjU1dBQUg1YlVWOUFNbURiR1N5UzlZWFItRTRRN0lxOWlPSGkxSFE2OHdOMzQ0S2t0WWxjQVlEYllaN2preGVET2VkS2kzSnU?oc=5
+- **2025-11-02** · [Markets analysis] The economic upsides of Donald Trump’s second term
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3d2cHdCTGFYTE92QlFRY1JUdThRbzBaeVhXTDV1UUpmd3RLa2pXVjJIa09JX3FMM0ZEYUVhNHN6M3FWSWZycmtrQm1jNkl2alVOamFOMGJHZ3dmZnFmazAyc1F6UUtEelNfRTBkc00xSmw3OUt6ZW51cVlWZUZPYWJIM3Q?oc=5
+- **2025-11-02** · [Lex] CT (Lux) - Global Technology Class DE (EUR Accumulation Shares), LU0757431738:EUR summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE10eG5iYk41NFRlYmowU21XbEhuc0hJZmM2OWQ0Rlp0bko4bldxMmpaa2lqRGlOZUxLOTVaNDlZc2dUSWkwZUNWdTY3Sno5dVlxaVdZZl84c2FVdWhwc3M5UVdLempjel9ldS1RQUtJZnZFSW03bkNudy1R?oc=5
+- **2025-11-01** · [Unhedged] Elon Musk’s Grokipedia is a major own goal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjZBWFpyc0lkYUJIbm5HZE1hd2dfZmpiVlFVaFdSanI1UjIxdlM2Z1pvamhramZyWXVfcEs5S3lzOE1hMHRqeWtaU3FWRko5U1dSZTNQaFJhUU5hbW1VbmlEYTFybXJoNlk3OTRqOUZuZVFrNk1WRlFJTVc5UFJ0ME1KMXM?oc=5
+- **2025-11-01** · [Unhedged] Inside Real Madrid’s football vision
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVRSYjItT0RCSVRNUGVmcU03c1drS1V6Z2VHMjlGOGpzZVA0SmktX2lIb1U4NWtmUDVad1V6NndBc1FJQlMybjJBcFZrYTdCTlNFUjlWSDdMSmRfb2FFWk9QLS0zOEY4ajFIQWVHNmc2aG9uc3NNOXlQVHJ6RGdPNWl2Z18?oc=5
+- **2025-11-01** · [Lex] Berkshire Hathaway offloads $6.1bn of stock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3NRZ2owbXNlWEpnOTVyRmFQMW83WjZKb0ZKM3Bjd2hxT3U3OU83N0ZlX1lWVkNUYmJCTmpHa3J6NER2Sjl1ZHBuZjk4Y0VuZUlYalpETG9WVUFtMzZqalNGWDlGM1FWMnlyemhiM0RBRURyWFRJb1pQUXRNX25JRFdtbWs?oc=5
+- **2025-11-01** · [Markets analysis] A finance chief joined the Trump administration. Then his company unravelled
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FmckQ1OFFCN2pWeGxkR184R3NXLWR4Z1JwRVF3a2FPd2FDM09kTEU1bVZSMUZzLUZlTS1ReFdKT0hZdlRuQTN1R3l1SDZaZmpIZm5CYkdUVU9tSTdwakhBQVNhU2RCVE14VzVLVkhxZnVwa3RRR0hQSHZJY2tBMnFORnY?oc=5
+- **2025-11-01** · [Markets analysis] Getting the measure of business research downloads — and the rise of AI
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB1UjJ2cUc4UlExVTliR3BIbE9nek1fZ0tUMjVwbm83SE5NTllfTFFkSV9vOVNuT0c4eWNaN3JTMGx0TlFOU3FQTXdjaUpMdFdFRy1GbTRsLTYwX1hxRkZMVlRfTUxlb1hOYXFmT2UtWTY?oc=5
+- **2025-11-01** · [Lex] Embraer SA, EMBJ:NYQ summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE5VR1hIQl9mbUw5MGNkRUxtVG54LVJqcEU3ZHdjYUZQZU5yYlh5cmhtbWdlWHYtYlluVHZBUG0zaUFBLW1IYVJIX19nUVdWMnIyaU9ScTNGak9pRzJTcTBkalVQVlNDOUhDNzNpakdLV3hoMUk?oc=5
+
+## 2025-10 (250)
+
+- **2025-10-31** · [Lex] Solstice Advanced Materials Inc, SOLS:NSQ summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE9LOUFSdG1uVDRUeFFTRjEyajEzMk1PMDZhUnp2eTYxUTZlRy1GeTBrYUFRMUwtX1dHMXN2VHJCcHQ4NVFCQUgweWNJNnptelFwQmpDWHNUeUVidnNtZTA1a0ZhOExpQlpfOTF1UHY0Tk84Zmc?oc=5
+- **2025-10-31** · [Unhedged] Princes London IPO meets lukewarm reception from investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3ZOa2lKRWhPSmtVNTliSm5Kdmw0MDY5cDlDVVBqa2QzekFrRWczZnhCM2FHSUNsUklsZFZRUlFsWmI2bElXWHNBTVRReEMwaTFuMmEwWTFYb0Y4eXJ2ZXZNT3c2ZzVCOHpucmg2MG9GNnJmaUxzbXRoSWNHeDBVM1FsX3M?oc=5
+- **2025-10-31** · [Unhedged] Fed eases debt concerns with plan to end QT and buy more bonds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWVWQjk1UWRjcW5CSjUwSXhsQVYxSlhNcVFsSklCeU1tWlZfdXlfVG9TMGJfYXlLcFNidlBUS3VZTE1iVS1vZVlPUnZianFaR1pDb0xzSXhZVUZZVjdkR1luN1hJbGs2OVk0VXBIWXJhRm8zWmhTWXBTT05TdmdZRFRqQ3I?oc=5
+- **2025-10-31** · [Unhedged] Strategy’s proud return to junk
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9nMWFocEduREw1Vjh4VnRTbWI0bkNrY2N1S3QyS2ZoZTY2LUVORVlkUWNrakNJMWNmYjNpYWxQVkwwNERKY2g0RVNBdVl2aGNLcTY3aGo1WUJFUGhCNUEzZEY0TXlHRHhFZkM4cUM1ZTc?oc=5
+- **2025-10-31** · [Unhedged] Democrats are locked on campus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkZiZTJ3NWliUXk0U1lIbEt6YkcyMFpsbXUyY3I2LTJjYnp4VWdUdGNxd3RPSnhpNlpDdUlkZXBOOGY3QUptZ0hTb2FsTmZUeGJTVF9fN0pocHNSQ0hjMjBvTV83QktvUWthLUdYVU8yU2prSmhtWU9vRk5BUGVRSE1oaHk?oc=5
+- **2025-10-31** · [The Long View] Letter: My silver brick doorstop
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1mZ0RqZlFla2RoSHZYZHFMVi1VMi1IdXZXX3gtcERnUE9Vb3BQNU1Bc1otTXozZHd6NE5ybTIwZm54UnpxNkJ2aU1hREhqcnZ0aktYajlHMkJNYU54TWU5SHp4VFpBRktlSTlIYU9FY0Y?oc=5
+- **2025-10-31** · [Markets analysis] Big Tech’s market dominance is becoming ever more extreme
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnUwVjZtakRsYkNBRDNOUFpYejBXUUNqOXdxWHo2Z1p6YmpqNlFRbWtmQURodWxyb05kNXlCODR4Z1MzcWdRYWk3UXEzakN5VkItQWQzNzFRQkh3OXV1ek5sV2xBc2Y4d1FLeVZhbVFqaE1ZejFuWUpGcEJ5cThsV3N0MFo?oc=5
+- **2025-10-30** · [Unhedged] Big Tech earnings: profits and cash still matter
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEpzdkRxTGZrQ0JYQmIxanc0SDJNZlVyOF91TGZEVV95b3Axc2pZUUEzQXhOcGZoemMwUldueDZwYlhSNHM5T0xkUVNwdXJoa082Z1V2cVVLbEpkN0N3UWxGSUZzTDB5QVVEelhJNXhoYk9sUkFTZWs4aHdGRHdjZDB4Xzg?oc=5
+- **2025-10-30** · [Unhedged, Markets analysis] Big Tech tests investors’ patience with $80bn AI investment spree
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWU5lNU92UkJPMTdkbGFTaTFHVGZYN290T2pQaFpNZWN1SmNOY3dTUEtkQmVudTVYTnJSaktlVUtsN2locjNkQzMwYmNhRmJwdDBQREMwWUx1S1N6dmY3RDNUUXVUejRhWEV6UXRqQXNHZmtDdmFCX29uemxTV3l0eU9LNFU?oc=5
+- **2025-10-30** · [Unhedged] The AI Shift: are large language models making us less productive?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhEb0NWZmo4b2I4MHQ2Q3paUFJkeVBsTGFheDVwQ0o2WTlacUFONVgxcVZYd21kWDcyVUVHLWkzMGNJUzVqSTMtcERsQlNQSEIyRHFOWjBZdW56R0lXU3UxNGRhQkl5MnBfNnZFZnhhU0pyYlJJMURIQkhMZlJHRDVKUUU?oc=5
+- **2025-10-30** · [Unhedged, Markets analysis] A closer look at the record-smashing ‘Hyperion’ corporate bond sale
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVHJndkswV0pPLTRkNGNBcHoyRk1FWVJqeEctMnRhbDZodE5vYy05ZjJXNkZ1ek1xN3FReWZxc1o4N0J3STdoT2oyUl9xWjFLR1RCMm1SNXB1eFBwbjdRY2k0OG1rNUNlWHVHWEZxeWs?oc=5
+- **2025-10-30** · [Unhedged] Meta readies $25bn bond sale as soaring AI costs trigger stock sell-off
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDJRQXNYWW1Mcklta0xlRW8zdXkwNXU3aXNEemJWRGZEd0xGaFZlOElaWmU4TGcwTFhWcXIxdWlROFR4eW8ybDc5eWNoSXFnWmZMendxWjgwWVFmZVhxRmtCX2Ezd2ZhdnB0bzFNU2V6R2twSFNmNHJsc0piX2pCbmN2NXM?oc=5
+- **2025-10-30** · [Lex, Markets analysis] BT dials up competitive tension in low-cost mobile
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0NDbzVPMWtTVE1TS3FwWjA3MmJyd2doUl9JRzVjMmpmSzZWaHMwb016VV9EUGNLWFl3cWJRVFJkaTNOZHIzU2E4TG53SkZMcGRPQWo0RDBqNHNJaGlJbWlHblJ2dGl5WjJSU2M5MzB4OTc0eWVxT2ZEb2RMMnVDdjlIdXQ?oc=5
+- **2025-10-30** · [Lex] Puma to cut 900 jobs as new chief tries to close gap with Nike and Adidas
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGdBRi11by10aG1yejdEa1pzYmxQVGVYLU9fUHhWMlc0dk5kdmFaZ1BjU2hmeVZEU0VZNDQ1OVc3T1FSWVVQZmVaTDdkQzl5SDVjX3cybkFkR2E3ZUN6azV4cGw2QUFVVGVKVFBidjFKRTJ0MGJLS3FmeGpzZXlDMHJCZDY?oc=5
+- **2025-10-30** · [Lex] Aquarian Holdings nears $4bn deal to take US insurer Brighthouse private
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVQ1MWpFdFJxajNqNEpKeXZnRWxkYlE1OWxWenBwcmdUVkpTN3piTzlfNEFFRGtYSDlLOElOTW95YUpYdkNSUGhHZllpTU5xZDk4ai0zWnJqSGR1MDk5S1JyOG9rak1EZEVmdWVBaHZvbDlobnpIbDhyMkpSMTN3aks4dWs?oc=5
+- **2025-10-30** · [Lex] BYD profit falls 33% as Chinese EV maker doubles down on overseas markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXVJOWpLOVdjZHMyQ1JwYjJ5dmU4UnFVNWJFOFBHbV85aFZRaDdWdW9ISDZmVXpVM0RxTzRES2hWVVdzX2pFcGY5eExmdTFpc3c2UGV6THNjRGJVbVBQb2xoLXZPUU9aVmY0dVMzYVE2UkRVLUZ4REVlS3cyUWNEYTJjMm4?oc=5
+- **2025-10-30** · [Lex] Weight-loss drugs power Eli Lilly’s earnings
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc200Z2FZeXNrSnV3N181MDJoaEZTV29uYlMyNHUxWFVUUjdpWXlZN1cyRDlqOHJiZU5GTmRJMG1mUUpRSXVyaFNjbUk4OVUzQzk5R0JWYnp3WThUT3k2WFJENFZCWG9oVE5QVzgwYWNuanZ4cWhULVdEdkhtWXJ5NGYxNlA?oc=5
+- **2025-10-30** · [Markets analysis] Crypto funds price war erupts as market opens to UK investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNT09iVlFJdWZaWUp0My1DamVibkFLNW82cWNEMVdMcXJfNVNaWWpGYUdzSXBURUpoZkQxQ3hweENKR195WVlENkdJZ0F1N2UyUl9pc2tBNHNSMjBNYVFhNjlkNGtKb3VWUkQ1ekY2SUpDdmNEbmRDdGZlMDg2R1dTVlctVkk?oc=5
+- **2025-10-30** · [Markets analysis] Children struggle to read because of outdated teaching, study says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXNvenBESk12THJjVUR3S3dZU0FhTGxMZ0xPNnB3b1YzLU1LajBOWGhLRFBra3lvUi1QSWNLd1NjYVNCelQ2UFM5X2RHUEtvU2x6Mm1FNlN5ZFRMbFJzTXR5c25WZXZTSjlSSG1ZUzhLbVBISjhPOTI5a1RkRXRLN01obkc?oc=5
+- **2025-10-30** · [Markets analysis] Now is the time for Argentina to float the peso
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTJreG9xODZTU1ViYWpseVMwOTRlRll1eTk3OGFjZ201OC1oM2lJc2NJZTBNQmcxWG5fQXY0UHhmLW1vdnpUMVBxZXNTQjVuckN4TV9VQ2VwRFB5MFFlb2NOek1WM1hDSUJfNGdWTjNVYWwwSV93TUpkWWhfWGtBdFFuQlI?oc=5
+- **2025-10-29** · [Unhedged] Nvidia supplier SK Hynix has already sold next year’s chips on AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2FBWUFta3JsM0s5WkJmYkJ2R3lGUnd4LVlCOHQwLTJ4SmRjb3JXcFgzckZoWG9yemFjODh1SnBQekRoVnhDdzRqeUpWRi1xQ05IejZocXlmelhhX3RxRnpkUDFJZ1ctQWpndnltQjRpWUREWDEwT1cybk40azMwT1BtZ1Y?oc=5
+- **2025-10-29** · [Unhedged] Europe and the curse of geography
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1hxTjVyN2VLNWxfbkt0SHpBRWxUNGtKS3oxQWJJQlJGenpyMDFob01WUE5yaFFESFBYX211MlAxcDRJV01TbUJTTXNRMWJwMlV3cnQ1WTdkRHpVY2JwcW1fYWtvbXBINjBtZXYtTkswOTFVdmZDTWp3RzJ4dlYyTU5BZkU?oc=5
+- **2025-10-29** · [Unhedged] ‘Fire K&E’: the PE investor revolt against Kirkland
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTRncmRJVGIwWE44TFMwaWVVX1hxNS1aenk3cWVtYzBMXzhzVDlqN2RDTXIzd3dpSWwtTFVOeEtrQldhTzBseUJySFQyLW42VDhuX1pMcVpKUmdMZjBUUkVOMmgzNHV4YUxqWlJQamkzamo0bnZTY3Jqc3M3VFBHYXZWUWI?oc=5
+- **2025-10-29** · [Lex] Fiserv’s Argentine adventure results in tears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV29vUVFOdXVrQXdjRGhvRENYV0FPa0xXWHMzM0N4REF6aUpJUC1sSDNCekVQYjU3d01HcTJORHdmQ2xkMWs3ZW9tUlZ5aF9sZFhiQjhuOC1zN1l2QnlpaXJqVXp5NmZhdTFOUWFKTWt2MWhrUm5GdGI5OGRsZ1JnVFBPTk4?oc=5
+- **2025-10-29** · [Lex] Frank Bisignano’s increasingly great escape
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1qOFVQc2NrVGQ2SDl1UTBKNnpJcFZ2LWNQUFlWa0pJSXY0SG1sTmVnTE53d3J3ZlZ2TzdMZ2NvU19yNDljdkNQYmx4ZU8xS3hiRXRaV1lvSVhwQzNUOGcyVnQ4ZGw4dk54U3pFUUVNUnI?oc=5
+- **2025-10-29** · [Lex] Next upgrades profit forecast as UK shoppers defy gloom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUhoUlRoNWh4MzFlNGNzRFVfQ2s5WTUtU2gwMEhFRk1DV1QwNWVoTVh5ZkpQWVpVSlZwelFSWTYxUy1SaVhESUlsRTMtM3E5S2UwSnNQNS1aemdMQmY4NWNxNERuQ19wcjdsLXFxZXRjMkZjeU13ZC1NMnB2YTE0dUp0UHk?oc=5
+- **2025-10-29** · [Lex] Porsche-Piëch family explores investing in €6bn VW diesel engine unit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWZFMlZZVzVoVjdKTHhoN2NWODB5emRqbzNORTRHMF9saExoaEY0dGxSeVdtTTlibTcwbjE4VHp5QWZ3a0dEUnZaUTJqWHBmemlWZ2dKYjM3OEg5dl95RFNuSVhNN3RvSFduQktqOXEzX2hUYnkxVVBWWWljc0RrS2Iwc1E?oc=5
+- **2025-10-29** · [Lex] Can smart glasses ever earn our trust?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1VSV0lvMFZDSFpENXRHQzZTaXprb1dTanBZZURxdDFkcGREOVZ2blI5d1o4X19aaEpNbXM1YWVsODJHREloTk51NzdnUjNMOU9Yc2lkUFVDUFRVNGZ0SlVyTWZuYy0xYmlBeDB1anhuaWY5OUVUbEtSczd1dDNsWURkQUk?oc=5
+- **2025-10-29** · [Markets analysis] How sports gambling took over prediction markets in the US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2xVUVAtZ0U4My0xNDljcGoyeHZkMWM1ckFGaWd2azRHLWo3dHZiMGItNFNRR00zVkRQTF9zVC1qa1ZLZUYxWnpSYk1ZUEJObzB2ai1Vc1d2QVI3R1dRZ2QteG1aNmdtTkpMSU10dlpvTjdZQnV2UGhRRV8wbElRck5LUEo?oc=5
+- **2025-10-29** · [Markets analysis, Lex] ABOUT THE FT
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE9UNDBPM3FHSjFIaHdkSjN1WjdVSjRxelFIN3c0UFV3TDQ4NlNKUUJzXzZUVnZOcFNvN0pUNExfS3JSa2x3Z0M1ZFViLXJzSGI2dG1qNDdOeGVxeG55NmE2b2t0UTdra2RkQ0JNcml0bXl1SnM?oc=5
+- **2025-10-29** · [Markets analysis] Hard questions loom at COP30 summit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1NuLVJCRGpzZWNiSnZWNW5JT1VueE5iaFZMWEdkNWJXcDBqU1BwVktWVjR2OGk3dU16Znk4RVdxaUs0T0N0VVBfZHBjSmV0Qi1UNkxoX3MwVHpjOVV6V1ZsZmtDRUZhT1ZRcGZwOW1QU1VoUzBNZjZIZGgzci1UcTJTcWM?oc=5
+- **2025-10-29** · [Lex] Janus Henderson Horizon Biotechnology Fund S2 USD, LU2900275350:USD summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE5PbUxkWjBVMHlDZjltVlRDdE44Q3ZMY1dEUGtNdFpldkkzRlhMdWxobWVMaWVNU09zdHNwQjNZcVlaNVE5WHZ4MEhXemo1ZFhUajVuMFc1YVJid2NzelNPdVVicG5jUWIzSDUxUlJhVGRWY3E0UkM5cFBn?oc=5
+- **2025-10-28** · [Lex] Turning Technology Investment into Business Value
+  - https://news.google.com/rss/articles/CBMiREFVX3lxTE9ScDhOQ1pHUWkzeFpIcWFnTEMydUF2M1B4LWpBcEdJeE5rWWt5NEh3RlRoVTJMc2Z0ZFVGRkc4MlVhNHhJ?oc=5
+- **2025-10-28** · [Unhedged, Lex, Markets analysis] Is it really a bubble?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE16eGlRS3V5SzVWNWNEOC1mbURyaGxkZVE0d2MzSU4wYWpzOUNWdmJpdmpDSGhkN0xmc2EwNGxpLUhfUmtDZ1RxSk51MnE3NTBXamxsREV2RGUxcWt6N1VfMUxQQjBDNVVnWTJzelk3WHE?oc=5
+- **2025-10-28** · [Unhedged] Nvidia to invest $1bn in Nokia as chip giant extends deal spree
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkpjM0U2dHV0cEFGZGhuYVZSbkwxbkV3UmcwcWdUaC15SzQzR1YwZktQTC1WbFFRdlN0NHlOYTlaM1hwNHRfNzRva0lMd3FWc09oTmFoLURTZTFPZElESUJWRVJpNWR0bHpWSWl1T0t1cVFIaTgyQ2g1dzA5UGdtWDhkd2g?oc=5
+- **2025-10-28** · [Unhedged] Silicon Valley chip start-up raises $100mn to take on TSMC and ASML
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXVVbUdHZGVnczlUYnp3ZmI1V2hsdFlPX2xGU0dSdDlvalN2dGd4Vlpzc3Vtc3hGY0dJSnZ6azhHS2ZOMndkVnkwdjRGeDREX3dWb2llcWtYMjFRMDRxNS0yUFB3UHh0S3VQNjQ4Q2NKMzJMRzRHTWJiUWgxUTRMbWN1QXE?oc=5
+- **2025-10-28** · [Unhedged, Markets analysis] The waning influence of the Federal Reserve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDBWRWFvYlNVVVViaGdxYnppTXpqbGtyODFEQjZjSXoxc2Q3NGtRQnFQZHBUYTU5THJKR1p6SHdoT1g4S28xN2QzWVZXUGozcGt3UXk4Q2tHNWlGbm9zTHFIWGFrenpJYVpPUllKZFJfQnpySzN3WGdIMW5uYXVJZDdVYjc?oc=5
+- **2025-10-28** · [Lex] Big pharma’s scramble over patent cliff will be costly
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3VDNGNBRVRWZU9SWi1PdWZ1dkxWbXlVY1F0cEx1TF9HTWtxYXFqZWd3WGRtSFpkVEN4NXVsMnJ4WFNNSDNLdlFYMUI3SUhIaGF4dDA3Z3JlYU5TVGh2c1BmVWI4QkRrSEoyMlZDSm9Tbm9YcjFfQlU0M1JrVFBnV2Z5S20?oc=5
+- **2025-10-28** · [Lex] The art market enters its ‘safety first’ era
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBPZU5kV1g2eTd2Q1A5blo3Q3ZIclF3VHRpRFpiYVZTb25TTHppbVVPSi1LVjBsZlE4bmJlQkRxMERUX0RFcmhuSjQ3cFo2NHAteXlIR05OWldQTDNpZE13OWlvV3ZNa2p0US04eklEWTk?oc=5
+- **2025-10-28** · [Markets analysis] Trump’s Truth Social to allow trading on election results
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON2NpcUUzWno5Yi1GWjFpSlRNaFROMFRwcnVxbDYta3kxbUpWYTYwUlBXWE9VOEFyYmUxbWxtTGMyZlJ4anBaMTRDQzRxYmRZMU1hdFNjdlIzMVdzZi1INUpoZm5XY0d6dVVfZW1jZVRrNjRscVk0VElYVTl5Uk44OFVqVkc?oc=5
+- **2025-10-28** · [Markets analysis] JPMorgan seeks to join front rank of retail banks in Germany with Chase launch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVZqNEFoZFFDMzh6d3hyLW4wVVctbkl6MnJrR3EwUUVBZV81SGJydVBSZWg3NldFeDczdUVZRl93QUZzLVBiRGpCRk9GM0lyZEwzc2pNaUR4Wm9nZ0dfZDRxbF9uUmZGaldOdWprTkFkQWxqejZULXpCdVFKMU5QQnh3Qnc?oc=5
+- **2025-10-28** · [Markets analysis] The global boom in solar — with or without the US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGgyTEtteG00V3owNFR0QThuVWNXUW9xa0JoVWdwcmw1aXFJUlNTMW5GOGs0U3hRRmVRdm54cjJDSjNJTWdpSnlOVlBpN3poYk9CSS1CM3dqTXhKcWgxX3lZYkprOXBPS2hnRkUyb3h0cmtMUVRSNW1VMlBBOUxDemUtVmM?oc=5
+- **2025-10-28** · [Markets analysis] Lakshmi Mittal’s energy joint venture bought Russian oil transported on blacklisted ships
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeFRjY25JLUlUYWVGWFNVYWlfNGt3T0lxbkJwRk9sUDJBWHV1eURvZ3dPOHJXVTdFakd5WnR1RFd1eF9QRW9fa1REd05laHUxVVRTQnFsNEdEVFR5ZVhTcHNwcWpHX2NjNXpldnhIWXZ6eHhocUlnejNaUE9WOXI1OV9IVlY?oc=5
+- **2025-10-28** · [Markets analysis] FirstFT: Trump hails a new ‘golden age’ of US-Japan relations
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHNxa1ZYT3FWMWV1MGpMUTczdzR1OUpjWEJCYzdNeVdSTEk4RUE0OEpscnlSeEd5MXdYcnlteTd3TTJkOGFLR2I2enI2SVdJbVoxOXByUFluSEtCRGVtTkNiM2pmeEpPbFVuWnpwRE1UcVFReUxCMTJZVzRadEhwaER6NW4?oc=5
+- **2025-10-28** · [Markets analysis] Revenge against the banking nerds is near
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBRV0pfZlNJRWxKeXp2WjNTMnNuSXNnNUIySDBPb3VDX2ppZGoxZUQ5TEVWMTZKLVA5dG54djFpTnJxeXBMTGlIMElEWTBQRVdLQ0ZzSk1EemMxdW51eF9nM2htcEZ1U3JCbHpRME1TVVU?oc=5
+- **2025-10-28** · [Markets analysis] How Scott Bessent is bringing the Maga movement to the US Treasury
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDJ0UjlQWERwck1MbGdtVnFUR3dJM1pOOE9LX05PemhiRmlNZ241THVSa0llVGUwSzQxR0NfZHRucXRLa2x4bURrclJvMDNJeW0wV1kxU1BZUEIyYW5UZnRVOVU3OVFkUVh6NWh1b2hKVjRXMHpxSndwS2EwemZIZFNNNmI?oc=5
+- **2025-10-28** · [Markets analysis] Phoenix in talks to raise more than £1bn to bolster its pensions buyout business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0xTWGJFZGlLZHdJLUFhdmJtT2lpTkt0UllUNmNWUGxrbF9yMFI1VWN6V1VxdlJnUVBsY19YVUFhVHBCTnM1cXNsSU05anhSam5hZHp5TVBsWEJabGFIX3ZKZGl2ZnpoS2dCRVpRaW1wcVNPeW10LXFVdlkxbHF5ME5Eank?oc=5
+- **2025-10-27** · [Unhedged] Big tech’s big gamble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZE1fd2FUd2RaNGI0T3lwam41clNuR01SUmU4RkhOZTY5bjl0N0E5b0F0b0c2OGhhTTFMTm95Y0V1aTJJRVg3T21wenV0cllRbjJPTWRndGpObHQ2Q0NDYUNqS2RrODJJc0FsSWR5RlQzYXVhdFE1dkRpUmp5WnNOTXJad1I?oc=5
+- **2025-10-27** · [Unhedged] RIP US QT?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9CdkFyb2NTTGEwMTJVemFuVDlDdThxbkhMaTJKWHdtTXhPd2YyWlUwS2hxV1lfeUo0N2hjRGQ4V2h4a2VjUHdaTDVUVFB6dmY4ZTNFeFF3cmo0QzcxLVltUnBRMXNHSG92bm1MbDBlOVg?oc=5
+- **2025-10-27** · [Unhedged] Federal Reserve nears end of QT amid signs of stress in money markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2RvZ3BhUHRkN2pjWGVBRWxfWGFpaUJtNVhhSXFicWM5Y0k3ZEZZVm02MUduM3J1WnhNM2Vwbm5waGNWcGdEMGdjVW9BVWs5cGFCSzB5OTBnNDN4MU5oWS1vYjh6UUt1YXNPNlBqY05ad3dXd2V3VV9TanJFN3hNUUdYSkY?oc=5
+- **2025-10-27** · [Lex] How a high-end Chinese electric-car maker lost its charge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFlSeDNybFYya3gxOFlaYVdWZTFoU3gyVVZMQzZVRXEtVzZFZUtwdFNJcEF1czRDVEV2cmgyb3AtRXotS3Q1QmdlMWcyNkhRa3Nvc3FEUElHN0ZYWnNNVHhoSmNHd2VQN0lqRzZxX250QTVCUmxvT211VXlaakhKMF9nOFI?oc=5
+- **2025-10-27** · [Lex] BT explores new mobile brand to take on budget rivals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORG4ydGg0aWFuVXpwb3c2bHBIUGVCOW12Z0JhWGhhTnBIVUlBdWlBY3BPUHpqWV9ZZ19RRmk2bERKUnk3Mk5LN2dzeUd2Znp5MmVoVnlqTk9ONjREeWRNUlNyaC1RRGdoREVrTURvREEyQV9McWF1WkdSSlJrMWJKOFhqSmE?oc=5
+- **2025-10-27** · [Lex] Blackstone hires Apollo’s European buyout boss
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHB3T3pnSzdUWE9xRm0tcHFuUHhJOGlEZmNKNkhsZG1TZGFXUDhzOUUwWlJlcndhRF9kU1lWUGtTdHZrM0lHTi04eWgyWFBpT2dVV1JtMjkyNURuMGxqdVl4Z3pNa2lwR2NXNUVvcEpfSXBUWTVrU0dxM2dpaHV6VFY4Zk8?oc=5
+- **2025-10-27** · [Lex] China will ‘save’ European auto jobs but devour rivals, warns ex-Stellantis chief
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0JuN2YzTWVUQWViUTd0bWdVU2thdm9uWVlTckRDb1RzWEdmUWJjeUh6dmZucEY1dG81RzZ2bzdBbEJDVVFzUDdHMkNPWHQzVzk5MS1VTHh5MXQzNXhQdUFQV2ItTFJiTV9qRHd6WTJsU2piVWg3aVN5Y1RxRUJ5SGROem4?oc=5
+- **2025-10-27** · [Markets analysis] $100bn stock swings expose ‘fragility’ beneath Wall Street rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEExRzFvNnVSN0dDTC1NT1NVY1cxOTlfZ0lLQUVvQkJLYmhJNlV3SnRxamk5MDRvZGl0QmxOSW1oMlhxMVFDV3V4V2JxTXdWN3paRm1nY1VUVm9DZDh5VktpWXZJYWJCWWE0N0oya1BDOGRhTUlNMUROUlA3REVZWmgxUF8?oc=5
+- **2025-10-27** · [Markets analysis] What is driving the world’s best-performing stock market?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGlyNXd4bTJTc044N19EWnNsVVBrV3ZmQ19TQVh5c3pBd04zRXpoSFQzZ3JUeDZ6NzNKNURDamg1c19QT3F5RFNRamJCNU5DamRuNzh2eTJoS25TaG10VncyN2luUFNhTXVWek05V05YSWx2bUVvYzVFMG5jWnRZRk9xYnk?oc=5
+- **2025-10-27** · [Markets analysis] Argentina’s Javier Milei hails ‘historic’ win in pivotal elections
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzl1bGp2ZEFWREoxSjROUnNXTmVTdk1vbVdLVHZFalFERjF4SW9DSzNMMndjbDRqNWxqTEJmM1dJOVhucWk5WmM3TFdvbHpPYmpwRXZVSjl4elJXemhkc21ZczlHbmdZNU5jZk14blpQWWlkODFxS2MzM2Z2QU5rcmNobnY?oc=5
+- **2025-10-27** · [Markets analysis] Private loan credit ratings may be ‘systematically’ inflated, warns BIS
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWxibkVrN1ZDcDlLbUhaWm96SGpUWTM4ZnJZVFdqRGxDRllxZmt5N05uZk9SNUo4NHhPT1FKbnRpTTdEa2pKc0VhdDlPUExLZTVNT3Njd1dqbjBoQ1BVQlA1Q1NyZ0dyb0w4dXdCc2JTM1NZNlVoWlY5X2R0ZUJidGprV3o?oc=5
+- **2025-10-26** · [Unhedged] Silicon Valley called — the 1990s are back
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNlUyaWRkdGFjMV9iYVFCSnhwNERiOTEzR0RTTzdVRmV4OVBTUW94aGV4UE9JS2VlN2c1aC01QTd3RnJ4ajVuUWNrU0phdGttU2dDbmw1b0F2cGgxd1VscjJyaXdvdHBhRzVYeWdhRTlIbkk5c0hkcDZxUWF0MkhWN211dHc?oc=5
+- **2025-10-26** · [The Long View] Labour ministers round on Reform UK over MP’s ‘racist’ remarks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjdha3diZkZaY1JPVm9qNUNWUnJabm9vZnFIS1lMSUtscnFLbU5PMUNieEhYUzktYkRjX0J6TVg0bmdWMkJPTW5ITTRXSGJrNERUd3JjZ3FuZGhwWWRFM1BDajdpejlmdFBqd1FKM2xzd3hrNWtLc2IwbnlnVzFkaUtja28?oc=5
+- **2025-10-26** · [Markets analysis] Tax advantage of UK self-employment at record high, analysis finds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTFUWi1FZ2ZUbVp5N1YtQXY1Vjc3MnYwTlRVakVjNFBGTElHREhrclh3cnNZTG5uaERRMDk0X3NnUTN1YVZWT2J1OF9YZjBETHpmdi1VSjJfUy05blUyMTNvRGJjbVExOEZIUVBZQTRub3lDZy1laE9GQ2VHODQ1YnhjTVA?oc=5
+- **2025-10-26** · [Markets analysis] One of America’s best-known watch brands is now from Milton Keynes
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5fcVVXcnlhQmhaby1XSmJZbXJRVnZid3JHaGliT3lpdV9tczhURjJGdHo5T1JxM3NKOTJpLVVraVg5Q3RRWXNUNXRTN2hiRVg0RWJ2aXJydlYwUnd3YlYtbVJBYm1ELS1UZHZraTdxeXg?oc=5
+- **2025-10-26** · [Markets analysis] Amundi Index Solutions - Amundi Core Global Aggregate Bond - I13HN (C), LU2439113114:NOK performance
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTFAwSkVqM09adEpXOWk5Tl9BMWlhUi1mNFR4ald6TEhZb043Y3JNR0x4VXdscGhzT1JFa0p1VndpQ01qdklQSFRNdlg3djQ5cjA5YzVrRjYtakdyLVY0QVotZDk5el9JZmdlVTNHTER4QWw1TU5LVkktMGtjU2c0dUk?oc=5
+- **2025-10-24** · [Unhedged, The Long View, Markets analysis] The investor gold rush is an outbreak of huge overthinking
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkctb01qSEthUEoyUUJYVzkzcE1RbG1GUVU3Y003cFM4NV9mN1NkZjB2T19DWW03SWsxcVl4NDhnVENuUE42ZTRqTl9vcW5GNGZZcUkwUV9ZMDNpalpQX0NST0RrbWl3a0ZCbUNRa3RpTEhUMlc5aFVyUFdmckM2Nm94U2M?oc=5
+- **2025-10-24** · [Lex] Porsche falls into the red after it shifts focus from EVs to petrol engines
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb01GRkpYWElkcXlWdTlGX0Rfd2RGUGVZTW1fdk9ES3NOQ1Nxck1Kb29ydjJIckd4TkxCZ0FxMjhIekFEdmQxd1c3ODAyZGVUbzNUWmxGck5peTFPeXZ6NTBYUHhVZ3M2ZENWNkhmUXpDcWxhQy02OS1tMWd0SXN1SVR4UHg?oc=5
+- **2025-10-24** · [Lex] JPMorgan asks court to end legal fee payments for Charlie Javice
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1dGenFuSHFlVmhaS3I3TkRUNGRiSWF2akxHWS0wQjZ3ZWlIRTVfRHhZSEpXQlF3MFJKbDRQdXcyU2F5OURTdmFxY1dRZV9QeTFWQTJIZlA0UDhJdndMZkFZaU9PcHZWbHRaRHlOR0R4WE0wX1lKbFR4YVZGVVdicXJaVk0?oc=5
+- **2025-10-24** · [Markets analysis] The market-defying appeal of assumable mortgages
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORVhTQ2hPSWdzUFU1a29UbUV3aml6ZmF6VjNjYnVVbmMzX2szeEZUMWRXbE10c0RLTVVIblJid1hwN2RUdEtNX1dfTWh0aW92am5XWE5xSWp4T0JLWmFvUFV3YVFFdXBHcTh5VHRtdG4?oc=5
+- **2025-10-24** · [Markets analysis] The rise of the eat-at-home economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTAwX01jMzdZekcxeC1FZWZyUHV5RmR4Slk5Zk5tQ1VRS21WZnpTdmN4Qkd4ck92X3VKcS1DTXVSUVZUZDF0OGY4blNqcUtYSWozaWtxMTA1QTVQQkNna0ZTcy1zUVJfdFY1aE8wR2VuUFBON1Rtdms5UTR3OERlakhiaHg?oc=5
+- **2025-10-23** · [Unhedged] OpenAI should make a phone
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc29mLVhheHozdHluS2NRYkhoZmJfYTMyWTVEcEE5dmozcmJMcFhjTkVvVnFkVTAwT0pBYm1tWXJWMm9fRmRpOVRpVlhOR09KcEoydmVCRE4zaFplak5LcHRDdGpoM2Q0R0h1SmxtQXRiUnc1ZXhxMzIweWtKVGNGaHMyamI?oc=5
+- **2025-10-23** · [Unhedged] How we made it: carbon emissions rise to new record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc3dzSERvQUFHRzF5YXQ5UDBTbmJWcjgtaGNEY3A2Ujl1NVhZUGsxdUI1anRIdWFGZjdoRUp1WXVDcnZQSjFmc2Y5OTZTM3FqOERIdWItYk8zZVpzdXJXbnhyTTZRTWc0aUY4UmU5NTFWQVU1dms0S2YxX1NQWVpoYW03M1Y?oc=5
+- **2025-10-23** · [Unhedged, The Long View, Markets analysis] Are we worrying too much about public debt?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUNYRXh6ZWhyN1YzU2F1ZGNJNVNiVm9zR2RwMDB0Z3dYTENyYWtvdlhHZF9kaVdsaGhtcTFjQ29Ia3duUl8zWjk1ZHlFdUxoT2NwdjlrZ2VRT0JRV0JFMTFMbnp4VUppLUlzUVpHYm5tdTVnUGhvYURsekFWOUFva1NpcjM?oc=5
+- **2025-10-23** · [Lex] US health agency reapproves GSK blood cancer drug after new trial
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZF81YlZwWm1adnpPUC1icFUxRFZnb2JqMVZpS05TU0k0YklpRVExc3hhTzJNdTN4NEI1Vlo3dGx5WmhmVzdZRV9JdHM4RXJsZzBrWkx3SkU3b0hYMVVxU1F6RXhNQUVULWVjOVYwRkpyczVrNU51RWJlZ2hSS09XcmFmQ1U?oc=5
+- **2025-10-23** · [Lex] Blackstone says era of bumper private-credit returns has ended
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTVSdk1ETktvNDdSN1U2RXBvOGJubjdXcXh1M0RPWEdrQWRvcTVwZU1mWVFKUzk2NnVFVEw3RHF4X2VnYzRFVEo0SWNYU2puVjBJYnNhcVNQZXRtT3h4MjhJeGV6Q2t0c3dmRklTcHMzZmVJWlRwNXZXejRQZW5ONDFpbEo?oc=5
+- **2025-10-23** · [Markets analysis] The AI Shift: where are all the job losses?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOekd4bjI1RFltZU5zNTBzLVN6ZkNMRGJXZDBNaUltREk3ZkFXNnBiOTQxc3ZHUGdTMk5NaHQ1OUg1aDZCMVp6eTV4aFJ5NVhtSnktVEFPdVJOZmh1TGdHQmtzcEtkcW9nd3ZqcmdRNlRPMFU2UEk5ZkpnNWVRR0JEemZMYVE?oc=5
+- **2025-10-23** · [Markets analysis] What’s up with private credit ratings?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE4wV2pzMDYwUXVoeFFUUC1na3VSdmk1V3piSW5rX2p1bmxCYzUyQU9WMVN4ZUxDajVvMHJHX1RQV1ptVFJHSFVBTFk2RHpYa2prWVlzbW5Jbi16VlFON29JcFA5V0kzUjFtNmw5RzdNN3c?oc=5
+- **2025-10-23** · [Markets analysis] Donald Trump’s Russian oil sanctions hit India and China’s imports
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQy1Id0k4OWllRzFRRjdNSXBERHZrMTlleThWbm9FVFZhQ2RLcThJTFJyWnA5dEk4NHVtNG9mS1NzYzBjUW5DT1pDc2t0Z1hxejZpNHlRWW9tOXRxUmYtRENyMG1pR2dGQWEzRnJqcnJTZ1Fzd00wWjk2dFdWM2hoX1FTX18?oc=5
+- **2025-10-22** · [Unhedged] State Street Blackstone Euro AAA CLO UCITS ETF EUR Unhedged (Acc), ECLO:LSE:GBP summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTFBKQ1dDMlhHdzlkcTM0VllraE04dTNWTmRsS0RXbWsySUZaYnlwdDJ5dmoxOWppRzhEcjhUY2lJcnozSWJiZTd6bjBfSmlzbHBCY01oNGdZRk1mOFF4d2lJS0tzQXJkR2xnRWF3NUdtR1Q0VHc?oc=5
+- **2025-10-22** · [Unhedged] Germany shelves commemorative coins over surging silver price
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRqN0huUW5zRURpcTFEQ3BhalFsUDdCZkdTWXhPbXJTcE9zaUR6VjlRQl9OVTVlNmpUWHJtd0lyb2ZqcUxpYVdhZWx6N0xGVU90djhhNThDSURJbC1KS2FudUVNTWEtUC1tRno2ZXhONHh4WG90Q2JZMzlVRkdKWEM3QlM?oc=5
+- **2025-10-22** · [Unhedged] The tweeting turmoil inside Sequoia Capital
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcW5NUFhwOTl5Sl94MXdsLUlaX25BTmd1d2dINlhBV3BqcFNCN1N4UVNSelR5OHJoNzNQN0JWYkNsQVJZTWJkLWlWOU1DTWJOQWRCOVVHUU0zOUVaZ2NZc3hkeFoyN2tEWi0xN19IUEN2VDJGbGFNbzAxWENvbnZmaDZLd0c?oc=5
+- **2025-10-22** · [Lex] Elon Musk really deserves that $1tn bonus package
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWszblRfMzkzTV9sTWxFaEFFbW9LQ3JMYzR2MFRLVlVDbXNkRlNta0xxRXZuc25IZDByTUdyRmZhN014cktOS2hGaEs3dU9SeG1va3B1elZ0LVZ0RTB1S3ZIWWpKM3FGQ19veUZVSTM4R3FEdEhzbl9rNTdPMTQ4SE9Gd00?oc=5
+- **2025-10-22** · [Lex] Sweden’s new green challenger could evade the Northvolt curse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWlseVhlNHRBdWNPRFU5N3lxY09oQ3FoMHRyM0dOcU9FaWlTYk9VVXpsNGNJcDNnQTY3bnNrSC1XSVp1SW9aRlZrZjdJdkZtUUp6dkhOTTV2YkZiS1JGZlBDLWoxSGpkcVhEbUFCVVJJLUduci1DOWZUaFYyYTY0ZExZdnk?oc=5
+- **2025-10-22** · [Lex] Tesla profits drop more than a quarter despite record car sales
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWVtRnRuejZ4US1OU3drZkNSOGVRT1BIVUZ5MnZVeVhINTcxVnZ1MDZNeUpCUk9vY0tLcUl4M0IybjRXcmZpVWFlVGtSMWpUQUNKN24zLVZCRFpCV3YxbTRSVWdSaFp4d1N0c1hqOEhNQXVhdnJ2bjcyZEFzX1R0aGxkek0?oc=5
+- **2025-10-22** · [Lex] Princes Group sets lower valuation target for London IPO
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjFyRzFPY0NzR1ZzczVndE1rSGtuajJ1NnJwQmo0Q0Rwd0FfWTFhM0hnOXdCS09USy1XWWc2cG5VTUVTLThDUk1EWWJtOTdYOEJQYWxTVlNOeTlMTGtFempFTlpSbUE3TVZYVVZ3bnBSaUdUMlZLRG43Ylo5UmxfbEtob20?oc=5
+- **2025-10-22** · [Markets analysis] Successful AI adoption needs workers in the loop
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1RUlJyOE9rcVpFVzg2djBvOTdFQXlPLVBwVk5LNHRqTS15Z29oSzZkNXI0czY1RF9RaEIyRDZ0c3J2YldpaUlTVks1ejNINzMzM05WVHV4cFZNUFI4U1dCalBfNVRDMlBJeWVwU2pkODA?oc=5
+- **2025-10-22** · [Markets analysis] Sugar rationing in infancy cuts later risk of heart disease by 20%
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2pRMjJmUmh1ZHMtNWVlV0hncGJfT0dDWVVxdnRNNS1aSzBPLVRpTUN0b3E5V0NaRF9pZk53OXJObzVIdWlYdFZwd2tlYm1HMTBodldmZmdlVXVDOTdWWlFlMUQ4c09IY0xkQ0IzbnlpYUVkQVRIa2U0YXk5UnJieTBjSW8?oc=5
+- **2025-10-21** · [Lex] Financial Times - Partner Content by Neom
+  - https://news.google.com/rss/articles/CBMiN0FVX3lxTE1ZcmIzZHlRaDJYcDBrLWc5YnhTTy1Ob0ZtdWVyMUlINTEwVUNENGdNbEdVOGhaVDQ?oc=5
+- **2025-10-21** · [Unhedged] Gold tumbles 5% in biggest sell-off since 2020
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVQtM3BZV21rZDR3V09sdE9yTG1YOTdnSDhhcE83N2lDTlRtZGY4TnRRTG5tTjF2VE53enJoZTRfUVJqYy0tMnczM2FFa3ptZDlkQV92a0ZKQXl4c0ZZbFJ6UFhrOTRIamRFYld1VzBXSUpTOTVORTlPRlhJTDA1VFk3a04?oc=5
+- **2025-10-21** · [Unhedged] London gold association calls for city to revive plans for futures contract
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWR0bWpHcWRKLVR4LXAxN3BZQnJWd3ZVSE9XMmc2YkhXWUFFNTJSWlBFMDUzQXVXd2JiY3diZWNQWDdGQkEtUnRrZ3F4dk9wSlktUktyZ3JUa1FFY3VqOGZnNkI5R3c3XzFGVE00R3Fzd1VrS1NlYkdrT2l3RUktOHQzNU8?oc=5
+- **2025-10-21** · [Lex] Flying cars will lift Chinese EV maker’s image more than its profits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHhlUHdQWlJIa0VPUXVuQ1RmcUpRdWhQX3B6b084bUtJUndJTmxKVzZvMTFWTHFSYXpOMGtCeERLVEwzbXBqNkVSY2RlTVR1SllzdWZVUW03Zm1XUFJOaVVSdHhJUUhDcWZ3ZzBGNlE3ekxkTTc3OUlnWm9kTW1EYkpFdkM?oc=5
+- **2025-10-21** · [Lex] Space groups near deal on creation of European champion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkJGdW1WTUFiWlQxZlJrSm96MmllejZITmd3OWc3WTZZazNUMldZYlJfZDFUUTVnRGxwdmUyU0YxdHh5TGhTUmdBNnY2SnU2eXNoQ3ZfeTV1U19YTF9hTzlUaHEtS015a2FObGJZRWhaWW5GWTV5SjVOYmZQNjViV2NDNUI?oc=5
+- **2025-10-21** · [Lex] Unilever’s €15bn ice cream spin-off delayed by US government shutdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ21HelhtSHQ5SFZlUWhYU0pINXRvdWRpRnIxdXhYX0UxTHV5N3lQUzVLZlotLXczQkZvSV8wYnRURmxMMVpGVlFTWWg0ZmFPRFBwM1lmY1lrNVctYTNYSUR5enBUSUw4bG1XaGtpYkZmdUF1alM3MGlqVV9HczkyODItQ2Y?oc=5
+- **2025-10-21** · [Lex] Playtech hired intelligence firm Black Cube to investigate rival Evolution
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEJ6UWpkamtaTWFRLVk3WUVPNnZOSWIyZDZXR2FFVEx3Y0Vtb1ZyeGpMakZkZ2I1dnR4U1BCdUFPN2NRcjJIS1JycEhKT0VlbFNJV24xbXdvQ3RudkVUSEN0bFFQNHIwWlhDX29pclBiVmlBSG5tTHZURmd0elVVdUhBZlk?oc=5
+- **2025-10-21** · [The Long View] Bubble-talk is breaking out everywhere
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzFiekRFeXlrSTJMcF9KbEUyMGpuN25hWlhkSk9fa2JySE5kaFFtcXNoaF9Yb2JReWsyUUNucnd5cFlNS1M0bFZOMEpaNXRLSWI2X3JSTlNZOHQyNElkZHdiYjlwaTVRcFBqMGZaR3hHSDJpWVhBUUx4OXV1MnBPUF9YQS0?oc=5
+- **2025-10-21** · [Markets analysis] Jaguar Land Rover cyber attack estimated to have cost the UK £1.9bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0hod0ZkeEdqbDF1dTJYTXZoNllVMmVtbXRRVnFRN1ZrMXJRYmJQeDFsZjVWX1lQSy1NekJ5alRNVFFKaFZuMlg5R3FBc3dOeEtldVhTbjZmSXAweDl1NjVZNXJCaFQ0VFBVSFZERUREZk9aYVloRXFPdTZVNjcxTHo5MHI?oc=5
+- **2025-10-20** · [Unhedged] What to make of European optimism
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTk0NWc2UG43dWtzMFpEWXZRdG0wRzcyeEpuNWpRZW16dVBnN2pROW80Y1NfYmg1UGFyQVhlV0p0Q01tWVk0dElTbmx0bnNqQWJfM2Z0Wkk1NUhva0lVY1d4WVh1dFVUYzhpYlRXdmtNT0xzalA4Q29MRTVNengtNVU4MS0?oc=5
+- **2025-10-20** · [Unhedged] Why can’t I buy a small smartphone?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWZXVUhOSHdfQk00RHdOTk44OXh5bEJSUmctZTRPeWU2b2VFblRnZ0pKRHJDNV9QLXYwaENWZWxUNk1Wa2RvSnp4X2stMlJoREVRaXZaRmV4V0YzeVd5TVNRODZIWHFGSkRVUW5JQWYtWTNiRElVN25wSnpVLTE3UnJySmY?oc=5
+- **2025-10-20** · [Unhedged, Markets analysis] Claude enters the lab: Anthropic bets big on life sciences
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVFSNjA1ajQ5WEk4M2VLTE5QUm9OZ0VwUlFTXzdMYWZLSnhYMGs3VGZkNS1sbUJVaW5wT0hoQnhYZHVGXzJNR0tkOGFrUFVXX0Q4ejJOUFJVZTdqZ2ZfOXFZVGREX1pkZldYRnpEQnU3NGJLcVRTQnpWbjBMR3JiZEJvMzY?oc=5
+- **2025-10-20** · [Unhedged] Brazil’s corporate bond market rocked by credit concerns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHFpUW5YbTU5VlNpbDVJWjJfOXRTWGQ2Q2laWHFaQnowajJtNDJRRVFjaXNLQUJCMEx5dmxXc3I4d2xGdkN0Y2R1bHlXU184alFKcjJZbktpTlI3UE9wOUFtSk1vUW81MFI4bm5SVlcyZUZyMGZFV1llbXFicGRhbmxjaWE?oc=5
+- **2025-10-20** · [Unhedged] Silver’s history points to why it is back in record territory
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE90LXdZTW1RTkczR1FrVlZRMXJBWmNGSmp2QnpTY0NnVEhRZlVoTHB3QWtzOGZxMmowMzAwUnlicU93LTNMcWdPZGJ6cGw5MDJuSm5kcHZGbmRTSEpqTTVDM1RMSGJBSGpscWhJMDV0aC0?oc=5
+- **2025-10-20** · [Unhedged] Masters of the Universe warn on AI and Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3ViY2VBQkFseVpOSDhaeHhjQ1NYSXdpbFU5VGlUM2ZxUl9Nbm5sTXBzSXpDVU1jRnJhaHFkVUZZR1REQzg1U3dhZWJmS0JqUE1xa1k3eHhHX3JBQThfZkV1eWNSQ3ZPWXVNMkhFbzBuRkZBZlc2VDJhOURneDNoS2hrZmM?oc=5
+- **2025-10-20** · [Lex] European bank mergers can succeed even though BBVA failed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0REM1BPZ1NxZ00xbzZWbGwwT0ZReGdVS3gwRkFtdXpHSnhjQTVfUzBaaWZ4bEk1Y1dXUEhJNHNRNVBzM2ZPektYZWNPNHp3R0VPX3RHd0kyUmdBZFNmZHZTZWJYZ1c4al9XMExQcnNydVpBdm1NQzNiVHQ2dUtXMWJJSHQ?oc=5
+- **2025-10-20** · [Lex] Kardashian endorsement of skincare gadget creates K-beauty champion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHdmYmFiWUJRRmRPQTZ0X29tMEJ1MER6NlJLQUUtN1RQaU1IOXl2N2dheTJreXhyajdGeERtR2RnSnYyOFEtRHpUVXdLcHh4Z2tVTGpPQS1VMmpUc3AwMGR0MUtZc0pmYnFjeEZZaUtOLVBUbU9Xd1dIcUU0TXZCT3k4Z3E?oc=5
+- **2025-10-20** · [Lex] Kraken’s software is swallowing Octopus Energy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWp1N2NaMDh0QU9XUlo3YWpaTUJxbUo0NXdQNGQ2eTZKVDBIZXBDWThYSmFGcng0cWRsT1M4Vm1BdUgwZjZMeHFIM2tQQ3JwR0ZwVzd2OEhWMm9wRGtoTlZkX19od0hPM1Vjemx5dGhJbWVUc19DMDJOWHZlOFBGWDBpV0Y?oc=5
+- **2025-10-20** · [Lex] Deutsche Bank tries to block Ardagh’s $10bn restructuring deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNanFzRlg0SkZfNGxuaGFqa0hLXzJPNlZfdjdRVXdxVV9HUWo0RzVzRjlQc2hzd0NWbXFCczVXcE9tT2I5cUpKYURTWk5vVVVOVlN5SVc0dFVNMDJKVUhRTUNVU2MydjJIZGFYdGF4bjQzU1BqU0l0eUVGQnAzOG43NWw3aGo?oc=5
+- **2025-10-20** · [Markets analysis] JPMorgan warns First Brands fallout driving up banks’ funding costs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWdYUk8yWjJZeVZ2VWpFc1pzUzN5VW9iT0FlYzFRdmdYTGxlakdsQ3dVMEdXZlZ5cXNZa1hqR1N1MXRKc1ZnaFVQanR0MURDbXN4anJCLVJxY3Nic2dIX0pmVmxENVlNaXA3Sjk5MnBpN25HaWFwemZEUEFZUGNHWERyUEE?oc=5
+- **2025-10-20** · [Markets analysis] Scientists charged too much to come to work in UK, says Royal Society
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0txRUZwR0EtZ0F0dXFJUGtfS3lHY1BzYmZLQm1wTUZVSVp4RnIzVFpaWER5ZGQ0b2p3ZnF4ZkVRT3RwbUpxanJXamxpNVBkQmVReXhkYmdTT1pZdFY0aW9fTnZpSF90UTBQQnFuVUV0Mzlxd1QwRHdkTjM3clJsZnJJeWY?oc=5
+- **2025-10-20** · [Markets analysis] China is well positioned for a trade showdown with Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHV0OHN0c0phS0dOLS1ndTFRTE5yb0hvdU9fM282engzbHV6V1dzYzZNMl9TaXJ0c2ZKeEkxekthbTFUOUxvd05HV1VLS2duNlluUTN4ZHFfV0pBWWo1S3FfN3VaOFNtbUJHU081Sk01Q3hORjB5ZFF2blpBNldCZ3lha3M?oc=5
+- **2025-10-20** · [Markets analysis] BNP Paribas shares slump after Sudan court ruling
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHV0NmxLZVBFbkx5dFJHWGdKX1BBMnZtY2JjdjBHYUNFZmg0dkJmZUhiR04yVl8zVy1yclFaanU2b2MtVzRZMTlDYXhJRDlwYjY2ZU42MndCN01aUlBYclpSakxPNWVKVEl6T3ZJOUtuMi13WFcwNjRuZENnNkh2aDJtQWw?oc=5
+- **2025-10-19** · [Lex] Writer turned jewellery designer uses metal and stone to tell a story
+  - https://news.google.com/rss/articles/CBMigwJBVV95cUxOQXpnTUpqMGI2WDRZTTk4R1ZXTTEwTG5QMjFIT1dBZzB5eE96eTNQV2otalhpZFJRZE1hR29MeG5Edjh0cEJYWklOUGx1VjFFZEFjUXF2d2g4WU1Fc2tOWF94aG9rSUVTdEhZTjhWX3pHY2hSOTRlRzVvY19NN3dseUh1NW9odDJmTG1leGIzSnJMMWIzSDBzRVdHbERBaHJiakpwQXdEYnhheHNvRXc2NEZ2aXZqSFhqUVpKRmFFQXN6S193YXlvRGlmbWVqODU0UzhFOXVNOU1ER2g4T3ZyaXVFVlkwSTF2Ymk5MUZkUUdlNXpEMWFiU2Y3bnBKR2wwMmZZ?oc=5
+- **2025-10-19** · [Unhedged] Luxury goods and investing in the K-shaped world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1lhVGRGUDQ1RDdhclpQVnc1LURGVWpMR0kwSVk3Q0hjalNISTNSNFNxOC1PeEJ1SnJrQ0NUbzdKYkdvN0tpY1h0VXhsSGdfbVhsY3N5LTFkc1JSbDdnZ0FKWmg4U0J5bF9GaVVuOGhmeTRXZmpBWkRrSnpHY2JMSFVsS0k?oc=5
+- **2025-10-19** · [Unhedged] Why gold and stocks are partying together
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2cxcXhtZkxKdzc5ZU9pNFpha3hUbHpBTXlHSkMwdUMzUnJ4TEFDUF81QXhtVEV5QkNfSnNSUU5FZmhzZHBBSzk2XzVHcUd4dm1majR3MlBucnU5S3JEdGd3RFBwV2ViN2FRbklrV0xWaU1UVzZjaVdROVlNYkZIcWVvVW8?oc=5
+- **2025-10-19** · [Unhedged, Markets analysis] China’s innovation paradox
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTFFaNzJvdzAwTkhCOHNvZUk4cTlCZDFFczhnS1dMQ1g3eVg4WndHU2hjUWNTUTVXWnZ0TGNDQ2pFWG8xZnlQOTUyd1FiX2RLN3dJVzk3elUxZnR3S3NUWjViMXYzVUJZSVdtWmd1dXpIalVJZzNiclhMeUJMOVhjeExXLWQ?oc=5
+- **2025-10-19** · [Markets analysis] Tesla dominates UK mega battery market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNczdiS0p3d1Y4QzNaekRZdExlRmJNSHVDSjd4V1NXMDNLdTJtVW40cjh2UXFGa2JjeE5lU1JVMFltQTdGN21VTjhqZ2owNmhlRTE0WHdFbGk3Si1OMUcxQ0JZT2VGODRxVzhBLUw2VnR2RlEtdTNHelpWdEFpRmw3c05jUUY?oc=5
+- **2025-10-19** · [Markets analysis] China set to push high tech in 5-year plan as tensions with US intensify
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1RmTF9vcmZ3ZURQenBBX05qd3c1cDhMUWhOWnYwcTNZejFqdWpZYUg3WDktX1ZBdDNVMEx1cmFlTmNKcTdEQTJTRTBYZWE0dFo4UFBpTU1EanlLYWd4WU05VVprTk5fSUJyalRSaC0wb1NNcy1BMExYWDFKOUQ0bEYtMXk?oc=5
+- **2025-10-18** · [Unhedged, Markets analysis] Could AI help identify skill in fund managers?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTgzeTRMY0tqZms5NEh2QlpXM0pWWlVLaUtSVDBjUkhmRV9EdV91RnRWZEhSc2lJSjNDY1JGSklkWU1Na1F3UEc5eVhoc2V2WlFjVWhNRmh4STZRTXl1dVR2TVZuSXY1WUNISGxiNk1qQjhEclItaHB4LXBzSVdlazZQSlU?oc=5
+- **2025-10-18** · [Unhedged] Blackstone says Wall Street is complacent about AI disruption
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNREFESVAxcW52RGEzWVp5R2tYVnN0ZzRGZW1LbDdJM2duT2kwZ293cU9qSEVzdXBiZVlfcElmZERlWS1FREdkbmlUeFJMeHl6TlE2OG9vNlJHeHBPNGlNbW5OZTVCU0xjbTR3dUhxUnpsTEd4VWxBWUJUMG85cmthcE5MdnY?oc=5
+- **2025-10-18** · [Lex] One of the UK’s growth-boosting reforms is actually working
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkx6d3c0Qlg3UmtSNjhHSXZET19YWFNObmRsemoyWWphUkpIcHhHSWxVVFpoQ0Y2SXpfMlEzZjJMTkZSaWJxRHpRY3V1bjVBQkxFSDVaYk53MG55VTg2OUVaTXA3LVV3S1dvV0VCWDJRankxUnd2dmtjVkpDZTdWVlRLYjg?oc=5
+- **2025-10-18** · [Lex] Love on the links: the couple who swing together, stay together
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5USE1ZX0ZnTjhLdm1nZEp0emRiOXAzZUZCYUlQaFhPUVlac1NzRUtSNUUySlk4a2c3RllGQzFLa0pzd0M4MmZ6UFRvT1NpZ2tadXlMQ3FYZVROY3hnTzBjbVRza19xWW1SUjJubW9INHA?oc=5
+- **2025-10-18** · [The Long View] Labour braces for defeat in Caerphilly by-election
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0NYaVJrUE5lR0dlUWRoaWlZRXgzbGFWVW1aWmtPeDV6T01GT2JBa3cyZmtCT1cxd1huWnhYTjBobjIzOTNtR1hZQmx5MVJ2Um5FdFRjaVpNbUs0bmsyYVUxNldTbGJGc3pMUng5MnJKX1lqeXRKWnVLblJSNmxBaVkwd0s?oc=5
+- **2025-10-17** · [Unhedged] America’s No Kings quandary
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXJVd1VOTEJ2bFpELURnM3E0ZkEtdGFHNTVsRHNXVU5US1dGeVFwMFlZdERNeHlWcmdLdmpBRFdxbUtPTERMbElicjVzNU9wWUVGRGZhQnVPVEZpVEhPc0N3MG05WGdTdHRPV3l1NTYxd2M0ZnhidzhneHEwVVNfYldiWWI?oc=5
+- **2025-10-17** · [Lex, Markets analysis] Why luxury EV sales are still in first gear
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE92OTBKQ3V5OGtkQm9fX0hfalJxcmY5MHRRdjhobVZzZHRaSGpBTnVJSDF2a2o0YWV6Vm9CWmhYeVFPQUg0UExKOUgxQjdLbmVnQ2VzMGpUZ3FtY0hHNUMzTWZZTGZudmlMbmJyYTluOTgzVnJQUHN6bkhxdXQxQUZBWjc?oc=5
+- **2025-10-17** · [Lex] Spain’s BBVA fails in hostile bid for Sabadell
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlUyc2VaNi1IWGd1bU5MdWNTdS1MU2Z6SFNWVVEwZUZCbWRnNG82WmVQcmh6U3c0WVRIcUJmM2Z1UWt3a055Y0toeFR2S0E4TlVGbm1lZ1Eyal8yNGlwUGRoaURQTmtmdzFRVU1RbEFkWGRIeXlnX3hxMENXLWNSbzhla3U?oc=5
+- **2025-10-17** · [Lex] Hyper-personal shopping: how agentic AI is changing online retail
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0zMUp2TzNKeTk0Vm9HWW81WkRYcWtKWm14SzlBN2pxNEFQMHhZcnJwcHFKY29WQk1pdDZLak82UmpOMjJheHBzcF90UXd4MzBaTUFENFBUQjU4VThzY281dEVSUjRHS3lnNzQ2WFZWbVE?oc=5
+- **2025-10-17** · [Lex] A little peep inside one of London’s hot new quant powerhouses
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBScW5Xcm5NcnUzMzI1X3NMaVh6dTZkd2szUGhQSURnRkxWNmdiQXl3NGhBZ2dkUnEwUHN3OEF6Q3MzVTdNNy1PNm1nX205dl8wRDJLa0JxbFFtN1o5NWNwUWhRdVZaNTVXa2VKNEw1QU0?oc=5
+- **2025-10-16** · [Lex] 70 per cent of transformation projects fail – and everyone’s ignoring the same fix
+  - https://news.google.com/rss/articles/CBMiyAFBVV95cUxORVJQcnpfa2xvNkZhcnVmQjVUajJhdjFTUXhrTXN4UVJwUVBNX1pocXVCd3cyMzFMWUhhNGdNWHppU0NvQ1dhOEtjNUJYeW1DU1o5SjlpNXoxMkNBNFpCR2hKVmYxSGFJUkRiWkxkODhoek5zZXdjN0E2NjdLSUVrYjZsMjl6aVVkSzlzZGF1RFhzZG1iN2RFUm0zSExIclY5REtXejRaRUp4eC1rZHhSV2N3ZlF4OTdlbWxSRlZUb01pcExhMGREMQ?oc=5
+- **2025-10-16** · [Lex] Powering the Future with AI Infrastructure Investment 2025 - FT Live
+  - https://news.google.com/rss/articles/CBMiWEFVX3lxTE52X2Eteks1YXpZV25xUWk0VlYzVzZ0SHFIMUFYbXMwbjFyX19YTkRmSHpEQXVGbUNrWnR4VEEzUmRBSE1ZR2IyWkZsdlUxNk9JelRKWGh6Q0M?oc=5
+- **2025-10-16** · [Markets analysis] Richmond Hill Resources PLC, RHR:LSE forecasts
+  - https://news.google.com/rss/articles/CBMidEFVX3lxTFB3Skl2Z050WGI0dEI3Mks5Mkp3bnVzZVhLaktBa2lSU2hIc24xbUJmZ1FkaGxDMkF2UFMwR1o4QmdsWkJpT1ZQdW5zZkhEbk5TVFFta3llZkdwbTMtU1VRQkdhc2xfTjZ5VnloMEdSQUVmN3Jf?oc=5
+- **2025-10-16** · [Unhedged] Credit cockroaches
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjBDWWp6c2xVNFE0dzFrRW05VTByNloybmVmQmlaZHAxcno3SGhGSEFGQmxiWi0yM3NCRzRGbjd1NUx5SWpxNVdkRTJ3ZkhvRGxOV19sdW90eVJjcE1tWmtrenBDSnptV28yelhnWnF5QTJpYnFYcDRxRHBIUHRxZVZ6dVc?oc=5
+- **2025-10-16** · [Unhedged] Fed governor Christopher Waller backs further rate cuts but urges caution
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkFQMzFxT2U3MF9pTktQaE1POWRZcXpZekJsOE54Nnp1NDVLNUwxd2ZUX19ZbWJMeFRTd29qazd3c0c1em5hN3F4d2JMZkRVRmZ1cDBtck5lTW4wNTJ4Wmd3bWtRMUthX3A2TFowcHp5Z2VHLXhYMGI3a0o5SDRDVVZnNW0?oc=5
+- **2025-10-16** · [Unhedged] Holding gold hasn’t worked. Buy gold.
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5EYlRKdzB0dEEtdm5oaDdVRDlVd0pEdXhqT1AtTkM1UGN4Q1JraXNDNjNNX1FoMXlDY0pzMThGNkpJdG84OU1KVmtEOExIcnRqdGR6Z1gtRmxkeUd0V054X1ZGVnIzZHJqNmg5aVRZR3A?oc=5
+- **2025-10-16** · [Unhedged, Lex] Big investors scale back risky bond exposure after storming rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVURBZ1pNcl9uUFd0RVF3bF9kellUb0Q3TlMzQmRIRDRrbGZjdmFNLWNqRWRYOENKaW1EMEJEclB4TnZzbHNxTmh1Q3dOYnJLVF9nYlZpZWFoTThwTmJaUm9zRU10YUFmSk1yR0ZWZUZ2Y0s2RThxMTRXTGtlS0drQ0VTYjA?oc=5
+- **2025-10-16** · [Unhedged] Microsoft steps further from China, rare earth miners get a boost
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjh0ejkyMWNFNmw5aGpwLWpzNFh4NVBlRGRtakZEX0F1Wkh4S29tbm5HWjlOcnRqaWlnVnZyYk1VMzZHV2FGanVPUXpYQUpwb0o4UmRyUTcyS0JNbWs4dW0yOGp2ZFFRLW5ZU1ZucXR1SmlfNmRsajFrTHNUSDJveW1acWg?oc=5
+- **2025-10-16** · [Unhedged] Silicon Valley takes stock of the AI bubble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlJidzRnMzdoNEZKNU5GRGJQdUJrMHNQQ05JOVFIZ1gtY1R2ZG1CWmNULU5aUFU4eUxOa1NRbmJybUtqY19JektaUWhxTTIzbG1IbjkxWTFQc1B3aU5PamJsQ0ppdGlaX3VaZkRhWHBmSVA1X3p3VWtZTU5GZUdQUTBnQWc?oc=5
+- **2025-10-16** · [Unhedged, Lex] AI’s double bubble trouble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFZySF95ZzFWYzdhS2d3aG5xMmxwWmZYVDRBaFJZQkhHSHFMNjFEdUprNlB1RjhvaGV5V0JCLVh1T1JfaUZUWkFoT0RoaHdIajE3MEg3NmpsQ0hIVHlSMjZINUhLYU8xcTRqdWxrRnpRaTM5NWxaRGJZRVA2NEZpa1lIVkI?oc=5
+- **2025-10-16** · [Lex] Nestlé to axe 16,000 jobs as new boss intensifies cost-cutting push
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3QxQkJ6akFIaWoyTzlXdlpaX1BETGxpbVEwTm9UY3ZnMGljakE3NWlhUmxjZlBFUFZuU2pacno4azFBQ1ZZcDNMMW5CT1BfVC1yVnJobzRtNkVKd0JJRXVPbmdQaTM3ZVA5azdFSHBuZzRBUFA2UGJydHIwN1RfMnVKZ0c?oc=5
+- **2025-10-16** · [Lex] Banks tap Fed lending facility in sign of short-term market strains
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlBxYi1RUnh3b1NQbi1PekNPOU42NFY0cVZNbDRjMjBqQXJUS0xzY1dXT3pWTEc0Y3ZwSy0weFpRRlowQ2ptVTlSeUZ6aVVNMlBWM2d0ZldFamZ2RElfX0dDNDR6bnh2Wng2Y3I5ak00Y1YyZVdzSFlTVUZIUThkNmZoRE4?oc=5
+- **2025-10-16** · [Markets analysis] Behind Trump’s rapidly growing $1bn crypto empire
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVjc5dzU1eHBUc0VlWkZXWi1zdEdzaGZCSWRZdHNaemVmR2pfcHpRa1FyUm9ZX2ZYMWhjOGNsTHVoTmloRUlmVzRVbVVYUkZLLWE3bU53RHlsNUJpOHB1LXFnVzJobWlCTlVWUG8wTmU3eWs0Q2tEc0Rfa1dRVVpVV1l2Vy0?oc=5
+- **2025-10-16** · [Markets analysis] Investors warn on leveraged loan risks after First Brands collapse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0RmbjZJNGM1a2ZEOEc2QjNNOGJnM0xEcTVwUnYzZE9nUnE1NmU4bHV4RzROdUVVRHdHdHpndXUxR2pTbUZFLXg0eDNIYkFvOEJ1RGFMWjdaSHFvQlNfbHdYbmdNd3BDUWRyWXExbHpselhEOXFtUlRMQWViMVg2TGhjSkM?oc=5
+- **2025-10-16** · [Markets analysis] How dozens of Trump’s donors have benefited from his second term
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaTVUQUlkclpGdDRCYTg1Vkk4QmNZa0xZTnY2aTI5dmt3RnVOdFE3cXBRTUxPSmZEWTU5bHhmYVFUcEUxQ3JWR1RzUXJ1eURVV0h3Q1NMQXlJNDgyalAxdjNxNlFLZktPbHVBeS0yZHdWdGdJWHY0TEVZSXhhZ3FtZmF3VnY?oc=5
+- **2025-10-15** · [Unhedged] BlackRock, GIP and MGX in $40bn data centre takeover to power AI growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOW03MHQySkl3anVUcDhlVDExR0VjcmN6eDNtNUZMQVlSbXdFemxXQWhIUjRucENGNjNSZnBiNlE5clIxUktOZ1RjWENZOVVvNDZ3ak5Qa25temk4Z0FLN05VM2dVT2dYalNLcVVDLWNMaTNjM2FIZE1wWkdoWTQ4UXFTV0w?oc=5
+- **2025-10-15** · [Unhedged, Markets analysis] ‘Of course it’s a bubble’: AI start-up valuations soar in investor frenzy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ29paTJ0SVBtWHc4Y0tlQUF5SHBqaWpkdGVQYUs0ZVJPTlZCMW9Dc0RmYTNJQTRLR3hZN2VNaHV6OVJsN0lJQWpCOEdaanJGYnREVkxyNVhxc1ZvYWVEam5NaGtYaENfLTRQemhpamJSY3FDUFJRbDVLZE9PTFNGemlFclY?oc=5
+- **2025-10-15** · [Unhedged] US warns world will ‘decouple’ from China if it imposes new export controls
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQam53TjQyaTFpdERNWFo4UjVwaDFNbzVfMlRtdVl4ODcyM0xRcEZodWVVaFNiQ1ZmdVozVXRMUG9iV19NXzJ6WWtZSHdUVEF4aEtpWDY4ZXJ4VDloUU1iNnlWcE9NVW13TmVPSFcyU3JtTzJOSkNNeF9sX1R2YUYzTkRpTkg?oc=5
+- **2025-10-15** · [Unhedged] The Amazonians poisoned by the illicit gold trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjFRbXFsRHA3T2U0NFBTODdkbHNGQ29nMERucFcyZ0dOS1BHNF95LTJuOWxLa0EtY1B2aVl6b3VCWjNNQmVIWkk0R0xlMjFTckdjM0pFNE1DUzc5YVM1d085ZmdRQTBnV2tQSkZRQTVOQVBLTko1RjhmcE9HSGhaZEZHc3g?oc=5
+- **2025-10-15** · [Unhedged] The mystery man behind First Brands’ rise and fall
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOekJKTXgwZ0NSWGg4T3hQakhpU2dFeUg3VUsyVjdCR1FZaTFPR2hiR1VTQTJvS0NCY0pZSWZudURoOWNGaHc3OXhqX3ZrWExyQzJBOGFfSFoyUGgzVlo0dU1BeEo2ekRnNWY3d2pWQkltZkdRcERZQXJlelJjMXEwNmdzZnI?oc=5
+- **2025-10-15** · [Lex] Blackstone looks for the bright side with potential Big Yellow bid
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVFUUnhpU0lmcVZtckZ2TTAxbkRxZmtUWVNoY2k0dVhZaVA4TldQcHhzU2NaUnBSWGVWZ3hDYlJnNEk4a0N6bjdWVnhpdFNSUmwwOV91UGlja0twTFNTbEpjWVFvejlOOHZETXFkeDNEMV9JZ1gxaXFPMlo4TmVvOTQ1cmg?oc=5
+- **2025-10-15** · [Markets analysis] The secretive First Brands founder, his $12bn debt and the future of private credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTNoZ2J5cWEtVEVMVU9aVVFLUllPanNWb2RDNThOY2ZoVTNJV3RCQ3ZSQ3ZZRmdLaHpvUDY4Z3hZTVZsRFY5LWJkWFNBXzhHMWJqMFhyV0xuaGZiNkJtc0hnbmd2YVVzQklpMk5IS19JNlcxUFBJWGlzYmUwa0N4VEtMZEc?oc=5
+- **2025-10-14** · [Unhedged] Commodities trading houses braced for ‘smaller rewards’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWl4dFJfaHVzbGpsa0h6NzR4VmpscVlxUE51Ym15NG1nN09FTGlIdldnM2xWWmFWbi1KcGpKaG5CUnNFcmNZc3ZhQ0tzdEQza0FDY3N2RzA0T3hqdHRaYzF0MjdGTVVHdzZabk5hNWNITVQ4Z3FJeVpSdDQwU2w5eEd6eDQ?oc=5
+- **2025-10-14** · [Unhedged] It’s stag season in the IPO markets, but don’t get too close
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdDLWdNSy0waktlSXFOYlVzWFo3MEtkaHpLRlV2TzN5ZTI4ZTJRT0RRWEFpNVJKT1QtODdLR2FicnhPeXVHTWgweFU3RVdscVRSbjVPUWtSR1RBQm1aTnNSR05uS05kU1lKQU9tcVRKR05mYW5CMDVyRTRhOXVwc3FENlE?oc=5
+- **2025-10-14** · [Unhedged] Silver price hits record amid scramble in London market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2VSci1HRzRDNENkYUJMZ0l3VTczTl80RkYzeHFXc1Fpc1dVdUtKTGN0QkFqa0NFX21jOFVTc0Q1Z0dtRnoxSUxVWGxsbWpCQkEya3VRQ2pmXzdvTzVFcTBkNV9wN0pLS2E5SzFRNm1MUXF1b2FuWjFHQXNpZWNyZmYxTXk?oc=5
+- **2025-10-14** · [Unhedged] Leveraged ETFs are bad for your wealth. Tesla’s can be deadly
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZkVkc0gxc0xsX0hEWm1vV0FZbnNLbm14dmFEdmNieEhXUWxWRGJXaFNabmFEOGNEX0pYVVVIYVRXblRCRXJfdjZCRkhYLUJueF9ndXJmWC15V01LTUNRdXJaZTlVZk5EUU1hQktvSGk?oc=5
+- **2025-10-14** · [Lex] Wall Street banks get their party hats on
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWZUTEMyN0JKYVdGcVhKekh2MnpYczVvbVhGem1rbGh0dXlJVU9kY3U0dWYzb3Y5dVlCUXVJUlAtX1pzTFN0RnQ0cGNIVEZYemxoMFJ0WmVZNmtOdlJtbGt2SnZ3SlR1ZVE2Yy1nLTF0NkxiWDc1SW5zeVg0akFCMU9rbEE?oc=5
+- **2025-10-14** · [Markets analysis] The paradox of the resilient, fragile global economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDNtTW1kSWpQN2F1eTdTeFJDQ3V2SlR6TjA4RC1Qa1BCSGpmWHNaektGQkctSDFLd0FCam5iX09kMFNvU2pyZjRwTTFEVXBPR3VUa3lCNG93NmJjdS1mQW5zTXZaZENnaVpYbE8xR3E2eWY5ZkZ3Tm1hM3oySnF6TURpU2U?oc=5
+- **2025-10-13** · [Unhedged] Dutch government takes control of Chinese-owned chipmaker Nexperia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnEwX242OHE1ZUdUUThGRkF3WnlWd0JxLWhXcTE4dm5YMUhLcFdNb2dZamx5TURNWDBGWEZMX1BJZXl4ZzdsaFQyM3owR09ocnNWR1NLcFVTS2hpR0NyNlNRN1FIN3JJRmR2ekVySFQwVS1ZN3BkZ3NBNzg2R1dOOU1mM3Q?oc=5
+- **2025-10-13** · [Lex] TSMC’s stock market rally is a triumph of need over fear
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE9ZajN2Y2RmMjdzbVMyWG8xLXR6UG1WMHVSbFBVak9PTEJSX21SMnJOVDk5VGJWNU5YNWkydUVod05QZXI4VTBLa0ZRMXNPb1hId1BEeE5tcWlDakhMOGZXbWltaklndm4wSW9xMmNXY2lxRU5TbXIwTDUxaGttUmVHTy0?oc=5
+- **2025-10-13** · [Lex] Revolut’s full UK banking licence held up by concerns over global risk controls
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONjNTRkVIaWVCSkdta2FDSDlqYnM1NlJGV1VIaTU3QWtiS0xnOGRNc1JLM0wtRGdYVktjUWVlSXhyUUFjOE5IU1I1S1I1MUdaRVQ2b3VtVFdsYkdGMF9wM2IzdzhiMUF2TjI3SWdaUlRFZnVUaVIyNEJzbGhuREZvVmV5NTc?oc=5
+- **2025-10-13** · [Lex] Big Yellow shares soar on Blackstone takeover interest
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWV90dVdxM1NEOTAzVkgxWnFfcjQtQjEwOHNDWF9CUzd6MWM0QTdMQnlEQ2JDY28teXVydnB2TVVIQ2JReHRKUHhJWHpQSEJYY1R0X1V0ZmhycmpkTldlSkw4X3F4NS1HRXdRb1U5UVhnbjhWSjN6dHF5ckc4SlljZWVWeE0?oc=5
+- **2025-10-12** · [Unhedged, Markets analysis] Why the economy feels so confusing right now
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOakdFTWFoR2xtUndKVWVnVHJ3RmlQX2RIQjMxMXlQV3F5VGtCZ0RUSmk2aVRKU1NXTGZydm5nQU5sUW80TGwwV2Y3Ql9jbXJpMWs3X1NCVEhzbm11RWVWNXA2LVJJWldkSk9rY0tacXdLZ0pLQlE0NWxmWUllQ21HeXpoQ3I?oc=5
+- **2025-10-12** · [Lex] EMBA 2025 - Business school rankings from the Financial Times - FT.com
+  - https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseTdDdDlpclljdmJOLTVueHVqWEtzR1lzeWd4UFZYYlk0Rm1LOFZqX3hPSGZvQ3NGYmZFUEVUNWpvOHZrTGdmejFubVJfZGpVVVNOUTdrSk04cFE?oc=5
+- **2025-10-12** · [Markets analysis] Hackers targeted JLR months before cyber attack that halted production
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3BNdk1VWWNOUlo3N0lHdDhoVDUwS0xDRGhOVUlPeFlDMEc3dTNVM2tJcEQzbmgwV2lZcnVaQ2djcVRPQU1OZnhRTU5LejVZUHpUXzZKOWQ2dmdkRkdGNHVrZUQyaXFORTlNTGFEUGxrc3dPWENsSkxuYV9paFY0QlRpYUw?oc=5
+- **2025-10-12** · [Markets analysis] Novo Nordisk’s ‘lottery ticket’: can obesity drugs help treat Alzheimer’s?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGhHeTFPWUJvZkZrTGpVOVpnWld1M3E3ZUs1RmVWc0ZTOUVsMWJrQTgyemwzclhONVE4eVJRQ0ZsVjlvaGUwNkFpVGZ2aGtna2prdXZlQ1RuMXNTc0FyZ0hWX05CbmNhV09NLVV6b1dtVUJWb1JxNkZsMHVObllIcXZlMVU?oc=5
+- **2025-10-11** · [Unhedged] Behold the trash crash
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1xclR2eXlISjNZa0E5TjQ0dmZPQl9NemV1cWN0cjRTMEgtblNhUllSakJGcWFFaHVQNVcyVnBHOGh2S1NXbTBfN1lwSGNGYTM0R3cteWNGOTJzZHhVWUdLbm90b3QydGV5OGp4bWRaVHQ?oc=5
+- **2025-10-11** · [Unhedged] Technological sovereignty with American characteristics
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5TZmtITUROUEd1UEUzRVItT0hFZUw0NzJNcVRxMFJha1UzNGdmSC1nT3VkWlE1T0pJaVBnb0VCVDRsbTRHUlBNR1lKVFlKRmYxOVBSajhRdjhnQW5OSUhwS3ZJakJMam45WHBDMzY0NWw?oc=5
+- **2025-10-11** · [Unhedged] MKS Instruments to offload $1bn chemicals unit to focus on chips
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQemRaa01BdXJod1hpamkta3dwb2NlOHR1TWZVMWFic004VFFaeWRUY1RYb0NQZVdqb3R0Vm1Yek1lU0VNQVNoSXVqeVpmaTVISzA3Z0pXVnBxNUtXQ2hjWGZLTkVxQVA3ejFyNzBEOXozLUhqalIzZ1o0eGtRZndndllqWng?oc=5
+- **2025-10-11** · [Lex, Markets analysis] UK consumers curb spending more than anywhere else in G7
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3Q2ZU01R3U5c2FyTHBBLXlhd2pjeWRoS205N1hRaHBZNmxOdHlxUEZzX2NwcDhxakk4RDk2b3RyTXZOVGxGYjZfYXhjcUN5UFFkT2M4dFcxbnBkWDFaT1F3X1hlNEc0Nmx2ZUVCX1hfY1BUQndod0hySTVJTXJJaENKSXA?oc=5
+- **2025-10-11** · [Markets analysis] Embraer predicts challenge to Boeing and Airbus duopoly
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2R6SnVoYlVMSl9yVFhDME04TC1fd0VaS0dma0VtbHVlYmE3TjVwS0NKbmRvcnNjcVRoSDBWWlFDUlZEMm4ybDRBd09Sb3dsT0RnbVpoZHVFUExuZ19SbFE0ZmxJM0c3N0FwNnU1NjJjdXA2c09XaUc0X1lidnhXLTZOVzc?oc=5
+- **2025-10-10** · [Unhedged] US stocks close sharply lower after Trump threatens new China tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVVVX1NPVVhoRlVTNEFNd2ozSVFLWkRCTGx5blkxNXdaMmRMczc3TV9NNmpQNjZ1cjdQSzhEbW1yYVFqSmhUSFVvS2FmZktqT2RmTUpWNkZRaDFCM3FpZnloMm15TmIzaTVIS2N0b2Q1alF0RGpzNzNrTVVjTHJNclVLVFo?oc=5
+- **2025-10-10** · [Unhedged] Gaza ceasefire has started, says Israeli military
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2hYcGttZEZjTTdIY0pSOFRVOVktSXVzTGl3cWtZU3R3dkduZFZlNlh5RkJKS1VGOGxZN3l2b2Q0RnRrYXQzNG9tODA1SGhVZHk1clBDM2xVeldIckJoaGJrQ2lBU3BySEdtdV9yWWZ0WkFIQVZBTWV3dWxSZDFWMzcxbkQ?oc=5
+- **2025-10-10** · [Lex] Revolut’s address matters more than its CEO’s
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1VQd3J4ZnpBV1VvZzVfV1pQdGprbHdrVGliYmE1SzNNekZIdXBlbVFyMmxZcG9xMEJNNHl2eGFJeWtlY25tT3NOOEdaSkFvYkJ6NWNaVG5PRnBKTndwZlY2Vk03d0FmbTRKMXVtOTJCb3pNQW1nUGw5QUlMeE84LTRub1M?oc=5
+- **2025-10-10** · [Lex] Tod’s chair Della Valle: luxury supply chain prosecutor ‘should be ashamed’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXJOMEFSOFBXZnBURGtoNWxIMF9uNFRhc2lPVDk5WG1yZXF6SDdpVURqUW4xTUxVQmtSeDFqUURQYVF4empNaEJIYXZwRnJtcmR0a1BJTVV2MHBJZXoxbm5xbHd0ZVpKWlRZYUgweC1uT3pES1FZTTVtQ0JFNGg3eTVHQVc?oc=5
+- **2025-10-10** · [The Long View, Markets analysis] A dollar rally could be the next jolt for markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWtRb19iWWR6NS1sbk1MVG1yQ0F4Z0d3aUFtdW94MXBCSGlmLXZlajRhckFOLUZrZDMyaGJESk5QZzdxMlJ5TmNyTkczbDVFRUVTc1VsYk5VeFR4S0RIVUJvYzIycE9aaUtoR05aOGhwTDlFRnVEeG1wci1TSDUzQml6T1Y?oc=5
+- **2025-10-10** · [Markets analysis] The transformative potential of AI in healthcare
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0tUUmMxZ20tY2VLVGt3NU13Sk92RmpoSGJXMnV6ZEpndUJVdDhaR2FDV3kxWHY3U21nMG80V01fd2NmUkZwSy1Bb2QySE12a05CZXZQNUJ5b01mTFFRaWFzWUVhbEw4ck1VSjJsamdOTjVkX2ZKTk1RQlRfak1DcmFGYk8?oc=5
+- **2025-10-09** · [Unhedged] AI peak is peak AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdE9haVcxUXpfVEpoLUdHN2IzWUtuRFdlSEtCVDlrdWg0ZkhxUlVoeTVPWlZ2Z09CLXBEMTdVa2NMQzgwMkdqRGU5cHhuX0E4elZUQzZwbHRyQjBsQ05XUlBoSHJMTXZhcTBZcGsweTFvMGZNNjNQVjFfa3Atd2xScG1MYzI?oc=5
+- **2025-10-09** · [Unhedged] Gold bubble should prompt central banks to sell the metal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFlYZG40QmdTM3pqY0Z2TDFYNTZTRU9IbTh5Q2ViNkdqQXV3UFhmR3RIQjlPRXZPYWttaThqQnE4cVhqclUxbHNUc3RJX2VBY19CckRMN0p4bTBGcm1MZ3owblJJbVU3VFJaVUZqdVJkOTNYem5KQ1Y2SnI5bTZDVTFmY0g?oc=5
+- **2025-10-09** · [Unhedged, Markets analysis] Investors flock to ‘ex-US’ stock funds in drive to diversify
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGF0SlFrREk0b2QxX19VZFhpalJwaHhMdFJvUUptZVJ0R2R2d2VadTJOZVlON1Q2cUxSNHNLbExGVWRnLU41dmNCZi1aRGx5X1BiSUJla2JyMl80N3BQaF9uOE43dk9SWVdhLUZuUDZmc2NPWnl1LW1FX3E3OWY1THdRTHk?oc=5
+- **2025-10-09** · [Unhedged] How to be a macroeconomic dove in Trump’s trade war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1dBWWVyUEthX084clRnVVJuWTBhMU1uTHNXUGhsM0hDUUpSQTNBcG4taG1OT281dnc1dF94T24tVk5GRnZYdDVEcDd4eUJEdnFNU2lEMkRnTG50ZTEtRnRFeDk2MXdxMnp2SDYtZXluTGlCRDJSa05QVVpEX2lYVlRDUHE?oc=5
+- **2025-10-09** · [Unhedged] Japan buckles under matcha mania
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWN3ZUJvMTMtY081a1Q0c3JtdXBSZXNyekVhUVJSYlFzT0Q3aEdBZ2JuWjEzd1BPZGNxZkY0SWNaZExkem1taTB2cVBzT3RSOHpDSXlQZmxfbjBFVFNrSkN1UTFZOEdZT1EtcFV6Vzg1TndVX1R4dVBWcXVOZk56UUx4Wlk?oc=5
+- **2025-10-09** · [Unhedged] China launches customs crackdown on Nvidia AI chips
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGRoLWFqUGhtbW9sNEhPNURuamRVVVI3aVNOQnF1b2VRUzdQaU1MdnNaeUlIX3M5VXN5TVNQa3Q5N0hJNC1CSWdHTU8xeUNxT3VFRTdTdENaM1ljODlld1ppemVRTVRoTk5rNmp3MGg3T1ZKam5zdnFDbF9GSmZIa25HWW8?oc=5
+- **2025-10-09** · [Unhedged] Rishi Sunak takes Microsoft and Anthropic advisory jobs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVNUWURZakFRWmNjMUdqM1ViVVJmOWMwRDBjcEd4NXVRUmFocUxZTDFJSkZ5TkRGT0lCa2RtWW8ycU44MllwbWdaeUVPRVdWeG5kaWxfUGJfZ2Fwb2FFTFdlTEFyWjVVcTdPRUhqcjhkTEw3OEtBVDZpUUZRS2RtY01SRmo?oc=5
+- **2025-10-09** · [Unhedged] Think the rally may continue but may also tank? You’ve got options
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNks2OWRuZnZGRWp6anROLXY2R0Y2c2Q3ZUVEbl80aDJwUVpjc0NrbFBQNkFaRzNjaTU5bzJKLXZMQktyVWU3MEVCNnVoX1FvUmdOV1VCUnBSaDlVU1RWdUdQVFFmbGhTWlhQR0VBMnFRMzlIdF9iemV3YUdHaXNVN2tJOXE?oc=5
+- **2025-10-09** · [Unhedged] China’s wafer shake-up and the rise of ‘Silicon Desert’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWW51WHE1TGVySDd0WmdvcU9BcnJ5d1QxSDVpckpZMk80QzBneEI3MVJ4TmQ3VGduVklJbzQyR3NTMFBpUEtQdGtFMVdrcnlkdkVrb2lBQk54dVFJVzR2SzhJQXJFVXdEWnhKYldqSmtLSTF0MmRxbGN2QWtSWGlCSU1pUTQ?oc=5
+- **2025-10-09** · [Lex] Why raising cattle is still a great cash cow
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQek1yQmttZUx3RnFIenBVR0lVd2Q3eUlhZ290YlNmZ2JnRzFKSVhENWxyTVloVndnVVg4WGdIek85TlFWT2FZZ2JHLXRmaURmU2tteDNrdi1Wc3ZtSEx2QWpPWmotSUkwVWlDVzFMRVBFU1pQZ0c1R0ZJbm5UTFBzUERKeXQ?oc=5
+- **2025-10-09** · [Lex] Ferrari halves EV targets as profit guidance disappoints
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQczBIc1dxSmRXQkFiMUI3ZjJoeGk0QUtSVFlvMDA2ZExYVkVyYUxOVlNFcUxXeldNWGVKZFBaNm90akJoLWhUcERhQjVOeHpYcEVLanZ3YnZaTlpBc3k5d3hlSTJ0UTJYZ1dRV3lKMjlvZVFwVTRDWlktSTJsNG5LUG9CYmg?oc=5
+- **2025-10-09** · [Markets analysis] What the graduate unemployment story gets wrong
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkpONlhmb2xubG9zZFJqakYxSDB1b0JUM2RpbUg3by11XzJuSkpOZ29CRzNZb1JvOU1RU0xJM2lOSHlhTEZnMkI0aFdjbS1oN0x3eFFBZno5VjFjOU5LVnE4ZWZzY2pDZmYwSl8zN2ZfdmFhVjMxYjdtUFNVbXlrM250SHo?oc=5
+- **2025-10-09** · [Markets analysis] Tata Group ‘fighting multiple fires’ after cyber attacks and boardroom splits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkpUQ1BZMHZEdGV0eHA3UFV2M3dXb2JOcjVkZ29fS2NYTUkyN0JlY0MwaUNJY1VRc1B2Z05NR3p6WXZoSUE0YzhGM0tLLS1FU0JMQVdZNXpZajRtaWtMVFplNVI4S0tYbnd5cmZkWGFPRU9SRGNtZWZxWDE3YTFrTFE5SEk?oc=5
+- **2025-10-08** · [Markets analysis] The tech industry is surprisingly thirsty. These strategies can help
+  - https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTJ0ZWtjeDQ3cHJhdlBsZEkyVkNDNEM5LUtIX1E0YXczWXJWNTN3enRvT3FLcDNGdjdaRnRDM0N2S25rOUpicFdvemxHTHNUZXAwajVzd1Y2b1lBRUFodWxXeks0dWlwN2Fld2t2d2VfSVVWdlY3VDBlVkRmYXNPd3dRSEZ6OVVvd29IOHdBazVGdlJtckNaWjNpb3VkZEdDVTZBelFTdUpaOTc4NnBYUFpZTQ?oc=5
+- **2025-10-08** · [Unhedged] Fed officials were cautious about inflation as they agreed rate cuts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0pwYzVPajh2akg2WDlndkN0OXczaEkwUk91dk45bWw5MXhOdnk5Zll0dDV0NWdLclltZlNFNFNfemtfYVNaUHpUM0JBTzFTbkxSS1FRdGpjRktlNFV6cTlZV0dxOHRmbVc5NDl6S3Aya2ROQlBQYnFIYXVIa2JaaW9ha28?oc=5
+- **2025-10-08** · [Unhedged] Gold price tops $4,000 for first time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjFQOWkxY2VJTWFDSjZRS1k1Y3JJcFZBNFd3dnNQdm5tdkVaMTBNT3l3OHAyeHR5ZldkV1VkR0RJZXVrUUhFLURuUnkxZWtwY1pQVVRIcE83eE1ZVktoWTZSNmhqd0hHazROR2JYM0x1ZEtCNVo5V1lrMy1mUHhvMDhDMDQ?oc=5
+- **2025-10-08** · [Unhedged] Verisure shares jump 21% on debut after raising €3.2bn in listing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkE0bUZFNF9tcmR1Vl9rMmdsNllXZU1oN2ZFMFdxcnRaMGZpd3ljdWZZNnVDemFZTVpSTUhQWmJobEUzMXNNUzhKNklHd1Nudl8taGVtaDg4b3dmb0E4bWRrVnNBRE9CWkIyeHJudG9ydmd5Z2ZpQ3hlWWgtMEVNT01NYkU?oc=5
+- **2025-10-08** · [Unhedged] Permira and Blackstone tap banks for IPO of €10bn Mobile.de business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1JMT1o4ZlFlZWRIT29INHhFbU03NGo2VzNPVWJEdE9xU2pTaFJKalRYQXFDMXVCMVhLMkpvTGhZQjk2OXc1YkVhaUVPYU4wN0R1QzRmQ3VwRHhaMTd2b1drNDlud01sWlNWelpxTXdsYXlPM1NVeWxlSmhhQnVSS3hBckk?oc=5
+- **2025-10-08** · [Unhedged] Central banks need to learn lessons about supply shocks
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE10SndIUGdhT0JUelB3bkQ5cmpLZTVZUnpWQUtzbnIyazlmZy1CVE13Z1BfZVM4MjByUWswQjRPdWNOdUtUM2cxLUNmMmlpNkxBRXJLNGJ2Qy1Wam41Zl82UDRodjNReEF3dVU4cTJIQzc?oc=5
+- **2025-10-08** · [Unhedged] So you want to talk about gold
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMzZXLWpBUXZJUTdERXFMTFZCYVlwcDYzU1haNGFhTlVQSk9xODdYV3QtQzVGa1FPcTZlVm5YRzdPNzdLd3JkVllxZ1VJY1dtNzVyanJ1TmpPd3c0OHJuakZLOFhvdnoxRHlQaHQ3RVA?oc=5
+- **2025-10-08** · [Lex] SoftBank to buy ABB’s robotics unit in $5.4bn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOG1mOFMxSWZIeE9CckdtRklydFJwb2FRbEpHSnNHMFpTQ2N0eGVEdVJEUUVvV3BWcHdaSmJWeDlJT0VlSEM4SXFJZWxnLUl2V1ptcUE4SUVjeWtHXzRsMzVPRnhYNTRuZklTWEl4VEI1SlBxeS1lVnN0c1ZzRkVWLTFQNDQ?oc=5
+- **2025-10-08** · [Lex] PepsiCo chief under pressure as activist Elliott pushes for change
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzZoaGk1WVd6cGY0bVpLazBkNW5kNk5jT2F5NHJMMlhXbE9NU0E1TjVZRU5yT0g0MXprbnJ3U1ZCYjkwR3BFd2V1T21IRXBZT1ZWa0hSYUR4VGdGS29xX0RhQlRFZVhid3lPbnlOMkx4X2JFQjAybFdGU3ZLR09RczNjcGk?oc=5
+- **2025-10-08** · [Markets analysis] China unveils sweeping rare-earth export controls to protect ‘national security’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmdXUEhUQ1hvNDhyaHdNNUxUb0ozS2dhWUl1bE0weGhwZU5TS1RaR2llanFoNWN3SjF3SnF6SWNlcTZFcmtBRUlNakdOVDNiZUR1YjU4eVMwbkNiSUFNcWt1aVUtZjkzcVZNNG1sMHlFOHowYk1rUUhHRlRlYmNkbWs5eGY?oc=5
+- **2025-10-07** · [Markets analysis] John Hancock Variable Insurance Trust Lifestyle Growth Portfolio II, JAIKX performance
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1id3BwMXFjSnVJZ244NEpiMzlFcXg0QS0wbEJPSXVQcWRkU3dCdnNKcnJOa1JhTnVXOXMyN1MzQmpwQ2c5a3A2TzJMUmtCZFEzeWdUTlZBTmQ5bFBOdVo3NzBuc1VnZ2hLYVVUdWU2d3Y?oc=5
+- **2025-10-07** · [Unhedged] Gold now! Gold forever! Only gold! Gold! Gold!
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjVyYS1Tc0xxV0FucURGaVZYaU5JTWlIc3VPQTVfNHBkMHhkM0NiNVZQVFZtN3RPa20xQ0NteE9NVVQwaHZkaV9jS3dyaUhNX2dPdGdyNUdRM3hsSHFFUGVKOVk3c25PQ0VzSHp3VWsyU3p3eWQxb01DYmt4dWRjMzdYYjY?oc=5
+- **2025-10-07** · [Unhedged, Lex, Markets analysis] AI slop is coming for your music
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTlPX1FRZ3NORm9YZ3lXQjVyZmk1UEFOY0FwVHczQ0pMelBfY1VyTUYzSzM3aXNFTmRveWpaUE9kVHh2UTcyN2xsV21weVMtRUxCVDR1X3ZNQ1ZQMGFZTjcxaF95Nm13MmtjUmpXaFBZaWt5MjQzMW9iTXUyYUYxNzI1bVA?oc=5
+- **2025-10-07** · [Unhedged, The Long View] Brace for a market melt-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcW1Ob0MxVjhORlc2WlZJWHduTGxhX2N2RDZIakpiX0U3Smk5UGYzUUdXM1pSWWJ0SFNKYWRsbF9ueXQ1SVBva1dfOXg0UmVMZnVjMnA1T2kzSUI3X19nbEFLMXJyVGlaMEFsampxUjVQX0pIcG5qc2FQSlFFNW94UzdNNms?oc=5
+- **2025-10-07** · [Lex, The Long View] Give Britain a break: its economy is dull, not disastrous
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGY0bzJfUHVuX2hCQnVaeThkbXpLajZRcUZITGRmOU5ta3hNdWtIWFU5Q1V4cXJEb2JOVjBQMGE5WWU0dTBkcFdQOU44cGlVaHNjc0FZc3VsZFdCNERCRnNQQkM2bFZ0U1FKUzhCeDBMU2liV01XNzJkWjI3anc0ZzRxbFk?oc=5
+- **2025-10-07** · [Lex] Tesla launches cheaper Model Y following end of US EV subsidies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG8zN2lTUWxsXzJlbUY3cGxUY3ZwOUtaX3h4M1Nhb1pTQmFqRjJfeXBYOEJpR1JYYWVkemI0eDJQWmpRUzhnSklxX05qVEZmeGN0RlhLLUlpZm5fRmdGMGVOVE1TSGFEQWNyZTlNWjA2WUVVYUs5ODF4bzJYVEQ0MHJfU3g?oc=5
+- **2025-10-07** · [Lex] Letter: How to avoid the looming AI energy bottleneck
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9LYm9ZNEpucXRGWTVEMGFYQ1pkaEUxT0FWbXZfU25nVkR6YUl4U3JFbFBwbEVDSmY4cVpqNDl6aVdrNUM2QVlfZ1VzbjZJVC1nbW91eHNSWWZFNWwtbTl0WkhPMVVZM3U4RDJFY2g4aGs?oc=5
+- **2025-10-07** · [Markets analysis] Ex-KPMG auditor fined for third time in four years for ‘serious breaches’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3NJTWw1dUFnWTZaZW1MRnhSZFp2MC1saHBRTnNsVV9hR2RNYU0wZlFlX2tkamhQTUx5OGM3UlBnMV9pcmZ0SWp4S1pDUUxzSmJZb19NQVpwZVF1UThfMEhhSkxGSGxlR1dwbzFITWxablB4NjhzZFU3M0ZQbWJGMzkwaVk?oc=5
+- **2025-10-07** · [Markets analysis] Why everyone is talking about food inflation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXowWkx6ZXlBUDNFVTFKSkpXQ0hMTmJJM2twNTVOQWtCWmIzNnFyQnU4MXdfUWxWQWUwRW50dEhwN1JSa09oSjhHdlFnemVZZFhkeW90MUhnbG8ta0syMjBHREJvMXh1R3NFYklMRFZLSTVLT0tjUUJOVFZPenpKV241NHI?oc=5
+- **2025-10-06** · [Lex] MAKE THE MOST OF TOMORROW
+  - https://news.google.com/rss/articles/CBMiggFBVV95cUxQenlVVmxKaWxTZ3hGZ2dxZFBPWEhkdzhNWGNhYnhlbVpPanhNWUI5eUNMTlpFWndrMGI2VFNWbHdTM3RWSXJLLU9kWmp6ZkJmZmFPbVhxc1p5bGRzY1RCRmNZYi1Nb25mX1lrYWJod0J0Q0lMZGdyN0tVbnJmVkk1Vmln?oc=5
+- **2025-10-06** · [Lex] After the exit: building a second legacy
+  - https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1ZTU3VUdWh6X096by1uRHlCY2JrZldGNmVUZ0hiY1VDQVVpc0lOb0s4Z3BLSDJRSGs4VUpDT0dJSTVZWm9mVlozdUpQMmVUcXh1U2FkNS12cTZHa3A4R016M1lVX2dhdS1HNEp6S19KU2F3QkNaRTYyQ1NXWHhEcw?oc=5
+- **2025-10-06** · [Unhedged] Jefferies, side letters and a $12bn collapse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV2pDOFIxalRtZVVLTE1uU3U0QTZmclNDNkt5VUZnQ2Z2c3EwNzc5YmhtbkFfZlpWcWNUcnR6eVhmNjZhU0VpaE05d0RNOTk4bWtSb1o1VURpTTZaQlpKOTUwV1Z6YTdKRHhJeFpJOVBveXJLVHNYNWxCR0pEYnU0ek9QOTA?oc=5
+- **2025-10-06** · [Lex] OpenAI targets 10% AMD stake via multibillion-dollar chip deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVFwSUtwOWozMnA4T25iTFhRcXZ2bWM4ZU5kVlFiV2lNdm1lOXhkTktYeGxrNjRlVjNaVWdzZWk2SFBuQUFfQ2MyeGpTT0dtckdSRFZGQ2hYekNuWlYyNldjc3hfREpYVmJnRDJwQnd3NWVXS3ZnSXlSOVo1QUJlaS1UZko?oc=5
+- **2025-10-06** · [Lex] Consultancies must become software companies to survive AI boom, IBM executive says
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONmJaaXRvejRvSzFqMkJzRDd3SHlFUEN4UnRKeFMxV2RvSEdxUlNOQU14OEVQVUxQc29yTGdqUng4dzg4cmFjMHlNSmFyQTQyVHVFU1ZCMTFqSldvcVAxU053cjhLNVlMRTRQMEtKdEc2eHUzaGJtOG5HOTRpdkRPczNqWGg?oc=5
+- **2025-10-06** · [Lex] Global solar and wind power surges despite US green cuts under Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNW5tQ2VnbWREVmo4b3FGaGJ4VEtMaDNBQWttQXAzcUJPUHhMUmVkTm5jb0tic3IwREVpd2xSM05RcjBVRWZVM3ZTeW9yeHdOeEtJS0RwUV94ZXphejVoYmNSdDVmYzF4dWRnY1Y3dG1JMlF2SVhCaXlhZ2Q1Y2pNTHY3QWg?oc=5
+- **2025-10-06** · [Lex] EY narrows US leadership race to three candidates
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNE9aT3RQcXY4RmREZ1N6VjBMa1BDai1ILUhpZ0g5aDA5V0F6R0Q3VUwzV1lDVWt6blpsZl83LVB0UnpyeEZGM1d0VzJzalQ5RW9Od0lXNlZHaWNSWW5UYUJTbTNQbjJaWGFsdDFBcGJaTG1hYWVXRnhVWVVEbTZQMGxEVEM?oc=5
+- **2025-10-06** · [Markets analysis] Dark chocolate is being rebranded – but is bitter really better?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQVpMRHNPbXppOGZEUDFqdzByZVNTd2xPT0ZlRDFpTy1FQTE1dlZYdmxkcnpsQ3hNbkJxdDhkWUtlREZneE1KcW1iWF9HTlRZV09SWVhndFM1bFZtMF8zcGlxbTFkOHZSWFJ6U1M5dTc?oc=5
+- **2025-10-05** · [Unhedged, Markets analysis] America is now one big bet on AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ1EydWNwZ2FCLUZ3YzVhU01yeVN1WExJOWxxUkdyc2dicUJ0YjJyX2ZHV1VGT0c1RUNyR05ibjFuc05RaTd1bEdueTZxRWU1VzdaVlVOcXVmdURzaFdENFp0dnVZdGZQZHFLY24zdTE1STczczV4VWpNYS1yOVY2VzFCeTQ?oc=5
+- **2025-10-05** · [Lex] China reroutes clothes exports to Europe after US tariffs upset trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUTJYN2gxZ0xEczBUMWQ3OC1UX1pHOFVEd3FQVkFhWTRvQ3Q1VllqWnVKTGJkY1FhUlNvM3RRSWRLaDQ4NW9qcnhySERPTUZyRHhNLXpzZS1xRWVVcmEyMGJicjF1ai1OSXJvUHZ1WExNUjdfUUhPUXFIbjZZdGZ3bzBNSko?oc=5
+- **2025-10-05** · [Markets analysis] Kremlin-backed crypto coin moves $6bn despite US sanctions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzY3LXNsbW9jTVlOX292cERvNXZqSTVWcW1hc1hsUl80TFF4cjhsNURRbUNwNExRZFowdFFqcTdFRXozWmhUSjRXT2J2WFBHWHhoVHhuREpBX05SZmtlMU9NLXljVXpndHZueHdpOFppbHQ5aHprMjJqcXJVUHBGYko3Wjg?oc=5
+- **2025-10-05** · [Markets analysis] VanEck Space Innovators UCITS ETF A USD Acc, JEDI:MIL:EUR performance
+  - https://news.google.com/rss/articles/CBMieEFVX3lxTE45amtyMFJEWmRwWlVmVGl0LXNjTVV0Tm8xZndkSVlGMC13UW5PZzQ1LUcyRnZib19ydGpNQ2lXcXpPcDdNZnh5bnFwaU1jM2tSVTZWc3NCbUp3M2lyTmcybnh3MEhzUENFekpUUTF1cHZDamJyS3hHSg?oc=5
+- **2025-10-04** · [Unhedged] EU pushes new AI strategy to reduce tech reliance on US and China
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0VXUVFOaTZjekZDSDNnWm9fSUFNOGo2YjljdS1pTXU1MzcxNEZRVTRaNnNaSmtnVDB6WmpudUl1SDR5djYwaW45QmxtRjJKNHQzclR2R1I5NUtyS2p1WFRCbGRqYXdUN04yb1dacy1hZHRiOVdTU1ZIVmQtamJRX0FJRU8?oc=5
+- **2025-10-04** · [Unhedged] Impact of Trump tariffs is beginning to show in US consumer prices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGEzTXBLc2FNMnpNVkh5bEZmeWdQMDhWZGlnZVMwU1o0ck5ES3Y5Tk95ZkVFcDRPSnZSeDRwNUhrX1pYMnQxR3RNd2JFY3RzMmRUUkhVZEp5YUlySmdRZTVQdWc2aXRDaDdOT0hCWVNfZFdieGpxUGxUMUdkNWhGU0pZcFo?oc=5
+- **2025-10-04** · [Unhedged] OpenAI and Jony Ive grapple with technical issues on secretive AI device
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONExzYWNmLXExNndfcjFRejdSUFZLRlVmQ2VLN09pdUp2TzdHbTFiNDNTV2dVN0RHZWs0YzZoT2laRmdoY003WVpBak9HeGN0Z3lQZC1PQ0NTenlaM3dQaGtudVdNcVRrcXVjU29uVFF2d3JOWjJpYk1VS2FySGNTcTF6emM?oc=5
+- **2025-10-04** · [Unhedged] Labour markets stuck in a ‘low-hire, low-fire’ cycle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDRxNFlTTTRsa2cwUFNKcUExSUdHSkVuN2d5NWFEZHdQVEloanNEUWdfWmd6VXdUVmo3THR1OVVsd2duNXZEbXo3azRnMGhLN0ZkR09QZGlnbkxuM05VYUxPc0RoZXFLN0Q1VjhYWVNXNDliWjlBTGsxNWJ6UG12bFhJcWo?oc=5
+- **2025-10-04** · [Unhedged] Crypto skulduggery isn’t a bug, it’s the whole point
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnpGcWxvcXFiTGs2QklMWmNIYm1JZk5IcU5fVldCY3hqdTgyZldyb1JjTnpIdEFMSm1UQl96Ymx4eXdLdUk2ZnZsWXB1akJ6ck80eFRJU0tENjE4VWRrZzJWajEyaVJYN19wVjhoZ3pzUkhtZUcyckZuMEktWDhPLS0yWVQ?oc=5
+- **2025-10-04** · [Lex] Monzo plots new push for US banking licence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZGtBdmJaUjJmR0toUWpGcWYxYTBVWXEtZkpfVjVacTZRcXZpUVp3MDJOUWJQSGFHNzhyZmtIRFlGd1VNbno3TUhqcVJqNmRUNHRZZkRoUmN6SG4tY0xUS2VWMkJ1eVBaQ2lfUC0wWHlDM1JZMGlCTWxJZkpJTEtBcXZuWUI?oc=5
+- **2025-10-04** · [The Long View] How to host a Puglian harvest festival with Trulli Ulivi
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5uRHRNVTAxNnVyYUpGbDdEdmVRVzZoLUdhVE93cHcwNk5oZVdiQU00aWtaYk9ySnhJVWJLM2RKLWxfMkN3UVBXV2pFWWdIb254Um9IMmx6UVplU1ozZ3NMalhKaUh4aU9fNmJ3eFo0TnA?oc=5
+- **2025-10-03** · [Unhedged] Jeff Bezos hails AI boom as ‘good’ kind of bubble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXUxeHlVWGc3SUJCMXNuVldoWGp2VENCWi1tenRQMk82RXBWbzBKNkJYb3JmTGpkMzg4TjBoejM4VDVubm1GTzh3XzFGSzc2MnpkVk5oZTM0d1lJcjMySnFkeTRRSmpacVdBNUVucUJTZlY1dzZvZ2JjZEd0UjByREJlNjY?oc=5
+- **2025-10-03** · [Lex] Lloyds stumbles in its wealth management dash for cash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnk2dEhXS2NuQXJ5ZTF6c3U4VUxiTjczZHJDUEhMaHA2ZzVBajkxNkh6ZldhTEdOeXNRb29GYkhmV3ZsX3RjMFNoWE1hY0NWaHh1dDVKaFNSSS12NjlneW9jbkloN2tueDgyWUUxZ3NjZnlvRm1RMkZhU2VTNXlYYklES0E?oc=5
+- **2025-10-03** · [Lex] Supermarket BOGOF ban takes the biscuit — and that’s no bad thing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0VIdkJINTVldUZVLTVwSkd5SUhRME56bzBFOFpCTzFSSDJIbzNPdXlJQUxOaUhrSHJ1eHktc083Zm56aHdBTG9PaENRYnRhTU5pNEF0aDQ0MUttSWV2cWdBN3FVTXMxak41bHVmOVNYbHEyZVJQWkJTdk03Ml9icFk0ZnE?oc=5
+- **2025-10-03** · [Lex] Robinhood takes aim at UK ‘DIY’ platforms Hargreaves Lansdown and AJ Bell
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU09nSDdmWnVwb0FBNjhlLXV6NnlNUU9YSXN4WU05V000MkpCejdIek8tWEhhaTY4RTV0TGExZTZzc2poSVpxanJUQTVXSXFaMWZFYmJVOC1OQmNxTEVfT3pGX3dvV3pSaEZyQ3FQOG90N1NKMEhxeGRXQkJHMmVqWWo5U2k?oc=5
+- **2025-10-03** · [Lex] German logistics billionaire faces questions over Nazi-era legacy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3M3Tk5sX2dIdTdVS1ZDc1FBRVR3YXAtOUI4WFJSeEF3NFRPczV4MjhlMWRQNmczY1JMODh4ZEtHSzlzc3IxSTBYRndRLUpxSGhXMXc5dE9rOXZjRWt5OHZIV3ktc3lRQVY2WkMzVWF5NGsxSFZZdE9IX3ZTZ0cyZDZXckk?oc=5
+- **2025-10-03** · [Markets analysis] US rush to expand LNG exports heightens fears of global gas glut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkdwcExfYmxnd0xWVlNnTkJ1VzhfTWJFRS1fdDdnUWs1bi1FVWZfMG1jNERILXFtYThTVUhJNXhzbk94a195UHNIZkhtRjMtRk5yMWp2V2o1Y2ZfdFBBYmFrN0Z4ck52ZGNLdFhEOExuNjF4Y0N1MDBhWGJjY21hZE1XeVM?oc=5
+- **2025-10-02** · [Lex] FT Financial Thinking columnist and author (The Truth About Investing)
+  - https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQWdjSGlqdHpxaWFfbWJ4eFpUTkwwSS1HZ0FGS2FUUk1ITmJ5NVZRM1laR0s0R0JWaVBnT04yYVNfNHFOb0RTMllnS2k2WTVnZnRLMC1uQWxoX0EzdE5PSWMxa1J5emhQZ255b1JKVFl1YjJhekE?oc=5
+- **2025-10-02** · [Unhedged] America risks a dangerous dependence on Chinese chips
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOWw4QnQ4ajVVVzR5UGVHVkdkdmZtWHV6NDJISk9tcUhJUVdxWGswSDBuT0ZuZXBvVk5zZkx5R21IM3pPaF9KcE0zU1NKSGRhejc1MW8ybnVuMmpNdkVXd2loWVA2Ny1KYjl0RDlkdmY?oc=5
+- **2025-10-02** · [Unhedged] The AI capex endgame is approaching
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzRSYkxSYWhORlJzbnFRU1o1LVFFZGU1OVVIajItUENJY0Fqb2FRSGxTOG5yS1B1QXBjSzZSTDZteHlFbVFmUkRUTHdZOXJxSmNXZGljaHlXb1hZUDdXZUxzM3l4LVNzNEFRTkR5TVpDbDJnb2FuMkYzUkZETTRUS01fbzE?oc=5
+- **2025-10-02** · [Unhedged] AI comes to the video wars
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOczBCN1ZCMHFUZkNGZUk5MkgzWk5zc3Utdk1ScDZWYUlReXRSRHRQTEJvbk1jYmo1cFZYZW5jbEkwNmhvSEswalQ5YnNvREEwN0J2alVyejQzSDI1ZEVxd0c1YU5vREN3MzBXZlJ3YW5udi1HMXpKNWUzZzZDdTZEeWltQlA?oc=5
+- **2025-10-02** · [Lex] How Coty ended up as Big Beauty’s ugly duckling
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXl6a3hFbFk2a0NHaU03M1JrUWpEZVptNjRRM0YwUGNUZFpISU1COXVyR3BWVGdkUHdDTUtSSTdZWGpHdmRXWkdjT0RIeUJIRmlzT1N1a2dFbFRIdm9iYTJlZDFPOEJWUFpLZW5sNTVQd1E3VE9pZVB6YWVZbTlFdmp1azU?oc=5
+- **2025-10-02** · [Lex] Tesla sales hit record as US buyers rush to beat end of tax credits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTIwV2ZXUExodGdPemJjYlZpVm1NV1V3ZXRBTXpqcVp3TWRHdUFoWHlLZXc3ZW84aXc5T2Q3MmJtblM4LTAzXy1HUDczbVg4dlppR0JYMUxncEhkbm1IMmY4MUFUWXcycUM0OXhxbzliRmZWZzVvTGtyYnhkOGRQcEdoVGU?oc=5
+- **2025-10-02** · [Lex] AstraZeneca’s US listing to leave £200mn UK stamp duty hole
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGc0a21yeDZxdGwxaHhPSGNFU2dHRUgteWhzTFVMMHRGWlZTejhudTFVZXNBMXFabzV4bUpFTXp5elhfN2pBQUE0bnZUNXA1RXlucVlBWF9SdlgxVnRvc3hZQ293NkhueTJXeFJMU0VPMXBSb2xJMTd3eThLRHY3M3pUQnM?oc=5
+- **2025-10-02** · [Markets analysis] Have we passed peak social media?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSHhBNUhJN1pVY2NnYldLOWVHNEpibXk1OXQwckE5eWs0UlhPaExYSEh3dldVd2E2T3ZFQlZhSFQ1M3UtRmdmZXZJUUhscEZyMXV0SUUzYVlQMldZU05lNnN4V0pUSmFhVjhJRkpodUNsRjI2NUV0ZGtyenRUYzlMLWNpTDU?oc=5
+- **2025-10-02** · [Markets analysis] How I learnt to stop worrying about China’s surplus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2s3MmQyN3NQSzRic0NyNVNmVGtpZVUxbUhfUm1NaWMtQm9kUndNaTVDNUY4VGFuTFRib2d3MlltVVZvVk1IY0VoYUtSeXlvMHNYYzlVeFp3T0xwaFJjRXM5VFFFdXFlamY3Qy00M3pDMmdHb3FyeG9Dd1RJS1NaWG5TVDI?oc=5
+- **2025-10-01** · [Unhedged] Supreme Court blocks Donald Trump from immediately firing Federal Reserve’s Lisa Cook
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0x6YWllbFpnNkNHTkJueURYVFFDeUs2SmR5bmwtQ0tOYjlKeHE0bm81WTBydGt0dVFKbTNwNlktaXJjakp5dm15VWJLSE4zX29GNXZYMzdzOWY0Z1p0UlZCb2p4c2RmY1dvVEl1QUZGelpQSlJLUUI3OGd2b0JLTEs4ZzQ?oc=5
+- **2025-10-01** · [Unhedged] SK Hynix and Samsung shares leap after OpenAI deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0ZMLVJlSzR1TFdmWlZCY1poY0liUTV6ZEdRRXNGVkVkbFZiS2plMTNVNU1zSXd0NmtzaWpxZl9BdXdrNE1jNTdrbjRXVGZFT2w3b0FuRWVKeE5lWDJESURmSDBGZVZVS2h0elVmaFBPVm1RMDJOV3RYM2FSYTdiVXRtbDE?oc=5
+- **2025-10-01** · [Unhedged, Lex] It’s zero hour for the zero-coupon convertible bond
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFJnYldpZndDejRkZFRHSHZhblF0R05aSWdqX3VHc01xLTU2MFo3bFFSSFdqRFZsdW5fN0dtZzNHZ1RETnVLMG1YTnZaS3BZVUhKUW8zMWZBOW5ubW80RVhEQlRsbUFRc1BlVFlCQVFiSTAyck9ZWWdJbENjeGhhRjNtQ2E?oc=5
+- **2025-10-01** · [Unhedged, Lex] Deutsche Bank hit by London lawsuits from five former bankers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMllrZFVoVUxTMmY2dWttZDF6Y1RaXzNvLXpoOUtYSVJMQW5SVjFxeGM4eDI5SFp3eXZhX3dDS0hFWFFRNWxNT0plNWRaOWl2a1o2eUdaQVAwY1ZVbldTdGhMTHptdjdfbEpjRGFyVmttdjBQMXMwZVFjenNOOXlNM0xWRUg?oc=5
+- **2025-10-01** · [Lex] Meta to mine AI interactions to help target advertising
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmstRE5aVmZVZ1Z3YkFUamZ3YVltOGo3X3dIRVZ4bTM5ZmhkczlXOTN0QzJOZWlMVGJhQlFBcjgxRml2bG5TcUhBOXlhZm90MEZNUm5pbDZVUXhGWm5vTXpGQmtOaGtYXzk4WHJ3OXpod3pYQXVIaW42QW85RHhSTGp4WWY?oc=5
+- **2025-10-01** · [Lex] Josh Harris’s firm in talks to take control of Aga cooker business
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTJyd2h0cHA3aWJua1JVMUpJNldFT0kydXAyVG5pTXAwT3ptdGVlYXhXVEJidTM1VWNqYkVJR0RVSXUtS0dqSHRlMF9vekdhZHpOMlRaZjF6TV93WWhnUWhGUzRFTW4tUjlIOW9ZN0JIWkpNWW05UUxXMzM0MEItTWpxdFY?oc=5
+- **2025-10-01** · [Lex] OpenAI overtakes SpaceX after hitting $500bn valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWURYcXdyZFZtcHJEYzczSExIUVdEUm1oTUhhWlk1ZG05TlVndFhSdnNSMjZvRFFKT2JoTlRlbnZPUW9wc3o4a2U1VVBZc29fQXJUd1A0dTIwZDNTZVlycGpVT1pJTHNpT1lXQlZrT0NlaHFEZExoUkpBNnJlemNOajVGR3Q?oc=5
+- **2025-10-01** · [Lex] Egon Durban’s $55bn buyout bet raises stakes for Silver Lake
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWpmaWwzeTBXVUQ1WGVfM2xaR0xYblgxRHpPX0MteFM1YWl2OW10TXRkUVdZQlNUTWx1dEE1UklHYmI3UVZVN0hqMU5XaVZyNU1WSFV0OXNoYnJqOXlJcDc4TEQwaHRRSUdmaF95MHc3d3FDY3hGRWt5Y3gyX0VYSmdPUXA?oc=5
+- **2025-10-01** · [Lex] BlackRock’s GIP nears $38bn takeover of utility AES
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPREcxTU9ZY2RPSkVFZ3p6dlhrRkVMNTR5SEU4NzVvUktCU1lwV2VRay1TaGs5X2RVakJBVDhRVVJqLXRpYXF0Y0tBdkVxenk4U2hTTnp0TE5oZ21FNUtYUW16UEg4ck9RMUNpQTN6TUtwMkxXZXpCUHI1UU83TDltakRCTDU?oc=5
+- **2025-10-01** · [Markets analysis] Graduate recruitment: how bad is it?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnlYQm5GcFRtZDdjZTlIRG5LQ3NrSEhEd2hXU1g5X1h2dkYwcXlZVHVkRk1mVXBnNERzQ1RFeGtYMk9obTk1TTFscUQ3RDNwQlplajhhc2FCWDFOSDZhTFRNV2ljeHVoNHl1U1o5Q01mNnZDejI0RnhfanFVbDlib1Q2VUI?oc=5
+- **2025-10-01** · [Markets analysis] Investors embrace ‘cat’ bonds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzJkS3RubGpSWFVUaXRlSVNrZVdXWUpUc0hXRmx5UUZTOTJYWXBSUFMyOF8yM2JnZElYVzBWX1NXeFcxUXFxN01aWU0yaS02dlI3MFJMLTdrWVNsWXd4R2lvVXZva09tSmxEREpqYTUycGlLalhhX0pTTGVONnE5VXRmeGw?oc=5
+- **2025-10-01** · [Markets analysis] An AI chart crime compendium
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBNcExfNE9RYjRrMlJYTWxsTDNGUEVTQW1KNS1Fc05hYlFrYlBOU2pvUzllaGtLd25naTZRVk5kcUtEdXViUS1taHJkQUM0Y2dkUjhmSnNsRlE1SUhOVTZkVW9QbGFUSWhhLVpHZUxWTVk?oc=5
+- **2025-10-01** · [Markets analysis] China curbs use of Nokia and Ericsson in telecoms networks
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON0E1TFdfTlpzaVlmWjhRN05NdnF6aWl1QjZzY0RTbDNQa3F0dkduZFlkSjZZZlpVNWpTYTg4NEdQM2lCYnk4b1otclJZYUd6VVVOSnVLZ2pQMmZiM0NlNW5ObE9VWFoxV2U2bjNzcjRBY0VZN3dCVFV4NGk2Vi1kWXlhSjk?oc=5
+
+## 2025-09 (231)
+
+- **2025-09-30** · [Unhedged, The Long View] Does GDP growth minus AI capex equal zero?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDJlZlIyRlRtWUlkNnF2bWV1UzdMMXFObW9zX2VnY1JESWE2SXdPc2F0QTMxYmpTS0VXZEtzalJBZlc3X1l4bjVQMktEYzNZV0RiNHZrQ0Z2alpqTmZzLWs2ZVFKcmNCZ0FpMzRtRU1LeWFJZGN3ZnFIaUh5bmdIQ1hOSHc?oc=5
+- **2025-09-30** · [Unhedged] Zijin Gold shares soar in Hong Kong trading debut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEprYmQ5SGJiU0lKMHIzNnpiemVLMGJNZkhMNjdpd2d5RGtxUGdaOFJqR194MEsyN0gwSEVfQk9ja25iWWw0S01QVWhHci00YjdoWWxMQ2pxODdtRHo0UjhOdmZRM1VXNEIwRlBjSTFya0xDdTZtblV3Nk1sNzNieDQ0R0M?oc=5
+- **2025-09-30** · [Unhedged] The trillion-dollar deal boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFpxdEpSNkptZFVUUjUtZVNHNjgyazktbVQ4dEhCVFV2NUQ5eWZPRFJZcmEtUTNsbDFyTEkxUWlaSkQ4eE84SzVlUmRQamItZFQ0YTZqc3ZwQ3VTV05vYjdzM0g3Q1pzTHZmVV9zTWVMMVl0X2h4Mm1kcXNIcUhiUGhWNXQ?oc=5
+- **2025-09-30** · [Lex] JLR’s government loan guarantee should come with strings
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1ZZN1hzYkllVHhPaHVzQXRWb2xncGN1b2J0dlNDNk9CNm8tWXlvMFJYUEZkQ3BwWkQzZTBjM1BCNEJqdUpOYW9YRVBQNHVxMUNOZ2lrNm43Y2Y2ZGRnUjc1UDlySDd0b3AzLVFaNWFnMHlIUERpSmNWaU5ZSm9IcnUxYWQ?oc=5
+- **2025-09-30** · [Lex] Real estate agents huddle for warmth amid frozen home sales
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDY4M01BV21vX0FKTTc2SFJlT3YzWmFRbm9qanBQU3JaN0d1WUJpaW9OZVF5UnR2XzJydEdWRTBJRE9Sdms4TE05UkVKWGdYSnREU1dMZm1vUm14RG1uMGx3MWFlX2E1eW1tblh6SV9TWVU4VGxVT0pPTkRFNEZyV1B1dWw?oc=5
+- **2025-09-30** · [Lex] Coty explores sale of Max Factor and Rimmel as $12.5bn beauty bet backfires
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmpZRktBZnZnN0plZWdfLXZ6eEg1VVpEUXpadWx6Q0ZfZ21URkMxT0hMVzcyYlhaaHJ5MG1hbTBaRGhsbnRoMld5NmxBSXNBREtnWlpHbnBSME9CTWtxbmZxVHFLYzlHcTkycW5jV3FYc0lHZHQyRDlXeWtjN1JIa0h3OXg?oc=5
+- **2025-09-30** · [Lex] Jellycat toymaker plans £110mn pay for owners
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlRWUmJ3N2kxeW1zVUYyMUxXU1dndXVfUS1sN1ZWQXFmdDEtNkFrSndWQ3piSzQ3a2duV2VOakpiQnU1ZFRGTWcxNmcwZkQ0cnFoU2tlajRXcmlFc3NJM09IVTlxSDR2QVJPd1IwODNvM0ZfUDY0cEFrYmZiZzhsODYxTmU?oc=5
+- **2025-09-30** · [Lex] SEC clears way for ETF share classes in challenge to US mutual funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0tlNEhWWmZFTFFsajhsY2F6LVFfYUxJVXlfUUtRaHNNT3FIenJyWklSSDhHM2dVZW1nSXNJOE93LUdCX0c2UkJrNVBnVF9WLTlYcGFSSmxRaGVnSXkyZFJyOFVBM3hOUU01dy1scm0zdE4xU0I1YmtCb1ZtbXlVRkdfbjM?oc=5
+- **2025-09-30** · [Lex] How First Brands Group collapsed
+  - https://news.google.com/rss/articles/CBMibkFVX3lxTE9FYVdJZTNSS3EzV0kzbG9nb1B2bFQySFhpb1J4X2xudW1STDNnVmhnNlVMRTI4alFSTWcxU04ydmdrN242MmNmMDJBbVIybmNCWTByMDJhT2lHNk5OVUtlNHZSdUdzTUNXaXJNTEpR?oc=5
+- **2025-09-30** · [Lex] OpenAI’s era-defining money furnace
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9Gd1htNm9mU1hNUkVjSlFvSnZmVGZOM2pSN3ZyajFFSGhsNEROR2NWOThMck1OcE1jV1QzZzdOZkx6UzRucy1FMXlmTXdLbkpXdUREenNRV3NXbHM3RFprN0h2TXJCa3UtbnJ6ZjYwa1c?oc=5
+- **2025-09-30** · [Markets analysis] AI is not killing jobs, US study finds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWFQTk1TTml5UU5XSHByQ3NoVUpjSUZBcnJRbmh3cGo5SkI5eTkzTXc0dWRpUFN3S193dWE0WG40WjFIU1BwWTdzVVFUVTVpTGRjcFNNV3djd0gyWHEzV21sS0ZndGhWbUJNbjhYSUpaRXhKYXUwVG5KMmo1cmJONVVnc2o?oc=5
+- **2025-09-29** · [Unhedged] How Nvidia’s Jensen Huang became AI’s global salesman
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGlwamNRTEg5eDc0NXdhSHBsM0RFS040UUJTX2ZGQXd0LUxqdEZwQ1FtM3NtaHRFNUNkR2JaODNhd0YzVXFQRFdvVFlndDY5WV80REZ4NW43b1NsUHp0UlpPX0wzWFIzVk9Bamh6bU1zZUtyQXZWMWM0blBxNWN6XzhzbV8?oc=5
+- **2025-09-29** · [Lex] China’s Alibaba is a late entrant to the AI pantheon
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZk10djViN2REeEx1Tkt6RU43WVVWMlIyTENuSnR6UWxqSUxfa3A2X1hpeXAtdkcwY05WMEM3RW5sYm5mVWxwb1Y2TXpCYjFtNkNTNjY0d3g0UGlUeV8wMEw4dFFIT2p5THQyalVfSGRCR0ktVFFpa3Ftc3Jya2xmR2hrODI?oc=5
+- **2025-09-29** · [Lex] AstraZeneca to elevate New York listing in blow to London
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmMtNVV3ejUtdDlqaEI4SUV1dWVVTFhJejVXRHNqcWVyV3dMUEVZbVFBaENVTUJfV2dRTnRUU0FkcDR0MWJnRVNHRkJxdWxKN1NEODlGdzNNV0NqMXk0d0ZRRWp2dDc0eGRGQkVUVmE0cGN2MUtRQ0t1VWo4Nml6S0dQeTg?oc=5
+- **2025-09-29** · [Lex] GSK chief Emma Walmsley to step down after eight years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGFOaWMwS1hOc1FJbmRMWXFYNUJWVkFiVV83ZWRZeDVVSWhJdFRVRzZaeFk4QXZSZ1FkN2p4ckU1MW8xZXFhZTViZkM5akdncEFwNUZEZXFENDBNR1BiZUxqNG00UlB3MldlMWlwSE10dkpieVQ3dGlKV2JOTjdSWFE0Ui0?oc=5
+- **2025-09-29** · [Lex] Video games maker Electronic Arts strikes $55bn deal to go private
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXYwakxUQ0N6X3NIU3I2R3hZMVc2emk2WE5kVHVvZWtqT212dWE2endNTTNGa0Y1Rk95LXBBZmo5Z1ZtdzloWXUtWW1nalNUalQ3dDNlSlNHOGlkbzlwX1EySVFrbG12WHB6dTV3TFBSdTItZVRxUVhfSzhGbVBmRkdaaF8?oc=5
+- **2025-09-29** · [Lex] London hedge fund Eisler to shut down after lacklustre returns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQk1BZER0YWJXWXdPWk42cXdNM3Q1NUt1VkUxeG1MaDd2d1RZZTc5V1ZDN0ZzdVZNd3N3eUtSQmhRY01tcDlJRmRoY1FXZUpJaUh1TVVPcjB6b09IX3pKZXA3Mjh1WUZzODN2bUktQ0VGUEc2NngwYmJiNlluVXNPT0NJRVo?oc=5
+- **2025-09-29** · [Lex, Markets analysis] The graduate ‘jobpocalypse’: Where have all the entry-level jobs gone? | FT Working It
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3B2dUFZb3k2RWpjSXBGS1JPQWNDRGtXY19zaE1VZVVvOHVIcWVnOHBzZVdsMjgtbWhadC1XQjFOX2JyN0RzMWRDZjZ6OF9KNEhOYVdBVGczeG9VcXNydHRsc200aFZoLVlLdE1Pdl9VTDN2VUZsbmRBZXpSVWpLS2pYZXU?oc=5
+- **2025-09-29** · [Markets analysis] First Brands bankruptcy: the losers — and winners
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMElVX3JYYWtobHI5RXRVVlJBYnZ4enZEdWZSOS1mcnc2OWhBbEZEY3BxSHZwX3EwMlI4S1RnX3NGQWhaZnV2cFV1ZU9KMmpXTnU4Mkd2Nk1zOGI2UzNyVC1OZ3hEVDJhZWpUdHlzS2hsRVRxV0J1ekpIa0pIX3BDcFVQTy0?oc=5
+- **2025-09-29** · [Markets analysis] Chinese EVs threaten Japan’s dominance of south-east Asia car market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORFJDbHhNTXlJNDEyYlh0LXlMRVpWQTdlTEl5QzBjSVZGNzU4bnBFaG9ETGZSQ0V1dXQ0aDVSbXNOYzJWMV9xZ3VsVno5dWZSdldnc2tPX04tMjFrY1B0QTBNcUpnNEtHMWxPWkNpZ01LY3dlR0pENDN6eDBQQWE0Y1BLZUY?oc=5
+- **2025-09-29** · [Markets analysis] US tightens export controls on Chinese companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXJtTTBrMVM4ZmpBNVFSX0ItQklTcDE0ZUlWZGp1VHg4UFA1Q19VdVRvel9kUHRJUG92RmFORDhaT2k5VGZ5TTBjTVR1cGdvT1ZERHo1dVJSaGpSbzRxZnpqaGJPd0FOOFl2czVGcllnd0QxTkJVeDhHMjZyRy1BeEI1SUE?oc=5
+- **2025-09-29** · [Markets analysis] The graduate 'jobpocalypse': Where have all the entry- level jobs gone? - FT Channels
+  - https://news.google.com/rss/articles/CBMirAFBVV95cUxQOC1idHNvZHhhVGkzbWpSTVlsUVo2QngyVmF4RFdDd0VDenZ2S3RVaXhtdDdXVVd5OWxwSWtCc1dGWmd3VkR2eEp4NDZnX2JXbGlhTklqODAxZTJlaXFKX19FZkxhUGJwWExIbE1wdDZrdlpxWm5xTkw0SElxMjVXVHp3bll2ZUJ6bkV0SUNhOTVaMV9jTHlpdW1jTHhYRC16WWxNVzV0T18tMXlu?oc=5
+- **2025-09-28** · [Unhedged] What will US jobs data tell us about the Fed’s path forward?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkd1dGdFSkxiZ0FWbHRGdU9BYjY0YmlWZ1I1MHpfV19YWm51aXptRGgtcTlOaVZuUnk3T183azdoM1AwVnUzNjZlTzllb2oyaWNMYmhPVVNXUW5QN1RVV2UwSWdNNFdKNjRvcTBLelh6SVljcXk4blU5MlM0Z2hncWpMSEQ?oc=5
+- **2025-09-28** · [Unhedged] Why CEOs are right to stick close to Trump
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8xZ1FFUWdnNkp0aVA4Wmt6dTZvR0QxdFpxSVpiWDRGeDFtMjZMeHhfX19XSjdmUF93REc4Yk96ZW9PWFh6WlhkendWUlVSWEgyRTJGVFlhWGktUjdpVjVlYjl2R2RaczVobmY2LV9vRFg?oc=5
+- **2025-09-28** · [Unhedged] Singapore and Hong Kong go for gold in precious-metal trade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk5QR3VjSTNxdVVweGtqcE9aS3Q4eWdDMDZuWGxGOW1Pc1kyY1VlM1htaERkSUl3NzhRTW0xaDRqQ1NCQTdXV0FaM3R3dkxVUWhrX09xcXFUcXh4cHIxMDdNc1ZpQm5YOFNHRVZ3RHdiTEhjVWV4RWtOekhvd0VlZFBzSjE?oc=5
+- **2025-09-28** · [Unhedged] Let the market decide how often companies report
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVZuR3dkU2tXVFVfR25wY19xUzdqOE1ya2NEb3otcl9qSzFPcEhsYk81cjhhLXdPZTVFMlJ6Y29hX29qX1l5WVRPRHcxaVNvS3VXMjVCeDREVHhaOTJBS29wemV4cmN4bHB3WGZYXzFCcS02YTNYT0tXSWZKN1NVWkZTdDM?oc=5
+- **2025-09-28** · [Unhedged] AI groups bet on world models in race for ‘superintelligence’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQclVMcXBiY2xRa3dUN0VoRTAxeWdJaVN1dW00dXpvUWExMUxWNHFVa1loRHgwbTJoaWhVZ3AzSUkwNExZcGxtdEI5THF2X1MwU3NOSGlFLTBQNjlYT2FIWWpCUkFIOVA3ODZ1Qk1OSFFkRm5Na3NGTXpfQ1k4N25aRmFHUHU?oc=5
+- **2025-09-28** · [Lex] Foreign buyers bet South Korea is the new Japan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0VFNnlwTXJzTk43Nm5yRU81X2dwYXF6VXhfMGJEYm1FRGhQWGpIbjJTZURCUlRsVS1wNENSdFF6WXR6ZEZ5LTVqc3FUMWttUXotRjUwWVBqVDREQWN1eUVNdGdJUnlzWVRFcFM5T29ZdTVpck40THNRQnoxMmhkcHd0ZXg?oc=5
+- **2025-09-28** · [The Long View] The influence of ‘geoeconomics’ is growing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHdoOWphaEVpaU1ib0lWVkZMNjVKNFdqaDl0SnBwbHd5MmhSUVBaVHpla2Q4RlM5eFJaNVNEWFpUb0xMb2hNb1Fubjc5SUZsSkUyUjhFQXN1YVVrd1FyOGFWRjN3RDBBa2R6SkF4Vkkyd3Vaa3N3WDRPNFBkYm1UcmR3ZmE?oc=5
+- **2025-09-28** · [Markets analysis] Hedge funds and high-frequency traders are converging
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1GM05aMUZ1cFN2Nzk3ZndMMERzLTN1Y3FBRG1QWF9lZS1ZWXg3S1VTRF9XcW9SQ3VsaG1Ldkl6OHdCMVowMVEwUmdleGJaSEM1MUd2c293X2kydUxqTFNHdUE4dXIxSjJZSURDdmg2SEw?oc=5
+- **2025-09-28** · [Markets analysis] School IB business management class: Tony’s Chocolonely boss says investing in farmers is good for business
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBXSnV4NzNXbERsb2Z5LWhJdWZQY0ZORDB1NG1MLXVjck8ya1lHTmcwNlNQQVVNWE40MUhWdGhnbFpockpUQU96azJrdnR1RG80ZGVrQVRid2ZpUElCSTBFdFZlbHhnME5yVUdkMmVtMk8?oc=5
+- **2025-09-28** · [Markets analysis] Asia’s budget airlines struggle for profitability as costs rise
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNakxMNkdwaHU4a1d4OEtOY1dTcW1PU2U5aVZJdUVhbDZOR0pBRm5Lb2tIWDZfd05MMzk0ZEdHM2ZOb29XMEd4aFpqb0JWdWtqTVhDZjgyNXEtQl9rSXlnRzBIa2RkNkxHYzhpUkREeWtOSlduMEsxeVBzR0hmc2VWSGlIM1Y?oc=5
+- **2025-09-27** · [Markets analysis] Chery Automobile Co Ltd, 9973:HKG profile
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE1rbUJwZ3VzQmxfbWpBcmhrbHN2enFxdzh4Z2JtYXF4ZGx1Tl9OcUlEUF9IWHF6TXpZRVBob0VLUnRJQm56enZHbDdtblhGMnhNRUFHVU5DNFlDLWRIS05tN25tN3gtOGkxVE94NFNXUkc5bk0?oc=5
+- **2025-09-27** · [Markets analysis] Direct carbon capture falters as developers’ costs fail to budge
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlphcGw5MEZSZDQxYkRSclYyczRBaEZaMWZQR2FkdUxMcGJzT1VDeU5fMnEwaC05WnRDRVpxM2YxX3R2c1l5X0lkcWZfMWh0dnhTLUpIbHpTVFo0TU9LQ3EycUpxUlBKWHFFUVFQVHdoRXpOek1yTUpaY1BxN1ZvMzhCemI?oc=5
+- **2025-09-26** · [Unhedged, The Long View] Double-Fomo driving US markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkZtSEZYa2FVUHI5VHgwalg2bG1FeUZpd0tad2F5VXo3QXo4aXhxd19USHhVdExrbTZuWk5WS1JNaWZOQldodVdZRnUwSTNiek83MGw5cUkxWlRKU1ZvRThuUU9VZjJxX3ZjMVRFU3l1LWpfaVZMb055ZWRoR2xYZ1hFSVo?oc=5
+- **2025-09-26** · [Unhedged, Lex] AI can’t raise the dead, but it might do the next best thing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTklQenZkTG5objQzUDdCNWk3eUFYUGF2T196bDgtNFdBT3dZWUF5bkgzMDlDNERCb2ZMMDJzMXMzcktYNW1POEpHT1dfOWxhYTROWW9LSGM0NXExblhleEhtVEZmMkJBTzBiZGh5UmxYakpWcHZCU0RSaW4wUURycU9kTGM?oc=5
+- **2025-09-26** · [Unhedged] Kamala Harris’s unfortunate catharsis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkxxV3g4NG55cjVlN05DQWZJWjlfbHJOczIyNHZhYmdVYXpNLU11MVQxZERhZWJ2WFlvRTB5N0NOUlB2Z21Za2t1OHlNVXh0RFd6QVhKakNxRlRfeXkyTHcxZ21QZXd4TEQ1VmVsRkphRnhRSWRCczYzODdFU2RfQjVKdWE?oc=5
+- **2025-09-26** · [Lex] Geese: Getting Killed album review — roiling rhythmic energy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUFMN3dFOFFrV2tLanJtZGRRcl9XcnBqMVVfR1RyVV9TM1l6TVFzQ05LS3A0T2hFTUpWaWc3ZHpnOWF2YVlDcW5JZ19pLTJjLUpoYkp1UEhfQm8wdk1FdmFqLXVkLW9oenJpd2RUd2M0WkctcGMtVlNEYmhWaGh1SjZ4YVY?oc=5
+- **2025-09-26** · [Lex] Video game maker Electronic Arts nears $50bn deal to go private
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1FfMmpPdEJlT2VBNVRhUVM1Q3pXSldhd0RpRHNVOGVpQW14VEF2ZHVwUFkwV01lOTJ4SmhYVGtmcTJDYUI2Mnp2M3Z1RzZyMlozUEFwYTFhcW9FNkUzdkUzUEhPSFVzdVJ5MkJLb0pZcU5JdHVoNkVBa2JCU0w1UlZyVTQ?oc=5
+- **2025-09-26** · [The Long View] UK to offer to pay more for drugs to placate Trump and pharma groups
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVRpdW5RMlEtNUNFQVJzandoeG9iTmNQQ0VnNTBDUU5QaDFFUllaQm9uaFBBREx6Qjk3M0MzSDBLa0JUeDFhc3NpZ05sam1hOFpCOXpTWlFVZ2x0Y1A4dVUtQjhWMDhqb0RVeTBPTk42cEU5TE4wQXloalhSMUE0eHFXZG0?oc=5
+- **2025-09-26** · [Markets analysis] How tech lords and populists changed the rules of power
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQ2xHa1diR19DSDFFYnhfV05maEZJX1dkYVhQSmZDamVYek9YczVxREZfb3JmekY1TzlVamZzdkpHWTF2TTdOUUNyVVRDa1Y0YlQwbkw0NXgxOTFfOWRyLXVpTkUyZF9Tbm14UDJIRXg?oc=5
+- **2025-09-26** · [Markets analysis] Martin Shkreli’s ‘ugly, dirty truth’ looms over UK drug pricing backlash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdUlyNnhyTW9fallQWXo1akw4anN0SXpJYXQ1YjVNOWw5bzhyQm54UDFsTDVZVGJvV2NHZmxTUzhkSXQ5bmNtemhxOGdVLW0weGladXNKQ3JaYlhXSFNLLW9pX1ZIbTZJSjZ1R1hlZnM2T0NFeUhvZnp4Ny03d2l6dGtsdFU?oc=5
+- **2025-09-26** · [Markets analysis] Rethinking the energy transition
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA4blY3VHRFbjVkWTMtdFpQUHhEbzh4ZnhLUTJOM1VXR3ZGM0NhTVhaUWRYelQyVXUyU1ZDMHBQUml5ZEFXOHhZRi01b3hnWFUzTDJEc1ZpRDlhd3dUelNVNm02V3JRZ2JWWUtROU1aMUk?oc=5
+- **2025-09-26** · [Markets analysis] How does cyber insurance work — and why don’t all companies have it?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZE5fdFVEcV9JTks4bWVYRHIzOVRXSWNKRmVwQXc5SkF1aHRuaFlLNmlPdVpQcm9jcnU2dWVMaGo3b1VaVDVScUhEVlZHV2JSVG9LdUotcXdvODV6MzRjT3NYYkswVDJOWWFXakFwSU54T1gtM2dUZjFLbkk1Ny1DNlAyRy0?oc=5
+- **2025-09-25** · [Lex] When ‘modern’ data storage becomes legacy
+  - https://news.google.com/rss/articles/CBMilAFBVV95cUxNczJUY1BBaFV5MWRwMnV5QmZlSDA5eXROZC1YSkhPZUhGREJ4SG1raHczTHVfbW1NSGdUSS1naVVYNWJFQnlyS3VPQ3NHSVZyTGNYbENobU1aeFJHb0VxR0hsRkZzNDB5SXNpd0FEMUxaRFJkd0NDcHB4blNxWUp1TmlXQ0k4YTdscWpJRlFPS2ZWeE9l?oc=5
+- **2025-09-25** · [Unhedged, Markets analysis] Stock allocations are historically high
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVZ2NVZsOXB6Wjc1d29id3g5Z09HeV9QTENJOGFSOEhMYUVaR3hpdDhUY2dlanlDaWlwUWxZcVROREZ2ZHZadzhkWmRoaDRqZDd6UFNWdGhIZEdKaFBuREN4V1hKSG56U2ZzcE5jbDRhUEk4OGtYRFdGQkxfM2xmdWFMOXo?oc=5
+- **2025-09-25** · [Unhedged] AI coding start-ups reap $7.5bn wave of investment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTENrVUlOalFzNFJCVTA5c1dVN0tXTHBwX3pJWGZBSWZDbDVtRkR6ZzdLVnhUT3BFbUZoSjNWV2VjLW9MUzRteEhxUUlDcjNidzZZRmUwbkoyNUFYZmpOaXI1cFJtV1V5azRtMWRIVDcwY0RrRkljbTFCQ05sWXFFSC1YUDk?oc=5
+- **2025-09-25** · [Unhedged] Google DeepMind unveils new robotics AI model that can sort laundry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzJ5QVlYbHk0bVlFVkxtQm5oUEtMSzBaVmg5MlhUNjhHaTV4dy1wLUxqbmVtZzdfbTE3RHVqdXhVM2hOdjI0ak1RdnVtUGR0RTEtU2R2RlNLaWl6aEVjcVFfZmZaWlpkUXpJVW9VLXNhSEJSbG5XTVc1QjBHbEJURUFYQmM?oc=5
+- **2025-09-25** · [Unhedged] Can a US bailout save Argentina’s Javier Milei?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzJDeVdOajBzMHBwNVZLTVVRdTJ2Z1N3eWZxLTgzYkctcW83YTZxa0RIRDg0TTBWRnp4Wjd2Y3NBWHJYdkFTdWxvRU83YThaLW01cTRpcDNlcVJsTVVfUTNjMWEweGpsUlg3azg0YUk0TG9QVnpQeEJKVzN5N3JJMV9KT3A?oc=5
+- **2025-09-25** · [Lex] Defending defence is the hot new strategy in ESG investing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFhraWlTd3diY3dSZ1lDVzJlMU9xYXVxZk9oZ1JNZ3EtMXUtaVJZUldNbEo1SFVleGN4QWNiZmtKdGRPbGlWS2xSTjZkNVUxR1MyZHc5RHNMMWlKdmM0Ujk2MlV0cmY4U0VyZ1hQcTRtUGpuSkJ1d1BOOGFZU0JPSTlnUHk?oc=5
+- **2025-09-25** · [Lex] Goldman Sachs’ Petershill to delist from London stock market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2lrRFdDVW5FRExPdkZ5UUxOM0ppUV9uU0d4OTRZWllNX094YVY5OWJwT2VUeGlaMHRwVHUxdnY3Y0FEQjdYZ0U0NjZiMlpJTHhBYW1OcnR2Z0ZMaV9vaURDY0hRSnZ2QVJ6eEJGeXB6YWZaZlEwbnJ1SndBb2dHTGZ5U3M?oc=5
+- **2025-09-25** · [Markets analysis] Andy Burnham’s borrowing plans would spook gilt market, investors warn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUY4amhRZUc3ekV3YTM2empyMzNRSVFfMjVxV2E2S0NQQUZ0MDBlM0x1TFpuU3lDenp6MHBsZEtXV1JYUl83SzRJZXRTTWdoRERtUHBXMEZmdlgxM200eUdSeVRnYjl2clJXUEgyVVZYcnRMRDM4ZkY2V2lnTTRnYmVQVnY?oc=5
+- **2025-09-25** · [Markets analysis] Did the political establishment pave the way for Trump and Farage?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWc1Q1pYRzgyS2MxWm15RHhBSzBPeVRiQUdtNC1HWWxCeURxNWdmU2FjUndCSFlMVmNWRldnZ2tZM1FJNkNtOUJxOFJIWjVEcDdfVmowMGRudGxMeDZjNlhQUVhQNUM5U1RSaHJFUVMzbjFkRHliWDRpVEowTUFTcDBYWVA?oc=5
+- **2025-09-25** · [Markets analysis] The Russian spy ship stalking Europe’s subsea cables
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjd3VHREbzVKWnBqSzhsOVd0M2dua0R3d0xqT0J3aVBOVFB2RnhCWGJVWGFzMmt0bUlsdkRMb0tjb0pQeG5pQ3hnT0lvNmVpbHBQbVh1TGR5Skh6MUVDY0xySXgxT185MW5zLUx1UWo2em1Dd3U5bTVraEVWMXY5QWx0X0Y?oc=5
+- **2025-09-25** · [Markets analysis] Brunello Cucinelli shares sink as short seller makes new Russia allegations
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORkhXMml1dE04TVpGdFQtdmt0M3pHeVNzcHZ3cldfYlpqb3pOX3VHTkd0aU56TWJCcDkyRy1Ra3Z4ZTRlLUJ6MHpHLWI1UExEd0gwY1pUalEzVkxSd0dTRlg1ZDlPa041MW9xbnBrQnMxRXduSWV4bnltdTlZazFTLU52aVc?oc=5
+- **2025-09-25** · [Markets analysis] European officials fear Trump’s new stance on Ukraine war is ‘start of a blame game’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUFGbmZneHZxUlVQR0FnQmowR09XSTdtbTRkby1UUDY5Q0JncGhYMVRocjlLbEtsX1VyZ1FUWVNhMHF5WFJmNnlOODRjaG1mX3pEMW9mXzFFU1hLSmlaZ2JSUXZ3U0xLWlhuM3hmSlI1eVBOb2dWRnhsLXNDN1I3Y2JqX0M?oc=5
+- **2025-09-25** · [Lex] Trailing the S&P 500, healthcare stocks look deeply undervalued
+  - https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDY0eFdTUTg4QlBEeVFEMVpOc1dkQ3RpeFBFUHIyaVpOLUw5OFNLalRmMUEwNEVVUFRSYmZVVjZ6WGplaFRMeFdhSmhWYWI1TXgtVFl5OHZtcm9OdHdrbTZEaXJyeTkyU2hvMlpnOTVEc2haSVIybmJKb1R2SkpLemdyejZKaTJXX1hYaW1Pa0MxSG5yM2lMOXlwZkhDcXMwY1BteDM0a3VaOVJlTGJMaElhQlJHU1lZSFlmTA?oc=5
+- **2025-09-24** · [Lex] Path to net zero: addressing desire vs. reality gaps
+  - https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcm83ZU5zbVhXME1rOXlhNkdscE5xVlliRVBkOXhmTU0waTJUQk5VY2l0dm54WjFaUHRLbzJpOXpydnRrd0F1NHlNaVRCZmFfOWxNbEg4U2RKZnJnaEVhUzluc1I1N3M4YU80WVB4cGVJM2pxT2FjYjczVzNMeUpBT1ZBdUw4anp0eUliajU2NGFCejlocmdLZWh5TkJMYUc3U3FZZVlPRDhDR0dQNEgzeExPMHRXWDhq?oc=5
+- **2025-09-24** · [Unhedged, Markets analysis] Stephen Miran on interest rates
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVRVYks1c0JxdFlLVHhlR3g3MUU5OEpUZE5idzVjaG5NYTE0MTFvdDV0RzNPVXNJeVF1TEJ4LXlnMWp4ZndDX2VqelZBdFVqNy16WmN2UmRndzN6U2RYRVppekI4MFdWWGFpeEV4YllxNzl0a09wME9RbTUtZmItcUVpdFE?oc=5
+- **2025-09-24** · [Lex] US support is only a temporary fix for Argentina
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmdXbjRPcUw1aHVwTGRKbTdMZ0RpRG53eXlRLXNsY1BScGdaSG1STXgwc2ZSOV9jZElPcEZfbG8zZVp1eFpvcXdIaEFMSXNuSjZUUlp4YTBWLUl4Y3VWRHFidXFnNGZYUkxnSV9nVFoxSHNqaTBsQlhZMElHdm9BaVRaekg?oc=5
+- **2025-09-24** · [Lex] Hong Kong's strategic move amid Asia’s wealth boom
+  - https://news.google.com/rss/articles/CBMinAFBVV95cUxNajVUVnk3NjNsYkhzd3llZzJxd3VXZ2I3RWUyWG9ra3dOSmJhRVdSSmdDNXo4ZUNoQjhCVUpZclh0TTVIbXkzZWQ5SDhiYmRtMXlOR0ZOdWZEckthLWJQU2tuVVNwR3ZOMDNvVG9sN3BSMGtjV3lYQ0lWZ29UVmpEYjJscmxsWVF0eGRJRVhMWkNEeUlXU0F6TFlkbGo?oc=5
+- **2025-09-24** · [The Long View] US debt investors raise alarm over lending standards
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1NjVldYSkpnTzBZT0F4a1RlRVllbGp6VkgwYm93cmRab3lGUWppeTVwTnRHWC01Z3d1S0hRTkFtN3ZDbE9hMml1c0piSjN5RjQ2MGJHR2tmcXo3bTdzdGFOV0YwQUZzR29Cck5nZ1FDVUZjSFBLYjNoXzEzYUNvTmhWSE8?oc=5
+- **2025-09-23** · [Unhedged, Markets analysis] First Brands and the private credit model
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3Vxa0VUQVR1eXZtekhKTzZEcUpzX0VfSDJCUXVST1h0Ri1lMU9FbkYwb3gydnBqTlZ4dzJJcHd0al9fTnFaVTFUM0dzODNOOUxPazJzM2R5Q25WY05IV3g2NGk0QjgxbVlWb045VTgxMlIwTkw5ZnJPcnJ4d1o0WHo1eWM?oc=5
+- **2025-09-23** · [Unhedged] Nvidia’s $100bn bet on ‘gigantic AI factories’ to power ChatGPT
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNczdIb01DcUgxeXozOGluTXUwaV84ZDA3MmZQLXpyQ3pBUENTeGdoOUgxVDdlc1lzTEozamhGMlU4aW5feTlXQzZleUVuQk5oVDlHVjVWcGVnTUliQVlhbzRzVGRSdzhPLWIxdTgtSFlaUG1oS1FVYzROVUYtelFYOHBxYmU?oc=5
+- **2025-09-23** · [Unhedged] Can the world’s largest listed hedge fund rebound?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUQxUzNud19vNTVMR1RsNDhuRXhsX2hwWnN5Q1liUUFIOVFxWWQ4ZnRUMmlaNTU1MVVXLXBPdF9QUEZxNUwwRzJROEFnMi1oUHFqNWUtbzhoRWlScExTZ2std3lwUTlrOTJVWkZQcG9Bb3AzYUY5d2ZlUW54YkdnQlFlTVA?oc=5
+- **2025-09-23** · [Unhedged] Man Group’s hedge fund blues
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORVdPTnY1dWlZV2F4bXROcFZWeVJ2NFRtVjBXSkN0QWFyS19lRVFMbkx0dk1fSEVHaHFEcXZrc1VoVjVHU3c2Q2xJZnFfU256S3dnUGpGVEJJNXpkbi1iNUp1RWFyTkNGc3pTemRkMDBLOFczNlFJZV9PdXVjanJlZkN0ajY?oc=5
+- **2025-09-23** · [Lex] Trump attack on specialist visa hits its biggest beneficiaries: tech titans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFlnUlhnS3B4SUhJTkVoSXBaNWw0bHloaWhDSWx5NTRoWDFvQ3h4aFlmYkFrT3V5U1NoaFZWaEFPVVNOTm5WMUpfS2VDQkZiQmR3SmNVdUtrYlpUWjhQNEw0TTVBMDNGQkdSekh4cGRTXzBtOW91QlpENVdtMnhPU2UzZG0?oc=5
+- **2025-09-23** · [Lex, Markets analysis] UK tech group Signal AI raises $165mn from US investor for global expansion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOE5WcURzYVNhQmZfdDN2VGJ4TDBoX1JtVEY2aDZGaThPalJpaFctUUZneXc4Mjc0dElMVlpBRVJocktJeHpNQVRpSzFhb1pKb0hBNUdzTGVpUFRhOUtoZ1J5OFFESjBjVFN0YXFwVGhaWGFDWGpUcHNKQjlqS3BUY01aT3I?oc=5
+- **2025-09-23** · [The Long View, Markets analysis] Morningstar is feeling CRSPy
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMXBNeDBwRkZ5a0V4RHRmVUJMVUVKVGlFS2ZZTVZkWkhteUxfemF3M0tsRHMzYjhLampXLUtFaWIyVGFYYkdUbUQ0clJmNWxPcFpRVURvdmJtNUtmS0FMS1pfYk1ZSU1JMWxNNFBwU1g?oc=5
+- **2025-09-23** · [The Long View] Starmer’s Number 10 media operation undergoes fresh shake-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGw2enRjc09taEZaajlMSXJ6WFRMMEpyU3ZSdkxaNEMtamU3VGt5SmJTTkhFc3Ruc3NCVDlpdlNKa21OMkw2MHVUaGRBRTNYcUNsc0RIYmtUbWRCSnBsQVMxNHYtX2ZMR3hwRVl2aWJjdkc3bVM0R1V0UHBFbWJfS0llLUc?oc=5
+- **2025-09-23** · [Markets analysis] Sany’s electric trucks drive latest Chinese assault on global auto market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLW9lNmg0WFY5YjlvWUNCaW9NdGg1WkZrN3d1NVhreU5yY0R3bFFsQjlJWkxsc0RONHJmR19OSTVlVTRWeEJhTHduQmVfczVCemNkcWVvZi03SDNSajZHQ01zWWx4alc2ZWxxcUlmSk1pTm1CVF9NdU5BcnZUN1loMkZpWGg?oc=5
+- **2025-09-23** · [Markets analysis] Russian fuel exports drop as Ukraine intensifies its strikes on oil refineries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ25ia0N2NmtUa3VfcXItQU5ZeUJyMExQNEl5QV9udEM5ajVHMi1SQTFOdDhJYzVESnRPVFhBN1dHNkJzSTEyeDQ0RDQ0Tm54ODRwNi1GR1RkZ2NVUXEtcG9Yd3VkNVdTSDM5OHFlWGRuUFNuSWVjQlFZdFhZVWRRZEl4Qkc?oc=5
+- **2025-09-22** · [Unhedged] Supreme Court decision on Donald Trump’s firing of Lisa Cook looms over the Fed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbUhFNXhiTlhVNE5RRTZ1YTY0YlluS1dIejVvaUZzZ0FTOFpMMDRfZnFBbUdQRjB5LUhVblNRMDRaN2xMT3A2MUlZS1Z6a0FaUkxtd0pSaXZYTy1MQXlHaEJRZklmQm0tUGFWV3Nsa1lZdWotY182N1RCcjl3RUZUWkZSbUk?oc=5
+- **2025-09-22** · [Unhedged] Nvidia to invest up to $100bn in OpenAI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWd5ajJiazdkRUpETlpFSS14OHdQYnFvTWxEbzRSUXhFR3RhbU9BZWphcXhHVDFmNDJKZ1ZTRG9wVDkzOTFxMlJGN3l1Q01JS3g1RVIta254cjJXckl3ZkJRRXQ4WjNVVF9MTnF3REJwOUxiMm5wQndNUlNERWRMQ04wTmE?oc=5
+- **2025-09-22** · [Unhedged, Markets analysis] America’s top companies keep talking about AI — but can’t explain the upsides
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR29aOXJ3RklncFphOTAxTjI5S3l2RUZDUHdqOHdqWlhUSmdZUllyb1F4RnBvUWdDaUZLNHhwTXZ5UnI0eC1QOEtLdlg3bnREb0tRbnZPSWJyVnh2Tll4aW5zVzl3ZFJ1LXZ6akYyWWF5SmpHTnA2Z2NqN2Q3WkEyTXBXSW0?oc=5
+- **2025-09-22** · [Lex, Markets analysis] Nvidia and OpenAI are mostly performing for the algorithm
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaE9XOTJZNFEyU1VzZGVVVTdpZWJHWDhjYU4yZ1hmeHdfdy11ZVZoeEVuVUdUeWNYVF9tN3dPbVlyM1VJTGkyTDExVGhXaWpvNjhZZ1dTR3pxUHdMdHk4ZEdKaDFEV00teW1CWFA5S09XSF9RZDBSSjhPNVFnMHVxLWUxVVU?oc=5
+- **2025-09-22** · [Lex] Pfizer’s weight-loss drug confines it to sidelines of crowded market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTlxTHBVeVA1dC1Lak5WSUxMQVhGWkpxVWVUeWVvaGFQOTRjUmNQM2tlVjM0UnpPRFJBUnVObDV4UXl1b3VxM3ZsMzdza0hOUE5Na3ZERV9ZRjg3dmM0VHpsZTc3SEVxdENnbVJ2dGYzam9WREdfUVZNcWc2UTY3akVvbHA?oc=5
+- **2025-09-22** · [Lex] Slow Horses season 5 review — spry spy series is on peak form and oddly prophetic
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB4YW9LbkJXWDMtbWJvOXppZnpjaDFmYVBiemJtZ2huNEI5WmpsTzhKeVRqdHNCYTJBcm5ZdjZ2VzhwbmlXLXFCclpNdFBnSUEtanZ4b2dSU3kxWUwtU0tRYkxPenhpNllmNm1xT2tFM1A?oc=5
+- **2025-09-22** · [Markets analysis] The hidden cost of China’s vast web of industrial policies
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBUTHo1MVJUc0VpSkQ3VjNUWVFVbFpuTVVneUh2U25vbWw0Nm9yQ09tNkY4V2k1dmZ2VUJjZDVVY1VlYkVMME5ZUTdYYjZSb29makVWVVkwNEtxZU1BZ2wxRlhSSjRiSVNvX3hHdmNyUGQ?oc=5
+- **2025-09-21** · [Unhedged] Home equity loans will keep US housing market tight
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1yMUo5elBIZDRmVWZYdnE5R3EzQmdTM2luTzF4ZzhJTXloSm1QejBjZ09Ydy10WVpKMzQtV2VVYWVwNDl0aHdsTVpWQ01IRjNwZTJTbVVVTG1VT2lQYU81MlQyUFR6dEhuU2JLTkRjMng?oc=5
+- **2025-09-21** · [Unhedged, Markets analysis] India can shrug off Donald Trump’s tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0NoeTdjNkZ1YWI2YnNkWHBLWjFZTkliQ2JwZ09ET0lpWkZPMUlGWVRJaEY1UnFEcG9weGo4TmROODBlc1MyZmpWUFNzSVFSNEdpUjh1UFVXYkFXWDF6bW9Qd0JxeWZxUHlNeFlPaHNrSGlvdUJWRTNlTmVGTC1LbGJtUWo?oc=5
+- **2025-09-21** · [Markets analysis] Warburg Pincus looks to sell business services firm for more than $3bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzlrR0FJSnRRbmdlX0ZZTmJtRXV2OExFdjNuSVBncGtQY2ZUbDRhMUd2b2d3d0Y2WGhhRHJzRjBpdGMyN0VBV1ZGQW1OdndiX0ZWZmFHbW5CRXBmY09CTHd4WV9CeWJjVUJQZUhtWUxBVXNEVUk2ZFBnMzlBSmZEYnVNRlA?oc=5
+- **2025-09-21** · [Markets analysis] Egyptian billionaire Nassef Sawiris seeks to invest $50bn in US infrastructure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmR0X0hWeHJtSlZBazZtNHJ2WWdwcFJPV2NuQWRoR1J5eEhSR05BZDdVb2JQa2E5cEFtYktsODM1NktVUXlSQS1paVhGZm1uOWt6cERPODZnZlowQlRVay1TaTEweFRaaHZaNGVlWkY3WjVZbHZhRnlOMGUwVFRzUjdRNXM?oc=5
+- **2025-09-20** · [Unhedged] ‘Stargate of China’ plan emerges to challenge US as AI superpower
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUczTkpZLTRNSzRmUmVWRHk4QWhKZ3JEdTN4SDFwdzRiRnlacXdTb1VkeG1QUGNuS09ZcnRVaUpwUlhoQVBfd1RxVXRHRk1FbG51QW1zaURwNUZjMUtHYXRhaVp3bUQySl9NVHVvenVCX0l0LWs3VWl0YlJRVmNxWjhPVHY?oc=5
+- **2025-09-19** · [Unhedged] Nvidia in talks for $500mn investment in UK self-driving start-up Wayve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1BPallfZTh2cjVCdVk1cUl6M0NVQkZPVTROUElZWEx1M3NCSC1RLUdmaTRzRkZQZmpUZV9sRTI5UGlkRVZRaGZGQ3JOT3N6OXJnVVB6Nl9WTDI0cGREU0tZZDJGb1pnbmJNcTZtWVFtMmZuY2hTcURkZjJWbldlcEtnclA?oc=5
+- **2025-09-19** · [Unhedged, Markets analysis] Investor Jean-Philippe Bouchaud: ‘The whole bull run is because of an influx of money’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX24wekkyQlBXTTBIMVpkT3M2MHpDN21OMzRMbjgxQXpsbXBsVTQxU29jZkZXNG5aS3NDZ0VwVF9Fc1dMcEs0VlhFTXJzemNOeWVJWXR2MWw2c2l2TzBIbndpM1BMVXJzbzg4Y1lZVFR0em8tOGJFd21oMEU2cmZuY2tkNXg?oc=5
+- **2025-09-19** · [Lex] Premium economy lifts airline profit more than passengers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQckNkSGtEY0FkVk85c3FLaGxhWG1PeHRFT25maW9rdVptTFVObkRuQXVuTGxxcVVHSTZtQmprcXk3d1hwMjY5RjgtbVhvOHAxS2Jyd1dDcW9DTnpIbEpnanJ1LUZycldjSHozSmZaRTdQYnZqTjhnMldLMXlicDVSdm1Oa3k?oc=5
+- **2025-09-19** · [Markets analysis] The truth about immigration
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVRFS0tYU2JJQURYaXpQQ1VLckxPbWhVZjBYRDNRNTJOUVJqeW9yV1pmWU1YeDY2Y0ZieV9ocmZaLXBfbTFac3FSS3QyMHl0RzdtOTRoNlRoT3FQRHg3eFY5bGpmWGZLZnlPLUdYZVVaTlZVNzVqV1lDYTRuVzBWTk92TmI?oc=5
+- **2025-09-18** · [Lex] AI and analytics: the new frontier in fraud prevention
+  - https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMDRLOEFkMVBMSVV2OFBRTnJsTjBPNEhyaDd4Rk8temhJWEsxZ25SSTRoTWdmSUFKVW1lZm9veFFXZUZlYzhaZHRqLVBKYWRCMGhnRXg0UFU5NlRnVF9zV0tSRG5FbkQzTGhadUw3d1NBUkVmT3hSUkZuN3VQMXRPTi1qZjdLdjByUWlNd09rQXIyYUQ1SnFDOEdraW0xMXBsckc4cVFyNFVUTWxSN0ViV2ZlRi1iQWhvYlB6c1FvaUU5Qld1dl93aTZPSVJmbFJmeU9Sd3k1dFlPN0dJVUxSeGtZTmE4UEtNdnBKM003bw?oc=5
+- **2025-09-18** · [Unhedged] Nvidia to invest $5bn in rival Intel
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2xfZ0pocWI1T2tvcmFvVnpNa3Z4bGdZX0R2dEt6QWVLdkRQYlMzOGxsUVgyM1YzOVlYbU43SFBzMU54eUZ0RFdoVkFYVkZ3Q1AzNUNYSENsZGE0Y2lCLWY2WnluQkhfb0pKZ2djVUthOHdmT2dqcC1IbloxSjNXNVg3ZVA?oc=5
+- **2025-09-18** · [Unhedged, Markets analysis] BoE signals crackdown on offshore reinsurance risk in pensions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFZzbG9MSWUyOEZyalZhRzBFN3FCN195VlF3TTdPbE90N0ZDdWJEMVFkSUd6VndPa214d08wc1hvTWZ6NWxqbG1ZbFh1SmZmZXdNQ0F3c2xVWHNWREYwaEpadFhmSndOLVNLY1RxQkdnNGtaTDhMVWhPWk42SENNSkF2Sk0?oc=5
+- **2025-09-18** · [Unhedged] Deutsche Bank chief Christian Sewing set to face multimillion-pound lawsuit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDIzWmV4TXg3R0xqNTRhdmh2WjZMQk9SN3BMc0ZBdHB0TTl0Uk9yZHQtMGdjT1JnX3FUNGtQSUpCdnZPcGFtaTJENFpSLVM5WmxWbUZZYlBDU1NKcEk2Y195X0hsc2ljNDZidXpHMGhpTnZRWEVXN2NSZmFSM1Z1NkpSaFI?oc=5
+- **2025-09-18** · [Unhedged, Markets analysis] Inside the big boom in ‘business development companies’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRTlqTEVQU0NCVjFhbWlYUV96Y3lRcGZ6a19xdVcwQ2RQZzZXd0ZpMlZxVGVPUmpfN21Ta2QzR2pEOHhSal90SVRGQVVRUUdJdXZKcUdfSnRxdXZRekFOMHdXZlFMSFd0VEtMd2U4c2o?oc=5
+- **2025-09-18** · [Unhedged] The smart glasses race has finally started
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObVF6SGxGLXF5S1o4Y1dQYktkNENGOWxEZjhYc2x6YUw1NDZBMEZzTk9za25ZRkpXcVhHYkdJbXVQMm84b3M3ZGNwWU55YzVhajNFSW9IaVdjZFdnU29yRjZINW96VnRNWVRXYmt6Vm9ZSlRRR3pFcV9KOUlnSWVDbUhUakg?oc=5
+- **2025-09-18** · [Lex] How a deal with Elon Musk helped a telecoms tycoon save his company from bankruptcy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1Nfa20yMkYzczh1Q1J0N0NEeHEwMklWUC02S3R4UG5XbF9WNHQ4eFh2Wk9XVW9jNHU3VkZ6Z1NHV0JvZGtCbnI1VVBIT0lpTTZLRlV3dXZ1X20yQzUwam5XUlBCXy12cVd1c0FVR0YwcXJvYjB6Q01TOTVMUVB6dXVULTM?oc=5
+- **2025-09-18** · [Lex] Deliveroo CEO to step down after DoorDash takeover
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzFGTVlxNWJ3VUVJcVd0M0otZ3dGTmRQdERLbmd3N2I1cmc1NVdOU0hVSWFiWmpYbmdKY3pKc09mSTZmUEV4dXlzU2tZb18yeFZYbjBiTW5WYldUVURuMXoxWEc3QkhXNkxCVmVEcS1MZFpmYUgwYWRLZ0NUMTJvdW1lRTc?oc=5
+- **2025-09-18** · [Lex] New York Times chief warns Donald Trump is deploying ‘anti-press playbook’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVRielBZV2ZBbWRIZzRILWlPYW1UMGdNWkJUam95TFdNNGxrYWphT3lmOTRoaHJlQmp5ZHhxYVNHWF96VEtMdmhEcjFPWWtwNllpejBUUlBiRXFpeVF3M0xKdFVRczVzOG5UalhPUzVWYUpmbFZSVmlJdV9sVnBVbTF4UGY?oc=5
+- **2025-09-18** · [Lex] Online dating must ‘reinvent itself’ to survive, says matchmaker Happn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1AyUDhfaVU3b2lLZE9NR0E5QTMwT2YtZ3E4VVc5QnA1VS1yMHMtc0ttNjdiUGZ2QTJTeU1UZlZDdTgtUlFvaE5GSlRGWENFVlVTd1BDQ2t3bGFvUkJ5QWFDdVlzaElfX1ltNXh1OWVXREVqY2FPQm50S1Z2aDlhY2ZHU1Y?oc=5
+- **2025-09-18** · [Markets analysis] Lawyers navigate Europe’s expanding private credit market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjJWN3NKbHJYb2Z4bm4wX2pXZVRPcS11RWx4bTFXY1FGdlJ3NURVeThpN0xuU2ZWWElQcVY3ZWdyUE15LUduWi11d1VuQW9Id0lfRHd3b2ZSZzIxSkJfd2MwOEt6YVNrRk5yN0ZUNDI0SzlkRk4wQlZkR0d2cWU4NFlMclI?oc=5
+- **2025-09-18** · [Markets analysis] Business of Law: case studies
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE51QlRmc2g3NGN3Z0RyVHl2MnU2XzhxaENnM3R3S3FQV2pSLTdETVlIaVpPUVBINkEydk4xZUtiYVZtYTI0T0NucFZOdFBzMFhoenVZNUZ4VWlNcmpVZDYtT1c2RDlsR3FSdVFmbnloYTg?oc=5
+- **2025-09-18** · [Markets analysis] Missing: services disinflation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzF5MmNqdnA0UWxRcFN6SjhUUkgtVHBWTV9CMVhvcGxGZGt4TUlsX0xsX1YySDRwNm5oV2FYMjBtdElUSGVWNENNWm83V1FZSDg4TzRCT1dibGx6TEJnQS1WdnZCN0paV3J2aFBHV3d4VC1yaG8zSlVzVmMxT3lvVll4SHY?oc=5
+- **2025-09-18** · [Markets analysis] The OBR is not to blame for weak growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUFHc1pobUw5QmpwQWxUMW0tMFc2SkJuTkk3em5IcVhLcnZGZkVBSHRReC11X2ZtWFBCc2tCRlRsdTZWMWwtUFhoQ29rcHAwQ3JhTE5HcFFrQXpqTnhCQTRXNGJoUGljQkhyU3BJVzNlSlF2MHpBMUVJVlYxZDFlLVl0V1o?oc=5
+- **2025-09-18** · [Markets analysis] Companies’ legal teams feel the AI spark
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQckM0M3J3T1AzQWxwY21hWlpLNVg3eGNYT0g4bU9QbXNFc3JyYUJ2U3hnY1FRT2tES1puOWIyM19odmNyOWlwUF9feEl2TjJCSFZsWkFlekxiVW54czhHRE16M1ZTRWZzQXAyNndzUFFlV3pnQ0Q5dll6NWxWZUJZTVNETm4?oc=5
+- **2025-09-17** · [Unhedged] China bans tech companies from buying Nvidia’s AI chips
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3N2dzVva25NX2V2elpuemZPcFZmS0N3dzRQeV9vZUFrWUNyTXRJUXlXckJsR1BEc2VPR2xFUWpzZy14TkZjaGN1QURueUlXSlE5MVBvQ2pndS1ZSjRYY3hvWmZEaDItalo4dXk2ZmRkMXFOQkJZWWJISDRGTFd5QjAxZ28?oc=5
+- **2025-09-17** · [Unhedged] AI risks widening global wealth gap, WTO warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2FoR1pvbUt0X0g3d09uRVZTRzVXTzBNWWxtTFRPeVdpbThES3hOc0hheGVNeUdKR2ZCT0JfZ1Q3Qlp3Y0lRY2VEOGxFTXpXQl9fOFVfSG1lWWp6RzJUbjI1SF94ZGowREFMa29FbXA0OGRFbVZQRWgycUhwN2ZVWWZLd2w?oc=5
+- **2025-09-17** · [Unhedged] Britain’s AI productivity revolution may not be telegraphed
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9hMGpSVlFrcG1qTUJ5OE5oSE5yMHJvMExOMkNmWWRiYktvR2VYM01zdE9HOEJBMFNpemJveVpTb3RoQy1jWXBiV1d6dWpVcmlUQUZuQlJVWVdlX2pYbWR1bjZIRjlFdWZDbHdEdXVOR0w?oc=5
+- **2025-09-17** · [Unhedged] Federal Reserve cuts rates by quarter point and signals more to come
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmpjRFZjSV9JVzVnd1ItOURSY01hMk81YXBrYUlSc25zckZCZTIzZTAyaFJ1YVNvXzF4U1dBRXdMMGd0ZTc2R2tNcGN6ZVVHYzczMzN5eTFQaW1Yam40LXk1eUI2OHFCYnBPYzkxRXhuaWhSeFRQQkdDQmFxY1RWWG5HSTA?oc=5
+- **2025-09-17** · [Lex, Markets analysis] Peak oil is coming — but nobody seems to know when
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0ZFVzAyQ09LS2FXZkVrY0dVdU1zODlnWkZIZ1lKenJDN3BMWkhfZ2VzWWtyZjJFa2VVd25KamNsMEJUQ19HR1hKV3BhRWRNQXVoa09Edlc0MXNDRThnZXZuMFFQNEtfV19VOUJCb2YtcXF1RHZzbGJrVTFPLUtncURFNFY?oc=5
+- **2025-09-17** · [Lex] Activist Cevian says capital plans make Swiss HQ ‘not viable’ for UBS
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkIwbDlfazI2cGVYTl8xTkl1UE5vZmtQSjJ2Q2U2WGRlbERkamxHUHJ4UHBRT3VzdHF2cE9NWEFGS2tSNWRGdUR1Q0RkZ3UyZVI0VDJJMDVreVVnQndSVFljMHpKdk1qX2hrWE0zVDlFNXhsUE5rSG96NXh4MmNBejFUMkY?oc=5
+- **2025-09-17** · [Lex] Retailer Next warns UK economy faces years of ‘anaemic’ growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXN3UGYyVEJBU3RyNHdUaVNrQVJ3dlpwWGpWbTVzZDBWbFl5eUN4SzNQZURoZklDSldDRGVUSE03QWRzMzM3M1QwaU1nMWZ4VXJwbW5CRmd3LThYaVZWV1ZaZjBkajlkdXZvOEw1TkVqaElJOEdzNzk1RHZvN1ZBVWdqVWQ?oc=5
+- **2025-09-17** · [Lex] China’s flying car start-ups take their case to the skies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzlQOThJdWlTcll5SmdhSlJCSG40ZzNkZ25adWJKa1dCUFdsSG01T0tQb21xLV9pOWNtYTMzUklyMlBRU09PTzYxeURnUEJxWFBTWmJVME1kVnFKQzlMeGtFaXVPbl9SSzZxQlpRWXl2YnJvMnNhTjlVRG5zVnNsdjhwUzk?oc=5
+- **2025-09-17** · [Lex] Black Rabbit, Netflix review — Jude Law and Jason Bateman’s edgy restaurant drama follows in The Bear’s footsteps
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE04YzQ4eUpUOGJwM3YwY3E5SlYzRFotQzc4N09WeS16SUVXaXRrcmRfUU9xWk04T0s4eC1nUENkSC1YSW1ZSTZ1S0RfZ2dYUnRMT0xOb2ZPNm9BMmduallxSHB3d213Y1AxalBxV0ZGX2o?oc=5
+- **2025-09-16** · [Unhedged, Markets analysis] Foreign investors in US assets rush for protection against swings in dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnM0ZWFLODZDbWxBbmIxOTNTQWlyLVdncEpGaGY5RjdBZThxLUtpUXpjb092OFJ1NDMwWlhRcWctbWxnQ1VzQlBYN1dBVTljNFdDV0Z0eWMyMlRqRkE0UGxlWUZGYTFnanYwVVktcm9UNEs1RzJxMU4zSVo5RGltYzJWWjY?oc=5
+- **2025-09-16** · [Unhedged, Lex, Markets analysis] The scariest bits of the job market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUJFWGVfUDF3Tko4NnVvRmlna3RXWmtkTlJNLXd3WDltUjJhTlRrUmlobjBJbC1uUHRlR29FVzlLTXIwcjhkV2duRGxoUGlxbHZJVjJHV1pMWDJlbENGSTUwV2Y2TFpSZ01ZSkVxd0J4NUF2bmdBOFpfSkFHVS1CMHhPbnc?oc=5
+- **2025-09-16** · [Unhedged] Under-fire Javier Milei appeals for weary Argentines’ patience
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGNid1NDRk04VjFZcXRSNVFNVk9HZU9aNVg5am4wRzJHdUJhSlNzczNaRldGQzNydDAyU2JkWFh5eExfWmVlVGZicnE0YkdVUVR1Uk54M3R4NkdEekFlTmhyWXFibDVmVVFsRDhTU3NnNUFkREszR1BrSGFGRzZSelNYQ2Q?oc=5
+- **2025-09-16** · [Unhedged] Meet the Ellisons: America’s new Rockefellers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmROQTJCc1hZaGFkMGk0T3pfZG9UTk1jTTkwZG1WdmNPNjZ6SzhJeGNXNlBmNXZGaEJsNk8zZjM0dVgta0FwbmFvYllRRFhyWWtjQXdYZjA2Y3pNMFdVTXRjekFhTlNSVko0bklUTlZ1VzR2NHlkdTFVLVF5VUFaS2U3ZDk?oc=5
+- **2025-09-16** · [Lex] A weak dollar threatens the Fed’s rate-cut magic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUVRSWNkc2pxR3FZWFAwcFNtTVpqSEI4WUdwcnhuRzNEcVZUNlBhZ0x2cW1RaHBOaWJPdElzR1hRd0VoRFEyLVVkUDJLTmYyNVRMUlVMVGhxSVlSck5iUXpHZTdNbmI2NE5PcHZrbTJfVVY2ZTF0MW95V1JzRDNRWDdUZko?oc=5
+- **2025-09-16** · [Lex] Ben & Jerry’s co-founder quits over Unilever ‘silencing’ of social mission
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcElBN2VvZ0xlOF91MEJLTnhTZFJ1V215ZjhUUUp5YkVWeVZBQlZlbGNZSUNhYWNjWkcyXzNqOG5tY1lHVW44MTVOODhYR2c0MEV2VUF3X2swYVJydGNUbFktcm9NaHVoLTJBcFVfdEZXbkxSNGRkbW1iazR2bDZwZ0hsUVg?oc=5
+- **2025-09-16** · [Lex] The problem with taxing the rich
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV19CS1F4cXNYVmpIOFNuVXFHcWJzMVFYeG81elk0M3RWamxkUTRtMTlmTGdsX0hiekljaXhlTW03SHJOOVZTb2dUaW05MERjUXF5RkxZWXZVT0FLT082OXlYdzdLZkxDS1BodVJGVG50NGx5aDRrdjhScU5ENUJ0TlBLczQ?oc=5
+- **2025-09-16** · [The Long View] The debt landscape has flipped
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5KLWNpOVdIZ2VOVDl3bHB2N1R1aVJ4eHd2TWM3Q3hJZTFsWEpIVlVGdlhMaENOel8zaWU1S2tUWDl3M0E2cWw0VlY2OXJETFBFWFJUM2IxQzhFek9xYm1NUU9obHhmVmNqZTktRTU5bnY?oc=5
+- **2025-09-16** · [The Long View] Royal Mint losses widen as collectors cool on commemorative coins
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9NMzZYMmRTM1lYN0JuVHJlZjRBSUVFbHh1SnAxZGFhdWQ3UDZIdlZsS2NJQ3M0SHF3cjF3TFBRTlVyblZiZG1uYWVIWkZHU216bUtNVnZqU2ZfNE1jOHF4SUQ5SWx2VnctVEY2a1JyRzY?oc=5
+- **2025-09-16** · [Markets analysis] The Bank of England’s gilty secret
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0ZHUEN1SEtYek5NalNiX0NDcWNMRHJaLUpBbWRwVVA5SU9scFMzUjlmY3hHSVJwYUQzMHZsTmFFWkpwY0k1UFM5bGRhazZxbmd1ZkswaWhwYkotc25DbTdLRTVhcmMyYlQ1Z0tUc0JGcGF2bk0xNnNUXzNtVVlHVXlyN2Y?oc=5
+- **2025-09-16** · [Markets analysis] China’s delayed payments fuel UN funding crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGpoS1FzTjNPV0hTZzB0Y0xsUWxRMTl4aDVjVWFFQ1FoWUk1NTlSdUJtMGtBNFhmTjVYZmZrX3Fqd0d6QWQ5X01WazVSclhWcHpHWjMtd2w4eldqWTI0ZFMyTjJRLXBpUUpCVHFxVVlTZ0JFeVBpLWUwbE9DQjRmX1JHWng?oc=5
+- **2025-09-16** · [Markets analysis] ETFs are overwhelmingly a young man’s game, study finds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORGpGOFRkb3diOUVkMm5HUVA0Qkk1MDlVTnoxRnhtdW05TjdLVENsb2pUbjFpVk95SnEyNHFaaXNOVVZFRTRTUDdCYUY2SXZNeUtoWEFsQW0ybXRZenJ6N3ZzUG1tbXEtNHlNZTktOUg5NmtXZDllNjM0UUNIUlp0MW5Tc2w?oc=5
+- **2025-09-16** · [Markets analysis] Romania charges Russia-linked far-right candidate with plotting ‘coup’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBhVExjWmxMRnYzdGNFaG5MWF81R3pGX05yb0NEODZrVGhPSGc5dGw2NUZJczhyM2ZkQXFGblhzU0w1elROMmhTVGYtMGJ3Nng5S0xVWmx2QllQa0ZtTUVkRkFwVVR5QnIzamdBemhCbDQ?oc=5
+- **2025-09-15** · [Unhedged] How Athene feeds Apollo cash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQem1raENEbEM5WmZuaGctSW50bGtnZUFfZlU1TzBkZ24zSGFPTlc5anNEa2JhRngzOWVpTGlxR2p3eGE0OGRVb2FPcm9kMHBiNWpJVHNQMVpTOThtTWlFemdETTJmMXBqODk3aE1NRHphcms1Ty00VHh0QzVienkzMzRHbDU?oc=5
+- **2025-09-15** · [Lex] Tesla shares rally after Elon Musk buys about $1bn of stock
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmNJV3hMVkxGTUJRZmF1clM3SGV1enBzcEtyZFdfc2toeERqREdsc1VES3lvNmcwbnhhUVVTS3A5NVozRHh4ZWdzYWxfTk5qRlFoZEt6dWhSQjBjbnMteDVRSXFMRHdIdWpLa3dqM0s1OEpDdHYzVW9sMFdLVmxvZFpfczY?oc=5
+- **2025-09-15** · [Lex] Pop Mart shares decline by most since April as Labubu shine starts to fade
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOenkzQW9aYmVMNVpJblB1bDV4U1k4NW50ZG1jY1FsZnEwQW1JR1ZsV1B4Rl9ZT1MtX2U0czgzelV2MEpFVFVpbDBKeEVXd3cyTU11OUVGRHJaOUJubDBSSHZNRzQwTE9LV3BPZkMzTnd1OUdmZF9pcEZ2WEs5bDlCR0xsYVI?oc=5
+- **2025-09-15** · [Lex] Donald Trump files $15bn defamation lawsuit against New York Times
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHFxZWRDUm5XT0kzV29oUUpoUGNGLTZaVWpTOVBCY1ItRXVDcTZfMnZFOERlYUhrVTN3ZWlqWnJpalZuUnBVRk5MUzNfaGRqUXd1RDktczNBUzQyUGphV2hicVhwUFYzUDEybTNUNnZVWEFxV0ZFVk5QYzNaYUdkdVFVbWs?oc=5
+- **2025-09-15** · [Lex, Markets analysis] Tricolor collapse sparks concern about health of US subprime auto sector
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHRobERSUkZXOWt6Y2NRRWFwZ0pPQlNqYW1vd2xUOEw1RW9ab2NfbnFrVnNGOWZlVXBHMV8wOS0zakpuNm04R0RaVkFCVV9kZWtRWEkzdEM5clJQVTBRTzZJQnZnQzNCMS1xNmRiQVh0cVJYOWEtbDBGaG82SnY1azdNTy0?oc=5
+- **2025-09-15** · [The Long View] Switzerland’s US tech ‘whale’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFpoUm9PWGVwdFctX1J1NjNWSm5oVWxKNnBYZWFLQkZuOTFFdmx1R2hHTE5fdE1RaVU4bXdxb0NsdmpmTkM5bmw4aUMyNFM1U3hxaDJGYXpaMWh6b3MwWG1pb1BiSU5nYkdKM29TbWdZQVU4ZTI3LUc2QUxYZVdHNTYtZW4?oc=5
+- **2025-09-15** · [Markets analysis] Amazon to launch augmented reality football coverage
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTdzeTR2U2VFVEQxbWxIRjVpb1NhODJQbVU5aHc0cTVXQTZqV3pxTkdBeDBtYmdDU0RPSHhjcDdrOVhjVVZjQUIyWENFUlZIT2hwU0FBRGctczBPQ3RWT2lmNHRmeHpPMXZRRHFJNUVPVnZsSC16OF9KbFgtRTYycEVYTGY?oc=5
+- **2025-09-14** · [Unhedged] Fed set to cut interest rates as Jay Powell faces dissent over slowing economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2Z1ZjI2aGZTOHRXVWRPeTN0bEo5QlpaeURYbUxWSzJrYURQYk4yUjR5WHZlblIyaTBKSWh5Z2wtTlplX3Z6dGQ2U2YyTmROdWYwWkZSMVFVbnlWRFdmVExRbXFDX242T1Fxd0hQTldtZTFmQmU5MWVySDdEWlc4SkdwUjE?oc=5
+- **2025-09-14** · [Unhedged, The Long View, Markets analysis] How to (more) properly compare bond yields across markets
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA2X190Y0dsU00yX1NjSlA2Y2I2TVpBUzdza25nZGZrMmd6ejhkNDJuRnBlNzExSHhyNUVQdDN3eGZCNEp5b19yRzBJaWpLcjVfajlyNS01OUk5RFNhbXdHbVdJNWRFUm1ldld3MngyeG0?oc=5
+- **2025-09-14** · [Lex] Sainsbury’s ends Argos sale talks with China’s JD.com
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWJKcGJxS095VkN4aWtVbFFzNjBKNXlpRGl4V3NPYjFwY18tcmJZbF9VTy1aeDdrLTJsbXd2TjloTFloa3p3UjdoY0puRUxYNmtVVFpjSXNiM2djUVNsaGhQWmhXN2ZGbXUtbG0yT3JjMDZaNk0yVXE1SDJSblNkR0JPQ3M?oc=5
+- **2025-09-14** · [Lex] American Tower among potential bidders for €10bn TDF Infrastructure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVVSNlcwd1dPbmhZcHNxSFYxV0xtVllqbk12VWRSdE1FR19uQzZYVGhNSGhXTEdQbUEzU1RlNDYyUUIzSWJPX09VX2dzSjkzYVVfdndVUWt4REZxVHdqM2RfYlBNOExZN3EzZ3dkTDRtT1VjSl9Wc1k3SENFRjB6VEluSjg?oc=5
+- **2025-09-14** · [Lex] Europe’s maze of bank regulation needs to be simplified
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0xX0p4bDlJeUh1QlhDV3FraUtmTDVjRWpWOWlfRXEzeC1CN1R2SVFfQ2VHS3JZTDc4UURNZElJMmxyVEtZLWF1aDVPeGlQMjBvWVR2ckM0N0J0dzdaVFIyUzgycTIzNTZneXB3RkxTVlU?oc=5
+- **2025-09-14** · [Markets analysis] Can China stop its EV price wars?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNU9RdVdaNU4wOXMwUVF4NXV6YWlqMzg0VTJxWjZBWG1iQVlvM2EzZ19hYjJMX0VmQ2hEOWM1b3J0Sm9hclQ5dHhHRTE2LVNNVHpqdWRZTHo1SXMxY3hCaHJHWWJCVjhXVXZtbWxiRnZUMDYwaTFac2FNNmhsR1pvZ053aHY?oc=5
+- **2025-09-14** · [Markets analysis] China’s curbs on metal germanium create ‘desperate’ supply squeeze
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUQxdEk2aExqbjVLT2dDekxISlM0clI3bUJNLTZYQjVNWE94ZjAzdE9RSzFETmh6OEt5WnpkVXhMbldHbVluOXdETVBlaFhfOWtmeTg5Tnd4VnN4LTRFbVlOQ0xId0hlVi1XcGhBcmx3UVZXOVVucDhTV0xMQ2d2WmF5ZE0?oc=5
+- **2025-09-13** · [Markets analysis] J O Hambro Capital Management UK Dynamic Fund IP USD Inc, IE000R902PU3:USD performance
+  - https://news.google.com/rss/articles/CBMif0FVX3lxTE9ScTQzMFJyRU5BMXd6T1JXMHBJcXBxNGRlcFV0SW9jTTRWNVRHNE1tSXhIQ3N3ckZ1b1ctSThIMUlZTm5MVG5FRzRqbGNleXB6VjB4UGhWblIwWmphYkVvYS1fdnJzMDlfcGYxX3lYNi1fdzMxZmliT2F0LV8tQkE?oc=5
+- **2025-09-13** · [Unhedged, Lex] French companies’ borrowing costs fall below government’s as debt fears intensify
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ01QZnRaVmFjS19CWTZRaGdmQ0UzamxJbDEyN0xua1BZUGxJQ3pjVEtldG5RRUhyYloxMXo2WTJPMVZXNklCbnRLeHVOVVV3X3lHdHBheWlucE1EdnpJbjhKX25CZWlMXzgtWm5DX1dSNVNWMzQ4VzlCSjdJbk50SjZCTmQ?oc=5
+- **2025-09-13** · [Markets analysis] How Emmanuel Macron’s France became Europe’s fiscal problem child
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVBLb3Fpa19uUkpDNEc0dXhnZ1NlcEhIYmlUZWozU2lDeGRHUGFjYU8zX1JmS2NueGtDdW9lenptdDk4cWNacHNjUnNIY0xybVZNSG0tNTBWcVhLWk1GUHlYaGgzQ2s4MDlNQjF2RW15NmRCbUdCb2NodXRHXzZ5TFQ4Ni0?oc=5
+- **2025-09-13** · [Markets analysis] Goldman Sachs bankers explore limits of AI: ‘The risk is over-reliance’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW1CVk00S1FmeWdTMHIwZW1XOHFEZnhUcVRUZDJTcmlSY3U1eWcxanFqOEM2ZnJfSlRWWXpEbXRvSFI5cEZESmRkM3FaNW5FWTRuVWplbjJ4WkZhSkJwS21yUG45TjRzejZnc0h6YWZjcnVuZ1lJLVFQNG1talFzeXAwOEQ?oc=5
+- **2025-09-12** · [Unhedged] WisdomTree Quantum Computing UCITS ETF - USD Acc, WQTM:LSE:USD summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE51a2ZDS29IYjdhSHgyQVhGcnlXbWo5djN6b3RRTnMxbldaRFZMOGRnWldUOXBRTGo0VEFsYTRmdTMwT19YT0R6ck00UG5sUk00Vk15c05qRTAyb255ZjVxWVoxNWhYUGFtX2hNdUdHS1J3d3c?oc=5
+- **2025-09-12** · [Unhedged, Markets analysis] WisdomTree Quantum Computing UCITS ETF - USD Acc, QWTM:LSE:GBX summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE5UNEJSazl1a1JBVjFhYUVwOE15ZHZqREc4M2xIQTRtblVXaVdhWkgxR281SW9hSTI2SGRxUS1fcTJYc1ZvNXdfemRrTkNCalNEczEwUWtnXzVOQURkY2JuMnRFb3dzQ2gxaWpVYzhtd2NzUzQ?oc=5
+- **2025-09-12** · [Unhedged] ‘Greater Israel’ will be Trump’s headache
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXdzWUZ6UFdCSzFDTHdOaTA2NGZMN19EU3JlV0JKOW56LTZnSlZwYVVFbjkzRW5mNFFmdjVBallJWlFObFVPQnVLRFItVnBIaGlYUEM5eVF6N05uZFRzak1mV3d4RS1WaEFPejd4WjRNME9TS25Hc0RmME1qS3N1azMwTEs?oc=5
+- **2025-09-12** · [Unhedged, The Long View] The strains on the private equity model are showing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlBSTVBndktDMkRBQ0l4MktxWE92dkFNZGQ5M0JJTHhVRXhsMms2SjlPb2dubjZuRkxfYjlJc0MwWE4xOWpTblZsM1E5QTVjdlJ2ZHdQTzRMUF9qeEQ4RDJKZjBPRzlyQm03R1R1anRLWmtjWXY2TXViQWdmLUVDdXRQOEs?oc=5
+- **2025-09-12** · [Lex] Winklevoss twins’ roaring crypto IPO stores up double trouble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0VvQ1dPRk1hQ2lMa1ZsZlZMYUhMcFhsZFM5WkFHLWVyN0lJWmdmYjRwWEVDc1psUDh4dTQzd2N2Yl9nUlJza09FcENtUVAxaWZVX1lOVzZyYUVuZWRZQWJqY211QXR6Y09QV3g0STR2cjdsVGJPS3NMNDhZWXptMjJfaFo?oc=5
+- **2025-09-12** · [Lex] Labubu has nothing to fear from Wakuku or Lafufu
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlhXMGl1aG1RX2g1WnAxak5tMm9tMm5FRzY2QUNFVHlmcE1fRTM2UVplSGx2NTZYb2NiOV9XY3BTWlNBS2x6TERDSllMbUlIWU9hcXAwWjRUMV8xZ0ROdWtTUEk3MXNCd1o1US1ONXozSHczTTBCNzdaczV2Ri04bl9ZdGM?oc=5
+- **2025-09-12** · [Markets analysis] France and Britain are in thrall to pensioners
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGxaVkJjUlJrbHJ6M2V4SW9HeDdkT29iLUtNY294ZllJRkNQcU5hWVZCM1k2b2JKVG9QYnB6Q3Vua1dXY0doT3h5Nzh2Nm5INnFwMjZtdF96VVQ4M2UtNG1CMkJ2U0lXRXJ6Z3Z4UG83Z3BPTndNdXp3WFVlMm9VSnZBdTc?oc=5
+- **2025-09-12** · [Markets analysis] Green hydrogen is growing — but not enough to meet the hype
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVQ1b0FlQUhOV1dsRE1LMV9IS3paNmkwYjhYT2R4WkM0NnFzSXZEY0p3WWY5WS1XMHZrSzAwVkxVMWRBX2JFWW9sUHBLWWk1dGNxQ2MzTG1ER3Y3VlFrUkgydXRGTG04R296QXJFYnpIYWhNel9mN2hCSGtEWV9VX0JTcGE?oc=5
+- **2025-09-11** · [Lex] How heritage outerwear is being adopted by a new generation
+  - https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3lRMktSWEZpRG5Yeng1WXl0Wm42MTRINkgzSEJuN1hrSVZYa3ZrZzRQV04wTE9iRFQ0dHItUHRrd0NCVVU5azZ6aDBXdjY4MEZ2cjRnbFpZX1NfTmJ4NVZSTEp6S2d3NVl3Mm9RM3RmRFFkMEdsTFFhZ3cya1ZvNlJKYkZSdktsTWE2VjZfVVZnamxPQW02dG5uemxrUWZzWW85ZnVQYUlGZw?oc=5
+- **2025-09-11** · [Unhedged] Donald Trump asks appeals court to let him fire Lisa Cook before next week’s Fed meeting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSE9aMFNFT0tVQUd4R0RyWlctN3lkdnhGZnEyTmJDZ1hUdnNlcGVHeDlKZUUwVEQtV0FSWkNrT1hPbGdyeHlaYUNsY3QzeTFTdndWOGV4QUVnY3NpU1JYXzUtc25IZUpQeVZ3eFB0dUIxME5fcU94RzN4eklkZHRlU3UxLUM?oc=5
+- **2025-09-11** · [Unhedged] US inflation rises to 2.9% in August
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYldQQ2xFWlUweWpxQzRGVmVDTExCZEtDTXdjSHc4WTUxa1AzaUJUaVJEbGpKTGJNNmNHTVhCVlZvcjR5VkZKcnF0Z0xuYkZvYUpaSnd2eGtIV1Rva2VwRlFlZ2lyc3A1ME11QXVTbVpwaVVNUHdMcnJDemtnbk14WnlQbF8?oc=5
+- **2025-09-11** · [Unhedged] US coffee prices surge at the supermarket amid supply crunch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0U0bTNRWG03UzloSUpzeVEtUEpVQWd0Sks5Rzk3ci1wdjJaNGFyclpqU080ZTFrei0wQ3dpSldLRVRVLVFKTVF6T2x6cVpwSWMyZXBCUVFoQWkyamtjQURWYVVqNTdHY3BBSTZuY1R0bEdxVEVPeWRPb2hMQ29BX1BRYzQ?oc=5
+- **2025-09-11** · [Unhedged, Lex] Debt linked to collapsed subprime auto lender Tricolor tumbles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUJuYzhCa3pLSjZfM3RBY0NBcVZwV1BTUVdaQnBEZ0JHMFF1dzNPQWM3MTg5R3daX1NrSHF3X3hNX3I0aXpoeXUzUXpZTUwxa0FEQ0w5LVRRNFZfNFpVTW9oY1Z3Q0tfZVExZjJWeWduUzFfczQ3MmJnTHRFZGkybk5vbVM?oc=5
+- **2025-09-11** · [Unhedged] The ESG nightmare rocking the NBA
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkRvVXZDeGhQSElJVkUxTXlIQlE0ZUJIdFhhd1BxUWhLRzZ1Wmc4S0JnRUhNRENjRFpNYlFFQUZfS2FhZmVqQVVKc0VBRllwWi0zVjFnai1wb2NnRDdkeFowTTRfVWJqMTJ4aVdILUpRRVl6TGZ0RHZOZmxOX0FmTTRSNFM?oc=5
+- **2025-09-11** · [Lex] How prediction markets are shaking up sports gambling in America
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUEtQ3BMdUhrUkhwRmxRQ1BZMVVicmU0Z0Y1Z3NRV0EwbnZMb0FoREg2UTBzNVNOWWhzd2pfVEsyek8xMkM0bVU2QWdIYVYya1c1NmQ3NnRYUU5rNzZZMnhZbkdXRndzNE9jZnhfUm4xVUpkUVpkYjB6X3BZdFdkVXFTWE0?oc=5
+- **2025-09-11** · [Markets analysis] UK savers have more than £614bn in excess cash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON1Z1Qm9aU1hFbjU0Rl9oMF96dUlPTl8zLUtwbjBmSE5HbUhnT09Fd2hESWFhclQ0ZzhmWlFCMklDVzhiTnlmRjFjZjQyRUJuYlZaQ1h0X2JRM3JIQmlhTXd5ZE5UQlIyLTg0T09mN2VHMi1FOWNfRGxZSW5YZUNFOHdNNm8?oc=5
+- **2025-09-10** · [Unhedged] Trump’s CFTC pick claims Winklevoss twins meddled with confirmation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkxoNGh3TVRIRmN6SXNZX3ltTllWOVFZeF95emh5TXBvd1VaUnJNLWhadk84ZDctN3dYSlZLbWViUElNOEdlWVBadS1TZVhpUzdmVXdUcE5KU1VaSEJYX1ZFYW9iVm1NV3JQdlR5SnhjblJremhhZHNoajZOeGYtQ3dVTHM?oc=5
+- **2025-09-10** · [Lex] Oracle’s AI surge takes Larry Ellison back to the future
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXluOU91X0F1ZmVJNTR3aDVpRU9kTS1Ick9VYTk3bDlsTE04VXI5MjVXcDh1ZnJDMTBURi1KeGlvNmZMa25CTlJMSDM5N2lxNmNDTTNWcjhDMWN4SmwzS05VTEk3VDFBTDFyYjNoRE9CT25mbEpIVHd3QTdrUVRncTJSemk?oc=5
+- **2025-09-10** · [Lex] Advent strikes €4.1bn deal to sell generic drugmaker Zentiva to GTCR
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3BTWmxqcDBaZEZubGM0T1hxczMxTXgxdjJVVHZvS0x6QVc3WmFxa2J3endlaHl6b2x5ZzdZamk4YTFsWlVCS05NajZycDZ0SVRfUVZ1ZEVVcXRHdFVYU005RjZXUlo5c29Dc3VxWW94MWZFdGtqdXRWa1NUNVlsSElEbEM?oc=5
+- **2025-09-10** · [Lex] Starling Bank targets £4bn valuation in secondary share sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOT25NLXNJWWhiZzN2MjFBaW1yUzVuMHN2RVpKZGhUWUNZVUY1NmpkUmFmaXJLUFRPZVhxZ25YT3VabWRDeFpkazJ0M1VrR2phTmV4QnFxV2JZbWRuNXVDRHhkMnprWGN1X0dnTGxIc0lhVlpwWXFKT2oyTjZ6NkJDNlF3Y2E?oc=5
+- **2025-09-10** · [The Long View] SEC chief threatens ban on European accounting rules over sustainability
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXRrLWx5enU3bkxfRUNoNHdjZUNERGZENzZVUUR6QWtHdWd1UmJhdWU5cnVkYVRzNXQ1bWpCX3NVR3N4QjBiZkFydlRpYlR2TEdGYTdNVVZsT3c3QUdjVXQ2T3BfUzcwQVhDeENQSGR5N3I5azF1ZDlSVjh1T05SUzY2RjU?oc=5
+- **2025-09-09** · [Markets analysis] Shanghai Hollywave Electronic System Co Ltd, 688682:SHH.SH profile
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE95SnIyY241NEozNzR0WDlyc2p2M0pRWUFhV09TazVPd1REYzRiSVlFcFpZSEZvbm5VVmJQYS1oRFBSc1BRZ0U5cFVsZTNBSW9wVlJfWnJMbXlBVVpMbXNLUW1WelZTWGhwRDlTM0lrLUZsaE1SRjl5R0p3?oc=5
+- **2025-09-09** · [Unhedged, Lex] Elon Musk’s SpaceX to buy spectrum licences from EchoStar for $17bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTV9wWi0xQ0g0MlczYk1DdmdDNi1kcWUzZGk4TEJLVUtZMGt0LS13UDgxYklmaE96bzhpSjZTODBsbGwtNWNXckNiTVM3V2J4dDQzQUwzZW5US085SUtISFctdk0xNmxLY2xVek9TNUdBRjROQmhwb0tuVXJuQ0ZKbm5VUXA?oc=5
+- **2025-09-09** · [Unhedged, The Long View] France joins Eurozone’s ‘periphery’ as turmoil deepens, say investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHdycTd0RzZuRkZ3dnIzM0lOODdxcENKWVNxSllnbGliRWxnZnhzZS1nVnFpOW5DLXRqOU91X1hTd3BZLVY1NVJBaFpnaF9BazE2dHlFN0lqSGR5NVYwR1kwcEdrVkVwcXNWRjV6d2d3R0RBRUJyMHhKMlJEOTB5dFczU3k?oc=5
+- **2025-09-09** · [Unhedged, The Long View, Markets analysis] Do central banks really have more gold than US Treasury bonds?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5zd3U3SUc2OThVbFIwTmk3VEZuSUVFMzlrVjhmWm94NFFEYk1FcHVPbVJZblVfbm9KWXl3RHdxMnRnck1mLXp5OHRoMzNrdHNneUpwa3JIN1lYRkREUWpsTDIwY2RnVjAyaWplMTFDZEo?oc=5
+- **2025-09-09** · [Lex] SpaceX finds a peculiar route into investors’ orbit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWhCNzdWUy1VanJldVFSaHVoc3NhOTVzbVJGVEZrend6d2RNTWRnQVExY1pBWllRR3dyeXV5cDVvSW5oYlBUV0dWVmx3NEJQOHY1amQ3clhpUjVZaTJRSjROdmQ5c1Z0WVMyZE5TREV3dWROb3o0MFQ4bWlHUFp1M2p0bU8?oc=5
+- **2025-09-09** · [Lex] China’s car wars take their toll on BYD
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlVwbWo1RFpMbGVQM1NKN0xZM19MbzlMcTZub3JTYm82SWZPdW92M1VaMWJJNHpySkUtNzV4OE9mUDB4QmxEbmtURWprbkR4QnZhS1VPUkFoaC1rbDZKSDRDaUQ1Y1Y5ZDh6eGxLOFJQUF9raWVmUnpEQWUyb1RsTm15QTg?oc=5
+- **2025-09-09** · [Lex] Murdochs find peace — their challenge now is to keep it
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzBXTkwtT3pKNFJrR0RWM3RZbXZvdUVOSmtrOEQ2cFRjV2JpX0Z6dXFGNVFoWjExRThWN04wTEtObWdmVTZ1aWRvcFFlR0lIaVVEWlF2cnJycUVNQmtrQzdyZmViYjRKenB2eGZjdzdWUXlBTUlCNU1oc2xuSGlLaUd5My0?oc=5
+- **2025-09-09** · [Lex] Anglo American and Teck Resources to create $50bn mining giant
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVhhY3VCZC1JY3RtaURwVzJkSS1jc2kzYm1mZTVkdUFJbGQxYkFJSk1mc1M2WUlPaHFkbFFXWWFTV2g3T29sU2c4NzRfTWVPOVJKMjhZVTg5UWxtNHdOeUFpY0s2QTNaenFJbl9vaE9Cb2hEMVlnVXRDTm16M3JNOWZBOTE?oc=5
+- **2025-09-09** · [Lex] Exxon expects EU to sign long-term US gas deals
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTNISmgxcE41bFVJeVdfSWZncURiMWY3Qmc4U3U4QWt4bFVQYmVfWFZoNHRzX29nN0NvXzZoS1dfcGxBanNueDhiZF9kcGZJSFBpNFotdW9zN2s0dWtGYXNqY3FfUUJjR3FNbHNGNmlRT21kd01rMGJMY2NDQUNqbTBDejc?oc=5
+- **2025-09-09** · [The Long View] FirstFT: Rupert Murdoch agrees to hand over media empire to Lachlan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQektCcGxCUG5EaDBxd3NFSUdpMThiYWtob1plXzA2SkQxQXZyRU55UFdNRUVoRHpjd3phWHNPc1JQX2FiS1YxQVZCWFUtZVN6anZhRG0yTkctWHNVYnVYV0E2RFExZzlhNHl4MTM0VEFxOEVOMm1sV2hQMU9jaERGUS1NNzE?oc=5
+- **2025-09-08** · [Unhedged] Gold hits $3,600 as US rate cut expectations rise
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONjhINktxZTNYdGUwSGdoOEM1LWFNclN2cEZMN0xJUXYxNmcycmtueW9OcEU4bURrRzYxUU5JV2pWbjVMVDJOUU5ESUJJUnRkakdMVWlncGhNNENWVW1sa0VONVp3ckNoWDhwZi1Wa1MzaGxjUDAzMVVkb1JqNVBVNXdzTWY?oc=5
+- **2025-09-08** · [Unhedged] Online travel platforms prepare for rise of artificial intelligence ‘agents’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHFfRm1MTzc0N2JwekhEbXJFQ1ZYOXpSNkJCOVRsUW1ZdXQyVG9zVWZ4em9PUjVyeDNvYnJwbm9JOFZmc19QQW5wMERnR2xuQ09VRGFaQXBsY2J6dTBlNms2NU9SRm5nWE0wdTZITUxleVh0RVBkeWRQTTFtd1VFOERFVzc?oc=5
+- **2025-09-08** · [Unhedged] The ‘invisible kingpin of data centres’ riding the Gulf’s AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW1Xb0c1LVRvWUw0WENoVTJva0R0MGQ3eEZ0alI0ZE5BODFKeDlBZmk1Q2cwZExxSTNlZEtLMm5XckpGSTlvQXRyWnlleTV6WGhFczNjNFZqdFpHaTFSa0MtN1Q2c3BjMlpXWWhfVjRkVzRxZUtHX1hTbXhXMHJiclEzQjI?oc=5
+- **2025-09-08** · [Lex] Taylor Swift hands diamonds a moment to shine
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkdPcDhvY21OOE56ZVcwSHM2MjZhaTFRM284T1gwbktYMHBMN1lIeVBzdXc5ekFNN2pRcXhCdHl5RkV3andLRHJMdWpjOUJrMXdGSzh6aHRRVVo3LTgwWjY2NWZKbkxkWnhfMUdFWDYxcGpWTnptMlRHVF8xVi1WYi1fUk8?oc=5
+- **2025-09-08** · [Lex] Blackstone triumphs in takeover battle for Warehouse REIT
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWlfT19hSEN0Z2Y3SWxSOE1xSXdlNUNQNVBkVndGUURDWEtKbzY2Z043UEFSSzlsR3ZUdTNIN0VNQlhxYnI5X0hNUGhsTlQ4el9lX2tXSUZ1QnhQS25yTGJaQktzd2U1SEt4SVI4MnNWeWhxX0E0V2FiUXRHVHR2aFVDbFY?oc=5
+- **2025-09-08** · [The Long View] UK consumer confidence slumps among over-65s but surges in young
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV0JSWU5yZnhJR3V3Y2dyNEs4dmhRNFo0LThucGt6ZVNlMjR4ekE0RU03MU05bG5UQ0JkNE5nbFZzczZ3SFZXaEpOZ2FiMlFPTUUxTkJWQXRjemY4cldOWEZfcldQYnBNaHZ4ZXNjQ3l3QjI3dzNReVhYYVhBRnVnc0lhTEk?oc=5
+- **2025-09-07** · [Markets analysis] IE Business School - Business school rankings from the Financial Times - FT.com
+  - https://news.google.com/rss/articles/CBMirwFBVV95cUxQSi1aY2syZVNmbnV2ak42andqTUw1RjdPa3BZckEyQzFHb1g2eDZxUHh3S05yTFJoZ1Fvd0JoNGVwT3BKRjF1N000U3BMZlZ6bV9Ea2hKV2lldkV3QmZhaUZ6WUZZMlpFZlhfVFdjTlBoQlNxWTZxb1F5RFVodTlMTjFsaHhqbTc5cm96V1RtYW1NcHdoU1BJeE95M1ZEVGd6TEN2WkpDREp4WERENmFN?oc=5
+- **2025-09-07** · [Lex] A new dimension in cross-border banking for financial institutions
+  - https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM19RYmFOczNfa1duc0RZeTZxWDF6UmRvVlR4N3RYeG8teUVYUHZ5QmFDYUttaFM3VzVzbGN0d0ptUU1SRVBkZE56bV95NXdKalA3Rk1iRkdQU2hCWlJrQWpKYW1yUWxhVWNKQUxEWGlzX1R0V3UxSER5ekN5Tmg3b2wwMTBlVnN3WTZDN0VTdHhjZ25SeVpmRmh6c0dabFBNVkgxMzJhaElLNXlfMDNFWk5wV2RkT1NtckpyYnRLbHUydw?oc=5
+- **2025-09-07** · [Unhedged] Why the Fed should not cut rates now
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3dXNGdXOHhPaVpwYWd2OWtkM2xpNUtmQTM0Rmpmazd0YVNNSGd2eUJnUFdoM2tEZFd3UDBicXBvNVVWZVlPZXh1d2FDeVI2SmhGOFRSY0ExOUlQLUZVb254UDVpNnJ0UGlGOWNqRDhYYWlpM1ZoNl96V3RYZWNrUlN0OGw?oc=5
+- **2025-09-07** · [Unhedged] Is the US already in a recession?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2hwclRBOFJha0FNcVQxRVlIeGlpX0JCOUJaWE1IcTI1N2FrbUg3MlZESzBaNVdCYl81YXQ2QjhpTDlxTkdST1RHLUl3NmJwN0hSQ1pFcnd2SkQwRGZlOUV2UndySFBEN2tRZVFqaTBRUVF4RDBmVmFpX3NtRlNtSHlJYlI?oc=5
+- **2025-09-07** · [Markets analysis] US public pension funds pare allocations to private credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ04yRVNFOUp2R1FSOGJpeHhDcEk5TDB6OE1wanBSa203MEdwaVZkOXFmMzZKbHI1d1pHMHBObzd3Vld4Tnh6SUt0UDhhTnJKWEM5ODdKWWVHaEhtWU5mdGNSQ0FWaUtaYXF3cmNYSW1ReUZhVTlGdGw2REVvY1JROXoxOU4?oc=5
+- **2025-09-07** · [Markets analysis] Masters in Management 2025: Cems and Qtem programmes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGRvdXhIVExhNkRZdUtZV0w1M2NSSURKckEzLWtHc2F4NzVocDh6Vzcxekx0eGNnSW15dVAzYU1pbWdpWjVyMUpxZ0wwMlBhZWVnWlRsZFp3dUt1UzNiYXZ2YTNKZzZraGtmZkVXSjNwb0YyVTluVExsbjhKUVRWbE5vZ2g?oc=5
+- **2025-09-07** · [Markets analysis] UK infrastructure financing on track to reach record high
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQjVJek9NZndBU0NLaHhHN3FROVNTd1ZfS2RkWWRyZ0Z0U3VPa19VcURtRzF2dThUVHQ1ekNfUzd1cmQ5UXdHMGFOTG9XVFJ4T21qUG1xTy1BTy15eEVWZUFodng3TnZqalNxNTd5NXdqZVJrb0lobDZrS211QTU4cTI5UWk?oc=5
+- **2025-09-07** · [Markets analysis] Masters in Management 2025
+  - https://news.google.com/rss/articles/CBMickFVX3lxTE1pVHhkQ1ZJSkxkUDhZLWlzVXFwQWFMMDNqWmhfckFOWEpoZkRPR3VYU2ZDWVJOM2VISzZwbjgxQ05SbC0wSFpRX0VKOTExTHdDaW5JNmFVZlRia00wMWg1aVBkQnNQSkRLYWxYalVxMHVxZw?oc=5
+- **2025-09-06** · [Lex] FT deputy editor
+  - https://news.google.com/rss/articles/CBMidkFVX3lxTE1oUkdvOTVuWW5OTnBLY2UzSHNWNUNtSWpIc1o5YWQwT0hveXZXLWEzUDFFcWs1aGV1aTY2MjdtMGs3MG84ekF2Yk9YMU1hUjZrdjJDTlE1VXdGV0dKTVQ3S2hKYUV0cnJFeUlKRGpsbnl5YkwzY3c?oc=5
+- **2025-09-06** · [Lex] Wakuku vs Labubu: Miniso challenges Pop Mart for collectible toy supremacy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVREYUpyUU9EUzU0S2pBT2hmUlQ5U0VzdmVVdUt3ZUFpUEhsVVJveDRqNHpHY01CQ09zT1lHQURwUWt0WkZ4elg2LV9aSzZ2ZGFza0dibkpaZGpGOU9Sb3I0Vk9wVG1fNF9TM0lzRFhwazE5Y3RqN1hKTmFvcFlJY0RfUTE?oc=5
+- **2025-09-06** · [Markets analysis] UK faces mounting stockpile of used EV batteries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTnhFcUIzWm1NVnF6TTd1Slg1TlNYdUhVd1VRQzVFc2JPVzh1dTk1NkxpbkNIOWJPZ00tQWFic0ltTWtiRnBScE5Lbl9qUmgtUlhkeHBvNVFlRUVQbV9UbG96NVZSNkV1VWRZQm9yQ0lUVWlGd3B3bWRBaTUyWDRfeDJQdXY?oc=5
+- **2025-09-05** · [Lex] Elon Musk’s $1tn bonus is literally monopoly money
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGxiM1h0R1BGNEk1LWN3c2JNRG11ckVkZ1JDaTRJbjV1WGEzVWhGNHZPRThZemp3UDFZb2NBcjhXSXpIbHN2a1B0dUdQQ0xKOUxhcmpaeVpxeTZaUnBCemkzeVZPZDZtNXB1cU1odlVYR0tEeWRoWFQ4T3RicEw0Zkg2VmQ?oc=5
+- **2025-09-05** · [Lex] Gap’s comeback: can the man who saved Barbie revive the faded fashion brand?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFhzbkdSS1AzX3QyYko0R3hfdzZZeV9yV3RyaDQ5T3Q5TmZvSDVMTWpTcTJ2NjJ4bFRITHlORGhrWHBtN1otMzk2S1RXanEyS2thM3dRd3RDNjRTdnVlYzF3MHN6QUptZjVuVEFXLUtNOERWU3k5bzVhNTdKNkVpNHB6Qko?oc=5
+- **2025-09-05** · [The Long View] Poppy Gustafsson quits as UK investment minister
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGtFZGlGVWtWNDN4aEZlSTZWdHZXeGl0N3pOMFZreFlkVk9Bd2RPTFhKdEFUWVpuVVNuTDhUUFNkRE1wa2hwVGRVU01DZVlZVDl3cHRtTkdlYU5Wb0ctZTJHV0FBcDRoR2N0Rnc1elJEYUxmVlpET3FDQU9VRVZEVEVuYmY?oc=5
+- **2025-09-05** · [The Long View] Keir Starmer’s problems multiply after deputy’s downfall
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDRxdGJ5Mi1PUWhMcEJhLXJaWTNQSnpfNlBXUUZXR3pTRlJXWjk0bFp2RHhkNTlYX0txZnJnc1kxUmEwWW1HMTJ4Q2RWY3phMF9oN3pZNkFSVlNyZFRBZTFSOHZyOG5FOWY0TVUtdVdqYW5MdkdoNkxqUmt4SGNXaS1jMWI?oc=5
+- **2025-09-05** · [Markets analysis] How rising bond yields are boosting annuity buyers
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9HV1RPbXhCZmtLN0RtWHBiTzFMR0FvNWlVaEJXV1hxSi15NTBtR2tyaUNOLVA5N1hIRTNlcFQxSUJzekVyZWEwRkEwQlA4cHVqYmFEZUU3SjBrTXJOeE1DRlZFdzFyb0dRVVB3bFpJTFM?oc=5
+- **2025-09-04** · [Unhedged] What’s a central bank supposed to do?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE4wU05Gak1nZ0pDUUtaLVZ5bTZEQnF2MEhNMno1WldsS0hjaVVxa2hrcjNNdWFlV0p6dVgtYmMzbWJKUzc1d0RCSXJfd2ViemhWWGNOVlpkalB5R0tNaXMtcnZ5M2cxUmM0SUhnOVV3OHE?oc=5
+- **2025-09-04** · [Unhedged] When does it pay to hedge FX?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE44cS1FbmV5VjhZa3F1SVpDUEU4Q1NXLWNPR1RSRGI2blB6cGZKNktFUEowZmxWZ0hydjJ2NmlheVhsRTM4dlpKU3BsWjZUZXlWbU9KaDVpY013NXhLa3FXcDB4UXg0Sl9KMmd0dzBlZG0?oc=5
+- **2025-09-04** · [Unhedged] A wrong Fed could do the dollar in
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE81R3F5QXlOMnZFaHZ6TDYyTHBoWno5U1pWWmIxYjBpLXRfUjU0eUVVREVhTU03RzFuS1dHX2xIWHNRR0ZrSkJDXzJzdlRwZ0ZvV1FzRERDd1ZJb2U1OC1nNlV0cmxZU2lJYjhJQlhSTFg?oc=5
+- **2025-09-04** · [Lex] Can Panasonic reinvent itself?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3gtRllVRXlObUVkNWVQVkh6amU4dV9wNFlqcUI2bW1MYnVwSDhmam04NDlDc0hKLWdQN2lKbkdmd2FabEFaNjBKOUdtdGxlUldLRnhhQmFhdDRWdjN3cmkxRExBTUtJcmwtbUduNmR3QXo1ZW5BcER2TTQwT3lDTVpRUjQ?oc=5
+- **2025-09-04** · [Markets analysis] The end of the gatekeepers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTlQNEJnNmdzMzdfZzhISk84bm91WVk4T3BhM1Q0eGZMUWhPV2QzM1BVN2ExQmEzcXdPUHB6Z1I5OHBGb0pYM1pZX0lRUnc4cnFPaWJoUWJmNS1sSjVhaDBrZ3lhWTlEUms0cnBJeUJ3QnRjUTBPZjR0OTVpX3VEb1RuaEI?oc=5
+- **2025-09-04** · [Markets analysis] GIA redefines lab-grown diamonds amid troubled market
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE93dmV5VG5zeVBjb09DWkFBZml4aEZVbUtaUDVMUlk5TExBYk5XR3pxNkJuZ2drLW1nWFZxRm9VUnpObEJnbVpubTl3QmFpSFhBd1hRUFBlQkNMSVZ3NE8ybUdQdzg4SDZFYXBfY2VfNUY?oc=5
+- **2025-09-04** · [Markets analysis] Trump-ally Stephen Miran makes his case to be confirmed as Fed governor
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNkVMbkljaGQxdHpGczJWclFuMGFoa1VsTl8zT3JQVF9wc0t4bkpvMk5VUUV2ZTdfUi1PWDVESmEtZmo5RENNZzQ3cGM4SmFnZ3p3ZVhoWXlweVk5TS1NTDVzTXZTOUxiZnNPejAydVVkN05IRWJCU0JqY0drTF96LU5oSzQ?oc=5
+- **2025-09-03** · [Unhedged] Nasdaq to tighten rules on small stocks after suspected ‘pump and dump’ scams
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVgxSG1tV1ozejM4cmY1dFppTFR3Nzh0Nm5oSWdkMHZXbnIxSnkySXRJNEFqYTZWbnlUM2tOOFJTWkoydVBFcTJsSDJ5UXpsb2l3eE1OUUFaNHNUZnVEZFFabW9WZ3RQWUtkV1Q3dmwxenhmZ0h1NXhoVVRvUVlJN3RKWTc?oc=5
+- **2025-09-03** · [Lex] Unilever chief plans management overhaul to tackle ‘pockets of mediocrity’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1KS3BjY0pnV1Z4c2FQV09ualljS1ZKQmsxRF9LVjBkSkJEWWVNblNYMld4R01Hc29UY2pCMU1nREhyZnJTUVFHWHpfWmYxTmdzVEtzVU9jNEF2OFlMeGc5QVdDcUhLd1JkWmJEM0pvREY?oc=5
+- **2025-09-03** · [Lex] Denials and defiance: Nestlé chief’s exit over relationship prompts investor unrest
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORXN2UFh4RW03cmFXdHU3cFhUaHpwVW5saEpkeTlWYkxINEd3UlN3eWZhSDlOckc3RnNmbmhZQXdBX0drTW9MNXFLN2tCQ25sSVgyNWhia2dXdWRybTVLbWJ0TFliTmt1RHNGTDNTYkJPeUdLdDFma2xVOGw1bzVZUDk3T0Q?oc=5
+- **2025-09-03** · [Lex] How to drink tequila properly – no slamming allowed
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV2tETG5SVGRiTmFBeDFZZlk5NlpkMWRydVEtaVRpWnhGYWRwMEs1R2dIX21hU3Jjc2owc2VJLXFVUmE5cFluaXdKd2xRSXJ6NDRaMW9pVnFSNjhFWTFkYjhKNk9Cd2E3SWxYbHJvVm4?oc=5
+- **2025-09-03** · [Lex, Markets analysis] Making British homes affordable again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMnl0TXNMSHRmNHZKd0loQVVfdVFDdGozNlg2a3NiUVlnNjF0M3p0MGR6S0twamhibVV2VXdLTHBwLW12eGFLd1JwUXY4S003YXVkX2xieVJaNk1oSF9WNXlnRDZVTnVRbmhOOE45alpVYms4d3JFMFp2aXhQcTQ4NmJPZkU?oc=5
+- **2025-09-03** · [Markets analysis] Black applicants twice as likely to be rejected for a US mortgage
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2FjUURoeXJTWnRsZmJfMmU3blFHbFJrQnVrV3NYVC04TUtOSWcxT3pjZ0g3Rjl0WHFha3hjaXg4MksxTUYwOVY4Q19FTWo3dlZ5ZW9ZRFBESm9sdGZxVWl1aHRFaXNLX2hqbGFHSVdyNUJNMWNkejl2LTAwdU5RY3A0cWY?oc=5
+- **2025-09-03** · [Markets analysis] Talk of a global carbon pricing scheme grows louder ahead of COP30
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUNBZHNpRVpmY3Fhb1UxcEVVX2JPSFY0TTBDUS1qOFF5VVNNc1JYM2NURy1kdTA5WVY0Y05Od3hBLXRXeWgzOTZaaDlRZC11VHBISGVGZWRQSjlabjRVZFdVYUlPQ1ZKRTFtYmVqUlpmUmhpemh3SGdRZFcxMUFwV0xQNlg?oc=5
+- **2025-09-03** · [Markets analysis] Microsoft throws its weight in carbon removals market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkxjakxiaTUtRTlBLVFaUnphTW9SZkFSR1Q2UWdxUndURXdyWEFkdXhuSFVUczRyT1l1ckNoMjd4cU9WSThqUG9GR3NLWjQwV2tXTkVsdmZ2ZlBDQ2RJN2pnQ3FTN3hsWkFTSzVCeEZibFluUUloZEtyQlNyVU43MThJWVk?oc=5
+- **2025-09-03** · [Markets analysis] AI agents still need a human in the mix for legal tasks
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5qVmpxc2hUTVFEa0k5WElwakRKZ01LTXNmT3Y1Nko0cGJ2ajJHNk5tcjRxeHA2djJXVzNWbzl0Tk9TYmR1VEFRR3hYbmVteExWUkhseURudlc0ZnVDR3NYSDVtV1NJNmVmWVl4eWlxSEY?oc=5
+- **2025-09-03** · [Markets analysis] Fascism and the fracturing of France
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFo3ZzdtbXlyWUxpS0pKWjVIQV82WVp1WGRyMXpJaHdSS29WcmRGQzJjeFpfc01Uc2pKYzZCY01CWXByTThhaGZTZHJISEJKMThTbnNTeFFCek9fVDVycUNGWF9BZjJpWXZsNWdOTHdWWGFJeXJwSTBRc3ZwT01FdkYySmg?oc=5
+- **2025-09-02** · [Lex] It’s time to treat AI as a public utility
+  - https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3VDaFlGdVZuZjVqUlNtN3I3bXpCSHBYeG1aYTB6aUhCSTdEQS1FNkVhTEg5TmxVZnFCR1hTcDh1LUNXYVVxWmJNQXR3OUxmY196MXdGVS1vSy1QZzk4dWZWanRpZUJUYXZTU01MVmwtcTdnMHBrRUYxLVlnbjd3N3dqcnBQNkQ1RUIyUHVR?oc=5
+- **2025-09-02** · [Unhedged] Unwinding a decade of bad M&A
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONDBIMFhQT1JraTR6cFByZE1semdqMjgtMzJYS2ZuYWJ1blFWYkxidEVUOGY1bXZmenM5aWZaRTVGU0FjcW1JWm9SVHR0NmhFUTJmY2lJbzVmT2dBOTRYQW5mNGlOVGVQNlQ2VkJGTURnU0J5Z2JhdzFyb3hpRjkwQTBhWUw?oc=5
+- **2025-09-02** · [Unhedged] US stocks fall as global bond sell-off deepens
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOanVZai05UktnQ01MRGpIb3NzaUdPZlBWdTFJUnRoclB3dHF2UUhPSlRHTDVVVWxBcGRDS0E0czA1aThlUVFVWmc5eldUZFF5cDkxRTJNNVVwS3ZRMUNaVkRWRGhwa1NYcXVvaEtzeks0ZjJvcWpMUlY4VHZsR2pMamVpeHI?oc=5
+- **2025-09-02** · [Unhedged] Interview: Ray Dalio
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUM2U3FqNDJjZW5TWW5LMDJyS21mMFpkQ1pVZHdYNnB4Y1B6QWRKMmlvYS1aRm1xSFlSUU8zZG1Fd1FiRmZaUzhvOFpabWtna2JoWWFJaHN1ckVZcFBVb1M0SGM3ZEJpVlZnenlIM0JISzRWZmh5WGlETnFjcTA5ckdVekw?oc=5
+- **2025-09-02** · [Unhedged] The Avignon Federal Reserve
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA2a1NvMk1FUXlubzVsYV9DeTVLd0VoOTZpc3VWRERlb0ZITTJzemtvVDVIYlFleEhaWWlaWDJrV0NPN0J2aURtRlpOZEhHTDVxX3BhSXFNcWVpN0xuc2VjRGhLbWZweXozeEFhSGFCSTk?oc=5
+- **2025-09-02** · [Unhedged] Why memory chips are the new frontier of the AI revolution
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONXBLeXlNR1U1M3FtbjUxNDlmT1BmYmZISXlSNXRpSkNMRk9EZVAxWGtWZUtkd0xrY0RPOFBPUFN2N0hwOGZzdjQ3SFpEbUZUUl9DSzhTV1NLNFF3eURLcWdmVWNyc0IxeEVTU1ByTmtIdVVORE05OFEyYWprR0k2Sl9tT1A?oc=5
+- **2025-09-02** · [Lex] Nickel in a pickle that White House will struggle to reverse
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFptaVdkVjg4dE4zdW9IQkszX0E3ME45cVhUVnNOaXExSnc1eHQ3R1ctWVZRTVR2MGYwOVNDWV9FOGQya29WWWowMHRTYkNtdmR6VEN1dW9UUUVTX084ZnVmQi1jQk5ndGkzeGw0Tk52RjNUYlM5Y2pwcTZ4WVZXQ0d5S18?oc=5
+- **2025-09-02** · [Lex] Why the world fell out of love with luxury
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0x2dE1MaXYyNkxaQ194SXo3S3lOU2lXM0JRYzBtSWQ4V1VFUkI0blMxNFZPdjIyY2FHcE5BNEFCTmJaTHdKOEt1RnZBTmtndDFXTzhDZFAzQVZXd01zMTZBYW1wRG1EYk03Z04yTUtjWHBlVU9DQlVJNzJucU5GelJMWC0?oc=5
+- **2025-09-02** · [Lex] Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGNockt5ekw4LWo0cEtybl9xN2FOZlpSTHBHTXVQbUJuaUNYRzVpTmxmVUxFbE9lR0owZFZpS1NRUXYyWjY0ZTBXVnJOc3dDa3Zhc0Q1SEdPcDM1eVAzQzA1b2dPUTR3bkNMVm5Wa01aMFpMbUQzRlBQdGw5b0huMV9Ycno?oc=5
+- **2025-09-02** · [Markets analysis] Vitol: the secretive trading giant minting fortunes for its employees
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDF4bnlNSUJ0b3Vfa0N4Rkl4WGp3UFFwWnVqMzY2UTNaaE5CQW1oRjZ0dE5vdWFsTDNidUpGLWhmejMyTWEweVNoUVBpeEM3Y3lpU1pMS3NaeUdIZWFNbzhHb3pWSmN4TVBEMmxwUlRHMzRhTzdwV28yaTBnS1YzcE5FeEo?oc=5
+- **2025-09-02** · [Markets analysis] Airbus and Boeing delays drive fears of air cargo capacity crunch
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkxLdXJkeTNiNkFXNHJBVG81QnprOFhpUjNoZTJBR3VFMVl5ckxKam5VY1dzM18zTmtLa2JMaTF1UVRXeDFqbzNETnZiMWpNamFYUktBNlMxck9NeUhDWERGX2RuYWVHbmZleVlYdGxwVGZXcWxxR1cybU8xWXA3OHFXMWg?oc=5
+- **2025-09-01** · [Unhedged] Gold price vaults past $3,500 to new record
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3JENW1GYlQyQnBjOWI1VEZpTzZCUG94WHRGVjk5UjZ0LWZ3SmE5ZVZNNHNSN2RfM2xUV3UzZHVxVGJreEFkQUJUMHdycGZiSDNJbzdMTmhpNzdEUTdjaVQxUloxc2dZaUx4Mzg2VUs1UnhMWE81eWM5Q3h0YlZDTlh2QjE?oc=5
+- **2025-09-01** · [Unhedged] Chinese renminbi strongest against dollar since Trump’s election win
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVhqTHVMeGllbklhTFlXTDJUTUtrVEwwdlZHYXFPeVZob2xGZFU3S05QZDdUa3l6MUVXaXktZEtoa28zYzNSbW5aajRwajZBdk9sWG9ZcmtEamdRaHIwX0NNcWZJcFdaYzFrT2Mzam5QLVVrUXp0VlZEbU9ZdExwRGJkYlE?oc=5
+- **2025-09-01** · [Unhedged] ‘How do we get out?’: Inside an epic hedge fund bet
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObEt6bENhVTl5Q3VqaVk3U3JOSkRiMTRWUWVrX3VKcFI1c0NINTV1U2hsMHA5d0gwaDM2Zk9vNTAzMHFsb2VMQlRyS254cm5qOGNDMTl2VlEydlJFc3lsN3F1WVFOTmRLcEJvRk5MOGQ3WnlJMjNiSTdHaVBfaVFtSE1uUzY?oc=5
+- **2025-09-01** · [Lex] CapVest buys German drugmaker Stada in €10bn private equity deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGRfRXRZTHlFdFZmZWtrZzY0TnpkOFNHZWlaa0NleEpWY3l5TktfekdfT1I3RWEtOUpINHpyT0VNV1FiUWlmVUVLTmxpOUNWVE1rMDZaR3BzUHdydFdDenIzSGl4VmpoTnpzWHVkRy1iaVR4aTRYVW4weU5pcVJwWnd1bjA?oc=5
+- **2025-09-01** · [Lex] Revolut to allow staff to sell shares at $75bn valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWdmRVctaXpHVTdIRTM4VUVxUVJMV1lKTnA1TE9BY19KeEtTM1pCVEw1SWI5R0hEdzZNU2JZUkRnNWhnWUxac21KNFNRZ1pZbEt4a3RxWjhtN0JPSEp4TWZHUU44TXhveGFwN2U3QWJtMFl3TXFPODFBaFFYRVFjaUJiMHo?oc=5
+- **2025-09-01** · [Lex] Ex-KPMG executive targets £1bn valuation for his own accounting firm
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0ZPZTBsTDAtcThvX01kRmhiSUFyZ2NINzFIaWhvdUhPQkZYQ2pJaGZ4MkZCaWpSckl1VHFwUENleFgxM29QRjdZczVtQ1lfblY1SnowSE1QMGoxSlZXZjZRcE5VZW52bTczS2JEWWhEaTVSa3MxbkNDVEJfMVFtbjhKZGc?oc=5
+- **2025-09-01** · [Lex] Equinor to invest $1bn in Ørsted rights issue as Trump attacks offshore wind
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlk4WjJMSWtpY3V3VnY1YWZfOE9iMHhOVW90ZVBRYlBTODBnWDNtZjdtZlJSbHE0U1ZBTE9Td0Y1dnRValhzZE1LLXdNMGtuVXlHcG9VVk01VHpXU1lUVnZTWnBXUG96ZnAtdm40cjJCeHdILWRwVE1uTTRsTGlTTWlnRlg?oc=5
+
+## 2025-08 (212)
+
+- **2025-08-31** · [Markets analysis] The rise of the AI influencer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUG1CZU5kWjJ5T0kyTU0waU5aQkZ2YXBmSmEwNVJlRWVETVVvSE5UU05la0ZheHllUVoxSGVOemMwbmtSWFAzT190SE9fblI5TXExRnlHeG5TeVdlaDdBQmFwY012d2VYbVlkdkRCUkRQakFZVmdwNDNjUmU5SDdjbjNDa3k?oc=5
+- **2025-08-31** · [Markets analysis] Jefferies among private credit investors exposed to US auto company invoices
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZElnbzVaNHdxNGNxdWI1Qkg1TDRMbVV4Q3ZzM19vU2xpVkszdTViRmNRakdST3VGZTBxWjdBaHpSZVBzejNrd3FzSXBRMGRvY1FMNlY3YjFWRDFXRk1JVVhXZng5ZG1fbnRtWDdjOFJrZTVsZm5DVzNXYWN0elFFUXJza2o?oc=5
+- **2025-08-30** · [Unhedged] Rise of AI shopping ‘agents’ set to transform ecommerce
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOF9ubl91N1hsRGR3akdHOXNITk0wMnB4RDFIR1lZV09hMHFWbk1qSTkyU3lfcVF0c19HUGdHeGNTbjFPSW9kQnVCcUktYzdmdnZvd0g1NVh5RGlPMDBIUWlNREZfd2YtOUtMaG9LVjlNV2M0d2dsM05jOGNVek5CQnJOQ2c?oc=5
+- **2025-08-30** · [Lex] JPMorgan poaches record number of senior bankers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWs5eFJFcjF6Vnhjd2FNX1U2TGZHZ2h4V3F6Y01EZ2hTR2VaNlFmazlYVV9iTFd4Qm5rNUFuNFhtMnFFcWNMbzF1TzBqeGd5RWQ0bFZ1U05mWE1NaWNPWkFpV2lmclhCY1VYTG01WTVOTkY0aGx6WmZaV0VraHlwQ2VDLVU?oc=5
+- **2025-08-30** · [Markets analysis] Special needs transport spending hits record high in England
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFZVOHVwTzBhSUwxT2stampqMmtacGRNWXF6OFpKdVJLNVBqa1lzTFllbGRRa0VkdU5KY0FMZDFTRm5Tb3N4UEVGQ01lcV9nV1R3alVCblpYRi01LXFYdGh0MUhLdUozOFNjR2tfQVZYYU83RHhDZ0lUWnlQSEk1aVcxQ04?oc=5
+- **2025-08-29** · [Unhedged, The Long View, Markets analysis] Why are UK borrowing costs so high?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRDNpbkFXbFVET2xhaFJLaWFlRzc4QXlOVjdRT2FCMGJpRTJFQVBxVVFZOGNDWTNfUm5OMW1ad0p3WnFtQ1RQYlBBOEtWUHZwaE83OWRXT3hpb3hwcWMzbW15akFRV2tHYVJzcGNxalFxNFVBam5BYm5zcktQeWdLdGR3WWk?oc=5
+- **2025-08-29** · [Lex] Can craft beer survive its awkward adolescence?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5hYk5vTUVhYkU0UTVhVUhvQ2k2a2h1dE5INktMZVRMNjRhN0N4cHNiYktLRHZjSEJ0dkhoaTJvT2hIVVg4aEo5MlFWdTlabzkxRFZxcUQ0TGNpelBFN052TFFZZUFadWxyXzBuUHhlem4?oc=5
+- **2025-08-29** · [The Long View] Can a UK party backed by Elon Musk outflank Nigel Farage on the right?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGFybHZsd3dhUjlnUEdWeU9aLVJIdklldXlHU0R3Z2x6b2p0SEZPTGdyNGktYmpjSE42MkVlVlNVZnM4NXBsRkMwQ2RDWW5JS1p6ODNkeWhwQ242UFB0d05HQmZBWmctUlF3b0trRDdlV3YzUFdYNzZoVWhKV1NhamFaWEQ?oc=5
+- **2025-08-29** · [Markets analysis] It’s been a terrible year to graduate and find a job
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDdSTWZSeWcyVWFmLWVMWDFvQkdlbmY4WTk0X1VOV21OdzhLS3BlY0VZdDZEVXBJZS1CYldVUUpXRWhkeDBFSTV0bE95RkZXcUZCV2R1ZEV3RXYzcFI3c0hQSEp1d2E5TkJBYk5EdWx3QVBiTHlpTTIxbFdaaUJWU09FMUQ?oc=5
+- **2025-08-29** · [Markets analysis] The mysterious, massively lucrative, multibillion-dollar ARKK trade
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVDdMVWhSdGRFZzU0eGFLbHEtVjVVYzh6MTNSNEF5d1UzeTBDc1lNOTYzLUxjX2sxcmNSY2M2UHo4ZnVKc3NuNnpXUHR5emNTdmtMWGJXdHQtcjZBQ0ZRWkVjUDhVRGpmbGU0TjVJSTA?oc=5
+- **2025-08-28** · [Lex] Want AI that scales? Start with data infrastructure
+  - https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmpHQzEzT0REUGNEdzZ4V0FUOC1PN2dxUUw4VG1ZUHE3elAwTGFpNDlMNDFCR1hndWtaamNoLUhHekNBT2IxeHlWTWdNOVhtcVhtUEhEQjNlN3A3T09zcHcwNmJYM3hWWHE0U1BhbE02ZjF5QS00aFVaOHRVRWwzNzhrLVlBSHpYelI2RHJrNFd5bVAxUnI2bURYVmxNRlRMODFV?oc=5
+- **2025-08-28** · [Lex] Why managing data sprawl is the C-suite’s next infrastructure priority
+  - https://news.google.com/rss/articles/CBMiggJBVV95cUxPME1YZGd0T0NrWUNSZU1TNUdyMXdRLVVKWnRXZnhidkIwSkVXM2kta1hISjM4Zjl6YmpIZVZrSTcybW1GOWE2YUdTSE9ZSTR4QklXMWVoY28zejhtVnQ0cTNLX0VZQm50WW1WTldZX1V3NEZhV3FVSHpaelRGQVc3NGptMWlHdG05QlI2bWdiZ3ItTjBWVUtWM1FCekZtYl92LWtFRTZKbU8xQUVtQmVpRzM0cU5Cc3UycTNtN0E4LWZic0xDNWlBeDFEUUlhX2RNM21NaFdsZ1U2WE14T2pNU3hUUlMyR3JHUkF3cU1ZNmVkMV85Sm1tZG1JQVo0blFKM2c?oc=5
+- **2025-08-28** · [Unhedged] Lisa Cook, the Federal Reserve governor battling Donald Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTU93ZG42Uk8wWDFjZld0N3hXZWQ0X2FvZW9nQThzRUd6TlpkNGdwLUR4djdtV0loWmpjNGhDMjBHQU9zUnpBWWRnNVJyOGtiUTV6RVhPTkltY1FwaXBhbmRRckZsQ2RId2llM0hSVXZTOWNBSmtUem05TFpPS0RHQVY0LXQ?oc=5
+- **2025-08-28** · [Unhedged, The Long View] How to manage US asset dominance in portfolios
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZnBsRHhEdURmYmZzNDhQQzJzT242Q1R3cTV6RHg4cFhhVTNIT0JlNHBuR0NSWWFDUzlQR29WRXNPekxHYzh1OWZ5MWtCaGxVN0t3cmN5TUxIRl8yOVlTbmpGZW1hNGt1czBWWktaUi0?oc=5
+- **2025-08-28** · [Unhedged] Nvidia growth outlook hit by China uncertainty
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmpfVDhucjFZa2tmdWF3ZDFrYkwyR0pBX011cEs2TWdYVjlnT0xyQVFmekVyeERLM3J0QWN6dTRveG5TTlAwUnBGVG1TdVpvZnFSQ0ZWdWxRc0tsUlltZm8yMm1zSzFucFlPRVF6ZUxhc3pGUXE2TjExWG9zckppRW5uREk?oc=5
+- **2025-08-28** · [Unhedged] UK renters and poorest households hit hardest by inflation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRV82NjBfdnhNcVEzWmtpQ1pyRnFOY0Jqd2V6X3hmZGYwX2ZHVzlLRnZocS1vQ1lBQkdSeGVYeUZTUEhUWHRhQzNBY3M0Zi1JOGkzdXdyanpBbFBLODJSVnM2eWo5YlVXbzNjd2pNWFNrN0dEamJJR2NEcmVva0JFcmNRcEc?oc=5
+- **2025-08-28** · [Unhedged] Ciao bello: masters of the universe move to Milan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGw3WkNCdXdaTDdWWnFtSzFuUVJDbG1xTjlkZWNYamNzTGR6ODZ3cTdKS2pYQUNpS0N5UUVhN1NFNVlXZ2xhNUU1Yk5nTUhBcE0ta0l6b2xpWWZycFBQYVlCMGFHbzRGWUZUdGViOE0zSWVlb0hNaUlNVDZOcU02cWNyVkg?oc=5
+- **2025-08-28** · [Lex, Markets analysis] Nvidia’s exuberant valuation is a tomorrow problem
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnJ3T1NKcFYxdVJIb2I2S01oLXYza1dtQlZUbDNXQ3E1RnRtVUljbURfZnVHM2FJQ2ZOMUZvdl9MMW1jWXNQeW9oWHhpeTNXMW43QXNHRHI2aHB0UXV4Zk01VktXNXo0Rm16M2N0UzkybzZac2FwdWw3U1pXOU9wSUdWTFE?oc=5
+- **2025-08-28** · [The Long View] Keir Starmer launches Downing Street shake-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTnhwMUliTHhNMGFMSk43X3RTTm90bFctZ1RWM2dCR1JXc3hqSUVrOGlVdDRJUXd2eTVXRTBzMGtPUjcxRVhtUHR0SFVxTXJIMk1Fbzl6VFZ4Z3ZlUjhxYzNYd2Nsa2F5RHR6WkZ1MWtDYmRPVTI4WGtOWVlFbHdmT21LT0I?oc=5
+- **2025-08-28** · [Markets analysis] Could Singapore’s GIC actually be the world’s largest sovereign wealth fund?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMzE1VERiT0Z3VlVBalFsT2NCbmZsUU0zNG1wbm1TYWtPYjJMZEZKTEo4aEpibVFqSDJiRkEwS2l3eGNaQlBsbVVrNnlkSmd4R2tPRFNKV1E1Wl9aZTQyN0diWEp5eWo2d0x6ZkpUeUk?oc=5
+- **2025-08-28** · [Markets analysis] Why progressives should care about falling birth rates
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFEyNmgxeVhqM1czeFhIT1JRcmFWc1VQcUFPdHl6XzNFVGFHWWZYWGNvSklTWXhUc2h4SzA0X2kwUkVGRHhUZXF3SnJFRzRHQkJxSXhxRjJNQnFSNDB2d25TRTFPVU1idktrbWxrdWFndUp4aXpBUmZveUlFZzQ2bE9idXg?oc=5
+- **2025-08-28** · [Markets analysis] Psychoanalyst Stephen Grosz’s takeaways from a life spent analysing love
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQm9CQk12ZVUxTDV0Y2RiRnNTZlVENGZNV3lWOUk0V3NlNmxSZVVfVjNYTTcwUWRCNi0tQ3hrai0zbi1HSzR1TGJFU2xYQkh3S3VBaDliMUM2U2RHUFpmaWdlMXhsM0ZhUEo3RFUtU01GLUFlYnU0bmlhak9qTW9kZlIxUmE?oc=5
+- **2025-08-28** · [Lex] First Trust Bloomberg Artificial Intelligence UCITS ETF Class A Acc, FTAI:LSE:USD summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE1admVRM2FrOUpOQWRQZ3ppRTlMOUVjWV8weEZXWkoyeHVzUUhyeHNjNXo2dXB5UXR2bVZ3VnZkNzlBTmVreEtzdWQzamYtN29rVjNrS1JPaFZwc19LZlJvV3J5bkt6ZUlKUU5DbURnNWsxXzQ?oc=5
+- **2025-08-27** · [Unhedged] Investors look to Nvidia earnings for strength of AI growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHp1a1BqUDVMMndiNWFBZTF4a1JIZ0lxTXNtV0lNQV9KX3JhbUZRaDNOYVAtM0lFQnA4OWtPUF9sT1p0c09XSFN2eTBZQkNYcFkwbFkyeHdCTFpiYlR6T21RdDl6TTk4VU1pb0FMWXFDQldVWjAxdVZEZzVpYndKRlMxbzk?oc=5
+- **2025-08-27** · [Unhedged] Trump’s attack on the Fed threatens US credibility
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5ENmttNUJiVHFzS0ZNZWZFbk1hRFpmM1ZmX1p2QlN4alMxRWdKTFc5d1RqbWxLSUxVMHEyYTd5ajRBSjFaVlprQ3dYenlkcWFBaE90ZVNPb2F3ZnVTUmxwY3NwUy1XcjhmSE5wS3ZRWlk?oc=5
+- **2025-08-27** · [Unhedged, Markets analysis] Higher-order headaches lurking in the financial system
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1aRUZ4emdsR2xqZUJKYU1BZVJqa1l3Y1lYbXlmN21lSkFCZmhzakFDV0lmOExoRE85UldSWXBRWnp4TFBJbndDWlJMbDVFSFlOSjhObGVqQUs4TzlzRU81OThteVBZb0JrYXE0UWFFQ1g?oc=5
+- **2025-08-27** · [Lex] Rebuilding Ukraine is an opportunity for European companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWlxY0hYaURjNm41NXItRjNWZngwbUREbnd6bWI4UjhnVzc0a1RWcnpsVXV2b2RISG1BQUp5XzdGblByWjJWWUJvLTRvNXBqalUzRUZpUWxxTnEtUjFNZTFsSXh2TlBXU0tXQmVyc1VlVkw5S3hOZ1p4MXlLQ09RLS1yclo?oc=5
+- **2025-08-27** · [Lex] FTSE 250 outcast Asos falls out of fashion in more ways than one
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmlFeWdabmVPdU5GeWlJMXRoWHM3UG04dFhHdEx5Nko0TWdibUFTdzhJTVdFaU53MWxqUjVjc0RQb0NBRFByaVFWSkFVYy1QV1VpWVdEQTc0bW0wR0ttRXZVamM3aG5LZy1nMktjVHpzenkwZGJZamhsM0puaTVWeGxuOWg?oc=5
+- **2025-08-27** · [Lex] Rheinmetall opens biggest European ammunition plant as EU rearmament picks up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUxaN0NkNFFHT000ZWZVdm13VEdVSV9tV2hBNWNWVDV4Wm9BM3BZREFVaFRhckN6dlFER21COGZTbjhaNTdJa0VKdzNTVHVkLVlpSzBHZ0V2THEybDU4Q0E0ODlrTjZTVWRNVGtzSGo3dkk2SVpUZ0xDY3hTeGtaTnNLamo?oc=5
+- **2025-08-27** · [Lex, Markets analysis] ‘Full of bugs’: how the world’s biggest carmakers fell behind in software
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWZfcEFQdFN4OWZocExidHZuWXpfU0hhWEdBcHZOcTBsaUN2aGlFM056bVdwNHZaemFQU1cwNHEtLTV1bzdJNTZBbEliaTJ1YkUzR2M1WElmOXZON0QxZFNaQVF4N1h5LUhrUEJjS3hQTFI0TXJydjFVNUtPTERkc0psN3g?oc=5
+- **2025-08-27** · [The Long View] World’s best performing sovereign wealth fund bets on Europe over US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGE4eEppYVZwV0ZtbHV2U0ZSSXBvX25DRmVEYzlGZC1PM2txdmcybFEtZUZZaEEybzNwdHVpWTRVbTN6UmFPLTZZWkoxdkFMdXVWLU83TGVZMFNlQUpQWDZaSEFNQ1JRXzRmMlM1NTNpNVpuYmFta0Vva3Z0RWtWOVlmWGI?oc=5
+- **2025-08-27** · [Markets analysis] London’s rush for external CEO hires highlights succession planning concerns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTNnbGIxRFJ3YTJJalhKeHBZZXM4aGRjd1BqR19hazJyYkl4OGZ1enV3SHhDaTUxX1JyS2FvM1pEd29aMVFzSE9lWFNVcTlybTk4SmZBQ05wb3BLRDIzZXVxdnpNMVZHV2dlNVpadGtUOTM2emtZV3BIckF6b3JlNUIyeU4?oc=5
+- **2025-08-26** · [Unhedged, Markets analysis] Chinese AI chipmaker Cambricon posts record profit as Beijing pushes pivot from Nvidia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGJ2N0JZQUVIdGhycC1LUDhUcklDNlBzM0U2RVVIY1VFWHRWOUVpNUIxVnI5cW1QamZnYkVEZWRjOTJTVW1ndHJVU1VTS1NaY1RCRHRGZ2lmNVRRS25ZUG5jZmllT3ZNNG9kY1UzR0tXTV96OWZxWmIzSUdzbzFVNFVOY1c?oc=5
+- **2025-08-26** · [Lex] Private equity finds new way to deal with its deadline crisis
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWl9jRXFkNWN4U0lIdlV0NWY1ZlZlMkg2ZWl6VVRQaXlfbzJBZDgtZXZQcFdSSVQzTkFzSjVwSUtERDhvRVRLNndvV1N3SUVkWUJtaFBhNkktdHVzRGV3RHNPRzJxLUJIeUtWM3d6aExQS0JZZlJSWmdmaDhHZGJWdjU5cjU?oc=5
+- **2025-08-26** · [Lex] CRH’s Ukraine cement expansion sparks unease
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPa011cmxUV2hBWURhS3E2cktTZ1ZybXlDYUZodmxzbEg5TVdkUlJLeHF5MkFNczkzS1dDN2ZXbC1sZUVGbzBFSXJEbEV2N3d6dmtaWUtadU1QOUlZU3Q2WENxLW55N1NZYjhYaGx0UTNMVmNMZnRfVnBOUTNCNU9VcXZTSHQ?oc=5
+- **2025-08-26** · [Lex] Eli Lilly’s weight-loss pill meets target in key diabetes trial
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdndKT2FnS1JOaGlUVUZwelF6cUM0RlBPcFVTRFZqZUFhN0s5OUxLT1NJQ0hWWjI2NWxvcDJabko3YkRwdW1YMnJ0ZTNRaWx4dkFzeW4zTENtS3NtT24tRzRtSEE1YW9vSkZiMjN3SDh3bXFMM2RYaXBZOFY4a0V2cTNyR1c?oc=5
+- **2025-08-26** · [Lex] New Rio Tinto chief shakes up miner’s operations
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlFrS2xNdWx2R281aXJjYzR6RE9FVWgxY3FTU2hWMV82YVNtS291Ny1SY3c3T2sxcHRGM3k2TFg2UWtHRWpVNzlxUkFtVWhwTzRuN0loUXVhRkVoQ1dJUkVKWlpGSDdhdnlFaHQ3NWwweUJYSnpINXhaU1NxcnBxTVc4OEg?oc=5
+- **2025-08-26** · [Markets analysis] Why India’s contemporary designers are going global
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5EbE9sMkV5Vm5KbGd3SF9XOFMxdXA2MjI4em5zbTdJRzE3d0h0djd3VVNEU1pkSVRWWkNEZlNjeWJkYlRlZ1Q4UWEtVUJjNWdnSTNDSVRoZk93TzNiclJzczJxSjdYeXcxVFkwQllESkE?oc=5
+- **2025-08-26** · [Markets analysis] US tariffs on India hit 50% as Donald Trump-Narendra Modi ties sour
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXRUYWRxNVFDUWR3SUg5RWttZkVTOXZxWVVrNllxZTF0aHV6d2JFQTJKeWd1cGhwYUlySmZqbzJsWkhhR1JSTm51dlBseng4enVQSzdDNkdpb0F4c242Ry1FQncyNWNkQkZyb3p6Ql9sX2JPYjZ4RVBUaXFXa1F0aEhWRGs?oc=5
+- **2025-08-26** · [Markets analysis] McCartney- and Zuckerberg-backed Yoto doubles sales of screen-free kids’ speakers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTW9vMFlWNUx3ZXZTQVl0NzFWQlEwTEdTS0FIWUNYSDJlV3g2cHUxVWxCS1k1cERxdmQtR1FONFN1RWFzYTdOV3piLTV4bVJrcktTX2ZYTzJSb0Vrd0Y4cUt0WTdHdlV1dHltWmFjanJtLVVGLVhnNFhtT2Rmemh6dU8tWTA?oc=5
+- **2025-08-25** · [Unhedged] Donald Trump says he is firing Federal Reserve governor Lisa Cook ‘effective immediately’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmZPVmJDMjJzc29XS3BvWkoxVlYtWG5mckJyR2lSN1FNSHpTVldjbEw2TVViQjA4aGszWldwcTMxclphT21JMUMydkg2UENWbDJWSUVaMG1RdVdnSEVsRzhrNy13TzJISUxrQ2s0T1JCN1ZDaW94ZFZ1UkJTM1UwZ1JqWGU?oc=5
+- **2025-08-25** · [Unhedged] Peter Thiel-backed crypto exchange Bitpanda rules out UK listing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1JveFpjX0E0NEVPZmotN3JRYTZaaTRGeHg0bTZoSGJubjhjSXM4QjRvMWZhR1V2cm9wUF9zWXI2STNfa3YtTHhKbENRM1JxT3pKYURZbXN4OW9yNms2aWcwMUd6X1R5aGx3VXVpS2hicHQzVEdBdFJxZGt3Qnl4QXY1LTQ?oc=5
+- **2025-08-25** · [Lex] JAB’s big coffee merger leaves everyone else with the dregs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaklMVlZmRXVHUW43dV9qT1AzN3J3TkJBcEhpQ3R5cFJzZW14OUJRVmJQQ0NLcnFyTmtxY3hreGE5QjFGMjZKOUtUZHRpMjdGS0FnZGswZHo3RWFUaHU2ZXV4Y3prNXhrUm1wZ2tjdnVwQU9SdGRSYzVZTV91aG15THZCSkQ?oc=5
+- **2025-08-25** · [Lex] JAB Holdings Ltd
+  - https://news.google.com/rss/articles/CBMib0FVX3lxTE9FN1M0UEJIUTBqczNsOGhWanNaOTgtY3AzSXV5WDVNS2hBeWRkVEdHNjltZHdRM2FWQ2J3eUk2eU5wOEhfYTZ6d1ljYmk5S1hocUtjRGd3dEdZVHZQS29TczJZM2p3dlZhcFZOOEpZaw?oc=5
+- **2025-08-25** · [Markets analysis] ‘Unprecedented’: Donald Trump moves on the Federal Reserve
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWpPZHNGcHYyNV95QjdtbjRIRDhLdnBIcTlQakVGd1JtM1lYeFY5dEtkUVpuM2Y2X0g3VDRkZ1pzU0tzODV2eHpVdmFyNi1ONVZGZm9HdmlENW1SVmw5ak1pWUFGeWJQRWVYejQ2cDI2bGJzMTRMb2J2RGNscTE4U0hTWC0?oc=5
+- **2025-08-24** · [Lex] How the biker jacket helped define a century of counterculture
+  - https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUxNVDVmSDhZQVdwaVhlY2VvR2xkbF9sQUNBR19VZW1FTE9YSjJjbXNsN2NZbW9tVjNGa0p2LTlsajJ3c1E1X05wVWFKeThOeERfNFNfSTh5Slc0WDRNWk1wX3ZBTFlCU2stUUNyRG9aUHJvSmtDalZQOXE3eVEzUnI1RTZVTmh4UGNmU2dZVHRRdmFCaWx0Zkh2eXdYMzBSaURpMnBpcWxTMVN1b1E?oc=5
+- **2025-08-24** · [Unhedged] Why bitcoin treasury companies are a fool’s paradise
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHUwYUNJX01EdXJ1Y0tDQUJkN1Z4LXpoU0J4SXRMMmEyemFUY1hDaXUtRUZCTjdLWl9ZRzQ3cm5jOE41MXUtMzlCRVNuSXlBd1VaN1JxUXRSRU1hdU9PQ1VKSEJDRGU5QjVneFNSU0Zod1RqTkxaWmdFQWJia0ZaQXhsVmY?oc=5
+- **2025-08-24** · [Unhedged, Markets analysis] Beware populist economics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlp0SWpaMjRnTkJZTlFXVC1PY3JrQjlLTzIwTEo0T042dTFsdFVxOEtBb1dNTEhlWUJtN0VIZUxQQldqb2gyLXJyM0JzODNvd0hWRU1kTmc4UDNvcVlRMnFHZ1hVOVEzdm52bVNxWFJYWFlkVk5rTV81N2ktWXFJblBhVzE?oc=5
+- **2025-08-24** · [Markets analysis] Inside DHL’s AI upgrade: ‘Love it or hate it, you have to work with it’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcC1kaE5uU3dQcTg1b29CaDNhUGlmdl8tamdvSnpHaW9JdXBsLXNQX1RLZjY2S3VaTE9jUnE0emV5elI4QzBqRTRJOVBkZjFWVk1nay1ySzVmYmkyYUY0cXdXZmpnNkRwelJ2LUVNd2phVWJ4Mm9xU0ZjV3czU0szYzlTaC0?oc=5
+- **2025-08-23** · [Unhedged] Investors look to S&P’s ‘forgotten 493’ stocks as megacap tech wobbles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3kwcF9LTXZ3Ul9aaTBXUTZNbDIwMlp6Z3N6NlJyVkh4cVJudkt5M2h2MkEtVTkyWm9aSjR6b3ptbWZLRWdpTWw2cmRrLWZLR1c2NUN1ZHdQYTY2LThjNENNa0lTNUxtaTRrODdDSnZwZTJFdXBiNnZjSzFlaWpLWnRQSmY?oc=5
+- **2025-08-23** · [Lex] Neil Woodford warned FCA against fund closure
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHV4ZGJGOU40bHBYck1VenRSQTlfWHR4ZVZ2VjRkOTcwNWhTRUZFaUNpcHB6dno1U216bzBfRFZONnlVb016VWhLYVZtc1YyLWpOQzM1T3NEYXp1M2c2YktwOWFtcEhqak9Bdk9zSlNWMURVZlNLbGtmY05PV1luVktQb08?oc=5
+- **2025-08-23** · [Markets analysis] Australian steak influx threatens UK beef, farmers warn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkhtd01yenV1Wng1ZmRvQmhxbGtJVWFtR3BLTF92ZVNnaEtOUzhnNWdZUlpwMXc3MTV1bVRtUklSV1ZnMlZKTWdIaDZLckNuWk1qbGxXbTJWU01JMFROYVFqNXM3R1FaOFh0OG5tMWxZckFPV2VIaEdmNGdKLVdMNW1YbG0?oc=5
+- **2025-08-23** · [Markets analysis] Gulf tourists flock to up-and-coming holiday destination: Russia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWFFaUE2dU1ySklEX0NJRWtVWjZjVWFlUHhiYThkTEdzM0F6OGQ2NFlQWThTcUZuX1lVSDltVmdKTVRSVEdSZWpubjYtRzVmQ3JiaV94Y25waGdTZlFySzNKa2xWM3ZTLUR5NGxHakNmOENqaUI1ZmlTWVJkc0tVVkJLeVc?oc=5
+- **2025-08-23** · [Markets analysis] Spotify signals further price rises as it rolls out new services
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUdXd2pqT3E0X0RvbEpKWnJ4bzBLQ25wTFJMSnhiazY1V2xNQ2RuTHJqVHA1M0t6d2dNMF9IS296T3hYUzl2SDFCd1ZKNHBSR2Rjb2FzQ2k2Mkk0V1hvcWwxQW5URFF5dDRiVlNnTjBmR0lzNG9jRjZkbE4yXzhvamVZQjQ?oc=5
+- **2025-08-23** · [Markets analysis] The future of work patterns: part-time, flexitime and now term-time?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWdVQWJqRWxQWm9tbFJDc2owS1pva2dhTk1xMWhpRi1FczN4alVFUkRNMFFlTnZILXhkbnpYNTluaW16cllLNzFnVjZwbXFOUTFoVnFLTHp4bnFFZWdVZXFneDhNQTk5bzlkdS1GN0EyaFJIMlFrQV9PUXdXVVhwT3ZnaV8?oc=5
+- **2025-08-22** · [Markets analysis] Casablanca Business Forum | Agenda
+  - https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUXdQeGduaTgxaURmM0Z5SXlCWlJ3TDBhM3ZxR1FxUm15am5tTkFYcWxvM05HNTJKQjV5c1NoQWxYMXd6T09aZGRVMG5zR1Z1eGtoeDlBRjJBeEY3NksxdzJkek9Tb25WcGlDcXY0TQ?oc=5
+- **2025-08-22** · [Unhedged] Jay Powell paves way for Federal Reserve interest rate cut in September
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTMydGtZV1V1NGZIMWpmbVpVcEJPbjBvMllTcHJlc05DRDN6VkNNV1JEUGptWXlNU3dtZE9hQm9TR05mYzhvRzlWaVc0WkNLWlkyYkNHWmZsVmtHUVJwVmxSaGYtSFgzWjB6bXVWOGozblViN3VtcGVoVkE1WnNJZ2x5TkU?oc=5
+- **2025-08-22** · [Unhedged, The Long View, Markets analysis] Tech stocks are sending a warning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWU1RU2t3M1ctZjhKUTc2a296VmhJTVhSQWlpLTVvbXhfcEJwZ3p0Qy1pRHU1dWFaenZCbGd2RHZDRlRmYm5fV0ZzQ3lNV0ZwTDZfZGNuTUg1OUN1QW1IWGZwVDhjRjI5cHFPWmRQWHJZZmFMNk1vVXpadXQxWUo1dkVpV2Y?oc=5
+- **2025-08-22** · [Lex] FBI raids home of former Trump national security adviser John Bolton
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOT3h3dnNodldYdGNJZmtER2FpVndXdktPeXZuMnhsY2VRMXoyWWNaVFBuOW1kak5wb21pUm1wR0JOTTk4QXhNUTJlWmw3RjN2ZnphcVlRc3kycTZLd2lmNURQSGdOLXN2MEhpMmx1QzdmVWdnZVVKQ3BSeWFDRmJoS2dyTks?oc=5
+- **2025-08-22** · [Lex] Private again: Soho House retreats from public markets after rapid growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0gwUlBGWGZhTE9ROGhESXNQV1FYclR4dkZjNWpXUV90THo1dTRqX2I4U0dLOTJFRFB1c2VJaWIwbXdkci1nNkJIaWFnQVdhYlFxbTBjLW9JUF9tMFV4YVhpdXoxRm9mOExtcDl6cnd3dTZRUTJVZmctT0dnMWNWdmxCcDU?oc=5
+- **2025-08-22** · [Lex] Government supporting four out of six of UK’s steel companies
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmllZnExY3BpblF4RzNKZXQtS1JjcDh0VWI2OENkb09fclYxYXVlOVJHYnBHSngxeGlCRHJYZXA3dGxWcVhPdDZEZmtOeFpRZ0VQbjhQZzZNM21MV2ttQl9wcVV5NEJleHVja00wNzNmUU00YzlFLWh6aE9aQkx2YXFlVjU?oc=5
+- **2025-08-21** · [Unhedged] Tech stocks slip as investors rotate towards defensive sectors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFdLb0FLY1pycGVfcmk1dGwtcWZxRnd2aElkdmJzUGhrejhkUUlyTDY2a3hDcTNGMkZiY3RSdkV5MTBHX2VlSXNhXzVicDBNTjFDRHJOeFBQcmdxTTh4Y1U4RkViWHVmZS1BVDFFVl9aQUdGdmM1SmU4VDd3dkRsUjM1amo?oc=5
+- **2025-08-21** · [Unhedged] Brace for a crash before the golden age of AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1NqT3dpcjNyQzM5Znc0YXhNc2ZzMWFKUjkyY0k2OEMwdDlKMFZybW0xWHN4dFZ1Q21TZXF4T1g5cWZLMFhqNHRXWS1oVnZQaTUtMWVmdWk2LWJlNUhud09mTHU1bWRRdklWYXVBVGhHLUJyZ2VQZ0pGVHV1SnBZTWd5UXk?oc=5
+- **2025-08-21** · [Unhedged] UK business activity rises to 12-month high in August
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0lrM1lWd2o0RE9yQVFoQmliRG1hUXNScUFKSVNHcVVXc2RRM2h2S3Y0MlBxZkFwOTRaM19yWkxnX3NKamUtRE5wQkJQajFXTlhGczFlRjdEaVFUZ2pPMGt5YV85T2JJa2hyT2NDZXdUd3hycmtROWc1bENRWFhnVC1LQkY?oc=5
+- **2025-08-21** · [Unhedged] OpenAI and Anthropic clamp down on investment vehicles
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNC1yZVduVWxlSjdCYXI0a3BQTUpBWmM4czgwSlBsUFBMeHIzd004cnJkWmF1ZkI2OFJxejAtYWh1LVRRVExySmN0YzdweVFFZ05IS0ltelVSVm50ZW5lT0dxSjRiZVJJZHZPSTFRQVBLSF9RaDU1T1plck93OWEwXzhXY2g?oc=5
+- **2025-08-21** · [Unhedged, Lex] Jamie Dimon’s fortress of diamonds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTlpVZlhoUzh2eDBRRVhuT1NkeUhmTmItMUluMGhjcjBxY0hGRi1KT09fVFU2ZUYwN3Y4MWJKZUZQazJzT2JQNi1qY05fNF9FcV84Z3R6OVBaSGJQWElPeV9icXZCVW5tV0NIZnZoc19Rbkc0M0UtdGluUVRXUGlQeE9qZEs?oc=5
+- **2025-08-21** · [Lex, Markets analysis] Everyone suddenly wants to be a telecoms group
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXpGVnBtNjF6Y1hqRmRJdGdzR1JRMU5TTHJ6RXNvb2hMMHI1WFVkSjBfcDFqYldhemdpZzdxb0lJR3RPbUZjTHRYQ29qVUcyZzFwX2haay10RHlWNUFCellsanVhRjN0enRtWFpvOUE1MXdiaU50UGxMUV9VYS1TZXNtOEQ?oc=5
+- **2025-08-21** · [Lex] Worldline: How to make a €1.6bn overdraft disappear
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5mUTBkMmhSMk5FcjBHa3N0SmFjaUlqSkcxclQtY01YLWwwVnpBQnJZejlMeWlXbkVMUFNjZ2VGU09JbEpoWU1Bbm9WdV9CaFlleVZWMENYS0pxdDRldEZiVk5IVm1NeUdkdGxJc0QzbU8?oc=5
+- **2025-08-21** · [Lex] Santander signals Wall St ambition with Spac mandates
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUpHTGRJa0VMaExPLTUxSDBWbmFVcWxiSy1sMlI1ZGVKcGZiVF9zT0xZRzRKeVpzRjVmYjJYRzNiNW55WHlyVVM3MjBudjAwbnVObTNMNU5OdkstT3BodEdVX1ZWbkk5Wlk2b1BwbFZXT245cTBUUXdMb0FhLURPbTJVY28?oc=5
+- **2025-08-21** · [Lex] Hedge funds bet against European car firms as tariffs bite
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNejRSa29OT3VJMDRlT2ZWZ1NGUmZ4anBVT3paU2pRc3FYSXBjb1lvSHNYQjB6d05RbEpfQTBlaHZQSDRqTHVMR0F2QVdRNGF5OG1DdmZ5YzVDNVlVaU82dWNyQjMtSjIyMTE4aTd4Rld0T3pFMkIySktmM2dCelQwTW51QUw?oc=5
+- **2025-08-21** · [Lex] OnlyFans hands record $701mn dividend to owner ahead of sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3dVakk0bzZuaURMaEhXWENkb2Utalh6N0loR216dnZ2a2tMTmVwSzJYMks3M3piM3ZfT21CVF9qUWo0dTcxbUJFYURwVmNZTU1wdXRNX3NTd3c2RUpLRFRNQVhqdUtRaDBKR1ZkQ3oyWGowOTNveVhRT1kySVN3bDJJS3Y?oc=5
+- **2025-08-21** · [Markets analysis] UK green power surges with record approvals for new renewable energy capacity
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaE16akE3cmZDLU1HMWNvaU1EVElBLVQ0Y2FnRkR1Zm11U0RvcTNRdTRfd1FkSHpHY0QzMGxKNnNMZ1dWbjZkNHVVWmRtSzlTZmJJQUc1dGlWRmY4V2hGZk5BX3k4MDVqWW1kSTlUMFliQmNOUGN0ZHFYbWlaNUNGM0Z0dkc?oc=5
+- **2025-08-21** · [Markets analysis] The US tourism slump that never happened
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU3R6VnkxNlg0VDhsUm5PSUNoTmM3Q05KQ0xvRE5MMmp6QjVlRlBMTEhoZlNZN2hMX3RRY2x0aWxsQXFRM1J3MXYxYU1mX3ZEd1NZVUgtWDIyZEVIaTlHU2FtNGc2OW9iNS14M0NkaFZpTWtNRGM5bFctYmQ1V1RfX0NFdVA?oc=5
+- **2025-08-20** · [Unhedged] Federal Reserve minutes highlight split over effects of Trump’s tariffs on inflation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmRtLTJ3VjBkMGE4SGRKSGQxQ0N5RVM1VHNfbDZpeC1GaDN1X25VeGY3VWk0V20tZ1M0MUg2c2VpZXFwYXZKbFdyR2lha2k3aEhXWlF2LVBwYkJFZjR1SnZjQ2VVekk4QmlmZ051Z1Uwa0x0ZHhpZjBXT3dNX1I0QkdzajM?oc=5
+- **2025-08-20** · [Unhedged] US tech stocks hit by concerns over future of AI boom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUVMNU1hemVMXzdkWmdkTllqd0FxSS1qSjFZWS10cWMyWEZGX3JzTl9GZ1Ruel9aam41Qk05NXpGdHNSc3FTZGJ2REF1TXp5cWN6MTc3MFhzYlRRa21XVjNMMmhmOUlPYnFaak5JcjdVRjJpaldPdlhCYXhNaHNLNTJibFY?oc=5
+- **2025-08-20** · [Unhedged] Gap between UK and Eurozone inflation at widest in nearly two years
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGl0RkNqdVlzY1BpX1gyaXhTZ0UwUGRBbl8yVzNxN0xfYXRXWDJIYU4xcWQ5cmhsUlJNQVp0TklVMW5zMENObUpKTWRyX0dFTmZkd0N0aDJ6WWVqQy1iS3dqZFNNZ25GR2FJSEYyY3ZkRS11SXhpSC1CRnYzTnptQUlqY3E?oc=5
+- **2025-08-20** · [Unhedged] Chinese ‘dim sum’ bond issuance on track for record year
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXh6TzI1ZGdta0lnRjl1UmdiSHdmbDV0SDBhdWd1R3ctaFh3NF9lTUFEQUk1eGFJbFVkMDl2STRaR0ZLdklRWE9JSnRFR2g4ZGhvTjJXRndZdDczUGRrcUl3TXhuR1ZQVnFrZDYxLTJzLV8ybUtEb29hMWItOWhXalE1Mmg?oc=5
+- **2025-08-20** · [Unhedged] Kirkland’s new distressed debt king
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NjOEQyX2I1OW5jU25hdlJFQmlDOGtFREpqRldVWVYxdjNUTW81N1pXZmVuUnBRZWt1V3hwbXJTMVJaOWhvMzNVeVkyNVVRRXp2VVdUZW1kODVNelB2QkVqdlR1QjFKbEZhWnY3aFlGQ19mSHBqaEUtR1NTYmpPUE5MZmI?oc=5
+- **2025-08-20** · [The Long View, Markets analysis] It’s not a default if you never ask for cash — right?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBiV2hpQS14ejlNS2ZKUUFBUjY3cHAwYlRvc09wZDgzbFBydVExeDFFN3FrR1h5REZwX1RpLTdXUE12b1A0d1p6SWZXV0hqcjJmR3R0dHlMejF6QW50TzlKT0hVbURFNi11MEJfUVBWaGI?oc=5
+- **2025-08-20** · [Markets analysis] Reading for pleasure falls by 40% in US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTgzeHh5TkRmNV94UmxsSnpKXzJpVWx6WVpwRG5QNGF2bXcxVVRXYUdQM1A4M0hCSVlXRUloUldMWnBDS1ZWRU5MVFRRbUI2TE1wcXRkMTEtM3FWWVVvSXBISDZObHlWdjNpTFRNaUJCb1lIakczclhqSi1vRlEtclE4MmU?oc=5
+- **2025-08-20** · [Markets analysis] US oilfield services group expands Russian unit despite new sanctions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0hXWXpaR3RVMWU5ZDRITm4teFg4c2NXT0hBRFFFYksyQ05EN0U1b0FTU1lPT2xoSjJnVnlqRE1iTTlxSHhEX0JqUG45NWtsdHdBM1ZkWVExb0h0STBra3ppWkVlY0NxWGVXckFKYzdUN1hyM0l6UEFOeGRMeUQ4dmpxZng?oc=5
+- **2025-08-20** · [Markets analysis] Why a commodities boom is not lifting Indonesia’s economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW45SzZUM09KdDRrVmZlcjczVS1qeEpKZWhyWTZhLUpteUxQeWFJbXVSaC13SnhaN05mUHd5bGN6OXJnWmp6S3loZ0lMRENSRWFDTExlSHc2Z1ZJb25pSUVqV1FRZVd3UGdlcmJHOTNxaDV6aWlQQmNXNGVrSFVWN0JWWlI?oc=5
+- **2025-08-19** · [Lex] Workers are ready for AI, so why are employers dragging their feet?
+  - https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYUNGN1NKYk5aemRHMURPSzV6ZU1DcnF4RG9sMGZfSFRUT0tacjNTUDFXbXFNMVFZeUhNRTJvdE9nMTU1LV80U3V4X0dpNkwzZWp5R05uaC00STNXbTZ4TnNQRnRWU1JVcjJ3UmtiQlRxRDBKT0VEcmtDR2JqS1pUbjh0MUE5OUdnQWpSSWgtanNGOS1ucWFNRmpfTmlpanlnZkotbzQ5M1dsUQ?oc=5
+- **2025-08-19** · [Unhedged, Markets analysis] The signal from semiconductors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW1mYllSZjhoVWttUGVfWjVXekQxUTdRY2c5Rm1faXRnQmRoSl9xb3lxSEZqMkpKcklqaF91NEFTM2NhakltQUU2VVlvSHZKT0tEMTNIU3B3N3FVRjBYc1VrRHZPVURvZk9kNnFaSDZKZElvMk5pRzFra2xlRWZRV2c4TVk?oc=5
+- **2025-08-19** · [Unhedged] It’s a run to hedge the dollar, not a run on the dollar
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMWNHOVR0UWV5OXdkdVRYZ1otQXFmTmQwM1BHRVRxN2I2Wl9lQ3VrRE1tSlZ0VzJmNWs4ckxLbU11TzdCRGZvSUs3SktYZG5uSnNTUDJDQjRnSmwzYjhObzB5M0NpWkQxQ09xUzFYeHQ?oc=5
+- **2025-08-19** · [Unhedged, Markets analysis] Investors warn of ‘new era of fiscal dominance’ in global markets
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUJJR0F3ZDlkeHRYSFRsZmZteFUyRWJsNWZwOGduazZNWG9IVEN2RUZ1YXZFNElhNjBYQlYtSlJmcEw5VHEtdGRSNEplVzVHdHFYNVdrLUc3YUVtZk9UTUtQeC1YZ0ltbWRsUjIyb19qeWt4Wmx0dTliUXo0VURsT0w1TTA?oc=5
+- **2025-08-19** · [Unhedged] Jay Powell to deliver Jackson Hole address under fire on multiple fronts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVlGTGRtcUFyU1pzWm5ubWNYSkFYd0xsTVVLVWM5bVRRZk9DaVlnaFFERFI4cG1rUHpmR0RINWVyMjBGUWl5cTc5MXFXdFdMUTg2WGlWcmd4WWdQek9fdmNRb3pPWmdQYUgwczZzcVdqWXJGTWF6ZEU4eDNET2J1d2RKUWQ?oc=5
+- **2025-08-19** · [Unhedged] Scott Bessent bets on stablecoins to bolster demand for Treasuries
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHhBYWhLMU5HV2N2eVlyYmRsNktVNFdZQm14SnkyRFczVzNGZjRxSnNPVlJlM3FnVVo4M1B5UjBrRXBySzFTOU96T0FZb0l5ZzQxQVBrM1ZWVEJ3Z0p5YlNTOVctYUVaNXo2OVVpZHBHRl9NYnp6NU1pSEdzcjNMeTAtZUc?oc=5
+- **2025-08-19** · [Unhedged] UK inflation rises more than expected to 3.8% in July
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWhNeHd5enZkaDhPbzJvTDVSX2xZUjQ2bFA4ZWJfVEloVzBrYTg2XzlQM3NIS2tKQlZDVHJWNlpmUHM1ODhfZ3RQTVREQ1RIWkpQcEdSZFMtaGJkcS1yQXpDYXROT2hpdXNpaGg0VXZKbHRhR0J2RFRMSEpfQjhrZ2hWNGk?oc=5
+- **2025-08-19** · [Unhedged, Lex] Spacs are back: no crying at the casino
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlpiLXVmY3JURGNGTTh4T3VzZm5ZbjdwdEZ0MjBIQ0kydENuTkZkRnQ1blVZM2ZQTU1vTngxemVBQlVvOTRESy1DUUg0eTEwSVg5TVBiN2ZrQVpGeUo0cGtFaW9YblhkVndmTmdXYkoyVHRuWUw3YWx4UnRpZWVnU3pUclY?oc=5
+- **2025-08-19** · [Lex] Uncle Sam taking a stake in Intel is sane in an absurd world
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObXBwWUQ3bENrdGtjaWxGbkljUXp2VTVJb1NTU3RzM2lMVGhfY0NSQkxNVFh6WS04a0tqQXpUZ1gzT0pPdzJrRXgydzZpVkd0dEtBNkZQMWc1WTMwdm94NzRmY1Jrd0EtUER1cWZjS0lob2l4S3pzNXhqQndoenVrVXpvdFk?oc=5
+- **2025-08-19** · [Lex] Labubu frenzy sends Pop Mart profits and shares soaring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmVuRUNBYTNtM3poZG84UjU3RmdvU21RUzMydjB0TEhLMlBnOFBVYlVJN1I5Um03YzhjU1FhR1E1Snp0RTZRQkJzSjRJbjRMM2ZOYy00NG1pWTdVT054a2VIVjhrdXFwUXlzWDQwajRNd2xseEozbktmbWpiM28yUEhLSF8?oc=5
+- **2025-08-19** · [Lex] ONS: is it borked?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5oR0FtZVdNQWZoMHJLbVJlRlp5V0FzdkdvbnJXZ1g1cHdnWUpRSjg2OUlzS0tKdm1kQXpwTFV5V1F2dTJiLU1QTnBxaGd5aWJpWGxkU1ktcXo1LXhaQWZnZUxseVFaOXVBM2NCLTA1LXg?oc=5
+- **2025-08-19** · [Lex] Rachel Reeves explores reform of capital gains tax on expensive houses
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3J0c2dMMDFPWS1VMzhwSWd5N2lGWjBSaG5kUDBwcXlXSWpISUR0aGs0MlRFUmpvQzdIdTZTRGFhelNSVUlHZ1YyNmtOVjVROWlxaUhXZ3A0WHBsZ2Jvd3JVRzNDVFc2QzY1LTc3VG95aHpmVFJ5XzdZWklFSnJCSF9RZHE?oc=5
+- **2025-08-19** · [Lex] BHP and Rio Tinto lobby Donald Trump over US copper mine after new delay
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFo1OUM3VFd2UEo1MXNxdkdrREZhVUNNUF94SEJBUUJ1SFhkS2VRc29GdUtFOGlMaUZvQXlUZ3B3TGVXRzhoX3prRXVfZlhkSEZVYUJWamRSREVVcEpWeUN1QndOZFBUdXl2YTlydHJHNUlfMDFnR2oySGotX1JHWFJQaTY?oc=5
+- **2025-08-19** · [Markets analysis] The Iranian connection: how China is importing oil from Russia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEx2cHgwbWVNbXp5emM1cFBPMEpzY01ZR2pNYmdPZVFfU25tcHR3MmhwWUxtdndod3AzYk5vb2lGNjNyTUVDLTM5X2xnZVJINThsVTg4YTc1ZmR4WXJERlNiTGpaamZqbHJWbXZhNFdIVXZJeE80WEJvdFhMN0xESXZnbko?oc=5
+- **2025-08-19** · [Markets analysis] Bill Gates funds $1mn AI Alzheimer’s prize
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RIOVNrdGVvN055c3ozeUF6MlduMlc2di1ZSlhBNUlyLUVub1M3WWh6ZkFrX3ZwY09CTnl5bjFWc252cENDSExQbHVxelZpbzJjUDVlOGhJQkh1NnVfdzMzb2YyUHY5NXpKT0tBRGxBSXNQa0tYY2tGV0MzTUxhUDdSVDU?oc=5
+- **2025-08-19** · [Lex] AI is ready for work. But is the workplace truly ready to embrace AI?
+  - https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2dvSVh4OHNrbFo2N0xLM19CN2ZyRzkydEg0cmdXX2tZTFNlYk91WGVtMmt5X2FLRmU0RHhUN0NVQzh2bXdXcXpnaGNEMExyd19jUU94emNLQzZsZHMzVDR5NzNNNHJXdGJYeXRkOHJIX2Q3TWRkd3B1dU1Eckd2bEcyUVlaSVRvbUlUNTlkaUxwSU1FaHJ3eGhmVWZvbDM5LWN2ajhEXzBOM0pH?oc=5
+- **2025-08-18** · [Unhedged] Meta and Character.ai probed over touting AI mental health advice to children
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONms5ZmdkUm1xV2g1YkljVHh0dGxkZHVVc1NLcWp3dGJDRmQ3ZHVzRzhTb3o0Znp0d2k3MzltZ3ZKQWt5R3dReDlGcGRaRmpha2FEOW5uUlpFRFNLXzZxWDJfRmc1MklGNzFuSW9fZ2JtYld6RkljQlA0dl9NNEVFN2Nfcms?oc=5
+- **2025-08-18** · [Lex] Soho House buyout is the end of the party for its members
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWNhYk9MTUxFMXFMRW1VY0VORFhkV3ltUzg1VE5ZQ3U0WGdwVzE1bmx2cTNuTnpvYnNZNWVEWGw0NTl2VVk5TmZKM0dDcmw1TTVyaXloUzFzNUhoUFNrU0QzXzUzd3dyQURCRXB1RXVUU0M2ekJYWHpxb0lqVHhyWGptYXo?oc=5
+- **2025-08-18** · [Lex, Markets analysis] The merger that is setting a benchmark for AI
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2xyV0lWYkxlVGVZdUxhdjNzeEZrMHBLR3VZMUFQbXNhbUJST1B5X0hrNTl5WHliTGtCMG5JM1Z3Nkw4UERFemQ5LXVNTmVseUtpRnZ6Z2dIeUxzbEpmVUxLQWhGeTlBdEx2X2JJcl9vQ2g5MllRcTk4dVpoZlkzNnQ0MDc?oc=5
+- **2025-08-18** · [Lex] Soho House agrees $2.7bn take-private deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUVKNEhtdno2SHRZbDUxNEhzMUhQRWRMakktb3JvRXNHLWJBSkUxUEhZemVja0lXMHdxMXlDa21lM3BJNDdraDgzd2h5ZGtHbkFSSndSU1hKRm9oUmNNaHBRa2lBT05wUEdrdzNnRFB2M0NJZ3JhaXpqb1c0NU1La3RRMGc?oc=5
+- **2025-08-18** · [Lex] Novo Nordisk halves US price of Ozempic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVktNkhKMVlxNkUtQ2VNUXA1NjJrdVJvMVVGY2pfT2RVYmNtRGVoakhDWVUtWWVSbzdXUjVWaEZ5RTFVZlZRa0FiTERXTnZnYm9Ib0VpUVpjS1B2SFY3Sk5uOHBiaEpNY01aRXdLaFVVVnlhMklHMDk3LW1IMFBqLVR0RzA?oc=5
+- **2025-08-18** · [Markets analysis] UK gender pay gap begins at graduation as women are quickly out-earned
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDZ6U09jU0tSUUFTMk5VU1JoU1RnT01aNEl6ZjZDOUdkV1g4TE93NzR1N2M3dm9MWkJXb0FwN29Fb2tMNkVVUWNTSEljdmRaeThrOTZzMi10YjZCMU5PVDZldkh1MFJVSzk5a1J2aTRFTTJmWjU2aWRQOTNPLVc0RDBuLUQ?oc=5
+- **2025-08-17** · [Markets analysis] MOMENTUM INDEX, CSEAMTM5:STU Interactive Charts
+  - https://news.google.com/rss/articles/CBMidkFVX3lxTFBZNTNxMG1mZEtEd1VFS2NlM2cxSHVacDJqVjdFM3pQcldlU0p4S09RUXNfLV9OLWxoV0FPbFhwYzBXNzZYSnM1SnBIX08zSWNFYVlLSHRlNndqa3dHd04xdjlCUmViOXRCOTduZ1JnR3dEcFlCa1E?oc=5
+- **2025-08-17** · [Unhedged, Markets analysis] ‘I almost fell off my chair’: Investors lose billions on meme stocks as ‘pump and dump’ scams multiply
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmd5a0FBUUNLNjJrckI4a2ZOeENzWVpPcWQ4QzQwWElmUTF6R2xXSFUyY1kzbnpmTDR2aDlDYXFXUUp3VXdmUmtCOFAtbDVHbGRvRmRPNXpNcjV0NEpSMXBHaDVRZWtRRnFfaUVUVVJPekFrdVZyNHh4Y0dCUVBTbkFsSWU?oc=5
+- **2025-08-17** · [Unhedged] India’s oil lobby is funding Putin’s war machine — that has to stop
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHdnT2haWGQwdkE5NE9EWHk5Y0ZTVzQ3NVRwZEV4RnlvcTAtTjNON2VwMDFONnJoZDFRTGNsVTlSdXhxSWJWU2U2dGw5b29oNldYdFB0VFpQdzBQdTVFVjNra1hoNVd5N2Z5V3YzSWZxaHN4bEl3enlzaUJUd21vbEhaZVU?oc=5
+- **2025-08-17** · [Unhedged] How worrying is the rebound in UK inflation?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEpoZ2haSDJsaHIydmNWTDdmVi1kYU55MTlQZk04bUdQX2JxR2dNcVNSMkdkTEx0WTdYZDFTakhpN3A3OW02RkZJaDRnMF90Q2I2LWVoTTlta1ZvNHZtaWFPT1loUVo1YmVSWjNWYUZTekhmUU9vTnZqenBaTTNad0Ewazc?oc=5
+- **2025-08-17** · [Lex] Monzo plans UK mobile service as competition intensifies for big phone groups
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHh5dWtLRkE3bUpad1o2a1FXcENjOXNPdk9fUTRUaGVKTi1rMlhMbFhCcDY0LWtXUVRZUXB0a0R5WWxVb3FIUGdQNC1IZXhYbU1RRk5NbzI2SkFRODZLNHpORHFYa0F1NDNmNDFGV1BDMkpKb0x1ZDRGOWpyakVMTF8tU2E?oc=5
+- **2025-08-17** · [Lex] London’s IPO drought: why City bankers are pivoting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUlfaU9ERjZyY0lyWFFNZHRxQ0gyaEtfUmdGZ2hFRkZINmo1bWNIMy1jUzA0RmVYRFVhbUkxYmFHaW1LbmpvZ1RtaXJ2SjVWSGxnRzF3VlN4VUxFUDEzYWpsSmNNWWdhaDRKVDdnRGo0ZnR1Z3JOc2dGMW1KOVd1TXE1UG4?oc=5
+- **2025-08-17** · [Lex] Apollo’s insurer points finger at rivals over potential conflicts
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2stdHdBN1NzNVpNaHdyYXYwenNjSkJ3ejRyaFFYTnZiZFpTeVYtbTRFdC1IM2E1RHl0NVdJMXJPQ3lYTy1ZN1dxR0F0Vm9PdG1EaFNnNE5CeV9FaEtqRy1FWXhRU0tTRl9XZkZuTU9UMERDSFM0Q21RQ3FBYmVTWFRJOFY?oc=5
+- **2025-08-17** · [Lex] Phoenix debt deal kicks off Australian expansion drive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmdpcmZDOXRfZWpoWE1vZWctUG00b056YkZOWmlmb2RJY29jRjBYYWItd3dLWU5TdlpkQXJTVS1VUWFrZXh1UUpsZkZZN3MtaGdqa2RjTE1xb1RkVTFjQ2RBa2Frd1lYYzhJc2NmaGpQWnFfMDJOaFRfemhvT1hIckx0TEc?oc=5
+- **2025-08-17** · [Markets analysis] British solar power surges past 2024 total
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQV9EcUZHQmhoQVp0QVcycWZESDFINjJMSkpMMlptUGVlZEYtdzdDQnJTeGN0d2lWaG5pOElqQ25KRmxhMjktUHc3YXJHOHZOVVk2MkprZHFVZ2NYY2dCeVZVYmFmaHN1V0ZSZi12UG5DeGE0SWNBdXZvQ1J3eUtsY1ZjVk0?oc=5
+- **2025-08-17** · [Markets analysis] FT and Schroders Business Book of the Year 2025 — the longlist
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0tBMjVmVnR3UTZlaGwzV2tPeU1HNUZvRDdpd2lyNHJsQlE2TFFZX0Y3TV9RTWZ3N0c3SWxkVWVVdkc4UTlKbVhaYkdTWktqTW9OaDVaanZrOU9EX0UwTGdiUVNhbmFjRkExNVJHWVlWQ2RNMkZrcl9QWWlaaFcwdWdUN0I?oc=5
+- **2025-08-16** · [Lex] How AI might save more energy than it soaks up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMTY0ZkE0bU1NWV9seFUxTEZzVTBEd3FqRTBTdlM3Q3NHRnR6QTVSRHZRck5DdFRkYi1ZbjZRS0tFU1BMV29ZSlk3b21qcXVBck1qdThxUTFQMUwxay03eFBFT25mallnNU5hY2dtOGIwbTFjeWZPbXRZeWRUakNLM3c3NHo?oc=5
+- **2025-08-16** · [Lex] Burford Capital seeks to buy equity stakes in US law firms
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkdQMVBKdDBXNC1MRnNuMktFejRUQXN6RF9OVnpzVTdlSUxHR2Y4eUloVUEtMlZGNTg0QjB5dlBrNEtvOFlVUTA5NU9OQU8ySWtSQXNodzg1SEtBY0JIeGQtRkd1cWZseDR6a0tIUWxObFFJWVNrYkZTbUxTTDlJT1pYbHY?oc=5
+- **2025-08-16** · [Lex] JPMorgan steps up planning for new Canary Wharf tower
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGtONTJXd0ZncGtYSVhXNnRXeEZxZWh5MlQ4N0hlMlJqbnVKOWRrX0VRYXZtbVFGS3RDTXRiS1ZLRXIxVzBFZGp2S0R4RDFuMW9SLXh2TU9LbDZ2S1U5UkpzTE1fSzhGUG1CSFZGNWdSQ0x1eVc3MlQzSFVVWGxXLUtBd3k?oc=5
+- **2025-08-16** · [Markets analysis] China’s entrepreneurial spirit is under immense strain
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbS1jNXVRdU96MlVxcDR1M0ExUlF6UW5NcVA4Z1lPbENycXRReFhBbWktQTNkbEVNMkp2RGtZWi03dGVIaktpLUlTaWE1QWxQSUkwZWpCWnZuYlNvczU0ZkxFZUJmOG1Ma1QtZ1l4VFY?oc=5
+- **2025-08-15** · [Unhedged] US credit spreads hit lowest level this century after sharp rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXhJeXBvRU1vc1RkZmZXOGVuTmR4elh5VGc2UXoyWjB2Mkpvc1pLMjk2b1VIV3ZvNWEwMFhQQXV0eXRMVFdKVEJRaUN4eWQ3eWtFWlJNRzl0QnZMZ3A1ajNYTXBySXJHNzRhNS1YZnpCdVVqQjhadXlnbTNkdzg3S3VoeGk?oc=5
+- **2025-08-15** · [Unhedged] Is AI hitting a wall?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzhtS3JQMW9STms3ZHB3MV9ZSk9mUXNicWh3emJ0eElCWlpTUzlCb2ZLbUs1d2ZlS1dGUjctcTFQQlQ0X3FXUHdPR2FZMmZpaWNoMk1lZlNBQlNZenJBOHBGTlNKb25YRGVuQ3h3RU54dGYwTC1zMVgtR0lSVEJtak9CdWU?oc=5
+- **2025-08-15** · [Lex] The matcha shortage will keep this green gold rush in check
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTUZZMHg2eFNGTjdGMW8yMENSS184QVFZVGtvamotcHZBeXhoVHk5ZHhyNXpZNlkwRU1QN1lPR3JHa1VoRTZmZ1g4TjNyemVoOExHR1N2VF82UmhScHVIQS1UQXkxMjFaTjVaeWtaQ1BBYlpJVjk3ZjJGZmN5WV83clNpZko?oc=5
+- **2025-08-15** · [Lex] Letter: Here’s a football club with classic signs of small-cap pathology
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAzdGFJXzR6Wl93Tjl3LWQ5d3Z1VG1lOHBtbGEwNW9TMjRoRnZvblp0WVRXcXFvY1ZEbHhiLVZJVlVtM1NuN2lwZjVTMk0zRW5NQkdsWGYwVHZFUllKeXM5UDk5LXVfSmtYc0l0X2ItczU?oc=5
+- **2025-08-15** · [Lex] Where did all the British hops go?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSkJNQVRlLXc1VUw0ZGRqTWptU2MxZXplcXB1SVlEVGhkc25Na2pUa1FGbDhydTkyZEl3bHR0Q2tmeDlYYzlIdGRIOUd1ZXNfU2tveEpjaVBaRHJjWXVRbjFwR0VGWEVVRGtGa1FFdFI?oc=5
+- **2025-08-15** · [Lex] Jared Kushner’s Affinity to take 8% stake in UK lender OakNorth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1J3VlZoSVNOb2R6SGdibXdTTW1XWUdlQ3BhNS1kM2xXdU8xS25FX3hYdzdtUDYzWkFrQU9BVWYxV1BIQXM4dkQtQWJoMWZtQXhLWU01NS1GQUpQdENQVjEtZkpGaGhid2s0Tmd2cDczaXRfNzI3Zk1mMWJxT1RGTGRCTm0?oc=5
+- **2025-08-15** · [Markets analysis] Backlash in Washington as Trump gives Putin a red-carpet welcome in Alaska
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlJZWmlDdXBaTmtIU1laZjE5UWtvZmctb25mRXd4UXJZODlLWmFQSVB5V0tyT3JKa3AwUXJxNW5PcXNacU5DeEZwd0ZQQ3R6UXJveURObi1wWTJSTmM4RWhJd3h2YlI2YXhBdlY0LWtPOGxDUXhnWGFJVFotX3VINnlvMlo?oc=5
+- **2025-08-15** · [Markets analysis] Breakneck — why China’s engineers beat America’s lawyers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObmtuU2dLVU56VUREdTlrdG9QRWZtaFJvLWk3bnBJMEFwNFFfbGNHWGVjenpraVhqWVIzTmxSRFF1Vy1pY1RzNFZzcFRtaG4ycXZOdDZIb0U2bUY1ZDZCdjNrdjcyZ2hwZ19XUWh1VGRrQmZNT1RJTFZNc2lDZnEwcGU0WG4?oc=5
+- **2025-08-14** · [Unhedged] US wholesale prices jump 3.3% as Trump trade war hits economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWklpbG1Hc3BTbDZmTFVHNWF0WjBoWld2QnNPeV9mWjdUTmlXbEtUaU5IT25tQzhPWVQ2Y1VDTzN0NFgxMXhmT05ReFpqS3h4NUlpcmhmdE40X0ttZlE1cGhnQXB3c1lUMUZ2MFlQWTlpbWtGTlNuU25QNHFQdGNFWE1BOWs?oc=5
+- **2025-08-14** · [Unhedged] Crypto group backed by Trump sons hunts for bitcoin companies in Asia
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEhDZUR0ZEtjRG9GaTd1dUI5UzUzcmYyQTVUWkRJR2RFSlk4OXNCcXVMamFodDFYcWdsZmpVc2EzOVU0UXEzSXZXc0Jxb0Q0elpLeXpVQldoWTUxcWNEX19HbVZKZ1p1VU96WXcwaElQa2szc0Rxa3VWeG9Qa3QtN2NGZmk?oc=5
+- **2025-08-14** · [Unhedged] AI is having some relationship issues
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzR5MkJQZmc2cHBCZzdHbGduUGFzN1F6cExTdTdYUlZ4YUMwTDdleExON0JrYWwzSThndHVFME9xWTJMNTdhVm9FWnI3MVpzZWUyeUlWUzM3STBDLTU4NW9VdnJCbDZMS01rTk9qRy1ydS16enpGRzI2V000UFJxaENmSm8?oc=5
+- **2025-08-14** · [Unhedged] How to invest in a stock market bubble
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDVQMGRUS01hbGRHdXJRMGJBWVdvWjE5MFAtcWJHWDhBelR4TUU1cG5XRFcwTlhZT1VkQ2h5YmJxekYzX2drSE0zOWhBbVlVcVFhUUxXMXpzWEVXVmpwUS1ZSFNDdHRMR3V1elpMR2Uxb0x6R3dELXdQRkY4MHI0WVRqNkQ?oc=5
+- **2025-08-14** · [Lex] Reports of the death of Canary Wharf were exaggerated
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXFBbkJHeDF0cjNHQ3ZIQmZoTUJ4Z0lLd09Eb29pNk1GSTY0YzRsblNYQ0ZsUFl2SUhuZUU5eVlDRzRZNEZwNE4wdnd2a0VobWxQOXpYMFVjb1BQTTUwWEUwX2ViMDlKUk9GNzlYbFRkOWpSOGNpdk1xdGYzQkN4QlhxWFc?oc=5
+- **2025-08-14** · [Lex] Unite agrees to buy rival student landlord Empiric in £723mn deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHpxN2FHekNCeTcxMmRNdTZfNjc3QkVhMFpEZ3JJOUNaRkx4eUJFNWpWdVU4d0EwTUM3dnMyRGRiWHN3ZTFSWk1fQTNjc0psV0x1T2dNRDR1VzFjeWdicTVlMFhwM090TnpzQTRpNTRXZy15SWxpMmRFbjdEMFdKdG1zOS0?oc=5
+- **2025-08-14** · [Lex] AI boom helps Apple’s biggest supplier earn more from servers than smartphones
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmRpNzQzbF9Ja2R0cFRNWlVGV2s1dlp0TnRVTjhabDFGU29fNnFISTF2RC1xMDVmOW4tbDRaWGo5UThnRlBuUEdTUDRJWGpvbTJ5TDFBWWJHNl9JTlpOT0VyUWJxai1Yam9TamlCVjM1S2I2VWN0OWxSTWhGM25aRFNtS1k?oc=5
+- **2025-08-14** · [Markets analysis] Tech bosses spend millions more on personal security
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW1vQXlKdkNGWml5VlJBUjV5cVAxRWpmUGR2bGRDaTJPM2RhdnJWQ1BLUThKWGdQTWlja3ZUWmJPdnBRWnJscU1KMll4Vnd6aEx3UFkwb2dKcEdXNjdkek00VllpOUMyVFJ5TzMwMWFmLU5XbGdIeGttMHBzd09vc0FneWg?oc=5
+- **2025-08-13** · [Unhedged] Hosking Partners
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTFA4czhRQ0hiQmhydVhHNUIwYzl2d1hGbm1YSFNhUElpbi1ybkVpT1htZThUOGdpeWJ6NnRBVjUxN2pPUmFvQW1Rby04WXFtcmJ6ZkJzdGZWVndaOG5aNjJ2N1c1ZGJTbk5iaGlBeGd6MmlFTms?oc=5
+- **2025-08-13** · [Unhedged] The moneymen funding Big Tech’s AI dreams
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2Uyc1JVaklPTXVta2U0b09vM29OQ1JDYzh2VDZadWJGaWVIRWZwZ2NVXzNUOGRySUJCT3Job0dRbTR2SGl3YzFNOWl0dmVRY3hfMHlWYkh5THBhcXJFTEZJSFBna250bzBVS00xakNxaE5ycEpQcU54cndGTVM3Z0c5bkg?oc=5
+- **2025-08-13** · [Lex] KKR to launch £7bn Viridor sale next month
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYlVubHRIckR5Wm8xNnZXQjloc0xEYmc5aFZ3YWVwWUxpcVJ6S3ctNjdSa2Z1WWtDTUhub0NicE1hMHprRjJWRlQtV0hCLThrQmhXMjlObWVldGtRWC0xOXM2Y0g5emUzRGhsR2VtLW0tOFViWjVoSDRvYjhwYUMtWWtSSEo?oc=5
+- **2025-08-13** · [Lex] Porsche-Piëch family seeks tie-ups on defence investment
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWNtWS1zMzB6eEIwMGVWYklYMnI4ZldFRjdVV0l6aGV1clJNM0ZxOWk5SEhRRG5oa3RRZTBSVmFraEVYOE5Xb094LVZwMjV4ZDRtckg3ZTVjbzEzTFJscWJlTU9EZTNsTXpPaWlDZXpVeG1uUy1WYnBUVDJsZldlcXVNSnI?oc=5
+- **2025-08-13** · [Lex] UBS set to miss job cutting target after Credit Suisse takeover
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUElJN1JFN2RyXy1aZllVc01UenJMdWJNNGhNcUpHQTFEckZQU0ZKQ3dBTmtxeUV4d0Q4RENLUVVZNEZDVi1LUlhSb1ZHWFRhRk9KNm9zTnh5TWJsTFRmZmxCR3pGUlFURHl3eUNFQUpUUUtkX2NoY3JOdVBzMkVBeWowVDg?oc=5
+- **2025-08-13** · [Lex] CoreWeave shares slide after bigger than expected losses
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcktVaGc4RjRqRHQyRE94dTc2dTRBSHNQdUJ2NG9raUp3VnFXeTlUM2FOUDA5QU4yUjhkNG4wV3VkaVMtakZXMVhwLUFPREd6cUd2bmJzVDlsRmxjRmxLd3VMWHhlZ3JFN21EQjNWUG5YZXBGbUdMQk5ZeW5FNzhvUmVQRmI?oc=5
+- **2025-08-13** · [Markets analysis] The lessons of Europe’s upside-down power market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkx5NkpEQVBZOXNJUUthcXZtNG5HMEhTSXgtbWtnYU9HRWNfYlZKVV9oYTR3YW1ycmk4RElZcHl5RjMybnlrM0FQaXowQ2lhYnRxWUNqMmdkbUthbV9lMEhQeVQ1REJJNjdHOFlSbWpfNE9DYnRPbFA2N1pfUElFcWhpMVQ?oc=5
+- **2025-08-13** · [Markets analysis] UK inheritance tax reform largely protects family farms, study shows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjYydndRLXZBMFZTOGNHS1BkM3NmdU11b3JLY2ZTdHFsa05tTkw5V0VpQ3ROalBuOGF3T2tQYUlJRG43OS1vZ0toRDE4RVJwUUROQ1RaQ19SS204dDlOS1FDa1pycE1ZcWZORDJCNlh3WV9tZFhNX2o2Mk12Wk1ldEVXcEQ?oc=5
+- **2025-08-13** · [Markets analysis] Just 1% of Hiroshima and Nagasaki survivors died from radiation cancers, study finds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkJnSUlDbk9FQWdnYTFaeVpWcW1hY0NLcnd6WUc0ZmRvV05RV05XYmk3Z0tIeUNMNFR0YjdXOG5BcmtSVElERnJoSjZkRHpHb0dXOHdyeE50NkdUTnFlUU1KWFFic1h3TVl5X3ptVUlZc2pZV1RhMWN3V2c0ekdMOHlXOE4?oc=5
+- **2025-08-12** · [Markets analysis] State Street® SPDR® S&P 500® ETF Trust, SPY*:MEX performance
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE5vd0t3TmlIdFRYZUNvbm5OZGFBVzcyNDdPMUJuYTFQZUlsdElmbDlqUzMtVm0tSjM2Q1JFLWotcGd4WXB2YzU4NG84UV8ybUxvTXlBS1F6VVZpdDZhZGdFRlM3ZWVjSWd4ZXRLb1h0cDVPejg?oc=5
+- **2025-08-12** · [Unhedged] Beijing demands Chinese tech giants justify purchases of Nvidia’s H20 chips
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUktOXNmNG9leHhkU0F6SEptc29PQ1ZjbTM3Zjktc0dWQ0gxUVZBNEdTZ0hsLUFaTHlsd3BYTDlwOWRTT2RDdUliMGZJbzBEN2NmRjdtalRIU0NvOU1Gb2dESmtuV2d2c3ZUck5UNHBueGVWUDJOTzA0c201eEIyQnpjQkg?oc=5
+- **2025-08-12** · [Unhedged] Anthropic offers Claude chatbot to US lawmakers for $1
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmZLejhld3c3S01PMEtJQkZ1Y05oNWY4VHFZbnZqdV9xTHgxSTc0eURUYThmRTN5U1BvMjhDNzNmczVpYzBReUlvQ0lIQmI0Skttd1JfbmVQbjEwSi01TXVsUXhQSGotQkVhcHE5UzhwbmJWbEQ0ZmJDM0hHZDlHZm5vcF8?oc=5
+- **2025-08-12** · [Lex] Lithium’s price jolt could prove shortlived
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0xQNkNWSDZ3MTV1dm9zdnlhX3lRYmFPV05wMkxQUE5ndGF4Wmpuc1NIZ1hpTUNtYWh1ODRHQXBVU2hoWE9MbGo5cnJyN0Jtb1ZlUElGNXBWb2d1MHlUby00a0RpV0pUbm1TMk0yZWtySEdjd3lLRWQwSHczTTlMdktmaDU?oc=5
+- **2025-08-12** · [Lex] London gets what it asked for with Dan Loeb’s hedge fund fight
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMm5DYk11LVdLZ3BMajJ2bzdrV0E4QTYxdDhRekVUZkZ4aHVDTk54SUpOempiZjI3azh1emR6YS0yLS05dk9OWWtBUHVMcjhXMTRKVkQ1VFlua3dCVFcxZmNQVkRBYlhZZWkzRWozd2JwNWR1YTkweWlHOU9YOFFDZnQtcE4?oc=5
+- **2025-08-12** · [The Long View] What Liz Truss was right about
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ09Tdl9rZ01zMUNXT2JReVRfaWhTSk1Sc3Z5bTJaTFhkbndtZDFzU3kxdDlkS21OXzhvdmQzellNX1NNZGxpRlAyeXloVGc5OFlQSktGRzFzUUkzbDctQmpkdF81WGRMQ2ZpSE0wdkxVSENsc0tVbkVYam1iUUdhTFdUWWw?oc=5
+- **2025-08-12** · [Markets analysis] When a ‘modest increase’ costs £16bn
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE51QmVhenhjZ1FFTjd1akRnSGpfZzluTmZTT0pYSWN0Q0ZTYWR6Yl84Z3V2VEtYbDd4bVF1R09ncHdzVzY0d0RWbWxvMy1FX0FiM2Z2Y1pmejA0YmE0VjN0cXNTZkVIenYzZmF4cEFWS2w?oc=5
+- **2025-08-11** · [Unhedged, Markets analysis] Donald Trump opens door to Nvidia selling advanced AI chips to China for a fee
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkhNdUFuS1pnYjVLbWlNd1ZIbzBZUnpCd2VrVXJhblB3NkpKUV9QbW9VS3lURUtoV0hrcDJTNzdYSUhNcnhaLWJuTndXWWVfbXlwbS05UEFEd0M3R0w3dUgtdkNPRXo1MmJPMDdLT1V2N3hyOU91WkxzOUk0ZjY5cWxlM0Y?oc=5
+- **2025-08-11** · [Unhedged] The lines between monetary and fiscal policy have blurred
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVnJOSEJYT3VvcHBXNlRCMU11WkllZlE5NXRoWG81QUFFdGZzNGhyZlV4aGpKQTZTTldaRmt6NUZWdHlRck14RW5RZ3RtVUFDZEMzajJfcUxkUkg0ejF6RHl3cl95UU1uTDBYRUxsZEo?oc=5
+- **2025-08-11** · [Unhedged] Mexican peso soars as ‘carry trade’ reignites after tariff delays
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaDlsaVBvbTZ2X2d1YmoxRkpTMWtkT2NRNlZyQlNpMklxZmRtS2l1Yzg1YnJXUVNLNXVXSFlVQzljSjd0UUI1WE00N2Fad3QyVk5rdkdxUTBSSy1vTE15UHNhaUVIQkdTODFhMDJTYllTX3N6ai1uNXV1M2Vkd2VHMlA2Y1A?oc=5
+- **2025-08-11** · [Lex] Daniel Loeb fights investors over plan to convert London vehicle into Cayman insurer
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHYwOF96R0NITG51Zk53empKS1o2enIwQ3didDFaUVZ0S1dlMDZPbVZYTm5hTmoxYXY3V01mMy12UFVFeDZKajdleEZzZjB4eHB1dnpIWHlJZnotbE5LMmxpc2R5LTZENWZuRzRNMER3QktUUld0NXhBbUg4eWMtTzhSb2U?oc=5
+- **2025-08-11** · [Lex] Brussels approves €4.1bn acquisition of Just Eat Takeaway by Prosus
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHJ3ZXBHN0NkWkFBS1FBLUNTYUJtby0tX2J3VGQ4RjNodWJTTE9taENWUF83SDdVblBubTl6MDJZWnk1aHF1VUhxZklTNTk3aUNBblQtbm5qQ1VxTS0tOTEwNzQwRXVvM2RMNDNBblhxNlFfb1VvUjBYTVdFRklIZk9BMVk?oc=5
+- **2025-08-11** · [Lex] Lithium producer stocks surge after battery maker CATL suspends Chinese mine
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDZDRVNBdUNMb3VxSmpwam9RcXRhVW9rSThPbGo2RVV1OUp6elpLRjBqZWV5c0FzUXJFQ01FellucHVpYk95MkdFYXhBNG9GSnpmdnZyanY1S2p4SG0zZ3BScGRUdlkzYUdOWThDblJ2MnZsSFJ2dHQtcFkzcHdKMldEc0k?oc=5
+- **2025-08-11** · [Markets analysis] Europe builds for war as arms factories expand at triple speed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWFONnJ3TGhpUHpQd2dJZ1EyTGdybzdpUmdScXgyaTIxYzlNLUVoWi01RjFlc1dwN2c4YThyV1BwSDE0dW9GYzMxMFhuczhvb0hpTHNVRlMtT3ExdU9xcl9FMXEyMnFRd200QVpsSFFhWF9zaHdsU1BlbDM3dnlacUZpVTM?oc=5
+- **2025-08-11** · [Markets analysis] The surreal history of Donald Trump and Vladimir Putin’s private meetings
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOelQ2SE9Bd2JEZkFWRTdIR2N3X0F6a3FGNGs4U096X0VWUWx6cW16ZWpkNFFiSUlRc0JTdld3VEs4NFNCM0Z1Ni1CZ3h3OFlYUEVKWVR4SDlwTlBBT0pFMnI4dGl3dEdtaEZ0cEQtYXJIZ05wbEtrbl9kOXRiNW9fYlRSRlc?oc=5
+- **2025-08-11** · [Markets analysis] Most Palestine Action protesters unlikely to face prison, officials say
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzJVaFRCZzlTSkx6bl9EX3A5OHVsSk5JTzVmMXFzWlBHdzhGcERyMFR0N3l1aDg0dVlRcHp0V1N0bUlOMzVmVFM3YmZXdHhJazVrdDJKM21McFJucHZUNXIxOGFXcHppT1VaZFJ1Y3hCbEJPYmtxQ2NCVk9BSE9Cb0h3REU?oc=5
+- **2025-08-11** · [Markets analysis] Donald Trump tariffs threaten Narendra Modi’s ‘Make in India’ drive
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFNtTXBpcFUwUFFfZGNVNnhxOWF2Sk9fR0FKc3dnY2VyVktEVDd0MEJ1QUVVeC1ibXk0QXdVYXhpaXhqckdOMmdUZ2FObnpmVS13SWd1eTJhTU1xaVlBRFZUTUtlcU11dUNXMmJoaXF1OTFEUC0wRVNMZlFGY09ieHJtemY?oc=5
+- **2025-08-10** · [Markets analysis] Global X US Treasury 0-3 Month ETF, 3440:HKG:HKD performance
+  - https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbGFPSnpDQ3M3bldKTWp6ZDZ3Njl4Q2NoaDNQT2R0bVhFR1ExRDFTa1ZaQzl6OGMxZlU2bGkzRHJIRFVrb2g3dG5JdXZ6dE1BZF9za0lSeTdkY3JZcHd2Y1c3bzN2R3MwZXVtQkg2UFhnaXFkYzkyag?oc=5
+- **2025-08-10** · [Unhedged] The rise of America’s intangible economy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNel83TDc0ZW01a0xyT0ZTSXY3Z2RxTlhtcVJnSndnTVZZVGt5U2s1bW9HVXZmblFNQk12WDJXR0JkdmhaT2g5ZmE2Tml0b0RxQzhWTVRRWG1tcUN0SHg2UXlmUTZvSjBVMkpmMGlmR3NkT0RERzJoTDFVbzhPRVp4S2pVcnU?oc=5
+- **2025-08-10** · [Lex] Blue jeans and toxic US politics are a poor fit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOb041bTlzY2FXRnc1Z3NqN1pDTWxvNU5jaU1WRnNHTlhVV1NZVGRPbFdSZUs4TGUxTG4tUm14NE1kOXhJUjcyeDc4VE5NN3M3aWlwQS16RFR2Ym1QM1M2M3p1VDlpTE5RYk0zRU5meEhnMndwU0tLcC1JMUFYMlR2S3hDTm0?oc=5
+- **2025-08-10** · [Lex] Shipbuilder Fincantieri sues US supplier over faulty fire panels
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVpEbTdfa1RoeGg0cldMNEw4YVFHZWw0dHBqOGZ6Y2hvNUUwQ1dOZ2dIWFVyaHI2c0FENmV4a2JpbHJ5T25OVmJaWDZnUWd1bjU3NUFnRjVwN2RYbERCanpxUi1DYjFxemFXc05MSVRmOGJuaTRjU3haLXIyNVFzUEdiWW4?oc=5
+- **2025-08-10** · [Markets analysis] The story behind Spain’s solar power meltdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGdlMHhWNVM0WnFiVmhvd1BPaFBDQ1BQMUJIek1HZFZxenZsVUU5WlRrdHJTTEg3N3FUVktoLXBCNVF1V2xZdnl6a1dSNUxkbThLR0hPQlVNY1A5dVdYdmJIbUJmUjJCUWlGWFBVeTR5SW9zSzAwT2d0QXZzVjBvTFE2MW8?oc=5
+- **2025-08-09** · [Unhedged, Lex] India’s IT services groups race to reinvent themselves for AI age
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPay04Q2lyYlNNTFNoQkczRmxESlI2bWVjT291bWFzVml4QURjdnh4Nm1pSkozUDRnU3owbXpMdGxfcDJNUmRGYWlsUDBibzJsMDJnLVVESWtFNTN6a3Q0YWtSVTlMZUlmeTZQREhxX2tWc3hvQktqZXhQMXpjX2xsd2NpX2k?oc=5
+- **2025-08-09** · [Unhedged] Can we just have one day when no one mentions AI?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFWZkV4NmNsLWxudUZCdkpQX1ZLZHRCZnByM3BpR2d2M29Ua1dPb1AwZEdMYTV1bExlRHg4VVNzUlB6dVh0Zk9nQThPX0NWWHdQalNIcGdKYWZJeXY0UW1GX2JkMWplSTl3eVlUUWM0UnU4bUs1ZDBkSG02YWJ0cjZfSkQ?oc=5
+- **2025-08-08** · [Lex] Online brokers, like the stocks they shift, are hot again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHZMMUxCakEwbm9qWkdTODBsRTlFMzZXWUt3REZYY1hEYlFvekg5ZWxoVVFrVXFGakdVbWpNWUhrRHpYWm1pd2VnTEJ6aU1jOTE3U3lna1EzQ09JWDZCUFFwSFo1bjFRU19hTjQ2Q1Vzc21PNzV3UEtXaGtXcnRVdHhEb2g?oc=5
+- **2025-08-08** · [Lex] Two-year UK mortgage rates fall below five-year rates for first time since 2022
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTlTekpRS19uYmlYNmhPNzVnTW5qNzN6em9oRl81SXZRd01VTlF2RERtRWFfYjRxamVaaFJNMllPbVh2Z0l0YTgzSkFYbVhtcmdjNlRwSFNiaHJ5ZnY2a1FlV1kxRHVhZ1JvOUtqZ2F0MHlTcmJ0T1VzU1JOVVMxNEdhMk8?oc=5
+- **2025-08-08** · [Lex] Donald Trump pushes ahead with plans to take Fannie and Freddie public
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGRxdW9UR1A0T2lzeGRYTGZtMVdyUHRKM2RGWER5aGo1bWZoLWRqdDh0TlBMdTVqZkFIc0NTeGlLUnNuNXZ3M0JTaUtEX0w4MGRORUxKdlhWd2pNNHpQUlNyTmR0VXVqVm1sLS1vTXJtT2lVYVFUUzVkVlBIRnAtQ2Eycl8?oc=5
+- **2025-08-08** · [The Long View] The futile loneliness of a crypto short
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5ONnc1Um5wN0ZaWW1LcGUyLVZ5STVkdVo1cDRLblZEQkVaeFBra0hVQWpuZ3BnQjRRbDBNSjFheW81LVhRTVd3LW1UcjFFazhBMmdfWnN1WUk1N3E1LTBZQmI3UVdTZ3NGRmdmN3NudUk?oc=5
+- **2025-08-08** · [Markets analysis] The rise of the dupes
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA5YVdNX0tYRXdSWk10VnZlOTZaODRuMmVDekJCdnFaR2FFam9NMUttTlR6SHlleG9hbi1rZ0tsZnhoeE5MZXdvWFlBbGlnWG81ZXdLLS1RVmpMZGZmNEFoOXg0YlhhY1ZneC15VE8tUWE?oc=5
+- **2025-08-08** · [Markets analysis] US-India trade war throws spotlight on Mukesh Ambani’s Russian oil windfall
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRiNFdwcEwtbUdmbzUwaHd3Sk1LX09lUVRESUYyRlB0N1JOcVpYYk9QTllNdmdYSjllNnl4MVExaHRNaHo1Y0NYV1JXTE5tTWF1TGR1VG43ZHBkTVZyYjVYUDl1alZBazJLSy1GcTROamEzWFQyTmxmM1l4Q2ZxRjVPeEw?oc=5
+- **2025-08-07** · [Unhedged, Lex, The Long View, Markets analysis] US economic data quality is declining
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVA3STJSamRFWm5acHN0d3FrQUI4czFnUzMxM3E1LTI3OVI4YUVROXVhZFN4elhMc0o1U0lQRUhfOXZVSnlJYmxnYmlIa0g5cDlIaTI3UEV1YUs0VHBRSGcyRThNMFNuUUN5MkZCcktUZndHZEd2RG05Ri1XSUpGd2pFLVk?oc=5
+- **2025-08-07** · [Unhedged] Private equity’s 401k dream comes true
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEIweEktamRKZ3M1dzVlaHE0NGlYZGI5c2IweXgzaFluY2hMR0xjWlFHaUNQQTd6RWVOWTN6SXF3aml4TWdnaVBFdDFSMXUzT1d0LTMtdkJNUmwyX0p0UV9BR2QzZ3o1QVY3dlpybVpQSHY2TlUyT2h6S19jYTdZcGZJSHU?oc=5
+- **2025-08-07** · [Lex] Rheinmetall order growth slows amid change of government in Berlin
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlNjWVhBYjdQbERqOXV3MXBQbGJsTnE2VUNWX1dxR0Zvd1phak5jNzVaeDduUWtXU0N2UXQ0UUpZbTdkajBRQ0FNNUIwYkdaMkpmTFU3azNucUhUWlBQa0pRMk5vcFMzRzdrLVBZTmgwS3dsWEx1WE9JcndQakNfS3JkRXI?oc=5
+- **2025-08-07** · [Lex] Global exclusive: we have proof that there’s definitely no VAT on the M&S strawberry-creme sandwich
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB2NlN5S2JwV1RoRUE5Qy0tejlZaXpLUW0yU1lZM3AyNk9QeTJQblU1T0o1WmhUT3NfUldzOENGMDdyRzN2eFVVWTBkUTJFeWlERzR2M2N3azlzLWlRQlRRbm5nRmUzVGEzd2RsanpDSlU?oc=5
+- **2025-08-07** · [Lex] OpenAI unveils long-awaited GPT-5 model
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3U4N3BqcUtOWnVvYW1hc2c5UE5MdW4tVnlJdF9RTjBYZzRiWERURGJsUHhhSW51aHVIdzJSOERZZmNIM3pqc1dVREtyRWdhR201UExHUGprV2VVT0plQVE3Uk0taWFrdEl3emlyMlZid3BaR09xcDJmU2xaaFRUN1FaNDE?oc=5
+- **2025-08-07** · [Lex] TSMC’s trade secrets and Trump’s chip tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXpsTXFxZVlpczdPNlVqMGViT2ZwUzAyQjVQV3loZE1ja3l4SkN6ZUsyaTQtR2N6eWdXZHVsbWUyT0xvOVlyVFl5YUhtZlU0QUtWYWZsNktxRWhHa1ZIS3p1M0JfQVZmLU4xdkpOY2JzaW9PYkdYMGpyOVlYYWlwOG0teF8?oc=5
+- **2025-08-07** · [Lex] China’s Cosco seeks at least 20% as Beijing reshapes $23bn Panama ports deal
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFRWSGVPRkNiY185QWpTV3MyWno2VE1mNEVNcFpIY1B4a29lRnNqS01hNUkweHFkekxBQU15bFVud09mSnZHS1lxMTVkU1JzcVBwYktiRnlZX0RfSHFITGFLNWROM2h1cElXZF9BZXl5MlVpTWFrcGtGc2pHSDRFcEEwM0k?oc=5
+- **2025-08-07** · [Markets analysis] The troubling decline in conscientiousness
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXhoam56QVRlbmNaT2N4cnZURjg0aUFxSnZwXzFaZk1MWkxPV1RISDB5Um04bnVqdmZmdjB5WE9ISFFpU01MZXVRakN3OHpXelZJZ205OUNiblNleVB5QUpIaWtrNEhOb2pZZ3h2ZWc0aF9hSnVLRFozckNZbjNLdF9oUTM?oc=5
+- **2025-08-07** · [Markets analysis] European earnings lag behind US as trade war throttles market revival
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0lrMXVCclY1SF9uRVl3UVV5NGFSaFhlemVZME1SdmhrZVE2MzFYTzVMYnEyalJINy1SbDMzdnZ4TVNQVERFZFVVR0huQWJRakRJNmZlU1BIYUM4Q001OXprVDg0UXlrcUplTVNfVEF5LS1Vby1ENWdESDBFVVV4Uk5wbFk?oc=5
+- **2025-08-07** · [Markets analysis] China’s star tech companies rush to list in Hong Kong
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRlN5WUFnVDJYZnJUMTBHZEYxZ05pWFRYeWdQOW9Ydi1ELWxkczRBZWx2R3lDWTFxTUhqYzgzNDhVLWQxeFZoTkF1dHRBMmNhb0hudGpSdmlMaHMwdEtGSmhCNnpHSHZvUEtubC1CRkxkajZzaG11UjV0SWFwRllZSy1NQTE?oc=5
+- **2025-08-07** · [Markets analysis] English universities face hit from overseas student levy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOczhnakNFM1dBVUpoWnZpYklpOG1zLTlIakFIak9XYVdBUU5PWEZGQ3VfWWVxOWtjSjZuOGdKOWV3bFlPWEd1eWJ1ejQ3bTRhMTlna2w2RDJ3OXVJcU85OUhNeC1jb2FGOFJDVWNhTGJhbzVnNUlvQUJjLUZybDBfVzVIZU8?oc=5
+- **2025-08-07** · [Markets analysis] Paris threatens private equity-owned laboratory groups with profit caps
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVd4LWZNand2a2lCZ1E3blNEbUN2eDJKaWtQYVBfdHdKLWd2b3oxOGpFZmdvZlozZXVwOFo4bW5CZ19vOW8xYm9jYXdnQjZsNzZfSUxNSnhlQVN3UVBhczRIZXk2TVdRVHNXdHFZeDNKVl9CeWluSVpULVRQVXN6NjItMUE?oc=5
+- **2025-08-06** · [Unhedged, Markets analysis] The Buffett premium
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkhPVE51NTVENmZObUtvOGZuOEdWcEZPbGIxSVFBczVoUlZxdkZSS3FNa0h5RkNhY09qYXU1cHEwSGIzTVpOVXFfM2tTRTlyeHpTV2NSNmd6czN1d1FucXY1UFJWS2FTUjZIUkY3UmNaOXJ2MElnY2w4QVNZMlg2UTVDZjI?oc=5
+- **2025-08-06** · [Unhedged] Donald Trump says Hassett and Warsh are leading contenders for top Fed job
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWl2VjN1Z25sZXo4X2RGc095a00xZU1FRzUyRHdfajZZSExrSWgzTFhDcFRpeEp5aktPRXdHc0hhb1llZTdFOFZVQjZXVE42YXNhRXBEaV9DTWNvejFSeFdubDJPWk05bTBwYWVVazAxd19ROTFxamZwR0VVeXNVWXdpYzg?oc=5
+- **2025-08-06** · [Unhedged, Lex] McDonald’s says poorer customers are eating less of its food
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlVRd25aV1pHMGEyTEptNzc2Tk5hS0VVandqaHhGTngyY2poSE13VUtiTkVPMzY0YTUtY2k1ODNyTzhvZVd1ei1rU1FROHYtOFcxUVNjU2U2dU9lWFFxdFhhMk02LXg5aTlNa3ZtWElCaTVKdlJNdEVNTE5sOTFUc3ZvRUM?oc=5
+- **2025-08-06** · [Lex] How to reason with OpenAI’s spiralling valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUE5OEFfN0ZONGpIQWtDNk9zdzVwTF9MSEVtb2M0SFl5eUZHdHp5MjJIYU8tMDNySVRBQjgzUzRWQU53S1ItTUNiQmFHWHdQUkllNUlEaHlCdjZaRW9GbnozWUhSYnBfZkpIajducDRoMHpuLWhGU0NMNEMyS1c5bHBfTFc?oc=5
+- **2025-08-06** · [Lex] Novartis weighs deal for biotech Avidity to boost drug pipeline
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGFTbXFVY3c5Z1hSOVRyTC1SWEFLcm5qM245ZWRCNEZCVjJCVHB3a284RW05cVNLVHJHN3U1VGJJZ2U0ajY3bVhZYWtUWVk2OHBVaWV4U2MxaFQ3SEpSUWJhYmI0cjl6RmFmLWF6V0QxU24tWFpMLW1fY09PRC1Na0pZdzQ?oc=5
+- **2025-08-06** · [Markets analysis] India’s Russian oil conundrum: yield to Donald Trump or face tariff backlash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWlhVcFNvRGJlMFl2MkxYdDdsbjVUbGkydjBkdjVESmt6d3B2WGZFalZBcWJ2VEVkLTlFQmFIRVkwQVN3enRVRS1KZFNXR3ktVnNHWGFvbXVZa0VBSHNBUVhNVVZiRWptcHl1anl5bTBmYl9rTENqaWU1UFdublNyT3VNNEg?oc=5
+- **2025-08-05** · [Unhedged, Markets analysis] Without tech, where’s the profit growth?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNm1LTHA2RGRybDNIMzJRQnVoMGlBNFNDTTQ4V3ZjbkhXRUk1Z0RsYlcyWl8zVlhLZTU0aTBuOTV1ZElfSy1YNE5wMEZpU2FTYXJZRnJlbzVhYklJZU1zNlBFdXBYZ3R3ZWtxQkx5T0JUdFVENnhaX2taTlM0TUhHeUNFMG8?oc=5
+- **2025-08-05** · [Unhedged] Tech does not deserve special legal treatment
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBBWXMwWXdhb1dDUWhkcnVLdXpWajhHTV9uM1BTWm5JVUNBM2thc2s3VUpqNzR4aEF3b0d3b1lfRmpuRHdhVGpZbnJPZU1SSFdmdllIa0E5VTlBZ1Iwa0ljQUNPc3B0T2ZaN2pMUzJlMVM?oc=5
+- **2025-08-05** · [Unhedged] Donald Trump’s attack on US labour statistics agency spooks investors
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkxZZzgzVWpVR2pLcHZ4cEZJcGc2NE5KTENZb1ZPYW5hTDFXTmhWNVE4WEd5Szk3b1NpeEg5QzBtQ29BZWJuOElQZE5jamFqb3k4cDdyVFRPVDc4dGEtZ0IwVEdhOE9SZTd5X05VeFdWdXZiUy1aek1PZ1BQNkEtdDFsRlE?oc=5
+- **2025-08-05** · [Lex] Tesla’s UK sales plummet 60% as BYD surges
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQaE9JblNfYktyM0FMdlJkYkRZR2d0dzFIM0RwRDBoekpPR1RGb0VvcUZSYVpqSmt4R0ZFNi1qMFJ4QmtHeDZLR2ZweTlYZ3djU0ZHeFZabG5fSTgxNE55TldmaGtMc3BtblVKa1VZdTBLTk8xSnp0Wm9NRlZPOHpxVFRwQ1Y?oc=5
+- **2025-08-05** · [Lex] Pfizer predicts higher profit amid cost cuts and pricing pressure from Trump
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNUVBdU1aZDlOQ2JnWWZLSmV0YlBnQXBHcVF2Q3NiZG05SGxiT3FfMGJUUWd5Y0hZM0VtUmdCUWdveU9PeFJsUGtFVng1THk5R1Jtbnc3SEdDN0R4ZWN1Wjcwb19zekhaSnBxTl82R2toeWVPQTBxTGNZbEZnNVRVempucnE?oc=5
+- **2025-08-05** · [Lex] Former TSMC staff arrested for alleged theft of chipmaker’s technology
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbERsUXJmTmJ4M19KbldPM2o2dzN2bG9BNFZSUU5mLXp3Ukd3ZUg1djBoYTNOS2J3dWlEcFZWNFpFTXFjVWVFMjBpSEtKZ2xLb3pnaTRaT1d1dEY5UHVfZWc0V0x2OUtHRFhQMHdtd3VpQUl6SWxsM0UydnRtSWU3WE9VVjU?oc=5
+- **2025-08-05** · [Markets analysis] Berkshire shares tumble as Warren Buffett prepares to step down
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmw4bzBxVHYzME1Qek5zaHJpT2dQdnlQTEgwdjk2czhjMHJiVWFKV2I0eVg0VnpIT0diUUZpenBleDB4WU1JWHV1a3phUU5OS2Y2S1RxRGMwR0ZTelNGNHoxbGx0Zjc2VzBDOExZSUlvTzVmaEhFVFA2LUJ2T0hJSEN5OTE?oc=5
+- **2025-08-05** · [Markets analysis] BP to cut 6,200 jobs as it launches second business review in 6 months
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3BBRHdtd3JVUWJOVEdnU1Y0TlphUnh0cFdQTkRFdDF0X25EUmhxYnpYd0NEY1RHSzEteWc2cmRpUXE5ZkxBYkpzVm1aT1o2RHY2NHNpWkVuZHRyQkRUMXdHVHg1ZVNqQk0wclNzbDV3YnpRa0J4OUYzbGF6ZnBkUUFvWGg?oc=5
+- **2025-08-04** · [Lex, Markets analysis] Palantir lifts outlook as AI boom sends quarterly revenue to $1bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTcyNVdaWlF4WWhCWTI0MGZ3MUF3Sm9mSEpxNTJmOU8zMkt5U21wUUEzcEg0SFBjQXQwRDBreHdRaVBjTGNyZUJSVzFOU3plQXhvdnlQaEM1VXBkZ3hXcnB1UzFOdF9QWE1rV2dmWk8xandOZDVEYWpwT0FLRFh3b2g4aHc?oc=5
+- **2025-08-04** · [Lex] CoreWeave’s $9bn takeover of Core Scientific faces revolt from top shareholders
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTRYeGRObVVVaWFoa2VZUDFHay13YnFwVE44cmRWNmxOUm15M3VUUGpTRU9VeTNLVDJTNnQtZzMyLXNiNUIzb2duVk8yX1E5SEhQa01zYlFkVTF3NUNCMFZ0cTF5Tlc2TEVRWWlFVTNRTWNnd1dIdy1mNmZGbWlSWFlNLTc?oc=5
+- **2025-08-04** · [Lex] Tesla board awards $30bn of shares to ‘energise and focus’ Elon Musk
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3o2VmJ0Yl9kZk52RnY1OU1XTVdtaUZsN1NZMmlnYjdWbUljQTRzamxJWHFqUGpyRXdFQk93Yi1URm1lZnJxdDZzQ1EwT3hmbEdvdURpeUVhY2gzZXhKSTBBRDk2RmQ5RzdZQkNsNTVIQnJRaWxMZU5jXzNSVmE5RzBsdTc?oc=5
+- **2025-08-04** · [Markets analysis] Meta’s high-spending hunt for AI talent
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0Q0N3VyRzgyTjlTQkMtaTR0TWljeDd5aWxkLWpqaTAzVTBfOTczY0ZnSDgybHhSQnZIRm5NdGtmY0hYaG1ibWkxSkttWV83WVdxZldOUmhxUFhCYWpoTm15ZlNGMF8xSDE1dXZqQ19JbERuQkFTVTdyTTBDX2RaSlVsdV8?oc=5
+- **2025-08-03** · [Unhedged] The AI job cuts are accelerating
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUprVVp4cDRoUEROWThWcDdGWUktQ1h5SURaRXNVYk91UUwtbmhUS1A5MU1rbEFyRFdicTZVeUNSZUVqaVlNeWg2OUpRaVVHQkl3LV8ta0w3eDZ6eS0yc1g5Tk8tcXJWRXBCUHZVaU1TY2c3OW1JRTNscnAtS2U2RjVaLXo?oc=5
+- **2025-08-03** · [Lex] Luxury brands hit by drop in tourist spending in Europe and Japan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNWU42N3luMF9CRU56ZEZ2bW9oM0dUWEM4WG03elJuUWRvN0Z6b1FOU0JFSnVCZGotcm5JbHQtOGFhU0Z0M3BmM2NwSjJrN1hBejhBSVlYakNfbTdBd2IxOGJETHVqS2Z4UVVrVF81LUdyUHF2aFl2aWVpOG51LWVZRklLUjU?oc=5
+- **2025-08-03** · [Markets analysis] Poorest US workers hit hardest by slowing wage growth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1VNRlVwR25rempqSHdLa19PcTNRck81ZzRZdjlDanh4QzlRdDI4T0NCc1FHNkxDOEJJbTlCRjVxZFVBQkVOVEFnLWplQjhzcS12dElWeEhBbzlOUTUyWjNjOFM3Z1RoSzFGSjlJZHkyQmRJSng5ZFNpMUlUVzhaRWR6N0M?oc=5
+- **2025-08-01** · [Lex, Markets analysis] Tesla ordered to pay $243mn in damages after fatal autopilot crash
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ09UXzRMSkE1MTJ1aWZPdkpWWVJqUlBmQWExb2g5bkFtWjFGeDFoMC1icVBWYzg1emZOYUhxbUY3QWtNZUxfNWZYcmhqZDNIeGJfQ01LTDQwRXR6ckFpcHlRQng5WEE4X0ZFZ1BQZG95b0s1WXQ4aDh1QjNGd0xLRk9MWGs?oc=5
+- **2025-08-01** · [Lex] Billionaire Reuben brothers in talks to invest in consortium circling OnlyFans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQamY2aVhBMmw1eUhBR3hJZE54cUk1cW5veWtaNzVhWTQxeXhPd09Sa2pQendhcnhfUjFteXhWQlVFemJBVkJjMlpOTjJEc1VGYV81ZW1qd0dJLXEwa3hUVU1kN2ZacWducXFfeWRsQ2p2NEhRbkZQRXRXY3BOYmFXQm5SbUg?oc=5
+- **2025-08-01** · [Lex] Sizewell C costs could hit £100bn including financing, modelling shows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0VVWWhGNm5xOTRDYTU0ai1Za1p3UWJiMDZaalVrVkxEUDJxbGZyd1dxb0hZZWZIWUZHU1llUXdRY3l5WGU2SEhpakZlRnl5OWlxNmtYY3Z2dVgtLXZYamdhNVBsNHRnX1RnY1VzeGFjS2g0T0dTU254b25tUFdMTnB2VlE?oc=5
+- **2025-08-01** · [The Long View] The logic behind the deregulation push by Rachel Reeves is flawed
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0NSNG04blFVMm13NG1SWXdPM2VwQ2tFVTZzRGNtZmp6dHV6SXMxM01vRGVsX0N2djZlckQ5eHk4NENsUlBGcVYzWHBldUhtcjZYMER5Y2d6QnhQbGZyeHd3amRrSEtHWDRoLUpPWlYyYnRpaWp4QzNsbWZ1Q1Z2d05fT1c?oc=5
+- **2025-08-01** · [Markets analysis] Financial Times will bring the renowned Banking Summit to Asia for the first time
+  - https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DQzJhSmtQOEp3ZnFuajVQV3pTQkJHUEI4bktQdERqLXpDN0hnRXgwOVJkSEFWNl9DZnZPWkZZaVBLWUUwSDJ6aWdTM19ieG13RFRPbTNwTGx0ZDk0dkhyVy1rMWdObkU?oc=5
+- **2025-08-01** · [Markets analysis] Chocolate cartels: the rise of cocoa smuggling
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDR4cjBtb1g0aWZLbUdZRE9NOTJWXzljYUtmMW5uNW5lcGlJcTBBelk1dEJqY0N0THNXdDUtU1MwQlM5Zkh1UHdnQmpzamlJbVJObnR4bEZ3ZnNLS0QwbnBnTGoxUFNXWFFVdlE0bnRzS01Jcm5hQm93UWtNcGZZNkt2eXk?oc=5
+
+## 2025-07 (198)
+
+- **2025-07-31** · [Unhedged] Figma shares surge 250% in software group’s Wall Street debut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWhIdE1hc29yNVdyM2k3U3N1VlVxYXFPNkRmOXlpeDdITjg3UWJleUYyTzZUZVdnY2d3eWRqZFpnT1VBSDUya3NfVzE2dDJmaU5XODM2THhNdFY0Q2UxeVRUMGNvMG9JUGNJRndWNU1vZ01DNnFPZDFWZkl2dFdpQ2plT2o?oc=5
+- **2025-07-31** · [Unhedged, Lex, Markets analysis] Microsoft hits $4tn market value as tech stocks rise to new highs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3EyUFNFSHh0S2FqQzlLWkhLVjlJeEs4Z3NVZXRDT0NSX1JBaUFqSTlBbncydHBCVF9XMUFSa1FGaXJFQURka0JXTmZ2cGhKVEV2RERJUlU1Z1djRjRKWmduOXZjd3VkZ185MFl5VlNSTVpGQ0hFUWUyUllWZEo1Z1NwU2Y?oc=5
+- **2025-07-31** · [Lex] Brookfield strikes £2.4bn deal to buy London-listed insurer Just Group
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVk1LV9qSFk4MHd3ODJKUmtWajZULXlFcFVUUEJDYmpVd1ZQTG5rUWd4MVhkX1NhSWZIc3hiMElqQ2dMMUo0Q1VtY3RDeXd3NF9qQXA5MkxFLXM5OE1fU0VOaTRjaEFEU0xISmVlSmMtazdjQ2RoMVY4eV8tS0ZwSmhGQ3A?oc=5
+- **2025-07-31** · [Lex] Goldman Sachs poised to buy into ice cream maker at €15bn valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDFvVWNtQlRESVh1VlplVHZYWVdrRVB5clM5RXppN25ocmhCVl93Ry16RVJsanpMRTlKNG51NkpqNUVtVDU2T3kxcjByVi1XME1sQ0U2enpVc3RPZXdYMDF4WXFnOUh1aUk1bEpYTlJtd2pWSVlWcjlsSnltVW1iSXRfUDY?oc=5
+- **2025-07-31** · [Markets analysis] The risk of letting AI do your thinking
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTC1Dc00wMlEtTDZhTERwMDl6d2x1Q21TUmV1RWdrLUU1alNRaU9YX1BoRnBQc2J4cVh3aEhUT183dDVXS0x4NS1UaVlBa3J6UktfTjh1eXFETlZ2UTg1d0swbnMzVll3X2o2RVJfeDdwWkVQSWpfcmNMY1BaRmxHWkxIX1I?oc=5
+- **2025-07-31** · [Markets analysis] The great crime paradox
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmkyMkcxY1NrdDBsUWduSFBWYWRCWHZobXNBN3o5dHBVcEE0VW9zckVMejNuVS03RzBxaTg5YVMwcE9ISjZBM1NERVoxVkZOdmRMYVUwc2FUS05FcTVITGNuTUhxSzBsX2hzTGtEdWpHY3Blc0stQzk3aW16NHBWZm1QZEI?oc=5
+- **2025-07-31** · [Markets analysis] Blue Owl chief warns of manic market for second-hand private equity stakes
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUNoQlptejk4M216blBQLUl4cFg3bWZaaGtzQmE5MW5hSEpsU1J0bVhQeWUwZmM3WmwzZVkxcVkwWFh2MGszUE5Mc0VFNWhKbEFfcXBHclNMWERybldZWVFyQ29MQWE4SmhfVjM5MzVYdUlVdlhISWFBTTdPbUFKRFpNeWE?oc=5
+- **2025-07-30** · [Unhedged] US Treasury to sell more short-term debt in continuation of Biden-era policy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2ZSNTFGTlc5SWxsOW1GUkl6b1BwUTltcDJtc3U0UXBGSXBQcXJtUnZTY0ZUS0k3MjFzaGJnUmZRa0t5MkRoZ01GRUFpOFhLMmtic2o0SkIwZVU3RnREbHZGaFJlRW1QckgyMkt3emhrMlVwYW1EWkJUWkc5d0tLbUNrRkg?oc=5
+- **2025-07-30** · [Lex] Tech investors should beware the ‘Field of Dreams’ fallacy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXZHR2k4bjl3UGNnTVJrakRaZm5JbFZsX3l6M1J4YWtFS2dXTnFrS1BsTHVZcExZd25hTUhBM3hNSVBDVnZmVzBhMk5LWEtoNHJXRGg5aEtIaEVZbTF2THlNb2htWDhSXzZudlkzZUJrdUZpd1p0YUtXQ2pqODBiM25GSmQ?oc=5
+- **2025-07-30** · [Lex] China has done HSBC a backhanded favour
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2poNmwxaGJXdkQ1czM2a0FzWTBRV2NFdDJ1SGc0QTl1QmhjSGtQczJVUk8xYzBmR2hYZmo1dnYwaEVOVHJwVHRHZmk5cjA4cFE1dndldEZTSk1PbENZalcwUnJURWJfbWZrY19QX1E5NTBRaUlKZ3c1cWVUUzV6OWlNbUE?oc=5
+- **2025-07-30** · [Lex] Investment firms KKR and ECP to launch joint $4bn data centre project
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTZvY1BoU1hUcVZuQ2FnampVRU1vVUxOQ0ptZUs5ZEt2MlRqUVVnYVBvbDBGOFMtaVMwOEM2a0RhZWxpOG5ZUEF3NHFYeHNUMkNfcDRpd1o0RUxVdGpDSGpnQW5Xb1lveFdhdVBfeWx1MW95NmNWUFgwOURrU0w0eS1rTlk?oc=5
+- **2025-07-30** · [Markets analysis] What is the point of owning a mansion in Mayfair?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZmZKMDVGSVdYRXp4amxWQ1FSZjQ4V1ZnNllhVlN5M2JZWURwOTN0QjdPNmhLZTV1azdRdE1CZlpZcnZZQkhuVFhJc0VlNk5jSnFUalliSFI4VXJvN2ZsR2dfYklwNnRBcGNmMXM1eDg?oc=5
+- **2025-07-30** · [Markets analysis] Investors take aim at fossil fuel bond financing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVhydXR0VG9VajNya0NzdWJuNnZuR29oRWJGNVBtZkN0UDNvWF9pTTVpQ1hqUVBpV0Vva0liQnVvTDZ2Yl8tTlNLdVA3LURTcDlzbkpicnlCMFozSjcycVNtalZwUXNKTUQ4N2ZFU0VjYWhCUW5hZWtWNnVodE5qc09vbS0?oc=5
+- **2025-07-30** · [Markets analysis] Jay Powell strikes hawkish tone as Federal Reserve defies Donald Trump’s calls for rate cut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzBDVjEzYmxlb2FoU0pITlROYjJsbWtiSVhwZmRHZnpBTDZvVWlxVHpYNHlaclpZREl3UG1xNHhIUm8tMjRhU3lvTjNNREF3WEhzTldZZzhPLS1tYUVjU2JaUTBRdjJTWU1IdVZxQUp0eFlsNEtUblJYWHFBbkFDdnBZQnA?oc=5
+- **2025-07-29** · [Markets analysis] FT and S&P Global Market Intelligence Series
+  - https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZVR4b05IX2QyYjhhSXFBWFBhamFLNTM4T01aZlRpYmh5MDgtSUlBT1dpSXJnNm5OQ1V2cG51XzM5S2RoYmltRkQ3SGxvYjdENHU0WExKWUY2NlJ1?oc=5
+- **2025-07-29** · [Unhedged] Starbucks profits plunge as turnaround costs add up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXRSbEw1TWVSMWo0MXgyVUJIanBvN0VwLWc0UERtZGo3U092WmYtdE9VZXhLcktQWG52NnBPQlp4VVQyNkVpQ3M5T0M5bndLOVo2dzdsakJoZndyY2RTUGdnVER3QVVWblBSRUpBbEFmeXM3QXRxV1lyRWFrNWdDaUFraXo?oc=5
+- **2025-07-29** · [Unhedged] Iconiq set to lead $5bn funding round for AI start-up Anthropic
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkh6SEgySHhzMHF3OVRMRl9WcHI2U2VKZmx0am1wN0dtZjVQSXMtcGFsSWZjQ2JsQ1g4XzRVb2NjdEtRcFB1MTZFQ0hBRmVpZlM3ZjVLNzczemJHdF84eElDNXlrMjd5a1o4WHFEbHFlMFhmQXpFQXpqUEYwbTVfN1cxUzk?oc=5
+- **2025-07-29** · [Unhedged, Lex] Why Evercore is buying Robey Warshaw
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2FBbzQ3eTV0NEMwaHNnQzBwY2NZYjA0VElGaUxTOTZTOXIyUnlQblZCV1ZibzZUYWpWOHhqR0MxeFZGUkpVVGRUVTFDT29PLUxxc3FfUHV1YWlfVVQ3RzVVMXJvN0R2WXM5R2FwN2VPZGJPakdoMi1nYXBST0FXNEVKN0M?oc=5
+- **2025-07-29** · [Lex] The race for the future of cross-border payments
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWJGdTJPekhnZ0oxU2hVSHJYek92bXdCaDNfT1phcVVLdnBFOFdRYWlxMkZlQmxhZHlvcUVjcWwtanFoUG45Q090SE9QT2pqSHVvWEJPX1ZKS0NNYm0zd01fNnVIZ2lFczVIMDNTVm5tenVKQVNXelVLWkh4S0xfaF8wSjk?oc=5
+- **2025-07-29** · [Lex] Evercore buys London’s elite M&A boutique Robey Warshaw for $196mn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQOG1la0wya1ZfajhYVk13Z2ZOOG04RXdLUTNwRm5QZ0RFT2hveUNaYmhlX1lLMVBDTDdMbFo1c09sWjRCYWVzRmhoNjFHc2NSeGhLM0NKWkoyNGZ3eVVwUnZ6dkl6eTgzc0sxM253T1hMWm80dExzaUxCdVZzSHJZdldtc2U?oc=5
+- **2025-07-29** · [Lex] Are consultants really utterly pointless?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeS1MeXI2OElMWURPTnJRaEJzakxiVTBMNU9fckIxdWEyRHlGdlpWNldzZDgtU3drVXEwa2FNcmVfc0M3Y2FLN0IyMW9hNzVvczhuR1RYV3NZZG5GOTJDVFZuZzluLWpYTWJUcmhCS0NkbWk0Q2s2QnpRWjVVOURLVE13RXk?oc=5
+- **2025-07-29** · [Markets analysis] Stockpicking hedge funds make comeback in market turbulence
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmgyQnF4WDQ2UFFFR1FfbGtwbV8yWnJkSER0VTY2ZF9pWEZWRnBhdGE1YUhSUFYtTDdiZDEyZnZKcTVnQ1hsbm5rWGRMOUN2cUc1NC0tb3ZUNlBYVUk1U19mRkZXZXV2cXh3U3FSTHh5VDdMUE1jR2MtYWN1enI3LVFObzg?oc=5
+- **2025-07-29** · [Markets analysis] HSBC profits slide 29% on hit from China and restructuring
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTRhNWY0dDN2T3FILWE5UWR4a2I1UzNYUFhEQ2R2NVF6MmtDb3V4S0tjNzRnSThDVVlmTmZBblYza0hXbVd6emgyTDdWYVlEU0RXMnp4UFo0VExzRzJJaUJzTWplcmZSZzRLSzlYMVVKUTN5M3JEMWFsRjdKc24yUndfdUk?oc=5
+- **2025-07-28** · [Markets analysis] Unlocking AI’s Power in Deal Sourcing & Modelling
+  - https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEWERxMEUzR2ZFUFYxRjZubHZUakJZc1B5V1Z3MDhLNkxjYVFEcm5aNEdJR2IyX3ZFU0NSY0lPUXV5d05ydlNDVEdzN1BMTDNZ?oc=5
+- **2025-07-28** · [Unhedged, Lex, Markets analysis] The market is looking through the tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ29YX2ZMOG0zc210UGhXX1ZMaUNjMG9neHlWaUNTdlNKSE9wNVVaZDNTOW1DZUU4YU9TQUdlbGhybGU3dDFncVJEX3E4UmNiMGZRa1liYi1XRDVTWGt0NWp5LVhrbkdzY0dmUDN3VEpIUTVzNnZQSFhlUkF1bXdEbGkwM0g?oc=5
+- **2025-07-28** · [Unhedged] Global AI rivalry is a dangerous game
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9qZnFseVludUtuZGNpaWdVbVdka1JENnhZdnVqUmFza2o2dGExT1lPLVhZOXRhTlV0bUNMRUdXN1EwdXpIVXJrMEFvblQ0LWFIV185dVdtQVNmMFNrZndYc3c0RXJPNEZUdTdQdkJvaXc?oc=5
+- **2025-07-28** · [Unhedged] Why Jeffrey Epstein matters economically
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNX09vQlhmcUFqMTdaRW9tOGVUdS0wQlgwaE1LWGtYMGxFZmVWZDY5Y0gtbkE0dmJVaEllbnpNZ0c2Ync2R1VwQXJVdW9tMHJjdU1OWERDNDg5SVBGNnN4VDJiazgwVmtlenpxWE11VU9DaFNjRlZ0emxNakpvSG9WTWRjT0U?oc=5
+- **2025-07-28** · [Lex] Wise shareholders back plan to move listing from UK to US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWYzSW9ER1pCbWNZUFFLeTgtcVFncngxcTRsMDkzZVJBQm81ZkwwVW1yVC1scVJYeEdWSHRWWllvVHZQT3NKMTBobG15S2VOS3kzZmQ4aS1YaEZMRlA4QzQ3bXQ2QW1qNVRnWFpmLXB5d01ib2NIcENkc2daTG9NSlhYdzI?oc=5
+- **2025-07-28** · [Lex] Irish billionaire Paul Coulson strikes $300mn deal to walk away from Ardagh
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3hZOXRFUENMRGw5Z2hfZ1FYRDNrbW5fcmx5ZE4wbW9aRllzZnlXOUZIaUtuMXB2X3JVbGNXLWdKMW9rMmVWeWIyV0p2Zi1neW8zckJ4RXZYMTgwLVNnTXVHLWIteEk5VFFOSmlmT3BFZ0RfaDdjUERscFVrREE5eHhrUEI?oc=5
+- **2025-07-28** · [Lex] Volkswagen embodies the challenge ahead for European industry
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9kQWkzZUJUUUlLUGx5UU4ySFhsU2h0c2hRWkI1MW9tWVF1ODFxWFRiN0xqUS1HZkhpU1FEVFloNHlqbU56SE12NGpILVVCQ19CZF9tUmt0NDhZN2NPbnV6dXAxVWkwMEtidUV1M3dkT0g?oc=5
+- **2025-07-28** · [Lex] Brussels accuses China’s Temu of breaking EU digital rules
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHpYblhReTN5MkZBVGxKZzBHbDdGOE55YjBpb0c3OGN4YXBhZWo3ZDFWUHFKd0NyQURVaEhLR3JEVExDb2F0RHFLaml0U1Y4VVd4N0ZOMTZaVTVGbTNyVW9RSW5HYS1WWjhRNmRzNjFHdWdmVVctdVpvXzlPZlZ6OElVc3M?oc=5
+- **2025-07-28** · [Lex] Europe’s roads and rail unfit for war with Russia, EU transport chief warns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1JsZXlfbE9QZnFpOWVGOGI3T2FDRUlycW5LUFhDNnc2YklfRXBTT1pDWFJNOE1SLXpRWE85UkNfZjZ4Q1lNVnRHckZsenFqZFkyUFZ0SVAtWk5OVEhuZ0c4c1RZdFBVN0NadXVIRlVxZEJRX2FrTWJUUmU3T1g1LVlESmo?oc=5
+- **2025-07-28** · [The Long View] Nigel Farage vows to repeal Britain’s ‘dystopian’ online safety act
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPaEJvRGRNemVLX0ZiMTZiWk1WT2pCc0JWZUdfZDI5QWZjRkRSbEVzcFlLMEloWExzWHJfaDVBcExBbkFiQ1dsbHBZYlV5WFlmVUdSeEdZX0RqNUo1OFNxc3FPQkU0VHdlSDFjZEU3S0lGQ2hKTGpuUDVtaFJEZXdaYzkzdlE?oc=5
+- **2025-07-28** · [Markets analysis] China struggles to break its addiction to manufacturing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk05Q0VjZmxaLXpZeVFNTHBpd2Y4UXlZTkx4WEhMRzJ0eXBVTEVzNGNXRWVlVkJHS291NUVtVi1GeElDQXI3RDQ3N1Rkc080QjFrc1lXUmFNWkxIYUt3cXh5NjJNQ2E2YWVONVVDSWRDQnNaRWIzWVZMRUJiYWJVeTBaQzY?oc=5
+- **2025-07-27** · [Lex] Heathrow’s third runway could actually be good value
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3hVTzVaNDZ3TzRmLV9ZbnNqV3RDMFY1RS1MUXZaNXRkYkhGVGUyRFZNTGxvZjhrWVFvQ3IyaDBHSWFmNDJsNG5aSDNmenYwQk9oZjdfSndGU3g3THJoTkxjOUN6MkUtaTBCU0FPUmRrd3BYMmtYV1E3LW8xT0Zfb0cyb28?oc=5
+- **2025-07-27** · [Markets analysis] Russia runs low on Soviet-era arms as North Korea fills gap
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzlfYkdJSDlyQ0dka0dLeGdaOEFRLXRkWFR5eDItbXBzQmYxdmt2RjdiMjljNDF1blBzTFNzX25fQVNMQ0xwVTBrOHJnZU9nc0VrTzdIS0FOeUl3dzRJcUJMT1h0TTdvTC1QOVd3TktSSHNmWWZ3Yl9acEpKNDBacVBJZms?oc=5
+- **2025-07-27** · [Markets analysis] How the EU succumbed to Trump’s tariff steamroller
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHBKMnRfLVZmRGNwRVM0WmRmaC1HV0hVUk10NENPRVFUSHptdi02d2JpbEMzdDhMb3I0N3N3RDBxVWQyaDJFUnZleVRNZUducm9iT0NidV9KYzdUcVFoNGVaMHA5b3VLNHpLUFE3WXpfWHA0Z05ZazY0bDdJM0pRb1ZHV1I?oc=5
+- **2025-07-27** · [Markets analysis] Donald Trump freezes export controls to secure trade deal with China
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa01BSjJFb1ZBaVhYek8zTlJwQjFOZGE4Y1lzQ29JcXA1cHpabjdsLU41R3QtUnNqTXRHNG5pZlQ0SmpkSjAwMVRUV0ZOaDFsRTY5QXpBR2R4WW5vYW1Pd3RkTFIwNEpHSHBxRVdXZ2JXMGJ0YVdIbldHNFItbXh6ZUxfN04?oc=5
+- **2025-07-26** · [Markets analysis] Doubt cast on widely quoted millionaire migration numbers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTmQ1U0U0YTVpbjc2b3lWS242NG5FVkpFMWpfbjFTOTdIb19hdkxJRndtZl9laGV3N1c5ZnRibU8wWVNieDRWSjhXenp4Y1lLNDFJcDNqVi1JR3lGcmk2Qmx5dnkwbHpuZV9mbDBMbjZEUi1VdzBQZzQwVkpyUGlEdDZXczQ?oc=5
+- **2025-07-25** · [Unhedged] Two lesser-known factors behind David Swensen’s success at Yale
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1QRDk1VTVibDJpbFJZdy13QXRVaGlfTVQ1RklCNFB6OTZYSVgybHFwWXNmeFZ3YUI4ZC1RVndnOHJkTzJkOG9GU2ZHVEVQRUxNcHJhdG5oUnN3RDJWdWJUV19KRXJueWRBY2dKUHRHUEw?oc=5
+- **2025-07-25** · [Unhedged] Forty-seven’s incurable obsession with 44
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNME1rejVLMUdFRWJJTTNMZ1hGRFhSSUhBN3VZSUFmUVhOVFMxckVGQURfSmM4dmhneTdwbVdHdEN2b0w2dGFjcWIwRTRvbTdQX1Y5a2paUXpxSFpILUZybGpoMnlxdnczU1M2cVFmMENWUktBbk84U09qOElBN3B1NWtNNnM?oc=5
+- **2025-07-25** · [Lex] LVMH exploring sale of Marc Jacobs brand
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2gwMTVfcGd0d1lIOUlXUnlndm5POE93V2g1MnpXUjFRZzAyMXh1RHhJOElLLUlDYTItcHEtUG02M3ptNjI5YlhWelp3eDlSRlJwcmxMX1hJOHF4VmlTbEFoaVZRcEJjZEtYMk1VcXYtQTZydjBDdGZJN19rX2dfRElOV1Y?oc=5
+- **2025-07-25** · [Lex] Fine wine prices have fallen sharply: here’s what collectors are buying now
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTms0alNPblRkM1A1RFZXR2Q0S29HVzRCdEx2UHpaeHhuTW5RWUdCYXh2Vl9NeUVJNm1EMTg3cmxERE5TQmJheUxUNnNGd2lWcWw3NUZGa3R1ZmlxSW56RFdmMEs4ak90aU1yTXBFSlI2TFdIbnpKam5QY0w5RGNSQmFjUHY?oc=5
+- **2025-07-25** · [Lex] FCA bans former H2O deputy CEO from financial services industry
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUFZb2VqWHBJSXpLb1pUMjJ0eTktOGMyRWFqdi1JMU9MZDJxX25udHA3ZzhXQkZ0VmxoLVlsajA5eE5DRXRsdmJaQ1ZCNTVDaHQ1WnVnODZKeHhQQjJ1OXVUQkNtTDJmS0ZhV3k5bmFrcVIzRFl4S2xVZFJQVjdYVjFXMHE?oc=5
+- **2025-07-25** · [Markets analysis] Bitcoin will go up if more people buy bitcoin and won’t if they don’t: Citi
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRnc3dHFFb2MxRjlzMW9rZFJvcnV5cDBmbFdlUGEzaEwzU3BGZ2RNTG0xVEdCSFJLTTlRN1ZTYXF4YmJTeUtqNWJOaDdGeHZkem9aUDlsUDZUcE1IaURGREN6U2FGTlowbFZHcHdZeVA?oc=5
+- **2025-07-25** · [Markets analysis] Can central banks make financiers pay attention to climate risk?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmZiRG4wcDVkRmUyX1ExSzhpeGh3aktfMlZCWWpwNDctc1pERlpXaklLVXROc25GRnQ3ckdJTWxsUFIzV2E1UEhfeDhtMWxtZUVGQVJlSTBkZzZBd1FRN2UyUndrcGxPdWpxX1ZwS0RpaWRySGROTWN5RG1sUmU4VW9uSEo?oc=5
+- **2025-07-24** · [Lex] Why is it so hard to replace HSBC’s Mark Tucker?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRmkweWdNTFB3azJfU3h2Qko1MTVqSjF2bUhUd3E4QUdGZkdOSUczR2FBZDVaVTA2MTdGZGZ6eElWUDJzT2QwVWxWbHI5ZjRkR200dkc3ekdNeDZFdHhuN3RsS3U3OS13UUdDZk5xek9GNVJfTUpRSkd0Q0JJNVhaM09vTFo?oc=5
+- **2025-07-24** · [Lex] How Fox News is covering the Trump vs Murdoch blockbuster
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFY5cGhfRTBCZUZBOFRPRGxkOXVlM090dDhwN25DRVZhdlJSNFVGUmpfZG5fMmZFbW8yNjN0TUlnMlFqVm9UTWFUN1pjaEkzdEptMktqSHVBRlhINGJOMlVROGpvVTFpYklua2Zyd2NTTG5NNG1lZWNmVFd2M1kzMk1hb00?oc=5
+- **2025-07-24** · [Lex, The Long View, Markets analysis] Trading meme stocks around index reshuffles is stupid and profitable
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE9UTG1tMHU1WFdUQWhPVU1HejZCbEEzeVdPSWllcndCSEpldUR6MVNnZ3JobmhGcThqTEdFb1YzMWZ1RUQ5NmsydWZtOTVwSE5zOEVoclVuYmkxblVZQ1FWdFlNbVRzcG9nTi0wN0JfbHc?oc=5
+- **2025-07-24** · [Markets analysis] It’s fear, not greed, that drives the stock market
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0JpeXRBdW1ZREE4eW1zSGE4LW45emNnX3V5clA5M0ZpSmNBaG5iVUpONzEtV0lPV3A2UW5FbU4taWJQQ2EyenM2R2hCQmJWRDN3UXRrZHAwVHFaX1pLTmRydUFDVm05VWxFcjdBbnVoOEZBVHhudnJmN1d3X3dWYzhIV3M?oc=5
+- **2025-07-24** · [Markets analysis] Is AI killing graduate jobs?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmNoejVIRm1sNnl2LVNJd1hQM1FwZnU5R2VPVjA4WlBWamRHZVRGcXpWOEhWZU5FT3ZJcS1MY21WU0dPLTUzY3JCNmN2dzlfR1VDZ1NqNG40bVljOEpTMUs2SnlsZFZLZXotb1FDd2xMdHR6OEJMcXZ4OXplY3ROZmpCclA?oc=5
+- **2025-07-24** · [Markets analysis] Nvidia AI chips worth $1bn smuggled to China after Trump export controls
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOanpVdklQdHdrUEk5NE1tZDFVYkJLSUg5blp4X19nXzAwRDBGQUFzMUVUSkozSkc1MDEzQ084YzVvMGNIdHU0anl5cGhGY0xSZTNMM3JaN2J5U0VuQkpleER3TGVyN2tYUXktVW14ODluTHVwXzJqNEJDaE9qMDBaZkpNQWE?oc=5
+- **2025-07-23** · [Markets analysis] Yamamoto Trading Co Ltd, 385A:TYO summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTnVHcXUwZ19SMnl6ZjdaMTJURjVRbG9lS21IMXZBeDdwWkh5S0dIWUszR2hEQlc5YzF5a3hHSGZwREJiY0lMQy1vbmM0TmIzQngxcURwb01tWEIxeG9VYWRSc1Bpcm9DZTBncEFpYnJ2eW8?oc=5
+- **2025-07-23** · [Lex] Legacy forward: the vision that shaped a global wine icon
+  - https://news.google.com/rss/articles/CBMipwFBVV95cUxPanhtVHQySkNyWThlS2FGVDVpYzBTTFBDLWJ3SG01VkpUWmtpR2U1Unh5SnhqRko0OFpQcUc1OFZhZ291M2JUNU5SQ0JMa0JwcHRLMnFMbkJNeHdYb2pNV1R6bHRUdWJfNUZSN3FqWU0tZGRMV1dscWFVYUpvU1NwV1AyZGc4ei1MWnZFRmxHdU4tM1pFcXdEZmV2Z0JMa1hKVmxobGFDZw?oc=5
+- **2025-07-23** · [Lex] Meme stock 2.0 may prove fleeting
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNamdsLXZfZzF4VDM5UWxrMEJoMUd1dmtHWnpVU0VyRWJ6S1Y3cXhZWlNsRTBKbVNZM0JEd2lCal9zSE91RDNZRHVGbE1GTlBmeUtPdmk3eE16ckF5VGFqXzBEdzJ4M3laZktNTHExczZNd1hDUHU5SU1HRVU1bEx5dFlHZnU?oc=5
+- **2025-07-23** · [Lex] Luxury brands ease off on price rises as shoppers push back
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnA4Vml6ZkIxR3JUek05RzN0V0p6UldKT1pNS2ExSXNlRkh0TmhET21JWWdZc2hjTWxtSkk2NjFRdUhSd2VKMkdielpSSGx6TGtrbDNPSmVBVkxXQm9iaEszZFRGODV0VnRwX1BIckVzS0RkYXEzTmljRWNhNHZLbHFPZmg?oc=5
+- **2025-07-23** · [Lex] Deloitte probed by UK watchdog over Glencore audits
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3VMSUVnYjhRVERBREZ1SGxYSFladUFUY3QwWXYwN2IzTkJ3WnJ5WUUyMW1SaG9yWVp6SU10a25EWjhweFRsS2F0Sms1RWQ1dnhUWnJRVXNhRmYwcGstTEdSOWJXMUllRUpCV05US1F6cGpVbmxiNEIyTUt4eVRUZkFGNFI?oc=5
+- **2025-07-22** · [Lex] Global uncertainty gives rise to new strategies in consumer and retail
+  - https://news.google.com/rss/articles/CBMimgJBVV95cUxNM2poN29MSFQwaG5CeGF2U1hkQzlRbmx5YmNBelN5TnF1LXBETkZMVlhsNnV6dFpCUDdjQUFna29xQ0FlSFgwT2RUU0RZUlJvYldrR2k1T00wNnFjWlBUOG1JZGcxcGZuUXFTazA5bXE5SDRvWGlpeG95MUxLbVZqRUpfY0xCV2F3Mlc2Sy1jQ2loYjBVV25fMkNoM3FzZjU3MFBHSUdKZkV0ZUhLSnhDcU14bU52NG56Q1RfZWFGd0xvc1RsS1BFTFNZRXQ5M1lXRF8xR3RBUDlrV0E1NGR4Rko5cWQweGl3Rk9KejAzZlY4YTNrUmM1U3ZJRkgwdVVYS3VWd2JHajFLN3JuZlV1NEZLLUVrZ2ZveWc?oc=5
+- **2025-07-22** · [Unhedged] Microsoft poaches top Google DeepMind staff in AI talent war
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1QtclM4TG9LM3J2T2dONTJUUWpLVzVyRGY2bDZEQmhISDM1cFBmVmhiWjlQVXlveTY4b01KZW9sS1RVXzZVWk15ZU1XdVhsS2U1OFBtN2k1SXQ3aE5mSjZhMGxSemoyNTAwX09YWDMxeTVnYzA3UURVOGFpQ3Q5LXozYms?oc=5
+- **2025-07-22** · [Unhedged] How we made it: UK river flows record lows
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXltRVU1VU5RYXk1dWg3SFV5OGJRQVgwcVRqWmhvazc5U2gyamFpdnpaQmhMT2pScG85c281SlJkT2VVX1dqV0o5STdUOWFSbGFOMmRtVlBKOW4zU2RLTG9SaWZUZzBMby0xMDFoc3V2MWtoME1hUmQ1ZFFkdlUyRnhMd20?oc=5
+- **2025-07-22** · [Unhedged] Why a $2.5bn refurbishment of the Federal Reserve could be Jay Powell’s undoing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSm5UVHEzWnNva21LLWZDRVRlanJkbDZCdDY2NWF3VkM5ejhWNjdGQzJDTTYxVGVuaW5FQUJxZWg2Vm9jTWMtQkQ0YUU2QVBKZXdpQ3loUjZ6ZXBzanZ1UzE5NzFMUmhqbjBCSC12REdESncxNk1HTHh3eXB5SFhrcWNrajk?oc=5
+- **2025-07-22** · [Lex] McKinsey bars China practice from generative AI work amid geopolitical tensions
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFBKT0k2WVdtaXZneHJZQUFSeFFpMUNQQ3hOdGtNQ0FROUhUZy11d1lYdTA3bzhIT1VqaVlKU25UVkp2aVhHREZlU2M4b3JVVG1NTk9ybUhMY24xNmJHUjJpWW5udkc2SGJ0N3ZsdFk4ZVBrU192RlBVUWdWczRBNWFRRDc?oc=5
+- **2025-07-22** · [Lex] Franco-German engine hums as Merz and Macron meet in Berlin
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXZYUVR3VG5TV05xb0NvdDlVLW5LLU1sMWttSUYxY0twUGtDSjUzQ3FEUzMzOG5vOVVjeWk1VHczSGVhdVdOa1ppX0ZSaktwaTltU2kwNlhIQ3VWNk1lM2N0T0EybmI3RlVLRDNSUVNhMGRfMHhLOXZBblpZd0hEVnpjRWw?oc=5
+- **2025-07-22** · [Lex] AstraZeneca pledges $50bn in US investment as Trump pharma tariffs loom
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDk4V3AtcFdZNUFJRktoNmNDZVZvbzhLUF9ZOE9OSWkxSlNDYTN3ZmhzN1JhU0FONEpXVzJySTZ0aGU2YW5xQlpaM0MwUXUtUmo2dHRKZWxxVXdYUXB5ZFg0dWJJQmRBdGl5QzVYajdoMk1sRWRZdzVLdEpfSHJlM1B2THA?oc=5
+- **2025-07-22** · [Lex, Markets analysis] Big Tech lobbying surges as companies try to shape Trump’s AI policy
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnM3RDlFN0hUZ29DQldSV0c2am1DNnZSU2xSdGFTd2xWSVVDQTE3V1BHVldvamx0SkxySkliSHA2YnBPbDNqS3JUdWIwYk5MWFM3MXJGNFZRbmZDMl9wN21ldy16NlM2djB1VmxEUDdNdFl6V0R1WkdaZWFLdWVPRklRcWs?oc=5
+- **2025-07-22** · [Markets analysis] Mike Lynch estate and business partner must pay £740mn to HP Enterprise, court rules
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTBmdW00ZmdMc1U1RUVmYnJBN2VwbHBpM0NicXpPa3Q4NWU3S1JUYkJORU95ZzdIVGk4blRKaUpPdFlSSjdZeS1sTWdYOUNySTIxR3NxSjNWTS1ZQnlVNzE5dWxFTW0zaU51MjhBYmhVSTAzNXpQOUFUQkhzZGJzVDBXMVU?oc=5
+- **2025-07-22** · [Markets analysis] FCA warns insurers over hidden ‘double dip’ charges on UK customers
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnhHRjJUQlNHOW1zUTlDNEY5NlFCamh1d0JZQXRsQUl5Z1gwYldyaXN2MlF6cG5EZ0tzb1hsMjdPYkpobmJDSkRpeEJLQXk4Y0NnazdQY2pwVHRISTBKUHFnSDR5NS1fYnJKeE10ajlwXzNhWEtZRHVncFlfRUxONUtlTzU?oc=5
+- **2025-07-21** · [Markets analysis] The Gen Z effect: rethinking financial services for digital natives
+  - https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWnkwMFpSRlQtVHAzSmVUaHNSWGpGZWFIOUpxWTVGLWNJbERISnFObk56R0pLSnY0dllEeXVlbjBKWllfQlkxTUJuVVhjdkVSZEh0VThCdXFfLXJiNEpuT05wOFFRUFRpeDVfUTJKVThac2FScUdLM3RiNXdWanlGbHp6WEpPbkFndzBvOF9GTWVYeXJ5NEd4OXVrQnZTdXo1LUM1QVpRMUpJRGJUVlZvY3RjWUtVa3AySS1OUlpoTS0wQUJldTRYa1AyTFlGb3NjWE1MYVZWSW1ndEpyejRibHViak5nc0xvM2h5YVMzVG11X3pZ?oc=5
+- **2025-07-21** · [Unhedged, Markets analysis] The Magnificent 7 growth slowdown
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkJqZnVkeUxXcEljaG5nUkNtbjlmVlN1Z0tsTldVdHVYbVFyX29rV1Z1aTFGbERXNEpuRnRxS1BsQXNWaFhWQS0yejFDNkpRUzkwVGZXNFlPck1JaUxwTlZzOE1sR25XcnJBTlhhZVRQN2ZEOEIwM2dvMVRIZzB0V1FEcDM?oc=5
+- **2025-07-21** · [Unhedged, The Long View] Polymarket buys regulated exchange to expand prediction market in US
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXBPOXU1TDhoNERtcUdWa2JRUTJJT0xlZVV1YlhGd1NzOVIybXdENmlIejRsWEh5bmN6cnRWTndpRVlHVlplamRLUjhvbEptYnlhNDQtdlF0bFNQMzF2R2R6dXhJa1dIaGdjMlctY09rVnp0MTBGbzUwWFVZRms3emJXVkc?oc=5
+- **2025-07-21** · [Unhedged] Why restrictions on capital flows should be considered
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBiMXZDenh5OXR0dkEwem1veDBGYnM3T0tNcFQ4N0JOOWk1ZTZKdlotWThNVW0yTmtNeXZlVDJGd3FXX0xud244R3FFLU9rWHF1UGdQUy1kN01WaXZqNDRyZVRPMXZSWFpxd2MtVy15OEw?oc=5
+- **2025-07-21** · [Unhedged] Scott Bessent calls for probe into ‘the entire Federal Reserve institution’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTVYVlFmdVozMlVwbHBUcE1RZEtKVUZocjYwUHE0S0Vvcmdac1ROYmJWLTlDYm1KaHRlVjUzVFFjQlBDY21SSXpTYkVrbGxpV2g5ZklvZ1liUHg5NThHMEltV3pFb2xNUzB1bm5UR3pFLUh5U3RpTXJLTTdKSHVuSi1hTUc?oc=5
+- **2025-07-21** · [Unhedged] FTAV Q&A: Nathaniel Fried
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE83ZjRVUDhZQjhTYThQUExkRS02WTBacmJJbHBycURsaTNqdXBOcUhZTFNSeHFzREJ1TkIzRWh0My1Gc2YyRU5oZUdQSGFFc09RcGJ0R3dhTng1TVZEaDNHZEMwQ1NaY3owamp4XzJDTjQ?oc=5
+- **2025-07-21** · [Unhedged] The ‘hallucinations’ that haunt AI: why chatbots struggle to tell the truth
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFprd1BmQlNwQWhXNTdXT0lwWGt3Z0Z0UXJsT2oyMXFNWkkxbm5vQXQ5VVJ2aFc4NHJIUVpBZGQxc3hBc3pDVnNFSDktWHJtQ2o3MlFwN1BlTEQyUDBSYTdBdmZsZWRZOXVWNzR2R0Z0YVBxUlhwRGx6S1VoSF9PUTByZWE?oc=5
+- **2025-07-21** · [Lex] IMF deputy Gita Gopinath to step down in August
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQUk5LSkxudk10RUdGb0kyTnQ1RkQyalE3eHRYeHVNMnFPUWQ0ME1NMDdJdzVXTEoxd1NvUnNXRzU2MkNoeHpIV29vZEk3dTVZMTllT3o2MFpZS2FidktUdDhiMmNCaHZaekdMYUhBRUZNMTcyaGQwMEhacVd1UmtLTXhtUWw?oc=5
+- **2025-07-21** · [Lex] China’s BYD calls UK electric car subsidies ‘stupid’ as it expands in Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbVN4VFVGRnpqdUN6UDYzd1JOYkZoV0RqRXg1MWFBS29JM2JVazFURHplWkpBWmtoZWE5VUxaUzVjZGpLV1pTVUJpOURLSktaal90MlUzQWs2UVpMcEs2YUUtaEVic3JrTWR6MmxHMmMzV0RFV3YzeThtcjJqUWk1R2hadDQ?oc=5
+- **2025-07-21** · [Lex] How the diamond industry lost its sparkle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHo5dU5WQ0lWQmU0M21kSUplMkMzTENIZjZtV0hmUEZrTW5OX3pKR29HVkVTaU5wQ1NucmpzUVoxNUFxbVNia2ZON0lOcE85QmVDcWpUcDVyVGVXbExVVWtmc1FRRHhJV2ZoTEZQazE1Y1g3bzdiWlVPMUhCOTZ3d0dBVHo?oc=5
+- **2025-07-21** · [Markets analysis] Russia’s drone swarms pierce Ukraine’s defences at record rate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTVBcEVqd0pUVVRiVnNYVkdEczBHUVJaNzJnY1ZuZ3pvTnAtZm93VEV2c3NJS0RLcFZISnVJRGlURE10Ni05T2F1bHhUWldfTUZkMEJFLTR1a25fc1JVdFI0MkFxamx4anJkSk5tNlNMOEp1aEpfNTdLN05YbW9ralZKSXY?oc=5
+- **2025-07-20** · [Unhedged] Is the ECB worried about the strength of the euro?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXRqSUxnYW1TcFpWWUVMYUZpd09kTG9ZWnNHV2xGS0RZaUFzYlVzTkd1UnQ0VzFsS0pnZlBHb1l5VldnU0lkNlF4UmZQX3lCM2FYNUZOZDIzTURFWmtLRjFEWmRHeEo5ajhIeVlZb2RMSG1rUjZhMFBVWS1BRjQ4Qy1jTS0?oc=5
+- **2025-07-20** · [Unhedged] The US economy is more fragile than it appears
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU9jeTE3X3E3bmVvN3hEOTNkZkk5YTZGNFB1QnhaZlJoWmtzOEtkdDBQNDJ1cmlQWEVUdEZ4b3RyR2h2c0Y1WnAtMWtwSmFxZjZScWtXaDlud1MtVWZhOWdSbWxQSlpUVDktMDIzWmowSmdnd3g5cmFnN0dyX3p3Z2hmMnc?oc=5
+- **2025-07-20** · [Lex] SBI Shinsei makes a comeback as Japan’s megabanks rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVZuc1E3OVlxWXYtMmFpY3FHVDVGRE04bXh3NFRjWUlLWjlqNXJoX2g3eWFfMXFmcGhQeGxROFgyakpFY1dXTkJjZDUtMDlTVE5IazRnZkVONFhyREJkdWR5djlUVEFxalRsaGhSbFFxTDJjZHVqeGtiZWpRY2ZwRm5EaEI?oc=5
+- **2025-07-20** · [Lex] Daimler Truck considers China production exit as it faces ‘crazy’ down cycle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjY2VzJFcU9hMW9YVzg4anpzaEpnMmJUUlpVaVEzMlE3RUxRdEo4SU1aLXhoOFhFWlZmQlZBT2MzeE5IYm81TTRxUUxRV2JtS0dobnJZSF8wRFR5S3ptbTBVejJGTXByQWFFTGZRX2RNNEtLOEx6bXdRSGI1dTF0ZWszc00?oc=5
+- **2025-07-20** · [Lex] Space is the new factory floor
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNazk3Q2tXQkdFM1pDaktKckFzQUNYdTM2UTBJb3FNaUVoQklsTmNDWkZydHE5eGdFUGRTblozanpmNTZ2emFjOTNLWndKdXNVdGs5N1drSEpZdU9HV0NpNDRod3F2N0I5NVptUmlkMTQxLWZRNDF3LXFYd2xnNFFUaTdSN0o?oc=5
+- **2025-07-20** · [Markets analysis] ‘America First’ and other financial follies — the best new books on economics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3NvbDhNMFEtNEx2WmZQeS1GMDhfZzNCcUpPOUZ0TFZuSUU1TVl6UVNicElyV3RmUnc5ZGV4VnVCVjhJdk5mZHVMeTdaQll4cUFhMkJXTUNGb0VEWkp0QjNiYjVpWDBpM1lHRF9qcHpqcXk3UldFcEw5UUFWOGJrXzVzRU4?oc=5
+- **2025-07-20** · [Markets analysis] A scathing rebuke to hedge funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQVndHcnk0aHRvUWh2VEk1d09Xek9kV3BLaUtsWU1ZNFEybVBkMWJVbktUeGFoeV9rOVJkcncwMDl5TE04djRuUE1RRnNwaTZFc1NXRGRxZ3YyX2ZIM3ZqVmJHeDQ0dmJMYmd2T0lFLVc5SkJ5V1hjVUc1SFBGWUVyc1FvMjY?oc=5
+- **2025-07-19** · [Lex] First Trust Bloomberg Artificial Intelligence UCITS ETF Class A Acc, FGPT:LSE:GBX summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE8xS3E5VEtsZGREcFhvUHdTcjFDNGl2NlEwRmoxUk04V1dxSUU1aDhqRnlwck0tc2xfQWs2YXZpRjV2T3RnNlplUldnT210b1dab3A3Tl9wdS03aEdubWVHV1pPdm9hM3VQQWtHSG9hR2xmTkU?oc=5
+- **2025-07-19** · [Unhedged] Apollo vs Ares: investor rivalry enters sporting arena
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0RRWW10ZmhFNnJEdU9rR1NoVUx4QmU1SHh4alBpLXlYMXpmN1Jva2lPaHotMVJ5dklrN3R6bTJfMDJNQlptUEJ6aUtUdlItaGs3YUNreHBLQlBkdVRhbVlKcHBZWGlXV2hEbE1NbkdOVU9FN0Yxbl9yV1NVNnZWWWZBWVY?oc=5
+- **2025-07-19** · [Lex] Why Levi’s is back in fashion
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOS18tdFUxTnBKVFFYRkQwLWRUb3h3QmRpamlSRlBZTWNTLTdxSGg4VjYybnBxVlk5MDhXSVZkck1jSHRlYnRxQVR4dVdCdEhSSzFONC1GbWVhSFNhekJvTEIwdEJuSzU1SjFKVHd4MnQwelFya1VzXzljSHpEUDlCcnNYd2Y?oc=5
+- **2025-07-18** · [Lex] Faster breakthroughs, broader access: a new cancer innovation model
+  - https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0ZPMGNPdE1saUQ5UDhuSWdNVlVmX2g2b0dKaElVbHloOC1pVlVXX3JOZ2p5V2hValU1NWFsU3FBSGxWZ2RENkd4TDdXYVZ6TUxaek1BUHNucldITDhUcGJyWjFKbWp6bnFsVm1LdFM5eFZVbVhCSVNtS2N2MzN2R0xGcU5zVkpxNnFYbzRLZkZCS1Z5VE5JbmN1a04xOFAwU1c5bndFQTYzMnZSNmJBeVpvM3IxWlJuLUgwYQ?oc=5
+- **2025-07-18** · [Lex] Reckitt joins in the great consumer goods jumble sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFRXRmhvT2hGMkI2aGZVQzZRRjJ5RGhJTllhMHduTWJsaGdGRFJMQWFVSVQ4UFBUMWNPYXIyZVkyUWE0SHdUYm9Sa3lHUVJCU0tCRGVwRjd3SWo4aFZySkF5cHNuNkJzQmFHeGtwY3BWRFVRNXFDSG8tSWJFZTZWQzcyMEk?oc=5
+- **2025-07-18** · [Lex] Reckitt agrees $4.8bn sale of cleaning products unit to Advent
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2FKM1hoYW4wTDNKeFZ3MHZlVjNDTmYzeUI3NTctbFpkZERUcmMzbi1FclVGNmE4SjZiTXZOMDJaeUxsblhmeHBZVkdxZkhvdUxENGZheHhJcjhXLWh3azNSU1NTaG55cG45cmw0T1AxeW9KU3BHMFhHYUlUdmt4NzVsX20?oc=5
+- **2025-07-18** · [Markets analysis] Business school teaching case study: Powering entrepreneurs in rural towns
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAzOXZlYW1BR2NfZ1k5cDN5dlQwOTdDWjdWQm9vMGlHU1lMSlcyUWpyc083TjhaQWtRemhUdTJFVC1pQ2RwQWNlUTAwUlNvMHZRTmVfWktpb0NuYV9Id00zbUQxWFJGRmxIVXZUWDU2aXI?oc=5
+- **2025-07-18** · [Lex] What high-trust cargo looks like: lessons from live animal logistics
+  - https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWTNZN1h0dEw3NzBuZGFHanJjR0pGSkpNVExPTFRwY2tSR092RU9PYS1KT3lra2RKa3BBX2UtdHRnSXBwcmxHcWtJTFd6eEdlNDhqOUZaVXlndndhZi1qOWpXaGVKdWdDcHZMdWZIQjVrRUJxVVZ6T2hxd0xwRWllRFVmSXhDTlRqbmIwT0pXVXFIcXQxTU02VlEwLV90YkpEdmxKbDJoWm9qQlU4UEZwQ0ZxaGd6OGpzX1JDdV9rejBVbTMwOGlLQnNobVlzUVIzVFBnYkxvSmNzaE1EVlZzY29iSDF4VUd6cUZKYUxVeVhVdnJiU2trWmFXV3k?oc=5
+- **2025-07-17** · [Lex] iMGP DBi Managed Futures ex-Commodities I USD, LU3037898981:USD summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTE05Y1J6blZ3c1JCOFF6cWRmNlZqMThPVzZZUjItandqbzIwM2ZwcGszaW9BSHEzN09ySHo5RGI2dVdGVjZ4QXdtYVNEbG13blo1T0pyWGFQVjBaUmlicWJUUFVUN0NrQVpLRmhZMzVBYzFXV1VhRF8tUGhB?oc=5
+- **2025-07-17** · [Lex] LO Funds - Asia Diversified High Yield Bond (USD) M, LU2920494635:USD summary
+  - https://news.google.com/rss/articles/CBMiekFVX3lxTFBVN1g1UEFvZEZmb1I5Y19KX3lRdGN3cGV5dk1xVFFQYTQ2RGZWT3Z5RnZad3J5Sk1XMWNJU1JFd2pKX1pOanMtWWJvOUI4NDdzSm5VMW91WHFXMnBmcDZEb3dBM1hRVHVFQkhSNVl6YjZSTzFNbGMteEV3?oc=5
+- **2025-07-17** · [Unhedged] Private-equity backed insurer CFC weighs London listing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjRvNVJzcDd4MEkteEt4bHpxMDRjUV9XMUgyMUZUY09XTjNlaVQ5YzhKdWtDdnBfNHNvSG1WaVp1UGFTVWIyUFFtT1I4eE55d3JFRnU2MzlmZ01wM2hZd2dmeE1ha0dUWVcyLWFNdF94SElKWnhIOTRrZHpEVFJyMERLSXY?oc=5
+- **2025-07-17** · [Unhedged] AI start-up Perplexity’s valuation tops $18bn months after latest funding round
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFdYOWFkS3N5ZlQ5TmYyTnY5TEh4bS1ZSEQ2MVAwU1Y3cHVXVVl2TUw3LVJYeURJem5EbUtITFNvaDFrQjNWTGVRT2h0b1B1QXRFVC1EZTlqRy0xYWZlOEF5SFkzVDdCclZMblgxWlpMblViNEtkNzh4RWJ4NnJYV0x1ZjM?oc=5
+- **2025-07-17** · [Unhedged] US Congress passes landmark bill to regulate stablecoins
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNTG5jZXRXSVJWSU1rOEswR1NUM243MVNjVWdFcXFIOGJSMkJwNTdNZTlXV21JcTUxSHRwMXJsbmZRSWhLNVNrLVk3YkNmX1dVeWtlbzEzd3dpNHNsV0tJU2JKMUcwRkNjQUloWFJSeE40R2phT29ta21wVEJ6bHZXR1U0S28?oc=5
+- **2025-07-17** · [Unhedged] Chatbots in the classroom: how AI is reshaping higher education
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHhQYWlhNDR6TTdrRDY1WTVkSi12YWVvYUd3OGhFQnNNNTEwT1lBbmUtOGFNZnl6Y09NeEVHaHFCWVJOUjBUUVVFeWV3TmFmY0RwSW83RTFaUTZKRmFVMTEwTWw0bTZZR3lhWUVNTkpLUGV0aXJSUnhzMjFJd3NTTW5xZHM?oc=5
+- **2025-07-17** · [Unhedged] BrewDog: IOUs and PE walk into a bar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNckNuRkhuNHpSQktuWDNFZExqX3k4bDByaDJmRk5xRVhTbWU4N041UUdaQy1mbmFRaVhZdlN5Q1JWUUlVOFhqeEN1Vy1fcFR6eERiekExUGZYcmM2cmNydk0weHRZdXJPNUJGb3Z4RGZIS1Bha1VGUWxqNUtXLUU5a3kyYlY?oc=5
+- **2025-07-17** · [Lex] Broadband’s tiny barbarians gather at BT’s gate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNE9xcllkQng2bGk5a29qRWtGNFB0ZzFPV0ZuSldxVW5ZU0Z5eGhtQXc0cVpOLVdzVnlYQXN3Vk1ySjVIamY1Y1l3dnkzbUhWWWxFWUtOVVRQaVRfZjJKUk93NEhkUXBHWTVIX3dJSGt0bVhSYXlMc2xZTDhYV1FzQXhZLVM?oc=5
+- **2025-07-17** · [Markets analysis] Rising graduate joblessness is mainly affecting men. Will that last?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzVpQVNBb3JjVTlxVHM3dlUxYWt4d0djZjNvRUNSSVRNcnpCc0M4dHpXVXM5X29Ic1U1Tm1fWXV5Y25fV2x3aDgtRmEyNy0xN3pUcnBlZEdCUEViN2c0UTVBV0tsY05JVXlheEppdThJVWhFeHZpLXJYUGdvaFpQUk1lNC0?oc=5
+- **2025-07-16** · [Lex, Markets analysis] Down in one: how private equity swallowed the BrewDog Unicorn
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbDFWcjRUS1ViX0VtbnhhNHo1RWgwNzBGelNIQnlNbHNJYTFzbVJwdTZMX0d5RzJjc2hYMVN0bFpZTjgycjJJVmJta1FKeDFTVVRqRUUwbWY1MHNsUjRKZ2RWaVlCSE4zRTktemY2QjY?oc=5
+- **2025-07-16** · [Markets analysis] The bitcoin rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2pUYTN2Nng3TmI5T1EtWDFjQlJqUEo1VUpoeW8wWFlEZXBtNnZ0OTI4VUVQQktWNktsZ1k2NFM3anhJVFlJSE5LNjAxemJyX2tTc0RVMXgtYlFFN2VIYjl1MzZFd0J6djdvV3FyVkN1d1h4OXoxVW9aZWh2bG8tVVZuMnc?oc=5
+- **2025-07-15** · [Lex] How studying among a global cohort gives senior leaders the edge
+  - https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVJ5eWlMRk8wam5CTENKc0hOWER6TkxqY19vZVJHYm10dzlld1drVzVFaXhHX0tKcTRUUTIzMmN5UUdMbmhHZ0ZycEdod1RHZVFmVFF0aC1MTXZFaTZIUnM4N1NVbTBVLUVHOFJVbkpjRG1lWVVna0RVTE0tVFExMFFHMmdRZ0djWFFOZU5UM0I3ZGpPLW5IYjBSVGZnbXB6Q2dlVk9jbFpjVlBpa1E4anowTnpOU2ZG?oc=5
+- **2025-07-15** · [Unhedged] US inflation reaches 2.7% as Trump tariffs hit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWsxYmNZdjZpU0I4MHhqcGotN1RVOHJIakpKSFlLQVNZTW0yMndZWXljTjRSUk0xTVVidWZZMU5QTkV0U2hWNDg5eDFGNDlldDc3MDNlVFBuRl9kSTZqNDVhVUZJdHVFNVFHWkZOS3k4dzFWTUxCVnNDOFRkWWJaZG9DZ1g?oc=5
+- **2025-07-15** · [Unhedged, Markets analysis] How a British private equity firm became a $100bn tech success
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjBpZHJuUHppMzZvRExoQWJZenJ5SzJCTUNhUGc3Vmo0SzJabDFub2t3dVhtbElLMzlfVjZYbFNKM1VadGJHUlZ5d0R6djBYOG9GWUZsVG9hRE80QmhOcElZLWdQRzdCUC1ZZ0taRWJzclRHWlZPWVlCaGdMOFVDejNKX0E?oc=5
+- **2025-07-15** · [Lex] Trustpilot’s 5-star rating feels a little generous
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMERzWFczcFZZM2k1azJ6aEt2SjlkVlFVMGMycFlUeWQ5VDc1cHBWOE94X282UndSRi1qbVhQNkFXUm1zWjh0S3RCMWVtUy15NlVkVV8xMnZyU2ZZRkZ6aEFwTGpINHBqeUlCeTFGTE9KRGp0SG1VbV9rWTc4WHhBMmk5MWk?oc=5
+- **2025-07-15** · [Lex] FTSE 100 hits 9,000 points for first time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmhZcGJPUzJNZ3pILWY1b214RXFCRWVHYzhydmdSaVVHY3BxU2xKbV8tNmkxcHlFTFpfV3lsSXFKM1lla3JFY040SExacElKXy1UckdSSmNhZ2lBVGNZN0RybDg4bWF6TDVNWDVvRmNJNjc3ZlVNdTVvS28tbklvOE1ucjU?oc=5
+- **2025-07-15** · [Lex] BlackRock inflows hit after big client withdraws $52bn
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3VjdUJqX3p4YnRxU24xazVubTdNME1CNG8yblBOMVRxQV9rb0VQRURFWTQzZU55VGtJUDZfLTUxbExXSEJBRnlVVmxzelhnWk41Z2VhNUdVRmg5bzJrMGlpTW5pMzVsWjdYSXFiay0xb1QwQXphWEJoYWlrSE1Wb1hJb2k?oc=5
+- **2025-07-15** · [Lex] GM’s Korea plants leave Detroit carmaker fully exposed to US tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFNyd2tHWUV1bWp3VlF1WWNZeUc1Nno1Z2ZwR0d0Z250b3dlZTFoVnNIX3lhQ2toMzhEYUdYbEZuUTdYY1JNcG5Jbm1aR2xtVjloalI4RWZ4YUxGeTFXMHAxN2F6VnZISGsxTVhrQVVQMnBMalRkUzhSREZKLVVkOXA3M3Q?oc=5
+- **2025-07-15** · [Markets analysis] Crypto is top money laundering threat, warns new EU watchdog
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNT09zM3Y1Q2ZuMXQtcm5hS3hKNFFlamZzSWJ5cGo1M21CX01udW9pNXIydks4MGM3NDF4aUlwX3Q1dFpGRTZtMTVkbTA1Q3VEdnlyNS1QRXY3X2dkSC1YejZJeHF4MnBVUDlrbldkb2QyM3RvMG5TdFdDMExycXZ0cEZteGc?oc=5
+- **2025-07-15** · [Markets analysis] Chinese stocks go down at night because no one trusts anyone: study
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE54d3RscXZOSHFfcm1CdkhqWDVCTjR3Skw5QUtuY1czdF94T0dyYVdKLUlGU2pCbUpxc3dRdTU2WGpQYjdLYmVobFZ2LW5WTXAzNDNNY0dnWWRfV3RiNWtjeDE5bzhmQmVFaDlkOF9BSXk?oc=5
+- **2025-07-15** · [Markets analysis] VODAFONE ANNOUNCES PRICING OF CASH TENDER OFFERS
+  - https://news.google.com/rss/articles/CBMilgFBVV95cUxPdlNoN0M5YV9wT2ZBY294cjZZcEpZaWRSNENnc2x0OThvZWt1ODNFTVlkcG03NTk1MWZEd0l0TkVDY0pVd295bFVNLTZnV09DMDk2S2ZKM2V3LU1QX3BoS2NuNjlIR01ieFl0MFdTZ2xvaG13NmtIQW9HS0xLQUN5azg2S04wSG5neS1BODRXWkxvWUlHV0E?oc=5
+- **2025-07-15** · [Markets analysis] Donald Trump reaps $50bn tariff haul as world ‘chickens out’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2p6eVRGTE44N1MtcE91YUFVZkx2czN0U3lpRWM2NkdWMTM5S2FfeTctczZKV3VBREZlUGRZVGRteTFkMmhNd21QaHlZMG9FUXFsa2JtZ0dBdjVBZVk5SDVZcXFVanRYQnE3NHhFZmF3Q3lReHVZVHQ5VG9tT2RLNDE1Y3c?oc=5
+- **2025-07-14** · [Lex] Post Office scandal clouds Fujitsu’s AI rally
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWZCSjZieFNwWEZ5WmhNdklxZ3ZKT0lQMkJFY2NIc25URmFmcVFaS1FuWGdCTWp3R1ZTRWlneUpRUHU2eWZGZ1NPLUNrNXQ1UFZhQ0NnaGsySkx2Z3A1U2V5a2gzUW9XM0lfVHJEN0dKbTU0TFphYU9EbFdDanQydnRZODY?oc=5
+- **2025-07-14** · [Lex] LVMH’s Loro Piana placed under court administration over alleged worker exploitation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFY5OVdGMGdPUmZsX0RQT0NmN0t2a1YyQjBCYUtFMUtIX24xUjlzanBjX05tWmZESE12X1R6V29pblZvMG5wSmNzU29xSlU2Q0xPeTAtU1dTOEZRZk5HQmhCZEM5c051a2ZYSVlQQUFoMTFabFRnR3RZOUFNeWxTLWs1T0s?oc=5
+- **2025-07-14** · [Lex] Starling Bank weighs New York listing as part of US expansion plans
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbEc5UnhYQUF5TlRPN3piS3BvRkFqWmM4SUJaQWdVemVnMGZmWkpwV2lWSXBTUHFqR1kyWnhUM0hKWEFJY0tKS1ZoSm1PeXVmOEQ5WlJrcVdDZDRvNnRPdjVYNlVBQVc5YW5HZVpqSXdZLTNsZVBIZUpoQWE1THUxTGx3bms?oc=5
+- **2025-07-14** · [Markets analysis] How BYD caught up with Tesla in the global EV race
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjVhSHRFTTFweDRYVnpydmlQbnlISGxkUFlYd1E0Qkh3SFZmV3ZXa1V1Mkd4M1ZzdEh5QVVQWTRKY1RlN3ZRb192UVZpVmhndHI4MmIzWmloNnFyaVcwdU5heHRRdlBtdjlrcG53N0U4TDE0b2djV0RBTVZ5NVFzYm1heDk?oc=5
+- **2025-07-14** · [Markets analysis] ‘Murky’ Air India crash report deepens uncertainty for owner Tata
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWExjQm1HYkdYbFpXQlJSYXBUY2EteHc3bzduTHQ5V1MwLW5QSlJvQjV5Ync2c0JUUUpzbXBNM21zQ3dveVh6c3dRVWthamU1cXFPeVJfbDlLdDRyY0g4bkFZanpUTW5ndldOcUNJQ0NDeGpjalhFdkdRSGJyVjVnaUw3aFk?oc=5
+- **2025-07-14** · [Markets analysis] What could Zohran Mamdani mean for NYC’s prime property market?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBrbTBkOXdYT251ZDdmdmZGa1h3cXpEYVhSY1FhQTRmdFJGSE5xelVoN3ZEcUY5RGprVXY3WU1EcWZZd3N4bnVyNE9DRzRVNnRLQy1zaVlGNktCV3VwOUU0YnlwTnI4SDhyZWVXUlIyUkU?oc=5
+- **2025-07-13** · [Unhedged] How Labour can balance the books without doing more damage
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEVLVGRsWkVqZ1VYb0JyMnF0NlFUYVBtRElPSVBRTExHdHNpNkNKY1Z2QVdVNGN4OTJaalhIMVllSjlLcTVtMjVkQU1URk5TZTh2dTBhbEV6SGU5ZzdQQ2FiS042NFdMNTdFVE56cVhFOHRPM1Z2STJlQ0hfdU51RGRFa3c?oc=5
+- **2025-07-13** · [Lex] US demands to know what allies would do in event of war over Taiwan
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHY4WlB5Wk5yVmFhRi1CMnE2RVBSWlJqUlZZT0VfLUljUEhUcHZCZ192YjFUZm9uNURsZ3lwLVN0UlFJYXlDcjJsQVAzcl9DZXlsZHk4M2Q3ZTFqVUFxb2NsUUhEenM4Q0lSZGluOG0zV1dnNEdENVFfYzRXVVBidkpBamw?oc=5
+- **2025-07-13** · [Markets analysis] The markets are signalling a clear winner in the Middle East
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3dreXAzTUxieU5oa2lnQmhxN05ERU9GOENwczV6YnNrWlp1NWFjM0ZtZW9JY0xtTUhXWkpKUGd2bUtLV3FnaWFOYS13THBWMS1NM1JGYnMtT2dIQ0NZaEtFN0h4M2VqcmdpS0RhU2VZd3A4N3h6QWZCVGhKZmRIcGlqdk8?oc=5
+- **2025-07-13** · [Markets analysis] Inside Gaza’s ‘death traps’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRU9Cakl5S1lVTkpzRXlzaUVqejNNaFVmZzNwc2d4TTZqS0xyQ2FkV3JiWnpqNmhiTGthRk90ODNqdDFPSkR4QWswSExkRm5rdDNITXhiMUhEcW11anlUdGJXREpPOGhDN3JSaTlWQnVrN01XaGw1TElBOGRLcDFLaG10eTQ?oc=5
+- **2025-07-11** · [Unhedged] Does the US have Dutch disease?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5qYkVlUVcwclpWLVBxOXdtbGtxb29zZjJUNEEzcWRPRW9MVWVqTWk4VDJQT2NiYXV0a1kwdEwxUzF0dkE5ZmJSYUk2WDIxd1RaOEhKVllDX3FLaUI1NUtacVJqdkxscTFET2VMWk1BNWQ?oc=5
+- **2025-07-11** · [Unhedged] Kraft Heinz explores potential break-up
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnJ3QWdoUWM3WmZtT3JydU5PRUlqU3VXVXdsTk02OTZQTmdKUHAyQ2x0dmQ0N245UE9zQWRFRXZUT3Ffd3c1TTYwcGcyMWxUeDNDRld5TjNlUXFIVGhDeGpoVkZfNFdNdVBvTENUcTF0b2dUaEVBTEl2UG1WV1d4LVNtVk0?oc=5
+- **2025-07-11** · [Unhedged] What I could have learnt from René Girard
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWVJRnpDSl9XZ25TRnIwMUNxLTZFUW94TS1nWUF2VnVQZ1Z6UHJhcjNiMmw5dHpsdVZTSmlHYnlTTTU0SmJ3RXVzd1ktV3I2bHQ3NndwR0JZRFg0QVVtTGpub2lPY0RpeVVNY2o3SldTZUZaVkQwT3NBUHJCcFNIYVloZFo?oc=5
+- **2025-07-11** · [Unhedged] Trump’s ghost of Epstein past
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxON01QYTgtQUhzdWF4N1IxZkY4ZkgwMndWcHd6Q2xiVkJjVzlTeFFwWlpwc0xhaWJCUk14cmltR0lVZ2JuTDhDejhTYVpzalJwRExMa3lRanV6WXRDdlZpLTk1Wktqd2VUS3lDYndac2FVREU4UnlRby13RGVSX2NVN3RlOTk?oc=5
+- **2025-07-11** · [Markets analysis] The rocky path to global carbon pricing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDdVckRjU2NRV3VTa0VHSU85Z3hZaTg5dVp2VEw0NXJ6Q1BLVFEyWDNueGNncTZSbEo0dGVwXzNqd3kxWnRKXzBDdy1sd2V2Qm1qUnEzM3pSd0R5NWFQY3BPdFlibVpQeFh1cTJzN3hPU1FKRzl2eVFsMjl3b1J5ZnM3eVk?oc=5
+- **2025-07-11** · [Markets analysis] The new age of geoeconomics
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWNvenA0U1NfalE1cUtlcFJJSVZPcVAwaktjUU5hNkN2Uy00V0k1aDRiOGFzdHd0bjJuR2w3VXhsSmQ3eGo4M2w4VS1Ldlp1SFlna3d2M2swYmg0Zkk5bFdvSnltQlFGT01tY1VLbEpmRXEyOG10VEd6eGV5ZlpialJYZXE?oc=5
+- **2025-07-10** · [Unhedged] The evolution of stupid
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXh0TmRZN3YwVk00d1c1VUp1eGMybGZHaDhTQnBFTzdNbDVtYjdfN1NXNHpIUWtnTHhUelpvTktvRXprRG12azc1c3UxbVFhbHQ1Qy1oS2FaNldXU05vY09MTzk5NXhIWWRRTlo5MWNMRTBGNXhJNXhYaUF6N0RjemNaMVY?oc=5
+- **2025-07-10** · [Unhedged, Lex] Grand sham finals, Ackman edition
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFB0Sm9pbGRYY21PM1BBalFZS1hTOThEOE5lemM5am5HbnRraTllODBpTjRwLURLdE9GMzB5c2hkS3VCWE00ME9DUWw1TTM3NUlMWFV3OXd3b0RBMjlOVVcwSWgtUjZYYktKWmFRdHpXS3I?oc=5
+- **2025-07-10** · [Lex, Markets analysis] Robinhood: a bold story with a fairytale valuation
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ25mX2xUUmt1bmxUcTFyOUVYVllkdmYwX21kV2NXbXZ6ZWVBanZpdzhkZGxYbVQ0M2loc1dEbjU2cEI2aWlSSENqanBsOUtQWkxaMFZaN2M5V0VfYi1Qc1hvU3NQbGg3OU5qWlh0alRwVGpCWktNOGFYYXozNFFUV043eHE?oc=5
+- **2025-07-10** · [Lex] Uniqlo basks in consumers buying ‘summer all year’ clothes in hotter climate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWpVOGVIWkl5bGotbU9xY2wwaFAyd3l1V2pOUEZ4cXFPZ2VlenJuLTN3MWZkS3RWSFlMXzF1TDVra1V4MjdtX1h0V084ZGJfY1d5QkZ0TzVBMVRkU1Q4djg3aEhmdmc1aXdBVnk0VVBEeTc5bGhXMWQ4SGtIcndkNERhRHc?oc=5
+- **2025-07-10** · [Lex] Chocolate giant Barry Callebaut cuts outlook again on ‘unprecedented’ cocoa volatility
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHo5RmF6bXE3R2VvR2Z5SWdsQ3BjanhDTjBiSGY2NGNiSS1waUFKdnpOSS0za0FjUlA2QlZYUXUzd2dXZmNOeUo0YzVUZ2dCRG1tdTQ5X202WnZZak1Wak4tMDRjZGUzS21qUkJxbFd1S0hKWXFCbnllTml6cDJQTnZMVnA?oc=5
+- **2025-07-10** · [Lex] Humans must remain at the heart of the AI story
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBjOGNoNWU0NWQ5X2M4eXBSMVoyT3VNU3NJckdkQVNac1lDNEZJR1NGdmlaS0xfZ0NDYURKUkd5YTRtbDBNa1EweHc3aS1sWXFwaGx4QzNFeTVGRkxRRDJkV2xmN0FLekFFS0FjSUNDSkM?oc=5
+- **2025-07-10** · [Lex] Britain and Europe need to get serious about air conditioning
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmpsYUtiSVM4NEp4cHFqeDYyU2pHbzFSVGUtaVY1TFkzN21PWDk2ekdyQVNCeEZ2VERnZi1GdGhTelhIdGhELTJjWF9pMHFoQzRRcExHbzFYcHlRNldOa2ozMEE1S1JxeFBPdUExM2RnWUxqdmdPTDFSUmtWNlZNWnM5bUw?oc=5
+- **2025-07-10** · [Markets analysis] Foxconn eyes Japan-made EVs and China’s AI evolves
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbERQbnpLNDY2MUtmY3QwV1UyUW1pc012clJ2c2dDTUx2eHd2X1RieFNEbXQtU2ItUGR0YjMyV1FuQi1IMDBwX2Z2QjBNWnotakUydlRtVFgwaGUtM0ZYVVlCUGx6dmRxQ3NrNEowaUh0aVdKVDMwYW1xQlpMRlp3UG9zRXI?oc=5
+- **2025-07-09** · [Unhedged] Nvidia becomes first company to reach $4tn in market value
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2pCRUg2S1lBLUFOZ21HQzRyaFAtanpZSUtaRnJ2eXZPYzJ4d2dsR2F5Q1R4dkhvMEtvalY4c25NUjVRdTM3UlRId3ZCalZVUzdfMEwwSFVRb0xLUUpoZktuMUkxZ2lBemQyTFdEUm1sX19Mejc5eFZpY1dUUzc0aXVnQVY?oc=5
+- **2025-07-09** · [Unhedged, The Long View] Dutch pension funds set to sell €125bn of government bonds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2l6RURES1lVS2dnTUFlMWFfdEpyTG8yN1RROEd6Y2RpWUZ1MU1VcjRSVjFkalc1MWN6VWxtN3gxOHppT25XX0JJYWpENmk4SXlrU0JoaFBIZHZaMl9jQ1Y2b1BLSjRaRThLNGRiR2VaT2lTN0NVZTloZ3BfUWp0ZkZERHQ?oc=5
+- **2025-07-09** · [Unhedged] The UK’s Apollo-backed insurance juggernaut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXpwV2N4bXMyS3JseVo3dm85Q1RpM05oM1FmVUFXMzJlUnpDSnJPell3UlMwV21MYWRXcFgzNDZCWnJZT25UMExmNURiVXJrYks1RTYxZUt0UzVnckpYRGFuWGNuYkNBNG1xYjlrUTk4Q2U4OEJsR1U3VjFtUW81S3A2TS0?oc=5
+- **2025-07-09** · [Lex] Merck strikes $10bn deal for respiratory drugmaker Verona
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVm5lRnlTa0lEZzFaVnZPUXNKU1otSlJheXROak0xRE5WQ2ZWSzVYVVNQR2lSZUxlc09Ubjk2MHQtV1hIQko2MGRDOGw3OWNid2FhWlhjQk1zTUtkc1RPN2IzeWtJam41ZlRPNUZmdmhZSFFRaEtHU2FIVG5yQjhKUl9MSUY?oc=5
+- **2025-07-09** · [Lex] Blackstone-owned casino operator Cirsa holds steady on market debut
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3JXUUZMNVNmVWsxUDhWLTRuRlZ5bDY1aTlYdmxCNUduOG5VZDNXdzE4UHZQWHczcFFfZmtDbFpRM3pZZWhzNU1zb3VNaFVuU0NUbzcyX200S1p1NngyWDB0N2VuaEJDSDBsMnhZRko1a013ZDFvUldzTlQyNjNiSzVQNlc?oc=5
+- **2025-07-09** · [The Long View] The UK should press ahead with the inevitable on tax
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTVqWmNQcUhFVkhwZFZFeW1RVjlsTGFhWXRmdU1xMFZCTXYtcEFQWmNTNnRpeTJza040VktKbXJzNUl1cFBlZEFaN09pQzNoeHFNSG5DTllRdzVnT3ZZT3BmUWVDcVh4MFhELUVIRm82RTJDZ2JJTjNZLWJQa2FGbFJWemY?oc=5
+- **2025-07-09** · [Markets analysis] Pension funds 💔 gilts
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1WaXRYamV5T21YVEVLTHAzTng3QnhlekFZb2RKd0VscDFrUEFfb2dkelBJU29IWFpuSTF6S3dsWEZ3U2dOSFZBWjB1enM3czVRYU9XbDl5SDdLR2lMOTFiU3EtWjV6d3lpd1VwTm9pa0E?oc=5
+- **2025-07-08** · [Unhedged, Lex] SpaceX heads to $400bn valuation in share sale
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0tYcXpWbFNJUmRaelBUcEJIOEJSSWZSanlzSmJoNUVUVEpRdjJKZzJJWF9DQkE1MFFmT0hxZkxBcU1qZVRXcGlseGNNUFNmdF9Pc2psYWpIQnA2ZlNkMExlY0Jmd0NaZXNQX0otbXZ0SVMwUGxHMDRNUGJhTzFlRmVpb24?oc=5
+- **2025-07-08** · [Unhedged] Elon Musk’s Grok AI chatbot praises Adolf Hitler on X
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkgxcmFCTDVPaEVnaGVsWWZ3RTA1UXVUUG5ZNUJzcldLWlNEaGdoekRyMWxRU3dXbG50bUhTWXpvNlpOZ25DaFZ4TU9LaFFlbmFlbmxoSEdmX3hhclRxRkpCZUhtVTB2aGpHTEtSNU1MMUtpRkRtamM3Rk9uWVdKVjU3UHE?oc=5
+- **2025-07-08** · [Unhedged] Donald Trump deal to leave EU facing higher tariffs than UK
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2VjTmJ5RVlHbWZsQ3V4MGpZZGRLUG1UQmo1SXNoRkxPX0MwRzlvc0R5NWhsSUNiV0dLZndCeWNZX0hkdTVNVWdtWUJYY2owX0MxaWtBd0IycldRN0dnYkJrYlBBUnYzc0NOR1dZZHhmazBDam16X3NXMXNLRGFHSUpZVHg?oc=5
+- **2025-07-08** · [Unhedged, Markets analysis] A new twist on an old bet with Buffett
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE0zRVAtSmt2MWNiU21USHJQa0tzTEd4ZHRLblVtckNOeWpOYXYzWU4yVHRDZE96ZnVheGs3MXdfS0hZUTRSczRhdF9BRkFoQlk1b2dETFFPLTFoanBwakFLWGZRTlE2SXVoaGJHV3I3b0w?oc=5
+- **2025-07-08** · [Lex] Currys shows fragility of retail success stories
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTZFTG84QktOdVZSUERJUXlwTUZOZUR5MWhkTW1pTmthcGo2VTdnd1ZReWg2aXBHbGlzTng5UnJUVnE1Q3VhaWZzemdqWlp6U0J6NzhQOVMzTUJzTUlBWTFEcmNLWncwTjVqZkszbXFDcmhWMnZjVlpaVW95dlN3cm5tRUY?oc=5
+- **2025-07-08** · [Lex] Monzo fined £21mn after high-risk clients gave addresses such as Buckingham Palace
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGNiNnNXWnl5YVBRQVc0Z0JZZHdOMHo4YXZTaG56OG54c0REWEQ5ZGpPd2dFMGZIeTBzdVFNR2hqd3dNOGpCZlk4V0JqT18xR2VHanA0bXI4U19peTluQWVBSjR4R2NMZWVCc01GX1NmWjU0LVBOOG5VdWRSbThQcWJ5TGc?oc=5
+- **2025-07-08** · [Lex] Why carmakers need to bring back buttons
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZLMUtXZzFmMkhRWVV4eUJLSTFpQ285cTN2dmlIUFdFN0pNVTFiZGY3eXlvc0Nnb3NYb21OcVloYU9oWEIzNF9pTjh5U3dHUjNYbVdhZDhhbUtCRWZuVzZFbVY4YU5STXZ6SExvMUlSMEhZVE9peEpEUm9XOUl1YW84aW4?oc=5
+- **2025-07-08** · [Lex] Novartis wins approval for first malaria drug for newborns
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDdvZFNLU3dCR3lGdG0wVk1Ld2hSS0ZEcklEbzRDc0k5WjhheXgxS3B6Q19hS1dOTk90THRxaE1YdjVzMlVlc29aTHdEQWNqZVVkal8weGZKN25wWFR1bF9tdGJTM08ySzVHNDlHUG1rcy1abkVBYzRLX05TV2ZfWWFTOXU?oc=5
+- **2025-07-08** · [Markets analysis] What Donald Trump’s ‘big, beautiful bill’ means for corporate America
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEh0MzNvTlZIV1NXQjF3NElpRzFyNkFjRDBfaGJGY01CeEt3RXVNQXRqaldCTVltbTlzZkZmek1mVjR5X0laS3d3WV9ucHNpdGZKc3pibFRWT29pdTNUR3pvUm1TTng5Nkw1VDg0c0xlYlpuTG0td1RPcUlaNkpDbnEySUQ?oc=5
+- **2025-07-08** · [Markets analysis] The looming ‘patent cliff’ facing Big Pharma
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUFHODNKNWxfS2otbHFrVThWZm9iRXlwX05Td25Ja2k2NDZLbUxZRTdDWnBuVkt1d2FHblg1ZFNrd0hoX0xFSUQ4b2VIV08wZzZPeUJGaUMtZ1dqUi1mZXFWY2pHWGdLN21EODBLVUJGYlRnNWV1YjdybVladF9UN0NBZl8?oc=5
+- **2025-07-07** · [Lex] Almonty Industries Inc, ALI1:FRA summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE43clRyVjhRb2NiNEozYWVQNnViZ0djNWxwOGduWjUwZGtUa1VTZi02bWdYS1NwOTgxejVtdlBfa2ZDbHEzdWU1d2NUYVZUd0tRZnNhTExsMFVhUkNob3FNYW9zdG1BeTc2c1Z4UW1tUi1KUlk?oc=5
+- **2025-07-07** · [Lex] Measuring the Impact of EU Securitisation 2025 - A FTLive Event
+  - https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWUjAyZ3FfX1pscUpLR1lOMm9hendRb2hzdTlRQkdzdkg4bVZ6R3NhSTlTal9rUUlYVGVBWlhYcm96WEZROFV3TXlGOA?oc=5
+- **2025-07-07** · [Unhedged] How we made it: Deadly ‘early summer’ in Europe
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNajFDa1NGaUZMWGktQWpFd05udUJpbUU2R25wcnp2VWZtb2lXV2ZmZFIwU1p4cUFMWW5fRjhObE1vZ1pwT0owcUVvZlBqTDBNUWV4Zi0yV1ZVUnhhdW1KeFllXzlLbGZiQXo3UENiMERMNjhVeGNTTTd5RDNMT2x5ZEMydGU?oc=5
+- **2025-07-07** · [Lex] Shein files for Hong Kong IPO to pressure UK to save London listing
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHFiYU1QQi1EeUh5QjBTU29BZVVtRGZRVnU1MFc1aWs4LXhqdUlSdFdrQTZiRVRGLUE2d2J3cVdGcndiMGRxekU1VWx0b3FRZ08wdy1pM1AzVmVyOF9ST24tOHpfcTBfb1oxWnMwOU5taVdibTlSZklTODhUdTUxaDRvN3M?oc=5
+- **2025-07-07** · [Markets analysis] The surprising success story of British fibre broadband
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2JUaHM5U05iaXJobUVfNjE3UURLYmMxSHlycTRoSERFT0x5VnV4cU9nYTM0anNHdzZmYkxWcWhuYU12SzVYMkVxSEdyMEtDQ0lZM3RQRFlaM0hxTlZGY2hla2lmUWxaaEVqRzFxSFgza3lTVnNQQVVrT3lNNE9PWHd4MGU?oc=5
+- **2025-07-06** · [Markets analysis] Clicks Group Ltd, CCKRF:PKL historical prices
+  - https://news.google.com/rss/articles/CBMieEFVX3lxTE1YXzRkTkpxcmJXNUZHdHp5UTFYQnhNbXlTLTlhVWxaUjRSaDFOQU9VWEZkY05fdmx6bHRBdF9pSEtQRzYwZU93dFJGVEoxR1o1UDNlR3huX0dkZnNKNUIxSE1XWnZKS19ZazMtRlhrcW1MUEtWX1JjTg?oc=5
+- **2025-07-06** · [Unhedged] Crystalline gold gains extra sparkle for collectors
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFAxY3ZManV0Zlh3d2Vic1hzVS1ZSm1tWXpSd2VfbjJlXzNrQmY2TjNVYjB0VVllNjcwZWF2cFFEY0ZkcUEtWVRLUjlfQnYxN2JESWZmdDNxSTRlVzVwQjNRZjFPOWx5ZW93a084ODU2V0U?oc=5
+- **2025-07-06** · [Markets analysis] It’s a bad time to be a graduate
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2xLUm15cVRHVEJneXN0YkQtM1pqNHdXbnc0UHBSZkJ6c2VDYmZzSldTdHVvMHBkNC1xVE11NElXajdtWW9sbk9xZ3hTT3drQklIWFNlZU9qVVdvZEFLR1J0ZGtZcEV5WFd5UEQ0YnZkc2NTdGRDOFh2S2R0TmJiQVJUMmw?oc=5
+- **2025-07-06** · [Markets analysis] Investors pile into tokenised Treasury funds
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGwtUzFOTXlBdlRDbEdWOFZfa3Z5ZkpUM0FyNGtERVpnOFNLXzVFeGlqWFUwbG9nT24zLWQtODZRaWc1cktvZHV5eEFYYkFGVVFiYXJBN0gwU1BpcU8zcVZVeWljejVyVHdKc0VOay15c0J6RFJ5VVNneDd6ckxPZWJwQzY?oc=5
+- **2025-07-06** · [Markets analysis] Asset Management: BlackRock’s troubled history in private credit
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUFIeS1CU0wxSDdaUHhpNzhITGFrLS16ak01ZFR1eFc1eDZaMF9jOE0wT0NSOHVOUjdxaTg3MHZtS1JfbVpVclZJYnpkdVN2TDRFWW82bWRDeFpjWFhXZVlXVThWV1hiaHJMT0c4anhaaTNqWmM1NzFSWFo5NWdFeFoxbjY?oc=5
+- **2025-07-06** · [Lex] Aerospace race: securing Europe’s digital future
+  - https://news.google.com/rss/articles/CBMiiAFBVV95cUxObVJRb21ZSW9KamxHZ3Jtc0xLQ1U0X0l1VkdsR1pGMnYzM2RXQlpiOGNQOGtCUGxSV3NFbnB3SWpZUDQ2dmRYdUQxRDV0N1VuMUg1UlpCLTlhLUpvcGJ0VW54VWR3N2xxV2F5XzFpblZuZDNKaDB6aF9hLXF3ck9fUDhYM0RIdnhS?oc=5
+- **2025-07-05** · [Lex] Invisible wars: the path to digital resilience
+  - https://news.google.com/rss/articles/CBMingFBVV95cUxNNTZCMzBIbkg4Y1BSbFU0dXI0blAyT3NDOGVmbFZGUktna2JaWUhUUkpoVHVXT2M2M2MxZUZqbVVyODlmOWZvSGZ3SEhESXNwWUtNQjZ6U2ZpOFJwQ2c2Q0VDV3ZpT1Zic2ZuMGlPMjMwT1YtbHo1STdMSXd2ZHpSUm54T1p4R240SURXOWI5V1hwZlFsa2JIQlBzS3JhZw?oc=5
+- **2025-07-05** · [Lex] Octopus Energy plans to demerge tech arm Kraken
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNVF9QNzJXVVNOeXQzbW12TVFUNk9BOGxqeGdiSVFLcG5JZjROSTFPTV93cGFaZGtNbWwzZDREcUJmQXlUQmJ6eG9sNDFHUXJ5VWJDdkxTT0VPLXZqeUVWLV9WQWZSMFZING1XS29MTlZpTGpDcGxWOGE5c3c1OTdZejUwd0g?oc=5
+- **2025-07-05** · [Markets analysis] China snaps up mines around the world in rush to secure resources
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPbXhLX2xfekE4LXZYaHNNZWY3RTNQaTdjNmh1d3lYTGdtV2l1bXRORXZXbzF4QUJDeXpmbFp4QlVlWm80VVJfN3laVGhPMTV5VC1iYTc3MmcxaHE1X0RkY1p6YjZ1LWk0aTlCeWpsa190UWI0ZkU4d0oyWnpYcEU1X1J4NVc?oc=5
+- **2025-07-04** · [The Long View] Nervy markets put Reeves and Starmer on notice
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXh4RC1sM3NlT2tGUC1jVmpjY29LZm1XVXVNYXRycXJNZ2VpY2ZHUFpIaDQ1dWFCZE8wZEpKa2JaeDF4UDJpTklYYkdHejZnNXdXQ3hzVEdfM1k3Y25HNVdzdkNad20yTXdxU1hxc0U5X3JqcXB6bzNkSlBOV3o5TEVjMmk?oc=5
+- **2025-07-04** · [Markets analysis] GIC teams with private equity on stake in healthcare marketing agency Klick
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxONmRCcWE5OG9pZHNxeHFUS2R2aVVaeXNLVFhYZzdBanRIRW5LQjVqcHkwN3h1bnhQM3hkdUNoa1g1eFA4MV9FTzFPVk4tdXlLbk5Cc2NmSlVIMDdIeVo4c2xVNkhYOWFFcV81dFNWaTVKQUxKc0NiUUVvU1VMV3NOajRlVkM?oc=5
+- **2025-07-04** · [Markets analysis] How to get children reading again
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTFaa2hrMktjd2J0bmY0M3BQM0hIMlBTX0k4NDRtTHZCSTF1Ul9ObG95eTNKN3ZOb2RIMUM3c3ZKT1BIRmJlWVBIZFZhUFBraUFqdmFERllsMHN0SnFfVHFPOHpYbC1hbFExcF9udDVMOGZNcVBDOHA1LXlhalFkZzd6OWo?oc=5
+- **2025-07-04** · [Markets analysis] The wasted potential of ‘blended finance’
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2lvU2VpN0ExU2pRRl9kbUppTTVBUG40eHdzQ3dYdklJby1pM2FhcDlxRUk1emF6aERVQnVxWC1wbUZibjFQLWhJUWd5SkktQVJPa2ZqcVhsWUxGQlBoRXR2S3JQNkM1dXQ3Y0k0SXhMZF80Mll6TThZMkh1Yld1OGwxSkw?oc=5
+- **2025-07-04** · [Lex] Brightstar Lottery PLC, BRSL:NYQ summary
+  - https://news.google.com/rss/articles/CBMic0FVX3lxTE1JY0lXbmNobXVRVnVEZVFlVTJDdklEUVFWc3ZHR0EwWGNpakZDWWxMeU8tR3ZuRnZmYzJFZllMSGxDM0hrazFfTXNXNWR1SHQ4UEs0ZUxZU3kxcDJQQXlCbGx5VFZCSTZxVzFacTAtdlBNa2c?oc=5
+- **2025-07-03** · [Unhedged] Hitachi Energy says AI power spikes threaten to destabilise global supply
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2M1UWtMbkNyaEJwQ3pnT21ueVZDRmR4N2duUVNteHhqWmoweDcxVW1ubGlFaFV0blZwUnprMnI2QTM5ZWhoSjk3ZFVnSjlVS2ZBQnhCcXJDUndIRXJJeFExWjAwUWE5dmphYU90LXpadG9OcTJ3UVF0ZUxFV2EzdWNJLUY?oc=5
+- **2025-07-03** · [Unhedged] FirstFT: Trump gets his Independence Day present
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxORW14MUdGdkR1eWpUMlIzY0xsSFRZSUJPZXd4LVZSNTMxTTd0eUNCTW1vTDNLdnVwa2hiUHFsdHQxa3J5czhKZW9yQ2FjdVZnUGJ1dk5Hc1RMUjN3V08tX3ZyYUFGby0yeFB0VEhnUFNqVlY0LVNKSThxam1QM3c4RDA0b28?oc=5
+- **2025-07-03** · [Unhedged, Markets analysis] London IPO fundraising falls to 30-year low
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFJYMXlzUGVTYkpDRk1lRzZQTmxXOTNSbWxsc1R0eWdiRHVJb3NjWGpyM3ZZZngtYWJJQ0RwS3JNU3Z5S1pZd2FZX3FUX0RzMktNQnRWVFplUnVVU0hhOTJ0VGN3aEtydXBLLS1vWlRQNkNIUmxVblZWTlJsY1QtSGpQcHQ?oc=5
+- **2025-07-03** · [Markets analysis] Valve conquered PC gaming. What comes next?
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBRaGlLZF9VUmU0eUNHdG41Q2stLUxmQzBxc0NCb2NyTkVaT2NOSm1sWXFjWVhIOHZuVTRvZ0ltdEYtZFNXTkNrQndiZm5lZVhqYk9wbnZXT0s1Yk5wNGExLVE4eUlCd3pLNmIzZ2lvUDU?oc=5
+- **2025-07-03** · [Markets analysis] Europe needs to shrug off fear and embrace stablecoins
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTlNBVHJQRGt4djAxUHMyWVFkTVp1VV8zWGM1bE5fak11M1JUX05pVi1hbHNWa1doQ1hkemZJaTVLVnlTXzk0N0VzcjVFR0kyZzB5RmpTRUFWZ0M0Y2RjTzZzZnY5MFRVUHQ2cG9zZ2Y?oc=5
+- **2025-07-03** · [Markets analysis] How much money does Ukraine need?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOQThMY1VUamMxWVVFRy1RMFNTSWR5TkQyb1N2dGtsa1ByVUU5T1ZYUzRaUU5NMUNQSGMwYm9GOTYyYXVqZExRSVdXcFY4aTNZZC1Leklmb0NydFF5Vzd3T0d0UWNSOHRVY0VycEdjeWh6Z29neXYyYlJrX2pIWnVabUd1WjI?oc=5
+- **2025-07-03** · [Markets analysis] US economy surpasses expectations to add 147,000 jobs in June
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTZ0RnJPdWdxQzBWdGJOSEt6amNRNHFYWVVKNlMtQ04tLVUwV2U0dERiUjcyZDk2SnlnSFhEUmRBV1ZQMkdKV1ZNNTYwTzdRbVp2clVlS2pxemhCYTEtX1hhR0NZTVFjdUt4akNXUWNNU1FnZ29KOE9oRHdsd01FUk1keXA?oc=5
+- **2025-07-03** · [Markets analysis] UK stores still stock throwaway vapes despite single-use ban
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNOV9HQ2xibmFyNE1Ld0JyMHphVjhTakZNUWZyVUpUN2kwUmVRbHJtcEl1SmU3X2YxbGVTb25SdEtSZTNhWFExMU5tbkZvVTdPN1VDS2QtS3QwX0syOU9oWHBJRDItdDlzVHJvTWdSQ3NXdXZLSTFBcXNjWlh4VVU1d3J1SHE?oc=5
+- **2025-07-02** · [Unhedged, Markets analysis] Are bigger AI models better stock pickers? Maybe, but probably not
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFA3WVNSRTByYWUxX0t2U1E1bEZoamtPdW5SY3dQV2V2V2VoeWFKMkdLN1ZKMHJ0QllsblNybllydlMzNDRVSVREbFdPYjIwb05JSDNNRUI0OFZLYzJDaElVdzMzTl8weDdrSlFabklmQWs?oc=5
+- **2025-07-02** · [Unhedged, The Long View] ECB officials question whether euro has strengthened too much
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxOYU4xdDZYZzBOTEEtTEMzMTZleHBKQUg2UTUtRnBCdXU1Y0toUE1WS3lYdS03TlVxdEN1OGhCdzZMenVWbUJXbHZTT0xqNUdhQ1dWZElrdEs1TXJBcVkwZkRTNmtTWWVEWW5GRUF5Wmo0WHF1dk1QUEYySUlhZkNKazZXQ3E?oc=5
+- **2025-07-02** · [Unhedged] The trades that will shape a new financial crisis
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSGVZRWtaQXU4bVZrN05QYXBINWQtX0JpTkhaUlVfVVdWWXlhbVlINDZISlhmTHI4eWc0OGtkMGRDR0loUGEtN2VSMlJMR3dNdGk1ei1uMHJfRlF5aUNzM01Cd2NfWnZjdVhGel9pX08?oc=5
+- **2025-07-02** · [Lex] Poland’s clean energy usage overtakes coal for first time
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2pBZFpvTVBIV3BURUh6WlhDbEdBT09rVHN4YUNSQXVYVzlxT3JERFppaEo0dTNoTnluSDdHQi12VHk0TkZMQUlySlBScmlOMUlQTEk4dkx1UjFwbVZDUEI4WVdsXzZGdGZBSzZwem9HeXJFd0h2THJJUENObUVUcVpwRXk?oc=5
+- **2025-07-02** · [Lex] EY broke US audit rules on Shell mandate two years in a row
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUFfaUtUR18xZG91OGU2bWlRQ0xobkE3cXFDczJfUEowcnpSVmJPTzBtUXE1WnFFVjdWWXlrc3hvZHYydGZLcHh0STRBZXdSVURBNjhHX1B3MDFjYnBIU2U3bHc1QjBmbWM1MlRuY3FITDJuTERCZXpYUEtEVldhZ1FUbUc?oc=5
+- **2025-07-02** · [Lex] Copper prices surge as traders rush to beat Trump tariffs
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1VxVnhIcjJ2U2IzMUhuVjlOb3FNcWFsTlAtVlJDMURGOE82Z1VPR0ZFbXRyM3VlTTQxOHhselRmZ3VsRlREOXQydUFNVkw2Ml92VzZMb0psMWtvcmxvcS1SUWtnampfV1BUNHJ6Um5PQVE0LW83el9LUmMwOV9JWnRPZS0?oc=5
+- **2025-07-02** · [Markets analysis] The Banker’s Top 1000: US Banks are most profitable as European institutions slump
+  - https://news.google.com/rss/articles/CBMib0FVX3lxTE5nTnZlUDlfM1A2QTV6Yll4cVJZSXFVa1d3ZTN0Y05KeVFzOFAxNWpvVUpIRkJPTzFIdkZjVmJnUV9ENWUzRzRKM0d5UWtBZXZYVFowWHZ4eVI5Q0lGek51aTc3d1Z4cG52SUZPaElvbw?oc=5
+- **2025-07-01** · [Markets analysis] TIC Solutions Inc, TIC:NYQ profile
+  - https://news.google.com/rss/articles/CBMickFVX3lxTFA5OUQyYTl1MkR6d1VLV2IzbkRrWjNwSnZORGczWTkyQk05SUdkUUpWQjdlTjBFVjhYbXVEUkZTbXhxNWg3NDhUaXBXcjFsbTRHdWhJa2FkMENYS1hrZnB1dTdZa2pKSjhrQml3MDVBejVzQQ?oc=5
+- **2025-07-01** · [Unhedged, Markets analysis] The jobs market puzzle
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDQwVy1OZjdPajItb2ZaZFRSWW53SmxpZjk5SFdrZktQaVA3LUFudXZzaTkyYzFoWnltcS1ROUpLT0FFQ0NEa1YyNUpQaW9uZmRiQWhQT2FvTHZUNTFFamFPV3pvTTE3cVZIbFR4MXhITnB1bjJNRk5EMW5PU2w2MEtEWEI?oc=5
+- **2025-07-01** · [Unhedged] Taiwan’s currency jumps as life insurers rush to hedge against weak US dollar
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxNMExXNkkyWTBuUlhMbGZxZFZDRDYyN20wWTdZVEV4SGl1NkdHMGhjVlc1R1gtcTM0dC1ZOU1SN2hPOUh0RGVheG1wNUpHZjlTOFU1TzBEYkRmMnNUbnZMYWE2dVlMZ2RlV3BTcXRUcHBpdDI2WGVER01SdkM3NHZqVWh2QmQ?oc=5
+- **2025-07-01** · [Unhedged] When the president wants a ‘low rates guy’
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTE5RbWVabWQwNGRXeVNWM1M1TEZXb1RuNlNTZGx6T0FHbW9pWFFpRzlWSnJFYTEwTEVUSFNNakVZMzlwem56LU5zMFl1bHk1TGQ1dGN0amlqYXBHSFNwT2F5NzB3amdPSzBoNU1MWVpjcm0?oc=5
+- **2025-07-01** · [Unhedged, Lex] Deutsche says new banking rules could hamstring Europe’s defence spending
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUJJWFdMME82SkJ6SnAtSk5oRHFCRjhMcm1sM0N5RWRrbHFDX19acmpQRHJCdlFmenpIQlVscFRhRUZybUtKRkI1Yk45Zl9vLWZOMjZFaG14bUc0bnNEVkRyQWFCWVNLbWlVUmY1QkJkVnhCemdtZmxvTmwyNTVPYkhVT0Q?oc=5
+- **2025-07-01** · [Lex] Fixing up Nike is a marathon, not a sprint
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUlCUDNxZVgyZjNKNHJ2d2NtYjJrV2p6SHVSNGJmWkpuTUtIMnQ2MkJlZnZldWR0YnJPY1ViLTU5Z1ppRVF0SFpCa1BmR1g5MmhIdDM3akFTZWh4MEd3NTVoeWhTbFJab0hsNC11eGQzZm1ZTG5KRXRQT1p2NkZyeEs3NUI?oc=5
+- **2025-07-01** · [The Long View] EU’s shift to a US savings model risks dismantling its social contract
+  - https://news.google.com/rss/articles/CBMicEFVX3lxTFBoRGpMOXhXVXdaVFdiUnJubk5DcFFxZWFnWDFxdVR3ZzVoQzlkaDlWNlgtNjFIZk9mQjA0RWlTWVVEcFVFSkpxTFhzeWs2UFI1SE5SZFdTMVhEVWtCQ0FPXzdWWlVZYzlDVy0tX2ZYM28?oc=5
+- **2025-07-01** · [Markets analysis] Are salt batteries the future?
+  - https://news.google.com/rss/articles/CBMihAFBVV95cUxObTlQSVdzR2hCak5nWThncjVvS2hjaVR4ZklXTXpRdG1iS3Q5azh6ZnRoN1duMS1RMVpRelJ4UTl0SGt6N2pKU1NxNWotTy1XN2daT2RhN19INWJhdkZxNTJ4cVh2eEsyZ2E2REhSRDVacDUzWVFXUjg5aXJlRFJ3dEJ3NWc?oc=5
+

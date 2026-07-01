@@ -1,0 +1,2361 @@
+# Financial Times — full text (analysis columns, last ~4 weeks)
+
+Extracted 2026-07-01 via logged-in browser. **66 articles**, 40,829 words. Window: published ≥ 2026-06-01. (7 were paywalled/unavailable — listed at end.)
+
+---
+
+## Donald Trump made more than $1bn last year in return to presidency
+
+*2026-07-01 · Alex Rogers · Markets · 539 words*
+
+<https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec>
+
+Donald Trump earned more than $1.16bn in crypto sales and memecoin royalties last year upon returning to the US presidency, according to a financial disclosure released on Tuesday.
+
+The US president made $526.8mn from selling tokens from his family’s crypto company World Liberty Financial and disclosed income of $635mn in royalties from a licence agreement with “Celebration Coins”.
+
+Trump still holds 15.75bn World Liberty Financial tokens, which are worth about $900mn despite a steep decline over the past year, the disclosures show.
+
+The disclosures also suggest he continues to hold large amounts of other cryptocurrency. The forms reveal he made more than $33mn of the proceeds from the World Liberty Financial sales in bitcoin and more than $150mn via the Ethereum blockchain.
+
+The annual disclosure, required by law and released by the Office of Government Ethics, will raise new questions about conflicts of interest in Trump’s administration. The filing also shows extensive transactions of US stocks.
+
+The 2025 annual report showed the scale of the president’s stake in the cryptocurrency industry as his administration rolled back Biden-era restrictions on the sector and ended lawsuits against some of its biggest companies.
+
+“Neither the President nor his family has ever engaged — or will ever engage — in conflicts of interest,” said White House spokesperson Anna Kelly.
+
+A Trump Organization spokesperson said the disclosure showed the family company had a “strong financial position, supported by world class, valuable assets, substantial liquidity and a conservative balance sheet”.
+
+In 2024, Trump campaigned to make America “the bitcoin superpower of the world” and his sons Eric and Donald Trump Jr co-founded World Liberty Financial with the sons of White House envoy Steve Witkoff. After Trump won, he replaced Securities and Exchange Commission chair Gary Gensler with crypto advocate Paul Atkins. The SEC has since dropped or settled cases with crypto companies such as Coinbase, which have donated to Trump’s inaugural fund and the construction of a White House ballroom.
+
+In October, the FT reported that the Trump family crypto businesses reaped more than $1bn in pre-tax profits in the year prior.
+
+The filings disclose that Meta paid $24.5mn to Trump’s presidential library project. Alphabet paid $22mn to the Trust for the National Mall, which is funnelling corporate donations to build the new East Wing ballroom of the White House. CBS and ABC each paid $16mn to Trump’s library. A lawsuit against Twitter and founder Jack Dorsey yielded another $8mn to Trump.
+
+The disclosure also shows Trump’s earnings from licensing fees, including $4.7mn in royalties for Trump watches, $1.9mn for coffee-table book Save America, $591,000 for a photo book Letters to Trump, $208,486 for singer Lee Greenwood’s Bible, $67,634 for sneakers and fragrances, and $35,920 for a “45” guitar.
+
+Trump also disclosed gifts including 10 World Cup tickets from Fifa president Gianni Infantino described as being worth $15,000.
+
+He also received a $250,000 sculpture called the “Defiance Monument” from Anthony Constantino, chief executive of custom sticker company Sticker Mule, who recently won his Republican primary for a US House seat in New York with Trump’s endorsement.
+
+Trump’s wife, Melania, earned $6mn from sales of non-fungible tokens and $10.7mn from her documentary, Melania, which was bought by Amazon.
+
+Additional reporting by George Steer in New York
+
+---
+
+## Alcoa strikes $4.8bn deal for South32’s alumina and bauxite assets
+
+*2026-06-30 · Leslie Hook, Nic Fildes · Markets/Companies · 593 words*
+
+<https://www.ft.com/content/2ea39c2c-7b8e-4ce5-8d98-1c8c1050105c>
+
+Alcoa has struck a $4.8bn deal to buy Australian miner South32’s aluminium, bauxite and alumina assets, expanding its global footprint at a time when prices for the grey metal have been driven higher by the war in the Middle East.
+
+Bill Oplinger, chief executive of the US aluminium manufacturer, told the FT he expected the market for the metal to “get tighter” as a result of the conflict, and that it would take as long as 12 months for global aluminium production to return to prewar levels.
+
+“We entered 2026 in aluminium deficit, that led to higher prices — and then the conflict exacerbated the high prices,” the Alcoa chief executive said.
+
+Prices for the metal hit a four-year high of more than $3,787 a tonne on June 2, although they have pulled back since the US and Iran struck a tentative peace deal two weeks ago.
+
+The Middle East accounts for about one-tenth of global aluminium production.
+
+The total value of the deal could hit $5.6bn comprising $3.1bn in cash, $1bn in Alcoa shares, $750mn of debt to be assumed by Alcoa and $750mn of future cash payments contingent on aluminium prices, South32 said.
+
+The aluminium sector has previously seen acquisitions made at the top of the cycle go poorly. Rio Tinto’s $44bn purchase of Alcan in 2007 — as commodity prices soared on the eve of the financial crisis — has been cited as one of the most value-destructive deals in mining by executives who were involved in the deal.
+
+Alcoa, however, said the deal would boost its alumina production by more than 50 per cent and its smelting capacity by more than a third.
+
+To produce aluminium, bauxite mined from the ground is first refined into alumina, which is then smelted to make the grey metal.
+
+The US company expects about $900mn in synergies from the assets, which span from South Africa to Australia to Brazil. Two of the projects — the Alumar refinery and the Brazil Aluminium smelter — are already operated by Alcoa.
+
+“We are acquiring assets that are in our sweet spot,” said Oplinger, adding that he was “very excited” about the deal.
+
+Graham Kerr, the outgoing chief executive of South32, said: “This transaction will unlock significant value for shareholders and repositions South32 as a leading upstream base metals-focused company with high-margin assets and transformational growth.”
+
+Kerr has led South32 since the business was spun out of BHP in 2015. He will now hand over to former Anglo American executive Matthew Daley who was announced as the Australian company’s new leader last year.
+
+While the war in the Middle East has bolstered aluminium prices, it has simultaneously pulled down prices for alumina because several large smelters in the region have halted or reduced their purchases of the feedstock.
+
+Alcoa’s chief financial officer Molly Beerman said on June 10 that the alumina segment “as a whole will be underwater” this quarter, causing the company’s share price to drop nearly 10 per cent that day.
+
+The deal to acquire South32’s stakes in certain bauxite, alumina and aluminium assets will include $3.1bn in cash and $1bn in Alcoa shares. The total enterprise value includes net debt primarily related to leases associated with the assets.
+
+An additional payment of up to $750mn will be made by Alcoa if certain commodity price thresholds are met over the next four years.
+
+South32, which has a primary listing in Sydney with secondary listings in London and Johannesburg, was spun out of BHP in 2015 and is a key producer of copper, zinc and silver.
+
+---
+
+## Eni and Mercuria to form partnership to trade energy commodities
+
+*2026-06-30 · Malcolm Moore, Verity Ratcliffe · Markets/Companies · 390 words*
+
+<https://www.ft.com/content/024da39b-0e43-486a-95ec-d1fac32359c1>
+
+Italian oil major Eni is to form a partnership with Swiss trading house Mercuria to jointly trade global energy commodities.
+
+The companies will announce details of their joint venture, which will trade oil, gas, liquefied natural gas and biofuels, on Wednesday, according to people with knowledge of the plans.
+
+The partnership, to be equally owned by Eni and Mercuria, will draw on both companies’ international footprints but will operate on a standalone basis.
+
+The joint venture will allow Eni to quickly expand its oil and gas trading business, after rivals BP, Shell and TotalEnergies reaped huge returns from energy price volatility.
+
+Some traders made enormous profits as the US-Israeli war against Iran roiled energy markets this year. They made even bigger gains from whipsawing energy prices following Russia’s full-scale invasion of Ukraine in 2022.
+
+Eni chief executive Claudio Descalzi told the FT in February that the oil company was in talks with Mercuria and other businesses about a potential partnership that would revive its trading operations after a seven-year hiatus.
+
+Trading “is not in our DNA”, he said. “So I thought to become commercial we have to have a partnership to understand the business.”
+
+Representatives of Eni and Mercuria declined to comment on the joint-venture plans.
+
+Mercuria will gain important data from Eni’s oil and gas production business through the partnership.
+
+The trading units at Europe’s three biggest oil companies — Shell, BP and TotalEnergies — earned as much as $4.75bn from the turmoil in global energy markets in the first quarter of this year, according to estimates by analysts.
+
+Energy prices were buffeted by the US intervention in Venezuela in January, and then the US-Israeli war against Iran that began at the end of February.
+
+Shell, BP and TotalEnergies, which trade derivatives such as futures and options as well as physical oil and gas, have a significant competitive advantage over some rivals.
+
+But independent commodities traders have also reaped high profits. Trafigura this month reported net profit of $4.1bn for the six months to March 31 — more than double what it recorded in the same period one year ago.
+
+Energy traders tend to perform best during volatile periods, when they can profit from buying and selling oil and refined products at different prices across markets. More of their customers seek to hedge against price moves in these circumstances.
+
+---
+
+## Gold heads for worst quarter in more than a decade as retail frenzy fades
+
+*2026-06-30 · Leslie Hook · Markets · 471 words*
+
+<https://www.ft.com/content/ca75b117-f085-45be-95c1-7397d3b0797a>
+
+The price of gold fell below $4,000 a troy ounce on Tuesday as it headed for its worst quarterly performance in more than a decade, amid expectations of higher interest rates and dwindling enthusiasm among retail investors.
+
+The price of bullion fell as low as $3,942.99, its lowest level since November, in early trading before recovering slightly, leaving it down nearly 14 per cent over the past three months.
+
+Having rocketed to a record high of nearly $5,595 in January, driven by frenzied speculation among retail traders, gold has been hit hard as the hawkish stance of new US Federal Reserve chair Kevin Warsh boosts expectations of interest rate rises this year.
+
+“The dominant drag for gold is the market realisation that the Fed’s new head is concerned about inflation, he is going to go after it [with rate rises],” said Tom Price, analyst at Panmure Liberum. “As a result, gold is pulling back.”
+
+As a non-yielding asset, gold typically suffers during periods of high borrowing costs, which make interest-bearing assets, such as Treasuries and other bonds, relatively more attractive.
+
+After two years of a near-continuous rally, gold has been on a rollercoaster this year. As war in the Middle East has driven up oil prices and fuelled expectations of higher inflation and interest rates, bullion prices have dropped, leading many investors to quickly dump their leveraged positions.
+
+Some traders have also sold gold to fund bets on soaring AI stocks and chipmakers, or SpaceX’s record IPO, analysts say.
+
+In recent weeks, outflows from gold-backed exchange traded funds, combined with new restrictions by some Chinese banks on bullion trading by retail investors, have further weighed on the price. June is on track to be the second consecutive month of net outflows from gold ETFs, according to data from trade body the World Gold Council.
+
+“There isn’t just one catalyst,” said Nicky Shiels, analyst at MKS Pamp. “The narrative has moved on to AI and SpaceX . . . and inflation metrics just aren’t as supportive for gold.”
+
+She pointed to a stronger dollar — in which gold is mostly priced — as well as ETF outflows, uncertainty around the Fed and the decline of the so-called “debasement trade” as contributing to bullion’s decline. The “debasement trade” refers to investors moving out of fiat currencies and into assets such as gold or bitcoin.
+
+Chinese banks ICBC and China Guangfa Bank have moved to restrict precious metals futures trading for retail clients from next month, reflecting regulators’ concerns about investors betting on gold and silver. Chinese investors are still able to buy and sell physical gold bars and coins.
+
+“Anything designed to curb buying, it can’t be positive,” said Nitesh Shah, head of commodities at WisdomTree. However, he added he expected that central bank demand could help provide a floor for gold prices.
+
+---
+
+## US stocks chalk up biggest quarterly gain in six years
+
+*2026-06-30 · George Steer · Markets/Companies · 714 words*
+
+<https://www.ft.com/content/4ba4305f-f9ea-48f9-a49f-687443bd2f4b>
+
+US stocks closed out their strongest quarter in six years, even as fallout from the Iran war, wild swings in chip companies and the record-breaking SpaceX initial public offering spurred volatile trading over the past month.
+
+Wall Street’s S&P 500 and the tech-heavy Nasdaq Composite added 14.9 per cent and 21.4 per cent, respectively, in the three months ended June 30. That marked their best runs since the same period in 2020 when markets snapped back from heavy losses in the months after the outbreak of Covid-19.
+
+A slide in oil prices, red-hot performances by semiconductor stocks and signs of resilience across the US economy fuelled a rally for the S&P 500 since the end of March that peaked on June 2.
+
+The following fortnight was dominated by SpaceX, which raised $75bn in a historic IPO on June 11 and surged to an almost $3tn valuation over the subsequent week.
+
+Shares in Elon Musk’s rockets-to-AI conglomerate slipped in the second half of the month, however, as investors’ concerns about when Big Tech’s huge spending commitments on AI infrastructure will generate returns weighed on richly valued stocks.
+
+The S&P 500 slipped 1.1 per cent in June as investors rotated out of the Magnificent Seven megacap tech stocks and into industrials and defensive sectors including healthcare. The Nasdaq Composite dropped 2.8 per cent.
+
+In contrast, the Russell 2000 small-cap index this week powered to a record high, reflecting a vote of confidence by investors in the health of the world’s largest economy.
+
+“After the April and May surge, market consolidation and broadening were both welcome and healthy,” said Lisa Shalett, chief investment officer at Morgan Stanley Wealth Management.
+
+On Tuesday, the S&P 500 closed 0.8 per cent higher and the Nasdaq Composite rose 1.5 per cent, leaving them up 9.6 per cent and 12.8 per cent, respectively, so far this year.
+
+“Not everything in the market squares up right now,” said Eric Johnston, Cantor Fitzgerald chief equity and macro strategist.
+
+“The logic . . . at the moment is that [semiconductor companies] will generate huge revenues for years to come but that hyperscalers are making bad investments and will continue to spend,” he said.
+
+Chip groups account for almost one-fifth of the S&P 500’s total market capitalisation, the highest share on record, according to Citadel Securities analysts.
+
+Huge demand and limited supplies have created a bottleneck in many of the components required to run the agentic AI software popularised by OpenAI and Anthropic.
+
+Memory companies, power providers and other AI infrastructure groups have emerged as the biggest winners, with huge profit increases in the first quarter helping the S&P to its highest year-on-year earnings growth rate since the end of 2021.
+
+“AI is in a bubble but it is a different type of bubble from what investors are used to,” said Peter Berezin, chief global strategist at BCA Research. “With AI, the bubble is in earnings rather than in valuations.”
+
+Bulls contend that the US economy is holding up just fine even if animal spirits are increasingly driving the AI boom.
+
+Another source of support is the price of oil retreating to levels last seen before the US and Israel launched strikes against Iran, with a tentative ceasefire between Washington and Tehran boosting hopes of a reopening of the Strait of Hormuz. Brent crude was fetching about $73 a barrel on Tuesday, having peaked above $126 in late April.
+
+The US labour market, meanwhile, has grown at a healthy pace, easing fears that the energy shock might weigh on hiring numbers. The latest official jobs data for June is due on Thursday.
+
+Most investors agree that higher interest rates spurred by economic overheating would be an impediment for the stock market.
+
+The Federal Reserve’s new chair, Kevin Warsh, used his first press conference in the job earlier in June to stress the US central bank’s dedication to bringing down inflation, which jumped to a new three-year high of 4.2 per cent in May. Traders responded by cranking up bets on interest rate rises later this year.
+
+“The risk of a disorderly tightening of financial conditions may still be the Achilles heel of the global economy,” Bank of America economists wrote in a note this week, referring to the threat of higher US interest rates in particular.
+
+---
+
+## New UK prime minister, same bond market
+
+*2026-06-30 · Markets/Companies · 87 words*
+
+<https://www.ft.com/content/b6692ec3-29d5-4784-88dc-c83872b9a5e0>
+
+The UK is changing leadership. Again. But what will this mean for the economy and for Britain’s debt market? Today on the show, Rob Armstrong speaks with senior markets correspondent Ian Smith about what is going wrong in the UK and whether a new leader can fix it. Also they go long non-tech stocks and long Portugal.
+
+For a free 30-day trial to the Unhedged newsletter go to: https://www.ft.com/unhedgedoffer.
+
+You can email Robert Armstrong and Katie Martin at unhedged@ft.com.
+
+Read a transcript of this episode on FT.com
+
+---
+
+## Space entrepreneurs borrow some surprisingly terrestrial tactics
+
+*2026-06-30 · John Foley · Lex/Companies/Opinion · 502 words*
+
+<https://www.ft.com/content/79da150f-5a84-44bb-8e97-b46b958c9699>
+
+Space is the future. Vertical integration was, until not long ago, the past. But the dizzying ascent of Elon Musk’s rockets-to-telecoms conglomerate SpaceX, and an $8bn telco acquisition by rival stargazer Rocket Lab this week, shows that things have changed. In certain circumstances, investors are once again happy to buy into the concept of chainlike corporate constellations.
+
+Rocket Lab is the next biggest name in launching objects into space after Musk’s recently listed outfit. It is much smaller, though — a $57bn market capitalisation makes it roughly one-fortieth the size of SpaceX — and so are its rockets. Its Electron vehicle stands at 18 metres in height, where Musk’s Falcon 9 is more than three times as tall, and 40 times heavier.
+
+Both have expanded into telecommunications businesses which are commensurate with their size. SpaceX’s “connectivity” business, which includes Starlink, made $11bn of revenue last year, whereas Iridium, the satellite communications company Rocket Lab agreed to buy on Monday, made less than $1bn, from a comparatively petite base of 2.5mn subscribers.
+
+Such comparisons are a little unkind. The two serve different niches: SpaceX aims to serve up rich broadband services from its orbiting fleet, while Iridium uses a hardier kind of spectrum suited to voice and emergency communications. Rocket Lab also builds space kit for others, a pursuit that makes up most of its revenue. Besides, its valuation of 50 times forward revenue exceeds SpaceX’s own.
+
+One reason why vertical integration is important for Musk and Rocket Lab founder Peter Beck is that it helps to bridge the gap between today’s investments and returns that, figuratively, won’t come until the day after tomorrow. At SpaceX, Starlink is the only segment that makes money. Iridium’s estimated $300mn in free cash flow this year, per LSEG numbers, offsets Rocket Lab’s cash burn twice over.
+
+Offering services from space is also more predictable than getting stuff up there in the first place. While Rocket Lab has a gaffe-free launch record, delays to its Neutron rocket have weighed. When going public in 2021, the company said it expected $399mn of launch-related revenue by 2025; it actually made half that.
+
+It’s perhaps inevitable that vertical integration would gain traction in an industry that deals with big picture abstractions. Musk’s real goal is to colonise Mars; Beck is less grandiose, but he still harbours goals such as finding evidence of life on Venus. Getting staid pension funds and insurers to fund bets on such things isn’t easy, but bundle them with profitable businesses that already exist and one hand can, in effect, wash the other.
+
+Tech entrepreneurs generally avoid the phrase “vertical integration”, talking instead about being “end to end” or “full stack” — variations on a similar theme. But there is nothing futuristic about the concept. A century ago, car mogul Henry Ford was a strong believer in owning all steps in the production process, going from iron ore to car in two days. Like space, finance’s ability to repackage what’s old as new is limitless.
+
+john.foley@ft.com
+
+---
+
+## Schroders close to selling its financial planning arm for more than £200mn
+
+*2026-06-30 · Emma Dunkley · Markets/Companies · 492 words*
+
+<https://www.ft.com/content/1e6a9518-8f4e-4c8d-ad89-8203ef34beb1>
+
+Schroders is close to selling its financial planning arm Benchmark Capital for more than £200mn to advice firm Söderberg & Partners, as the UK asset manager attempts to divert resources to focus on ultra-wealthy clients.
+
+Benchmark, which oversees £36.9bn of assets under management, provides services to financial advisers who tend to serve individuals with hundreds of thousands of pounds to invest.
+
+However Schroders wants to concentrate more on ultra-high-net-worth clients, or those with millions of pounds to invest, such as those served by its Cazenove Capital brand as well as its international wealth management arm, according to people with knowledge of the situation.
+
+It is now close to agreeing a deal with Sweden-based Söderberg, the people said.
+
+Söderberg, which is expanding rapidly in the UK, beat Swindon-headquartered advice network The Openwork Partnership, one of the people added.
+
+The deal comes just months after the board of Schroders and the founding family agreed to a £9.9bn sale to US asset manager Nuveen — a deal that was approved by shareholders in April.
+
+The sale underscores the pressure on traditional asset managers, who are squeezed by high operational costs, outflows from active funds and competition from cheap index trackers.
+
+Schroders has been pulling out of peripheral and non-core businesses under chief executive Richard Oldfield, who has sought to cut costs and redirect resources into its core asset management division and affluent customers.
+
+The latest move leaves Schroders’ wealth management unit with Cazenove, which has £83.8bn of assets under management, as well as the international wealth business.
+
+Speculation swirled following the Nuveen deal that Cazenove, its discretionary wealth management business for affluent customers, could also be sold.
+
+Analysts at Deutsche Numis suggested earlier this year that Cazenove could fetch up to £2.4bn while Benchmark could be sold for up to £300mn.
+
+However, Nuveen and Schroders said in a stock exchange announcement following the sale agreement that “the existing wealth management business of Schroders, including Cazenove Capital, will be retained,” and noted that it was part of their growth plan.
+
+Schroders has focused on scaling back parts of its wealth management division over the past year that are exposed to mass-affluent customers. The firm ended its involvement in Schroders Personal Wealth, a joint venture with Lloyds Banking Group, in October.
+
+SPW had been set up by former Schroders chief executive Peter Harrison and former Lloyds chief António Horta-Osório in an attempt to become a top financial advice firm in the UK, although it fell short of reaching this goal.
+
+Söderberg, which counts former St James’s Place chief executive David Bellamy as a non-executive, offers wealth management, insurance and employee benefits. It has more than £100bn in assets under advice and is backed by private equity firms KKR and TA Associates.
+
+The wealth management arm, which operates in countries including Sweden, Norway and the UK, has been snapping up financial advisers in recent months, including firms that previously worked with SJP.
+
+Schroders and Söderberg declined to comment.
+
+---
+
+## Egg producers settle US claims they manipulated benchmark prices
+
+*2026-06-30 · Susannah Savage · Markets/Companies/Global economy · 649 words*
+
+<https://www.ft.com/content/55911ca2-9728-48ac-a874-5a3b37d3fb3e>
+
+Three big US egg producers agreed to settle accusations by US and state authorities that they colluded to manipulate a widely used industry benchmark to drive up the price of eggs.
+
+The Department of Justice and attorneys-general from 17 states alleged Cal-Maine Foods, Versova and Hickman’s Egg Ranch worked together between June 2022 and March 2025 to inflate daily price quotations published by Urner Barry, a benchmark provider whose prices are widely used in contracts with supermarkets, restaurants and food-service groups.
+
+The three companies agreed to donate more than 50mn eggs and pay $3.3mn to settle the allegations. The proposed settlement, filed in federal court in Iowa and still subject to court approval, would require the groups to stop communicating with competitors about bidding strategies, prices and transactions intended to affect benchmark publications. They must also appoint antitrust compliance officers, adopt monitoring programmes and report potential breaches to regulators.
+
+The case lands in one of the most politically charged corners of the US food market. Eggs became a symbol of the country’s cost-of-living squeeze after prices surged during successive waves of bird flu, which forced producers to cull millions of laying hens and left supermarkets, restaurants and food manufacturers scrambling for supply.
+
+Prices for large grade A eggs climbed above $8.50 a dozen in February 2025, according to commodity price information service Expana, before falling back to about $2.19 in May this year.
+
+But antitrust enforcers alleged the supply disruption was not the only factor. Wholesale egg prices dropped sharply after news of the DoJ probe broke in March, raising questions over whether producers had kept prices artificially high during the bird flu crisis.
+
+According to the complaint, the companies used bids on the Egg Clearinghouse exchange, as well as off-exchange trades reported to Urner Barry, to create the appearance of stronger demand to push benchmark prices higher.
+
+In one example cited by prosecutors, Hickman’s then chief executive Glenn Hickman emailed senior executives at Cal-Maine and Versova in December 2022 urging them to post “strong bids, early and often” before Urner Barry market reporters began work.
+
+The complaint alleges the three companies then submitted dozens of bids, most at premium prices, while all other market participants combined submitted fewer than six bids that morning. Urner Barry increased its quotations later that day.
+
+The complaint also quotes the chief executive of an unnamed egg co-operative telling the group that “as a group we need to bid like they vote in Chicago, early and often”.
+
+The DoJ said the benchmark was commercially significant because billions of eggs are sold each year under contracts tied to Urner Barry quotations, allowing any artificial increase to feed through to supermarkets, restaurants and consumers.
+
+The settlement requires the companies to donate 53mn eggs to food banks and non-profit organisations across participating states, including about 4.9mn eggs for groups serving New Yorkers. The companies will also pay a combined $3.3mn to the states.
+
+Cal-Maine, the largest US egg producer, denied wrongdoing and said the agreement did not include fines or penalties. It said it would donate 30mn eggs and pay $1.5mn to resolve the claims brought by the states.
+
+“Temporary supply shocks, including in connection with multiple outbreaks of avian influenza, the Covid-19 pandemic, weather and other market dynamics — compounded by high inflation at the time — caused egg prices to surge periodically over the past five years,” said Sherman Miller, Cal-Maine’s chief executive.
+
+“Our decision to accept this settlement simply reflects our firm intention to put this matter behind us and focus on our business,” said Versova, adding that it had agreed to donate 20mn eggs over the course of three years and a one-time monetary payment of $800,000, both of which will be divided between the 17 states.
+
+A spokesperson for JBS Foods USA, which bought Hickman’s last year, did not immediately respond to a request for comment.
+
+Additional reporting by Haley Zimmerman
+
+---
+
+## Vedanta pulls listing of copper unit day before IPO
+
+*2026-06-30 · Camilla Hodgson · Markets/Companies · 384 words*
+
+<https://www.ft.com/content/a56d0895-3ce0-418c-b06c-328cb40e0cc9>
+
+Indian mining conglomerate Vedanta Resources has pulled the US listing of its copper unit a day before it was to start trading, citing volatile market conditions.
+
+CopperTech Metals, a US-domiciled subsidiary of Vedanta, which is owned by Indian billionaire Anil Agarwal, said on Tuesday it would delay its initial public offering. CopperTech, unveiled by Vedanta last year, owns and operates the Konkola Copper Mines in Zambia.
+
+The new unit launched a roadshow for the IPO this month, and had been aiming to raise more than $400mn at a valuation of about $3.5bn. It was scheduled to start trading on Wednesday.
+
+But CopperTech said: “Following careful consideration of current market conditions and recent volatility across the global copper equity sector, Vedanta and CopperTech have decided to postpone the proposed IPO.”
+
+The delay came despite CopperTech saying that institutional investors had shown “strong interest”.
+
+The ASX 300 metals and mining index — which tracks global miners such as BHP and Rio Tinto — is down about 8 per cent this month, though the red metal is trading near record highs amid high demand for its role in the energy transition.
+
+The decision comes as the market is poised for possible new US tariffs on refined copper imports. Commerce secretary Howard Lutnick has a Tuesday deadline to update President Donald Trump about the functioning of the market and whether he should impose the levies.
+
+The administration last year imposed a 50 per cent duty on semi-finished products, such as copper pipes, and so-called derivative products, including pipe fittings.
+
+CopperTech’s listing had been seen as a move to capitalise on enthusiasm in US markets for critical minerals companies, thanks to the administration’s push to boost the domestic mining sector.
+
+The company told the FT last year that it planned to raise $1.5bn, which would cover Vedanta’s commitment to invest $1bn to revive Konkola under a deal that it made in 2023 to regain control of the asset after it was seized by Zambia’s government in 2019.
+
+That money would be invested in developing the Konkola complex, with the aim of more than doubling copper production from an estimated 140,000 tonnes in 2026 to 300,000 tonnes by 2031.
+
+Copper prices have rallied to a series of record highs in the past year also due to disruptions at big mines.
+
+---
+
+## Binance and founder sued by crypto investors in London lawsuit
+
+*2026-06-30 · Nikou Asgari · Markets/Companies · 554 words*
+
+<https://www.ft.com/content/acf42280-a154-4407-a08a-94190d8986ca>
+
+Binance is facing a lawsuit from nearly 1,700 UK investors who allege that the world’s biggest crypto exchange offered risky derivative products to retail traders without approval from the UK financial regulator.
+
+The claim against Binance and its billionaire co-founder Changpeng Zhao was filed at the UK High Court on Monday by 1,692 crypto investors. They allege that in late 2019 and 2020, the exchange sold products that it was not authorised to sell under the UK’s Financial Services and Markets Act.
+
+Lawyers for the claimants say they are seeking as much as £150mn in the lawsuit.
+
+It marks the latest in a string of lawsuits and problems for Binance, which has for years battled officials in different countries over its practices. The exchange has been banned by UK authorities since 2021.
+
+Binance said in a statement: “We do not comment on ongoing litigation. We will defend against these claims through the appropriate legal process in due course. Binance remains committed to its obligations to users and to operating in accordance with applicable law.”
+
+The company is yet to acknowledge service of the claim in the court file.
+
+In 2023, the company pleaded guilty to criminal charges related to money laundering and breaching international financial sanctions, agreeing to pay more than $4.3bn in penalties to US authorities. Zhao resigned as its chief executive, pleaded guilty to a criminal charge and spent four months in US prison. He was later pardoned by President Donald Trump.
+
+More recently, the exchange failed to obtain an EU crypto licence and told customers in the region that it would stop providing services to them, the FT reported last week.
+
+The UK lawsuit centres on derivative products, which retail traders could buy and use leverage in order to amplify gains or losses. The crypto traders, who are being represented by KP Law, claim that Binance pushed the products “through promotional campaigns, online materials, social media posts and email communications”.
+
+The claimants allege that the products are “specified investments” under rules from the Financial Conduct Authority, and that Binance was not permitted to sell them as it “was neither authorised nor exempt”.
+
+UK regulators have for years taken a cautious approach to crypto and told retail traders that it is a high-risk market. On Tuesday, the FCA separately set out its landmark rules for the industry, while still warning that crypto remains a risky investment. The price of bitcoin, the world’s biggest cryptocurrency, has nearly halved over the past year and is trading below $60,000.
+
+Hannah Sharp, partner at KP Law, said in a statement: “Our clients are ordinary people, many of whom committed significant savings and who have suffered real financial harm. We are determined to hold Binance and its founder, Changpeng Zhao, to account. Cryptocurrency markets have, for too long, operated in a space where consumers have had limited recourse when things go wrong.”
+
+Many of the people “suffered substantial losses” after trading, “losing tens of thousands and in some cases millions of pounds”, according to the statement. The claimants are seeking over £150mn to cover the value of their losses.
+
+One of them, Tomas Sutas from London, ploughed more than £100,000 into the derivative products on Binance, and his investments were later wiped out. Sutas is a named claimant in what is structured as a group legal claim.
+
+---
+
+## ‘Kill switches’ could be needed for AI-powered trading, BoE official says
+
+*2026-06-30 · Olaf Storbeck, Martin Arnold · Markets · 637 words*
+
+<https://www.ft.com/content/61ccaf26-e0cf-41af-afc6-f5eb43e4e568>
+
+Companies using artificial intelligence systems for autonomous trading could be required to install a “kill switch” to avoid mayhem in markets if they go wrong, a senior Bank of England official has said.
+
+In a sign that regulators are becoming uneasy about their current hands-off approach to AI, BoE deputy governor Sarah Breeden said it was examining “whether guardrails are needed” for the technology’s use in autonomous trading in financial markets.
+
+“AI is reshaping finance at speed,” Breeden told the European Central Bank’s annual conference in Sintra, Portugal. “It’s on us to ensure that the next technology surprise does not become a test of financial stability.”
+
+AI-powered trading could make markets more volatile in periods of stress, Breeden said, because of an increase in “herding behaviour” as autonomous agents “respond similarly to the same prompts or triggers”.
+
+The BoE was working with Germany’s Bundesbank and the Basel-based Bank for International Settlements to examine this herding problem, she said.
+
+They were exploring “mitigants” — including whether AI systems could be given public policy objectives and “whether guardrails are needed, analogous to circuit breakers or kill switches that would limit or stop trading marketwide if faulty AI models cause market meltdown”.
+
+However, IMF director for monetary and capital markets Tobias Adrian warned the conference: “Kill switches and circuit breakers may not work that well in private markets and in less liquid and over-the-counter markets.”
+
+Itay Goldstein, a professor at the University of Pennsylvania, argued that AI-based trading activity posed “quite serious challenges” for law enforcement agencies.
+
+“When regulators are trying to prevent market collusion in a world with humans, the idea was always to look for signs of communication, co-ordination [and] intention,” he told the conference.
+
+“With AI you will not find any of this,” said Goldstein, arguing that AI trading agents “just learn how to do it” but do not communicate with each other. He pointed to experimental research showing that AI-based trading agents over time “tend to find ways to achieve a collusive outcome” and limit aggressive competition to maximise long-term profits.
+
+Comparing AI models to mischievous teenagers, Breeden said: “They lie, they tell you they’ve not done things when they have and they behave differently when you’re watching them.” Regulators would need to identify a human who is “accountable for that model”, she added.
+
+While trading firms were still mostly using autonomous AI models for “lower-risk operational tasks” such as research, Breeden said, “that could change quickly”.
+
+“The financial system is likely to evolve into one that operates more autonomously, at scale and speed,” she said. “The transition is uncertain and will bring risks of its own to monitor.”
+
+While algorithmic trading has existed for many years, Breeden’s comments indicate that regulators are growing more concerned about the potential for the latest AI models to create a new wave of computer-driven activity in financial markets.
+
+Regulators have been reluctant to write specific rules for AI in financial services, saying any regulation would soon be out of date as the technology is moving so fast and they fear stifling innovation in a critical area for economic growth.
+
+But Breeden said the growing use of AI to power trading and other areas of financial services such as retail payments raised questions about this approach.
+
+Once AI-powered payment agents could book a holiday, refill a fridge or refresh a wardrobe, Breeden said, “the biggest issues are likely to be for regulation and industry standards”.
+
+She said rules may need adapting for “how users give consent and authorisation to agents”, as well as for multiple transactions, dispute resolution, fraud and protocols for interacting with merchants and financial institutions.
+
+“What these two examples — agentic commerce and agentic trading — both highlight is that, as AI capabilities increase, we must keep asking whether existing, technology-agnostic regulatory frameworks remain sufficient,” she said.
+
+---
+
+## AA shifts gears towards £5bn London listing
+
+*2026-06-30 · Ashley Armstrong, Ivan Levingston, Alexandra Heal · Markets/Companies · 368 words*
+
+<https://www.ft.com/content/e04749b9-f35f-4b65-993f-1cc3809d25ee>
+
+The AA’s owners are prioritising floating the business in London, raising the possibility that the UK’s biggest roadside recovery business will return to the public market.
+
+The AA has also been exploring a roughly £5bn sale but the company and its private equity backers are now pivoting planning towards an initial public offering that could come as soon as next year, according to people familiar with the matter.
+
+The people cautioned that no final decisions had been taken and the company could still pursue other options. While AA had attracted interest from suitors such as private equity firm EQT, offers have not been sufficiently attractive so far, the people said. There were still live discussions with other bidders about a sale, one added.
+
+The AA had been listed in London until it was acquired in 2020 by the investment firms Warburg Pincus and TowerBrook. The deal valued its equity at just £219mn after it faced a £2.6bn debt burden from previous private equity ownership.
+
+In 2023, the infrastructure investment firm Stonepeak agreed to invest £450mn in the business, giving it an enterprise valuation of about £4bn.
+
+The AA has 17mn customers and reported that adjusted earnings before interest, tax, depreciation and amortisation had increased by 6 per cent to £450mn in the past financial year.
+
+The company is anticipating that the switch to electric vehicles will lead to further growth because such automobiles require extra expertise when they break down.
+
+An IPO for AA could set it up to list alongside rival RAC, whose private equity owners have also been exploring a flotation for the business in London.
+
+The RAC had been preparing for an IPO as soon as the first half of this year. However, the group is now working towards a post-summer timeline as volatile markets push timelines, the FT previously reported in April.
+
+A flotation of AA in London would mark a rare addition to the local market after a prolonged dearth of IPOs and a surge in foreign takeovers for UK-listed companies.
+
+Other companies eyeing flotations in London include the vet group IVC, bookseller Waterstones and AS Watson, the Hong Kong-based owner of Superdrug.
+
+The AA, Warburg, TowerBrook and Stonepeak all declined to comment.
+
+---
+
+## Britain should put up more of a fight on the high cost of defence kit
+
+*2026-06-30 · Louise Lucas · Lex/Companies/Opinion · 538 words*
+
+<https://www.ft.com/content/b5f393a4-a150-4306-8521-903dfc51f098>
+
+Britain’s ramped-up defence spending plan is packed with big numbers. Outgoing Prime Minister Sir Keir Starmer is ponying up an additional £15bn over the next four years, bringing the total tally over the period to £300bn. Drones are in line for £5bn of that.
+
+None of this is fully convincing when looked at more closely. At 2.7 per cent of GDP, spending is still far short of the 2035 target of 3.5 per cent; reaching that would require another £25bn in today’s money, based on estimates from the Office for Budget Responsibility.
+
+The bigger reason to suppress excitement, however, has less to do with the numbers themselves than the Ministry of Defence’s ability to deploy the money fruitfully.
+
+Home in on drone spending. The £5bn pot for drones, also over four years, comfortably tops the US’s two-year $1.1bn “drone dominance programme”, designed to topple China’s position. But, assuming Washington’s unit economics scenario pans out, it is getting plenty of bang for its bucks.
+
+The US Defense Innovation Unit is due to take delivery of 30,000 expendable one-way attack drones and is ordering a further 60,000 in September. As manufacturers expand production to meet demand, the DIU expects the current $5,000 unit cost to drop to $3,000.
+
+That doesn’t seem outlandish, even if most of the kit the US buys is built on its — relatively expensive — home turf. Big defence contractors Boeing and Northrop Grumman produce all sorts of unmanned vehicles and are supplemented by shoals of privately held drone makers, including $60bn start-up Anduril.
+
+While the MoD has not released target unit costs, it isn’t hard to imagine that they will be higher, if only because the pool of potential providers is far shallower in Britain.
+
+BAE Systems dominates the ecosystem. In addition to its own endeavours, including in researching and developing prototypes, it has snapped up several start-ups such as Malloy Aeronautics, where Starmer unveiled Tuesday’s budget plans. Anglo-Portuguese manufacturer Tekever, valued at over £1bn at its last funding round, is among the biggest remaining private companies.
+
+The relative dearth of independent contractors may relate to the MoD’s tortuous procurement processes. These favour behemoths with more people to put to the task and are hard to navigate for leaner, relatively new technology companies.
+
+The UK has borne the costs of this before. A decade ago, with wars raging in Iraq and Syria, then-prime minister David Cameron planned to double Britain’s fleet of killer drones. Delays meant that by 2023 the cost of buying and operating the proposed fleet of 16 US-made Protector drones had risen to £1.76bn, £500mn more than initial estimates. As of May this year, there were still just nine of the aircraft, according to a freedom of information request made by Drone Wars UK.
+
+At the other end of the spectrum, the UK has had to extend the planned retirement of drones — in this case the Watchkeeper unmanned aircraft, manufactured by a Thales joint venture — by two years to next March, as it waits for replacements.
+
+Britain needs a new mindset and more muscular rules of engagement for procurement as much as it needs a bigger kitty. Absent those, the big numbers amount to rather less than they promise.
+
+louise.lucas@ft.com
+
+---
+
+## What humanistic psychology can tell us about European stock markets
+
+*2026-06-30 · Bryce Elder · Markets · 523 words*
+
+<https://www.ft.com/content/17edaa3d-9c3a-4cf8-9f9b-837b1bd16017>
+
+It’s time to consider an immediate shutdown of equity strategy departments while we seek to understand what exactly is going on.
+
+Bringing us to this tipping point today is a note published by Société Générale:
+
+Uh oh.
+
+Maslow’s hierarchy is a simple, not particularly scientific way to describe what can motivate human behaviour. Essential survival stuff goes at the bottom, spiritual stuff is at the top, like this:
+
+Management consultants, marketeers and mortgage finance shops will sometimes present the above as an upgrade on classical economic theory’s concept of utility, even though by itself it describes nothing much more complicated than how people will usually seek food, shelter and sex before they’ll join the Rotary Club.
+
+For reasons not adequately explained in the note, SG equity strategists Charles de Boissezon, Roland Kaloyan and Kevin Redureau have classified all 297 companies in the Euro Stoxx Index by Maslow’s five categories of need. There’s a lot of judgment employed for the exercise that, to anyone who’s not an equity strategist, might make the classifications look a bit arbitrary.
+
+For example, makers of industrial goods and materials will generally be classed as meeting needs of Safety, unless what they make is higher tech than a pipe or a brick, in which case it’s Self-actualisation. Automakers Renault and Stellantis are also in the Safety group, but BMW and Ferrari represent Esteem. Danone and Glanbia are Psychological, being food makers, while liquor companies Campari and Heineken are tapping into our primal needs for Belonging.
+
+SG’s first finding is that more than half the European market, both by constituent count and weight, is in the Safety business. The category includes insurers, healthcare providers and most banks, but also a majority of the industrial goods and services companies, a majority of the basic resources producers, and exactly 50 per cent of the retailers:
+
+SG’s second finding is that, in an index where the majority of its constituent companies have been categorised as Safety, the Safety subgroup tends to hug the index level:
+
+For its third and central conclusion, SG says that “the pursuit of safety has emerged as the overarching European equity megatrend since the start of the 2020s.” Here’s what that looks like as a chart:
+
+This is supporting evidence for a thesis that Europe’s many fragilities (1) . . .
+
+... emerged as political priorities in 2020, when several other things were happening. Safety took over as Europe’s dominant psychic value pillar from needs of a more Psychological nature, as represented by its utilities, grocers and real estate. War in Ukraine then reinforced the trend, SG says.
+
+All of which may seem a very roundabout way to highlight that some of the European stock market’s better performers recently are plays on increased defence spending, energy independence and industrial sovereignty.
+
+We’ve now written about the note, nevertheless, so on one essential level the approach has worked. Because the bottom two tiers of the bank strategist’s hierarchy of needs are always going to be “attention” and “equity sales”.
+
+Further reading:— What Aristotle can teach us about AI-enabled quantitative investment— KNDS struggles to convince investors to back IPO at €12bn-plus valuation
+
+---
+
+## KNDS struggles to convince investors to back IPO at €12bn-plus valuation
+
+*2026-06-30 · Leila Abboud, Aaron Kirchfeld, Laura Pitel · Markets/Companies · 717 words*
+
+<https://www.ft.com/content/0280107c-af01-4726-8fe1-0ec21b4e5b73>
+
+Tankmaker KNDS is struggling to convince investors to back its planned stock market listing at a valuation of more than €12bn, raising the prospect that the blockbuster flotation could be delayed.
+
+Some investors have told KNDS in preliminary talks this week that they believe the Franco-German group will be worth less than €12bn in an initial public offering planned for July, according to people familiar with the matter.
+
+KNDS’s key German family shareholder, which owns 50 per cent with the French government holding the rest, has made clear that it will not proceed with an IPO at a valuation below €12.5bn, some of the people said. A valuation of between €18bn and €20bn had been discussed earlier this year.
+
+Meetings with investors are due to continue next week but unless the company and its advisers conclude there is demand for shares at the desired valuation the company may postpone the IPO until later this year or beyond, they added.
+
+A final decision on the IPO, which would be one of the biggest in Europe in recent years, is likely to be made next week after further talks with investors, the people said.
+
+KNDS and its advisers are still hoping that enough investors will back a flotation at the desired price, the people said, noting that investors are incentivised to push for low prices in pre-IPO talks and could yet commit to invest at a higher valuation.
+
+The Amsterdam-based company in May announced a record backlog of more than €33bn for 2025, driven by increased spending by the region’s governments, and a listing would offer exposure to the European defence sector.
+
+KNDS and a spokesperson for the German families that own half of the company declined to comment.
+
+But the years-long euphoria around European arms makers has cooled in recent months amid concerns about the future of warfare swinging away from heavy machinery towards cheaper drones as well as production bottlenecks and profit-taking, according to analysts.
+
+The Stoxx Targeted Defence index, tracking Europe’s biggest listed defence groups, is flat for 2026 despite a strong start to the year.
+
+The decline in recent months was exacerbated last week when Germany scrapped a multibillion-euro warship project, sending shares in the country’s biggest defence group Rheinmetall down almost a fifth. Rheinmetall had been expected to take over as the main contractor and had negotiated a price tag of €15bn for leading the scheme.
+
+The cancellation of the warship project came on the same day that KNDS formally launched its long-awaited stock market listing, triggering exasperation at the company and its advisers with people close to the IPO process complaining of a lack of co-ordination in Berlin. The “right hand doesn’t know what the left hand is doing”, they said.
+
+“This is the perfect storm,” said one person on the deal. “People are very jittery about the sector.”
+
+Even before the German government’s decision to scrap the order, the expected valuation range for KNDS, which makes the Leopard tank, had declined to €12bn-€15bn from the previous range of €18bn-€20bn, according to people familiar with the matter.
+
+Rheinmetall shares, which are expected to be a key reference point for investors when putting a valuation on KNDS, have declined about 38 per cent this year, including last week’s drop.
+
+Despite the different business models — the Franco-German company focuses on land-based vehicles whereas Rheinmetall is more diversified — many investors have lowered their price points as a result, said advisers.
+
+Potential investors in KNDS have also told the company’s bankers they are concerned about the lack of clarity related to the German government’s massive future order for the Boxer, an armoured vehicle jointly built by KNDS and Rheinmetall, which will play a big role in the long-term order book for both companies.
+
+The German family behind KNDS reached an agreement this month to sell a 40 per cent stake to the German government, paving the way for a long-awaited IPO after which Paris and Berlin would hold 40 per cent each with the rest in public hands.
+
+As part of the deal, Berlin agreed to pay a premium to the listing price, which is usually at a discount to the valuation that can be achieved in a private sale, and to make a potential extra payment depending on the share performance after the listing.
+
+---
+
+## BP deputy chief to leave company in latest upheaval at oil major
+
+*2026-06-30 · Malcolm Moore, Rachel Millard · Markets/Companies · 548 words*
+
+<https://www.ft.com/content/17f90a69-7c33-4b6b-a92d-eb944a101251>
+
+BP’s deputy chief executive is retiring less than three months after she was promoted to the job, in the latest upheaval at the top of the oil and gas supermajor following the surprise firing of chair Albert Manifold in May.
+
+Carol Howle took on the position in April this year alongside her role leading the company’s trading division, but will now leave the FTSE 100 company in the third quarter, according to BP.
+
+She will be replaced as head of trading by Sam Skerry, BP’s head of mergers and acquisitions, who also previously ran oil trading in Europe.
+
+Howle, 54, has steadily climbed BP’s ranks since joining its commercial team in London in 2000, and is highly regarded by colleagues and shareholders, serving as interim chief executive between December 2025 and this April.
+
+BP said it had long been agreed that Howle’s role as deputy chief executive would be temporary, and that she was not departing for another company, but plans to travel.
+
+BP did not publicly state Howle’s appointment was temporary, however, when it announced her elevation in April as incoming chief executive Meg O’Neill took the helm. According to the announcement in April Howle was to oversee the company’s “ongoing portfolio review and strategy development”.
+
+Howle’s departure is likely to raise questions about rapid changes in the senior ranks at BP after Manifold, 63, was ousted in May following what the company said were “serious concerns” over his behaviour, which the FT has reported included allegations of bullying.
+
+Manifold has denied allegations about his conduct and accused critics of lying and hiding behind anonymity.
+
+O’Neill said in a statement on Tuesday that she thanked Howle for her” “outstanding commitment and contribution to BP”.
+
+“Carol led the company through a critical transitional phase as interim and then deputy CEO. With her departure I have chosen not to replace the deputy CEO role. We have significant actions under way to streamline the organisational model and we have a focused leadership team in place.”
+
+The company also announced that Kerry Dryburgh, executive vice-president of people and culture, would also be leaving, to be replaced by Sonya Adams, O’Neill’s current chief of staff.
+
+Manifold’s removal followed the departure of his predecessor Helge Lund in October last year, which followed the dismissal of chief executive Bernard Looney in September 2023 after he misled the board over past relationships with colleagues.
+
+Looney and Lund had put BP on course to cut its oil and gas output and push into renewables, but had to roll back the strategy to try and bolster its flagging share price, under pressure from investors including Elliott, the activist fund.
+
+Manifold and the board hired O’Neill to continue that focus on operational performance and shareholder returns.
+
+O’Neill announced in June a streamlined structure due to take effect from July, in which supply, trading and shipping — the division led until now by Howle — would continue to operate across two other main divisions. She made no mention of any change in role for Howle at the time.
+
+Earlier this month BP said William Lin, the company’s head of its global gas and low-carbon energy business, would also depart in the third quarter.
+
+This month, it was reported that Howle sold nearly £2mn worth of BP stock in May.
+
+---
+
+## Rio Tinto agrees new financial terms for $18bn copper mine project
+
+*2026-06-30 · Leslie Hook · Markets · 477 words*
+
+<https://www.ft.com/content/e976c76a-05ff-4fc4-99f1-2c204553516d>
+
+Rio Tinto and Mongolia have agreed new financial terms for the $18bn Oyu Tolgoi copper mine, after surging prices for the metal and mounting political pressure pushed the company into talks.
+
+The London-listed miner has agreed to cut its management fees for the project in the Gobi Desert by 50 per cent and to reduce the interest rate on its multibillion-dollar loan to Mongolia by 2.5 percentage points.The agreement follows months of negotiation over Mongolia’s single biggest mining project and foreign investment, after officials described earlier terms as “unfair” and claimed the country was “being deceived”.
+
+It also comes as copper prices are near record highs, potentially increasing the future payouts from the mine. It is expected to produce about 500,000 tonnes annually of the red metal, which is in high demand for its role in the energy transition.
+
+Rio Tinto chair Dominic Barton and Katie Jackson, head of copper, met Mongolian Prime Minister Uchral Nyam-Osor on Tuesday in Ulan Bator to sign the deal. The agreement showed that Mongolia could “protect our financial sovereignty while maintaining a highly lucrative environment for global capital”, the PM said in a statement.
+
+Jackson said the agreement “demonstrates Rio Tinto’s ongoing commitment to the long-term success of Oyu Tolgoi”, adding that the reduced interest rate reflected the lower risk as the project matured. The Mongolian government declined to comment.
+
+The new deal is the latest in many twists and turns for Oyu Tolgoi, which has been under construction for nearly 17 years.
+
+Four years ago, Rio agreed to waive about $2.4bn of the government’s loan as both sides vowed to “reset” the relationship — but that truce has not held, while elections due next year have raised the political stakes.
+
+Two weeks ago protesters successfully disrupted exports from Oyu Tolgoi, forcing it to halt shipments of concentrate leaving the project for nearly a day.
+
+One issue that has not been resolved is how soon the government will start receiving dividends from Oyu Tolgoi, in which it holds a 34 per cent stake, with Rio owning 66 per cent.
+
+Frequent cost overruns and delays have pushed back the expected start date for dividends from 2017 to around 2037. Rio said it would “bring forward distributions to shareholders”, without committing to a date.  Ben Davis, analyst at RBC, said the agreement was “just about a net positive” for Rio, though concerns remained about how long it would hold before the government seeks “to take a larger share of the economics”.
+
+“Given how quickly Mongolia politics changes, this remains a very real risk,” he said in a note to clients.
+
+Separately, the Anglo-Australian company is facing a tax probe in Mongolia, where authorities allege it has underpaid about $450mn largely because of accounting differences related to depreciation during the 2021 and 2022 tax years. That dispute is working its way through the courts.
+
+---
+
+## Battery metals futures heat up as volatility stirs markets
+
+*2026-06-30 · Jamie Smyth, Camilla Hodgson · Markets · 995 words*
+
+<https://www.ft.com/content/441173ae-125a-4c4a-baa5-97ec0fa6e2d0>
+
+Hello and welcome to Energy Source, coming to you today from London and New York, where AI technologies and the World Cup remain top of mind for investors.
+
+My FT colleague Steve Johnson reports on how the AI investment boom is reshaping financial markets, with big investors moving out of highly concentrated stock markets and into private credit and infrastructure.
+
+Cash-rich sovereign wealth funds such as Singapore’s Temasek are finding alternative pathways to make bets on the rapid build-out of data centres and the energy sources needed to power them. The shift also reduces growing concentration risk on public markets, where the weight of the 10 largest stocks in the S&P 500 has doubled to 38 per cent over the past decade.
+
+The AI investment boom has also spurred a major M&A spree in the power and utility industry, with a record $203.6bn deals in the first five months of the year. This is more than 40 per cent higher than the $141.7bn figure for the whole of last year, according to research by Deloitte.
+
+The explosion in dealmaking is being driven by companies seeking to build scale to capitalise on data centre construction and on a growing trend among companies to divest non-core businesses to finance expansion. Private capital has also been attracted to the utility industry, either by taking some assets private or pursuing minority investments.
+
+For our main item, the FT’s commodities correspondent, Camilla Hodgson, investigates the surge in futures trading in battery metals on European and US exchanges. Thanks for reading, Jamie
+
+Futures trading in battery metals is heating up, with cobalt traded on the leading European and US exchanges jumping this year amid rising prices and surging demand.
+
+The year so far has brought a rise in the trading of futures contracts for cobalt and lithium on the London Metal Exchange and US’s CME. The metals go into batteries that power electric vehicles and act as energy storage solutions for renewable energy projects and the data centres that underpin AI.
+
+Increased activity comes in the context of growing demand for the metals and as traders and industrial users look to better manage their exposure to volatile prices and secure access to the materials.
+
+Global exchanges are vying to capture that demand and win market share, and have launched a series of battery metals products over the past several years — though the volumes traded overall remain small compared to the trading of industrial metals such as copper and aluminium.
+
+A substantial rise in the price of cobalt over the past year has been driven by radical intervention in the market by the Democratic Republic of Congo, the largest producer of the metal. It has introduced a quota system for cobalt exports, capping the amount that can leave the country in order to address a persistent glut in the market and drive up prices.
+
+“The increase in liquidity on the exchanges is a direct result of the increase in market volatility that has been caused by export restrictions and subsequent supply adjustments — in turn raising the need for price risk management,” said Andries Gerbens, trading director at Darton Commodities.
+
+Traders and commercial users of metal use futures markets to manage their exposure to changing prices by locking in a future buying or selling price today.
+
+A “rising futures volume is considered a bullish indicator for market maturity as it improves liquidity and increases the participation by financial investors rather than just industry participants”, said Gerbens.
+
+Outside China, the CME is becoming a go-to venue for the metals. January was a record month for the trading of the CME’s suite of cobalt and lithium products, rising to more than 1,200 contracts traded each day on average, and the exchange saw record second-quarter volumes of cobalt traded.
+
+The group has also seen a jump in the trading of battery metal options — contracts that give traders the right to buy or sell at a set price by a certain date — of more than 400 per cent in the second quarter compared with the same quarter last year, it said.
+
+“The industry has progressively adopted these financial instruments for hedging purposes,” the CME said, adding that positions held by traders extended out to December 2029.
+
+There is also growing demand for the CME’s lithium carbonate contract — as opposed to hydroxide — as battery chemistries evolve. The increasingly popular lithium iron phosphate (LFP) batteries typically use carbonate rather than hydroxide, and do not contain cobalt.
+
+Meanwhile, the average daily volume for the LME’s physically settled cobalt contract — in which buyers take delivery of the metal — is up more than 250 per cent in the year so far, to almost 200 contracts traded daily on average, compared with the same period last year.
+
+The LME’s lithium contracts are generally not used, with China’s GFEX exchange the most popular venue for the trading of the metal. China dominates the lithium supply chain, production of batteries and pricing.
+
+In June, however, price reporting agency Fastmarkets said it planned to design a new platform for spot physical lithium trading — meaning for immediate delivery, not delivery in the future.
+
+The idea is to create a new digital venue where parties can trade bilaterally in order to improve price discovery and liquidity as the lithium market scales and matures. Participants will have control over pricing, which will not be linked to any reference price, but the data will be used to inform Fastmarkets’ benchmarks.
+
+“If the market requires index-linked products to be available to initiate deals then we would look to develop that,” said Przemek Koralewski, Fastmarkets’ global head of market development. (Camilla Hodgson)
+
+Energy Source is written and edited by Jamie Smyth, Martha Muir, Alexandra White, Rachel Millard, Malcolm Moore, Ryohtaroh Satoh and Stephanie Findlay with support from the FT’s global team of reporters. Reach us at energy.source@ft.com and follow us on X at @FTEnergy. Catch up on past editions of the newsletter here.
+
+---
+
+## Figuring out the Fed in the ‘say less’ era
+
+*2026-06-30 · Daire MacFadden · Unhedged/Markets/Opinion · 843 words*
+
+<https://www.ft.com/content/3bf7ec7e-63e4-4fd6-b43c-15259c48f3ad>
+
+Good morning. UK PM-in-waiting Andy Burnham yesterday laid out his vision for the country (pubs good, high cost of living bad, No 10 North, etc) and crucially, stuck to the existing fiscal rules. Keyword there being “existing”. As Barclays said: “There was no sense of trying to find ways to game the rules or increase borrowing, which would have worried markets.” Sterling and gilts were unruffled.
+
+That leaves the potential for spooking the horses this week to central bankers, who have gathered in Sintra, Portugal, for the European Central Bank’s annual forum.
+
+Today, I do some head-scratching on the Federal Reserve’s next move, and Katie ponders which bits of the markets would be vulnerable to an aggressive pivot on interest rates. Send us your thoughts: unhedged@ft.com.
+
+So what does the Fed do next?
+
+New chair Kevin Warsh has, as expected, given up on forward guidance. Actually — as many are pointing out — he’s given up not just on guidance about the future but also guidance about the present and the past. Dario Perkins of TS Lombard summed it up nicely in the chart below. The emoji in the middle shows us where a legible (if imperfect) Fed dot plot used to be.
+
+In short, Warsh’s turn towards the taciturn potentially increases uncertainty and the risk of policy surprises — a recipe for higher borrowing costs, if ever there was one.
+
+Warsh’s press conference following his first Federal Open Market Committee meeting earlier this month offered a preview of this new regime. In the 24 hours before and after the meeting, markets significantly repriced the likely path of Fed policy over the coming year. They went from expecting one rate rise to expecting two by June next year, with the first due in the fourth quarter. This pricing mostly still holds.
+
+But Bank of America — not to be outdone by market consensus — thinks the number of rate increases could be higher and come sooner. In an updated forecast released last week the US bank argues that the Fed could be forced to tighten three times before the end of this year, starting in September. The reason, it says, is that the labour market is showing no signs of slowing and inflation is above target and sticky. Interestingly, this case rests less on Warsh (who they suspect may want to hold) than on the hawkish tilt in the central bank’s latest Summary of Economic Projections.
+
+While hardly anyone is expecting a rate increase at next month’s FOMC meeting, the release of the June non-farm payrolls on Thursday (yes, Thursday is a weird day to do it, but Friday is a holiday in the US) will tell us a lot about the Fed’s likely course of action in the second half of this year. It is notable that Warsh barely mentioned the full employment side of the Fed’s mandate during the presser, which could be taken as a sign that he considers it met or less important now than price stability. Last week, the headline personal consumption expenditures data for May came in slightly above expectations at 4.1 per cent (year on year). Of course, one way to get the rate down is to shift the goalposts. Warsh has expressed a preference for the trimmed mean PCE, which the Dallas Fed calculates at 2.4 per cent. Price stability achieved? Perhaps one of his task forces can tell us the answer.
+
+As if to underline the point about less communication sparking more confusion, investment house Amundi put out its own forecasts on Monday. It has concluded that the number of Fed rate rises this calendar year will be . . . zero. It expects the central bank to resume rate cuts next year.
+
+Warsh has said a lot about speaking less. So far the proof of the new regime is June’s FOMC statement (cut to under half the typical length) and his refusal to plot a dot. The minutes — the wordiest thing the Fed produces — are due on July 8. Warsh is also on a “policy panel” alongside his counterparts from the UK, Eurozone and Canada in Sintra on Wednesday.
+
+(MacFadden)
+
+One corner of financial markets that could really feel the pain from a sizeable rise in rates, on the scale that BofA sketches out, is US small caps. They’ve had a great run — the Russell 2000 index is up by 21 per cent so far this year, streets ahead of the 7 per cent gains in the S&P 500.
+
+This makes sense — 2026 has been all about the broadening trade as the Mag-7 become the Lag-7 (a term I am shamelessly nicking from Callum Thomas on Bluesky.)
+
+HSBC’s multi-asset team notes that the outperformance of smaller stocks is down to a mix of higher earnings and higher multiples. It certainly looks like there’s a hint of animal spirits at play.
+
+But higher US rates are exactly what this trade does not need. From HSBC, with our highlights for extra:
+
+(Martin)
+
+“One of the biggest corporate lay-off programmes in history”.
+
+---
+
+## Private equity fund investors turn to debt-like deals in downturn
+
+*2026-06-30 · Alexandra Heal · Markets · 457 words*
+
+<https://www.ft.com/content/4675b8bb-4047-458a-be01-90c2aff29219>
+
+Investors in private equity funds are increasingly turning to creative debt-like deals to generate cash amid a dearth of payouts, as the sector’s dealmaking downturn stretches on.
+
+Backers of buyout funds agreed $9bn worth of “alternative”, structured transactions last year to bring in cash from their stakes in the vehicles, up from $6bn in 2024, investment bank Jefferies told the FT.
+
+The bank predicted the trend would continue this year, with some investors seeking to avoid selling stakes in funds at a loss and because of growing demand for creative deals, including from credit funds.
+
+The newfound popularity of these preferred equity deals for stakes in private equity vehicles marks the latest evolution in the secondary market, where investors back ageing assets rather than new deals or funds. Supply from sellers has ballooned as buyout firms have sold fewer companies and returned less cash to their original fund backers.
+
+“All of this is driven by the fact that private companies are being held for longer, there have been persistent low levels of distributions now for several years,” said Scott Beckelman, co-head of private capital advisory at Jefferies.
+
+The mainstream secondary market sees backers, such as pension plans or endowments, of existing buyout funds selling their stakes in those vehicles to dedicated so-called secondaries investors at a discount.
+
+Preferred equity deals, meanwhile, involve the buyer handing the seller a cash advance and the buyer receiving all cash distributions from the underlying funds until their advance and a minimum return are paid back. After that, the seller enjoys most or all of any remaining upside.
+
+“[Fund investors] are now being proactive and they’re using all the tools available to them,” Beckelman said, adding that clients were using that cash to invest in newer buyout funds rather than turning to other asset classes.
+
+He and another leading adviser said fund backers such as family offices and insurers, rather than large institutions, were typically cutting such deals.
+
+A recent “dramatic” expansion in the buyer universe had driven demand, Beckelman said. “There’s been a convergence of secondary investors, preferred equity specialists and alternative credit managers [buying them].”
+
+Opportunistic credit funds such as those run by BlackRock’s HPS invest in preferred equity deals for fund stakes, as do equity and credit secondaries funds such as those managed by Goldman Sachs Asset Management.
+
+Last year a Carlyle AlpInvest team focused on structured secondaries deals agreed to buy, as preferred equity, $600mn-worth of fund interests from Federated Hermes, which had originally invested in those funds on behalf of the UK’s BT Pension Scheme.
+
+Beckelman added that slow distributions had also triggered for the first time significant standalone secondary sales of co-investments, industry speak for direct holdings in companies that buyout backers can own alongside funds.
+
+---
+
+## US Supreme Court blocks firing of Fed governor
+
+*2026-06-30 · Markets · 262 words*
+
+<https://www.ft.com/content/bc7263bb-6aa2-4ecb-9e4f-e5dd856e3639>
+
+The US Supreme Court blocked President Donald Trump from firing Federal Reserve governor Lisa Cook, and investors are pivoting from the Magnificent Seven Big Tech stocks. Plus, foreign investors are worried the Japanese government is in danger of backsliding on corporate reforms.
+
+Mentioned in this podcast:
+
+US Supreme Court blocks Donald Trump from sacking Fed governor Lisa Cook
+
+Magnificent Seven stocks shed $2.7tn in Wall Street tech rotation
+
+Foreign investors fear Japan is backsliding on reform
+
+Tell us your thoughts to enter a prize draw for a chance to win a pair of Bose QuietComfort Headphones worth £229.
+
+https://www.feedback.ft.com/c/a/6f9bJBvxsxaEBSIB5esBIS
+
+Over 18s only. Find full T&Cs here
+
+
+
+Prize Draw winners’ surnames and regions may be made available upon request, as required by the Advertising Standards Authority. If you do not want your information to be made available, please email Privacy.Officer@ft.com upon entry. For more information on your rights and how we use your data, please read our Privacy Policy.
+
+Want to get in touch? Email us at podcasts@ft.com
+
+Note: The FT does not use generative AI to voice its podcasts
+
+The FT News Briefing is produced by Victoria Craig, Sonja Hutson, Saffeya Ahmed, Katya Kumkova, and Fiona Symon. Our editor is Marc Filippino. Our show is mixed by Kelly Garry and Alex Higgins. Additional help from Gavin Kallmann, Michael Lello, Peter Barber and David da Silva. Our intern is Cole van Miltenburg. Our executive producer is Topher Forhecz. Flo Phillips is the FT’s global head of audio. The show’s theme music is by Metaphor Music.
+
+Read a transcript of this episode on FT.com
+
+---
+
+## Yen weakens to 40-year low
+
+*2026-06-30 · Ian Smith, Kate Duguid, Leo Lewis · Markets · 627 words*
+
+<https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510>
+
+The Japanese yen has fallen to its lowest level against the dollar in almost four decades as investors worry about the economic effects of the war in Iran and authorities’ struggles to tame inflation.
+
+The yen weakened past ¥162 to the dollar for the first time since December 1986 during morning trading in Tokyo on Tuesday, leaving it down more than 3 per cent this year and fuelling speculation that Japanese authorities would intervene again to support the currency.
+
+As the yen approached an intraday low of ¥162.27, Japan’s chief cabinet secretary, Minoru Kihara, used a morning press conference to repeat the government’s position that it “stands ready to take action whenever necessary”.
+
+The recent weakening in the yen, which took it past its mid-2024 low, has been spurred by concerns that the Bank of Japan is at greater risk than its global peers of “falling behind the curve” at taming inflation, triggered by the burst of higher oil prices caused by the Iran war.
+
+Prime Minister Sanae Takaichi in late June revealed plans for a massive programme of public and private investment in economic growth. The envisaged scheme would see the equivalent of $2.3tn invested over 14 years, but the relative lack of detail about how the funding would be split revived concerns that she has set Japan on course for more fiscal expansion.
+
+Crossing ¥162 provides “another reminder of how weak the yen has become”, said Lee Hardman, senior currency analyst at MUFG. “The energy price shock has weighed on the [currency], and the Fed’s hawkish policy update is now encouraging higher US rates and a stronger dollar.”
+
+However, some analysts also point to Japan’s recent stock market rally as a source of downward pressure on the yen. Since the start of the year, the Nikkei 225 index has broken a series of records, rising above 72,000 points last week in a move driven primarily by foreigners piling into AI and semiconductor names.
+
+Those bets, traders said, had been accompanied by significant currency hedging, which has created selling pressure on the yen.
+
+The new low will prompt speculation of further intervention from the Japanese authorities to support the yen after it spent tens of billions of dollars to shore up the currency in April and May. That came after a so-called rate check by US authorities in January.
+
+“The Japanese probably realise that FX intervention at the moment is an exercise in futility,” said Chris Turner, ING’s global head of markets research.
+
+“But they don’t want to leave yen losses unchecked in case it triggers a ‘sell Japan’ mindset should Japanese government bonds and then equities come under pressure, too,” added Turner, who expected further bouts of intervention.
+
+Traders have attributed some of the currency’s weakness to the BoJ being slow to raise interest rates to keep up with inflation that has gradually climbed to 1.5 per cent in May.
+
+The central bank in mid-June raised interest rates to “around 1 per cent”, the highest level since 1995, but only one further quarter-point rise by January is expected by traders. The US Federal Reserve, in contrast, is expected to raise rates one or two times from the current range of 3.5 per cent to 3.75 per cent.
+
+“The direction of travel is pretty clear because the Bank of Japan’s monetary policy is so disconnected from what’s going on in the US and Europe — the yen is likely to remain pretty weak,” said Ed Al-Hussainy, a portfolio manager at Columbia Threadneedle.
+
+The yen was suffering from the BoJ being slow to tighten policy, but also a “big change” in fiscal policy, Al-Hussainy said. “They’ve dumped a bunch of fiscal stimulus into the economy without any change in monetary policy. That risks the economy running hot.”
+
+---
+
+## UK regulator waters down landmark crypto rules
+
+*2026-06-29 · Nikou Asgari, Martin Arnold · Markets · 720 words*
+
+<https://www.ft.com/content/c2ace628-7bd9-4f3b-b835-970d6dd930bb>
+
+The UK financial regulator has watered down its capital and disclosure requirements for crypto companies as it presented landmark rules for the country’s digital asset industry.
+
+The Financial Conduct Authority’s decision to dilute its first full set of rules for crypto companies came after complaints from the sector that its initial proposals were too onerous and risked holding back the UK in the fast-growing market.
+
+Setting out a regulatory framework that will apply to UK crypto companies from October 2027, the FCA said it had lowered the capital requirements to cover the specific risks of stablecoin issuers and crypto trading companies.
+
+Smaller companies and those with less risky activities will also be freed from having to publicly disclose their capital requirements, the FCA said, ditching a blanket disclosure rule. The regulator estimated its rules would add 3mn to 4mn customers to UK crypto markets by boosting confidence.
+
+“This is about giving crypto a solid foundation from which to build,” said David Geale, executive director for payments and digital finance at the FCA, adding: “This crypto regime is the biggest change in the FCA scope for at least a decade.”
+
+“We can’t regulate away risk. Crypto does remain a high-risk investment and it’s important that consumers know what they’re getting into,” he said, adding: “There’s no reason why people shouldn’t have a proportion of their portfolio in high-risk assets.”
+
+Renuka Rawlins, director of policy and government relations at industry body the Payments Association, said the FCA’s reworked rules were “encouraging”, adding that “the regulator has actively listened to our members’ feedback, introducing much-needed adjustments that replace rigid complexity with commercial workability”.
+
+British officials have for years faced criticism over what executives perceived as a slow and cautious approach to the crypto sector, especially after Donald Trump returned as US president and encouraged a light-touch regulatory approach to the industry.
+
+Under Trump, US officials passed stablecoin rules into law last year but they are still debating the Clarity Act, which would oversee the wider crypto market. The EU’s Markets in Crypto-Assets Regulation came into force at the end of 2024.
+
+But after pressure from crypto executives and politicians, UK regulators have recently shifted their rules in a more industry-friendly direction.
+
+Stablecoins, tokens pegged to sovereign currencies such as the pound or dollar, will be jointly regulated by the FCA and the Bank of England. Last week, the central bank announced it was ditching or diluting some of its most unpopular proposals for the largest stablecoins.
+
+On Monday, the FCA said it had halved how much extra capital issuers of non-systemic stablecoins will need from 2 per cent of their overall issuance to 1 per cent.
+
+Companies owning crypto tokens as part of their trading book will need to have capital covering 40 per cent of their net exposure value, the FCA said, as it ditched an earlier proposal for some riskier tokens to attract a 100 per cent capital requirement.
+
+“We have listened to what works and we’ve listened to what doesn’t work,” said Geale. “We got feedback on capital that we were starting a bit high.”
+
+The regulator also eased its rules on liquidity requirements, intragroup custody as well as pre-trade transparency for crypto groups.
+
+The FCA said it would consult later this year on guidance for the decentralised finance (defi) sector, a largely unregulated part of the industry where automated contracts are used to replace traditional intermediaries and in some cases no single entity controls users’ funds.
+
+Thieves stole more than $500mn from two defi companies in high-profile hacking incidents this year, exacerbating concerns about the security of that part of the crypto industry.
+
+“An awful lot of discussions around defi do end up with an element of [centralised finance],” said Matthew Long, director of payments and digital assets at the FCA, adding that the rules will apply whenever there is an “identifiable controlling entity” that can be regulated.
+
+For the past six years, crypto companies were required to register with the FCA to check compliance with its rules against money laundering and terrorism finance. Many of the 62 companies that registered are expected to seek a full licence under the new regime.
+
+From September 30, crypto companies operating in the UK can apply to be regulated under the FCA’s rules, which will come into force from 25 October 2027.
+
+---
+
+## Ethiopia makes deal to cut payments on $1bn bond
+
+*2026-06-29 · David Pilling, Joseph Cotterill · Markets/Global economy · 647 words*
+
+<https://www.ft.com/content/90770782-517e-4b23-aaae-4b5a20720878>
+
+Ethiopia has made a deal to restructure its defaulted $1bn international bond after investors threatened to sue over the flaws of a G20 framework for reworking debts of poor countries.
+
+Ethiopia’s finance ministry said on Monday that a group of bondholders had agreed to cut the face value of the debt to $880mn, after years of abortive talks and official creditor opposition that almost landed the restructuring in court.
+
+The new deal has the “non-objection” of China, Ethiopia’s biggest official creditor, and approval by the IMF, the finance ministry said. It comes after Ethiopia secured more than $8bn of debt relief from official creditors in recent years.
+
+Africa’s second most populous nation stopped making interest payments on the $1bn bond in 2023, one year before it was due to pay it back in full, after seeking relief under the Common Framework, a G20 process to speed sovereign debt workouts.
+
+The country became a byword for failures of the framework as official creditors repeatedly said that a committee representing investors holding just under half of the bond was not offering enough concessions.
+
+Before talks resumed this month, the bondholder committee said that members could press ahead with suing Ethiopia after prior warnings.
+
+In a statement today, the bondholder committee said it accepted the deal — but revealed divisions among members on aspects of the restructuring.
+
+Morgan Stanley Investment Management declined to join other members in criticising the restructuring process, while Farallon Capital Management said that Ethiopia was receiving more debt relief than required.
+
+While the fund said that it had supported initial legal action, it added that “it will not maintain this position on its own behalf, so as to preserve the proper functioning of the committee”.
+
+The deal avoids what would have been the first court case over the G20 framework after bondholders warned Ethiopia that they were ready to file lawsuits in English courts to reclaim their money.
+
+Xuan Changneng, deputy governor of the People’s Bank of China, said last week that “co-ordinated efforts are . . . needed on legal and technical fronts to curb malicious litigation by bond investors”, in what was widely seen as a reference to Ethiopia’s bondholders.
+
+Under the deal, bondholders will be paid about a year of missed interest, or $99mn, a new interest rate of just over 6 per cent, which is slightly less than the original bond, and a $5mn fee. Any court action would have consolidated all the missed interest into the original claim, making a restructuring harder.
+
+Bondholders will also receive a sellable right, or “warrant”, to buy a future seven-year bond of up to $1bn, issued by Ethiopia under specific terms. The bond’s interest rate would be 4.5 percentage points above six-year US Treasuries. If Ethiopia does not go through with the bond issue, it will have to pay the warrant holders up to $90mn.
+
+“Bondholders have successfully used the threat of legal action in the UK to wring more money out of the Ethiopian people,” said Tim Jones, policy director at Debt Justice, a charity.
+
+Ethiopia’s economy has weathered several internal and external shocks, notching up annual growth of between 6 and 9 per cent since Abiy Ahmed became prime minister in 2018. They included a civil war in 2020–22 in the northern Tigray region, which killed up to 600,000 people.
+
+Bondholders failed to secure a warrant sketched out in previous talks that would have offered extra payouts if Ethiopia’s export growth fared better than IMF projections.
+
+Abiy’s government has liberalised Ethiopia’s foreign exchange regime and revived a moribund mining sector, turning gold into a significant export earner alongside traditional sources such as coffee.
+
+Addis Ababa is in the midst of a real estate boom, although ordinary Ethiopians complain of the high cost of living and inflation that has crept back up above 11 per cent after the closure of the Strait of Hormuz.
+
+---
+
+## Comcast’s Hollywood break-up marks its GE moment
+
+*2026-06-29 · Lex/Opinion · 467 words*
+
+<https://www.ft.com/content/16b80794-3898-4010-b7d8-5c8cf59dd7ef>
+
+Who has more pulling power, Hollywood stars or the cables that pipe them into viewers’ homes? Comcast on Monday announced that it would separate its legacy broadband and cable television distribution segment from its media and entertainment business. That will involve spinning off NBCUniversal, the television broadcast network and movie studio that it announced in 2009 that it was acquiring from General Electric, as well as Sky in 2018.
+
+When Comcast ventured into media, content was king. Legacy media properties were the toast of Wall Street, with a handful of titans dominating the attention of consumers around the world. The Roberts family, which controls Comcast, spun a tale of combining content with distribution, as well as amusement parks.
+
+That narrative held for some time. But the Comcast conglomerate model has fallen out of favour. Its shares are down 60 per cent in the past five years — although that includes the effect of a spin-off earlier this year — and its market capitalisation of $83bn is roughly the same as its net debt
+
+Yet it isn’t clear that the break-up — in and of itself — will solve Comcast’s problems. The NBCUniversal/Sky media business will struggle to keep up with the likes of Netflix, YouTube, Instagram and TikTok.
+
+And the once steady cable and broadband business, which generated 70 per cent of Comcast revenue last year and 90 per cent of operating profit, is itself looking less enticing. Cable television subscribers at Comcast have halved from their peak of 20mn a decade ago. And its nearly 30mn broadband internet subscribers are also starting to dip as mobile phone companies are pushing into internet services. Of course, hanging above everything is the shadow of Elon Musk’s Starlink, which has spooked the buyside about the long-term prospects of traditional internet services.
+
+Still, some good may come of splitting Comcast up. The group’s shares rose 4.5 per cent on Monday. The separation will help address a conglomerate discount. But there is also the prospect of more dealmaking. Could NBCUniversal be acquired by an Apple or Amazon or other trillion-dollar tech titan that wants to try their hand at making shows and movies?
+
+But the deal that Wall Street is most intrigued by is the potential combination of the Comcast telco and John Malone’s Charter Communications, whose share price jumped 9.4 per cent on Monday. Shares of Charter, which itself has 30mn broadband subscribers, have also been battered in recent years but a blockbuster merger to take out expenses and reduce overall investments might change the mood.
+
+Former conglomerates have, for various reasons, done well for themselves. GE learned the hard way that owning glamour businesses might be fun for the CEO and board but is not necessarily useful for shareholders. Comcast has now ended up in the same place.
+
+sujeet.indap@ft.com
+
+---
+
+## Burnham’s devolution plan fits the corporate zeitgeist
+
+*2026-06-29 · Nicholas Megaw · Lex/Opinion · 518 words*
+
+<https://www.ft.com/content/2136eb2e-1518-467b-8af6-b523c433262e>
+
+Many business leaders have a reflexive distrust of British prime minister-in-waiting Andy Burnham, who set out his economic priorities in a speech on Monday. Talk of greater state control of utilities or extra spending on council housing may not help with those fears, but the centrepiece of his speech involves a strategy most executives would approve of.
+
+Burnham is focused on decentralising power — hardly a Marxist plan. It was the libertarian economist Friedrich Hayek who most famously argued that local experts will always be more knowledgeable than a central planner. Companies like Swedish bank Handelsbanken and video games company Valve took this particularly seriously, pursuing radically decentralised models that, they argue, lead to better decision making and increased innovation. The advent of artificial intelligence has made the idea of cutting out layers of middle management particularly popular recently.
+
+In government, that could mean tailoring employment support schemes to focus on specific local skills shortages, or allowing local authorities to test out different tax incentives. Other authorities should be able to copy the initiatives that work without direction from Westminster.
+
+For employees, reducing micromanagement from above tends to lead to greater job satisfaction; the same might be said for voters who have grown to resent central government and, according to polls, like the idea of giving more power to local mayors.
+
+The downside can be higher costs, for example through the loss of economies of scale when making purchasing decisions. Spread decision-making too widely and it can also cause confusion — for staff and clients of an individual business, or for businesses considering investments at the national level. But Burnham is hardly suggesting giving parish councils control over the defence budget; given that the UK is currently the most fiscally centralised country in the G7, there is plenty of scope to loosen central control without overdoing it.
+
+Even in the private sector few organisations go as far as Handelsbanken, but smaller steps can still make a difference. Look at HSBC — a bank whose notorious bureaucracy has often seen it unflatteringly compared to the civil service. When Georges Elhedery became chief executive in 2024, one of his first moves was to shrink its executive committee and reorganise the bank around four new units to make a “more dynamic and agile organisation”. Burnham’s version of tearing up the company org chart, with talk of a “more streamlined state” directed by a new “Number 10 North”, could be lifted from the same corporate phrase book.
+
+British politicians have been promising versions of this for years. Devolution was a key plank of Sir Keir Starmer’s 2024 manifesto; Boris Johnson talked frequently of “levelling up” the UK’s regions; David Cameron had his “Northern Powerhouse” plans. But sometimes a new leader’s job is sharpening execution and improving confidence as much as it is overhauling strategy.
+
+Elhedery’s predecessor Noel Quinn had similar commitments to restructuring the bank and cutting costs. But its shares have nonetheless doubled since Elhedery’s appointment was announced. If Burnham ended up offering “Keir Starmer’s policies with better execution and communication”, those wary business leaders could end up pleasantly surprised.
+
+nicholas.megaw@ft.com
+
+---
+
+## AInflation is real but tiny
+
+*2026-06-29 · Daire MacFadden, Robert Armstrong · Unhedged/Opinion/Global economy · 942 words*
+
+<https://www.ft.com/content/62a3e2df-ec52-4023-9142-95d13b19e69b>
+
+Good morning. It’s a shortened week for US markets, but it won’t be entirely sleepy, given semiconductor sell-off jitters, the June jobs report landing on Thursday, and a frayed-looking ceasefire in the Middle East. Earnings from struggling Nike on Tuesday could be interesting too.
+
+Today, I tackle AInflation and Rob says mean things about European stocks. Let us know what you think: unhedged@ft.com.
+
+The AI boom is driving inflation in some surprising places. For example, the prices of computer software and accessories have been surging, according to CPI data:
+
+This should be surprising to anyone who has followed the “SaaSpocalypse” story, which would have you believe demand for traditional cloud software is poised for collapse. It could be that software developers are charging more for higher-quality products with AI features: Microsoft Office applications integrated with Copilot, for example. Another explanation, offered by Stephen Miran and co-authors at the Federal Reserve, is that the price pressure is caused by accessories, mainly flash drives, which are an essential component of the data storage necessary for AI training.
+
+The flash drive squeeze is part of a larger inflation problem: memory chips in general are currently the dominant supply constraint in the AI infrastructure build-out. One measure of this is in the price of imported capital goods — which includes chips and other computing equipment needed for data-centre capacity — up 5.6 per cent in May. AI-related demand is even more visible in PPI for electronics, which captures semiconductors and memory devices. It rose 27 per cent in May, as illustrated in this chart from the Deutsche Bank Research Institute:
+
+Few of us buy memory chips directly. What we do buy are gadgets like laptops and phones that run on those chips. And right on time, last Thursday, Apple raised MacBook and iPad prices by a walloping 20 per cent. Microsoft soon followed, increasing Xbox prices by $100. From the narrow perspective of inflation, we shouldn’t be overly worried — electronics make up a tiny 2 per cent of overall household spending. What should worry us is others following their lead. Apple products, in particular, have a highly visible place in the economy. If they’re raising prices, others could take that as permission to follow.
+
+So far, AI-related demand has been mostly confined to the electronics supply chain and only in categories that make up a tiny portion of the overall inflation index. Computer software and accessories account for less than 1 per cent of the CPI basket, for example. While it’s generally difficult to find evidence of the AI investment boom showing up in other categories, construction wages are a notable exception. They have risen 4.3 per cent over the past year — almost a whole point above the economy-wide average of 3.4 per cent. That could be a purely cyclical effect, coinciding with a wider resurgence in the US job market, but the break in the trend is striking:
+
+None of this debunks new Fed chair Kevin Warsh’s view that AI will, one day, be a “significant disinflationary force”. Short-term supply bottlenecks are to be expected in the early stages of an intense investment cycle. Productivity gains in some sectors, and wage pressure in others, could follow. But those are forces that operate on a long timeline. For now, AI looks inflationary, but on a small scale. Warsh, and the rest of us, will have to hope it doesn’t spread over the next few years.
+
+(MacFadden)
+
+Several readers wrote in response to Saturday’s Unhedged Chart of the Week, which compared the valuations of global stock indices. The gist of the chart was: US and other countries exposed to AI and semiconductors have expensive-looking valuations, and the rest of the world looks cheap.
+
+The message from the readers: “well, duh.” Of the US, one reader wrote, “We own the high-end high-margin market!” Of bargain-priced Europe, another wrote to say: “Based on the national economic performance of Europe — in a word lousy — why wouldn’t it be cheap?”
+
+These readers are, broadly, correct. Below is a chart of the valuation premium of the S&P 500 to the S&P Europe 350, measured in terms of forward price/earnings ratios. While the US premium is wider than it was pre-Covid, it has got narrower recently — not because Europe has outperformed the US (it’s roughly a tie over the past year, and the US is way ahead over long timespans). Instead US earnings growth has shot ahead, making the “e” in “p/e” bigger, shrinking the ratio.
+
+Over the past 15 years, earnings growth for the US index is over three times higher than for the European index (measured in dollars and euros respectively): a 7.8 per cent annual compound growth rate for the US versus a miserable 2.5 per cent for Europe, according to data from S&P CapitalIQ. If the growth gap remains anywhere near that size, the US premium seems, if anything, too small.
+
+The gap could close. The Eurozone crisis of the mid-teens left a nasty scar on earnings, and that does not have to repeat. The kinds of companies that make up the meat of the European index — banks, industrials, pharma — could make a comeback relative to the tech companies that dominate US markets. That’s not hard to imagine: suppose hyper-investment in AI data centres yields low returns, for example. And for what it is worth, analysts are expecting nearly double-digit earnings growth in Europe over the next few years (against mid-teens growth for the US).
+
+As of now, though, Europe is “cheap” only if something big changes, on one side of the Atlantic or another.
+
+(Armstrong)
+
+Extend & pretend & make money.
+
+---
+
+## Chart of the Week: Chipmakers are expensive globally
+
+*2026-06-27 · Hakyung Kim · Unhedged · 239 words*
+
+<https://www.ft.com/content/e5aa937c-bc52-4973-bf21-bfb6afd1d95d>
+
+Good morning. This week we look at global market valuations, using both forward price/earnings ratios (which use estimates for the coming year’s earnings in the denominator) and cyclically adjusted price/earnings (“Cape”) ratios (which use 10-year historical average earnings in the denominator). On both forward and historical measures, the tech- and AI-heavy US and Taiwan markets look expensive relative to most other major areas. In contrast, the UK and Europe look cheap.
+
+Korea is an interesting outlier. Thanks to the skyrocketing earnings of the memory chip giants Samsung Electronics and SK Hynix, its forward price/earnings ratio is low — because earnings are expected to be so high next year. Valuations also remain low because of corporate governance concerns, which policymakers have been working to remedy. But its Cape ratio, which uses historically normal earnings, is an expensive-looking 35. Taiwan, which looks especially expensive because of the heavy weighting towards Taiwan Semiconductor Manufacturing Company, has a sky-high Cape ratio of 49.
+
+If AI delivers on its economic promise in coming years, the high valuations shouldn’t be too much of a worry. If, however, returns on AI investment are low, the AI-heavy markets could see big corrections. Send us your thoughts: unhedged@ft.com.
+
+Hakyung: Young believers.
+
+Katie: A complicated legacy
+
+Daire: Bottlenecks
+
+Rob: America 250
+
+As a programming note, Unhedged: Chart of the Week will be off next Saturday for the July 4 holiday. We’ll be back in your inboxes on July 11.
+
+---
+
+## Luxury may be in the doldrums, but perfume passes the smell test
+
+*2026-06-27 · Jennifer Hughes · Lex · 457 words*
+
+<https://www.ft.com/content/8a88235d-93ab-48ad-a748-278585b8c3cc>
+
+When the beauty industry is transfixed by the age-defying properties of snail slime, the origin of luxury perfume — a sperm whale’s insides — seems positively pedestrian. Fragrances, though, are one of the faster-growing elements of the personal care world, helped by their position as a gateway product for prestige brands.
+
+The global beauty market should grow at a 5 per cent annual clip through to 2030, McKinsey forecasts. Within that, fragrance is expected to grow the most consistently throughout the pricing spectrum, as sales steady after a boom period. That was driven by trends for layering multiple scents and for lighter formats such as body mists. By the end of the decade, fragrance will rival haircare as the second-biggest segment, the consultancy reckons, behind skincare but well ahead of colour cosmetics.
+
+Investing in scents isn’t straightforward. Many of the best-known names such as Dior sit in luxury powerhouses such as LVMH, whose fortunes depend far more on handbags and champagne. Beauty brands too have proven problematic. Estée Lauder is in the middle of a broader restructuring. This year’s merger talks with Spain’s Puig, which would have added significantly to its fragrance portfolio, failed. Coty, licensee of Hugo Boss and Burberry among others, is also undergoing a turnaround after its shares halved in the past year.
+
+Perhaps the sniffy attitude of many perfume leaders — self-styled world number one L’Oréal included — to breaking out their fragrance businesses for investor assessment is one reason US-listed, Paris-based Interparfums has outperformed them all so far this year. Holder of licences for Jimmy Choo, Longchamp, Coach and Montblanc, among many others, it is somewhat similar to eyewear specialist EssilorLuxottica, which is known for glasses for labels, ranging from Chanel to Miu Miu, alongside its own brands, including Oakley and Ray-Bans.
+
+Interparfums’ asset-light model — unlike EssilorLuxottica, it outsources actual manufacturing to others — makes the 44-year-old company nimble when it comes to taking on new licences or developing its own luxury offering, as it is now doing with Solférino. While last year’s 2.5 per cent profit growth won’t set investor hearts aflame, it compares well against the flat or falling earnings reported by LVMH, L’Oréal, Estée Lauder and Coty. Interest in upcoming launches for Longchamp, a new win, should help.
+
+While Chanel No 5 may have made it to 105 years of age, most brands come nowhere near. Fragrance is a crowded market: two decades back, there were about 300 launches per year and now there are more than 2,000, reckon Berenberg analysts, which could limit profitability. Still, so long as humans desire to smell nice — something that will hopefully never fall from fashion — perfumes should provide the troubled luxury industry with a reassuringly buoyant base note.
+
+jennifer.hughes@ft.com
+
+---
+
+## Walmart’s ad deal smartly puts its customers in the shopping basket
+
+*2026-06-26 · Sujeet Indap · Lex · 416 words*
+
+<https://www.ft.com/content/bc95ca91-0d97-4025-97cf-781f1964904e>
+
+The media and advertising elite gathered in the south of France this week for their industry’s annual shindig, the Cannes Lions convention. But the hottest consumer marketing concept of the season might be one that comes not from New York, London or Paris, but from Bentonville, Arkansas — home to Walmart.
+
+The US retail giant said on Tuesday that it would buy Vibe.co, an adtech start-up whose founders are French, for a price the Wall Street Journal reported as $1.4bn. The company specialises in placing ads within “smart” televisions. That ought to sit nicely alongside Vizio, a smart-TV manufacturer Walmart bought two years ago for $2.3bn.
+
+The goal isn’t to shift more electronic hardware — though of course Walmart does that too — but to build a bigger presence in digital marketing. Arch-rival Amazon already gets $70bn in annual revenue from its advertising business. Walmart’s equivalent activities generated $6bn in 2025, growing 40 per cent but still far behind.
+
+It’s not that selling food, clothes and garden furniture isn’t a solid business. Walmart shares have more than doubled in the past five years. But retail remains cut-throat and even the best-in-class Walmart has an overall operating margin of just 4 per cent. A search for profitable add-ons may also be why the UK’s Tesco is considering getting back into broadband.
+
+There’s also an appealing logic in Walmart, which brings 150mn people a week into its real-world and digital stores, serving up customers as the product. Already, Walmart and Amazon have a compelling story to tell marketers, because the return on investment of advertising on their sites can be easily measured. In their “closed loop” environments, the customer sees an ad, browses and buys in the same place. Fox’s recent acquisition of Roku for $22bn has similar connected-TV logic.
+
+While Walmart doesn’t have a streaming platform like Amazon’s Prime Video, selling ads via smart TVs puts it into a similar orbit. Vizio’s user interface presents viewers with ads as they toggle between various channels and video services. Vibe.co specialises in small and medium businesses whose budgets don’t stretch to buying spots within shows.
+
+For a 64-year-old retail chain from the American South, Walmart is more than holding its own against young, flashier Silicon Valley firms. Its shares have outpaced Amazon, Nvidia and Apple over the past two years. If it can monetise its deep well of consumer data and insights without customers feeling like they’re the ones on special offer, there’s no reason that can’t continue.
+
+sujeet.indap@ft.com
+
+---
+
+## Volkswagen’s mass lay-offs are a call to action for a sleepy EU
+
+*2026-06-26 · Camilla Palladino, Gaia Freydefont · Lex · 496 words*
+
+<https://www.ft.com/content/ccea8285-11f9-45c0-b642-1efe9ef0c1da>
+
+European carmakers haven’t made a huge amount of headway in responding to their Chinese competitors. But now, Volkswagen has upped the ante: it is considering cutting up to 100,000 jobs and closing four German factories. That’s not a definitive solution to the threat faced by the European auto industry, but it does improve the carmaker’s odds.
+
+The plan, which would be one of the largest lay-off programmes ever, involves doubling a previously outlined target and would axe about a sixth of VW’s global workforce. VW may not actually push it through: opposition from its labour union is one obstacle. But chief executive Oliver Blume has confounded sceptics before. In 2024, he managed to get unions to agree to cut production capacity across five German sites.
+
+A back-of-the-envelope analysis suggests sizeable savings. VW’s average employee costs roughly €70,000 a year, so the cuts would save around €7bn annually. Factory closures would shave a further €3bn per year off capital expenditure, according to Citigroup estimates. Together, that amounts to roughly €10bn in savings, albeit offset by severance and other costs. Spread across last year’s sales of 9mn vehicles it’s around €1,000 per vehicle.
+
+That would at least narrow the cost disadvantage that European auto groups have compared with their Chinese rivals like BYD and Leapmotor. But it would not close the gap. Chinese manufacturers build electric vehicles for between 20 and 50 per cent less than their European counterparts, reckons McKinsey. For a Volkswagen costing roughly €30,000 to produce, that implies a gap of at least €6,000 per vehicle.
+
+There is one way the lay-offs could make a much bigger difference: if politicians step in to prevent them, by offering carmakers protection from their chief competitive threat. VW’s move would undoubtedly be greeted with dismay in Brussels, and will ratchet up the pressure on European policymakers to slap restrictions and trade barriers on China.
+
+The EU has already imposed tariffs on battery electric vehicles produced in China to help offset state subsidies, and may do the same for plug-in hybrids. At the same time, the European Commission’s Industrial Accelerator Act, unveiled in March, proposes tying public grants and subsidies to cars with a minimum share of their components made in Europe. That would, in effect, raise the cost of producing Chinese vehicles sold within the bloc.
+
+Other European carmakers will inevitably have to follow VW down this path. If VW normalises the idea of giant lay-offs, it will be easier for them to do so too. The industry would be wise to try other tactics too, though. Sharing research, development and production facilities, using off-the-shelf components and sourcing cheaper batteries will all have to be part of the solution.
+
+Stand back, and VW’s restructuring plan is a combination of cry for help, threat and genuine attempt to make a bad situation a little better. It won’t be enough to solve the pressing problem — but it definitely makes the urgent need for a solution impossible to ignore.
+
+camilla.palladino@ft.comgaia.freydefont@ft.com
+
+---
+
+## The leadership change in US stocks
+
+*2026-06-26 · Robert Armstrong · Unhedged · 793 words*
+
+<https://www.ft.com/content/42420d57-f466-4b01-bc4a-4d68f9e0b6c0>
+
+Good morning. Micron’s earnings report on Wednesday night was anticipated as a major indicator of how the AI boom is holding up. Micron’s numbers turned out to be brilliant, and its stock rose 16 per cent yesterday. So you might have expected the tech sector more broadly to break out of its recent funk. Nope! The excitement was confined to the chip sector, and the Nasdaq Composite fell by half a percentage point on the day. More on this pattern below. Send your thoughts: unhedged@ft.com.
+
+Six weeks ago, leadership in the US stock market changed in a big way. For five years or more, up until the middle of May, the S&P 500 was led by the Magnificent 7 tech stocks, almost all of the time. When the market was rising, it was usually the Mag 7 leading it up; when the Mag 7 were weak, the market tended to be weak. The below chart shows the S&P 500 (in red) plotted against the relative performance of the Mag 7 to the wider index (blue). As you can see, when the Mag 7 outperform, the market generally does well, and the reverse usually holds, too:
+
+Below is the same chart again, zooming in on 2026. As you can see, sometime in the middle of May, the Mag 7 started to founder badly, but the market has managed to hold up. There have been divergences like this before, but this one is big:
+
+This change in pattern overlaps with a bunch of other relationships that market watchers track: growth stocks vs value stocks, the cap-weighted S&P 500 vs the equal-weighted version, large capitalisation indices vs small-cap indices. All of these stand for roughly the same thing, and in all cases the usual pattern is currently in reverse: Mag 7, growth, cap weights and large caps are all relative losers recently, and yet the market is still managing to go sideways rather than fall. This is new.
+
+What stocks are working while the Mag 7 are not? Semiconductor stocks are (or were) a big part of the story. Since mid-May, of the 15 S&P stocks that have added the most value, 10 are in the semiconductor sector
+
+There are several ways to make sense of this shift from one tech subsector to another. It may be that worries about wild capex spending by the Mag 7 (and especially by Alphabet, Microsoft, Meta and Amazon) are coming home to roost. We know this spending will mean huge profits for semiconductor companies, possibly for years to come. On the other hand, whether the Mag 7 returns on this huge investment will be any good is anyone’s guess. So why not just own the semis?
+
+Another theory: most active portfolio managers will have made a load of money in the Mag 7 in the past few years, and may want to take some profits (especially at the current valuations). But you can’t get out of the AI story altogether — the risk of missing out is too high. So sell the Mag 7 and rotate into Micron, AMD, Applied Materials et al. One important piece of evidence in favour of the rotation view is that not every chip stock has been shooting up recently. Nvidia and Broadcom have been falling hard. They were the two chip stocks that have risen most strongly alongside the Mag 7 for several years now, so they are on the wrong side of the rotation now.
+
+A final theory worth airing: that this change in leadership has to do with interest rates and interest rate uncertainty. Noah Weisberger, US equity strategist at BCA Research, pointed out to me that stock and bond returns had been positively correlated since mid-May, and that this is usually a sign of anxiety about inflation and/or the direction of rates. And when rates and inflation are uncertain, holding long-duration assets is risky, because rate changes move the value of long-duration assets a lot. So you could read the Mag 7-to-semiconductors rotation as a duration trade: sell profits tomorrow (the Mag 7) and buy profits today (semiconductors).
+
+There is a twist to all these tales, though: semiconductor leadership is starting to fizzle, too. The Philly semiconductor index has been in a jagged but mostly sideways pattern since June 3. What has been going up this month are, instead, things like banks, industrials, staples, insurance and pharma. Do these sectors have the bulk to support the market if the semi rally truly fails, as the Mag 7 rally has?
+
+Thinking about markets in terms of “feel” is dangerous. It lacks rigour. But this market feels adrift to me; there are few recognisable trends to cling to. Let me know how it feels to you.
+
+Central bank humour goes too far.
+
+---
+
+## Bending Spoons tries out an odd kind of financial magic trick
+
+*2026-06-26 · John Foley · Lex · 547 words*
+
+<https://www.ft.com/content/89354fd7-cbb7-4e98-87c5-68fbd7b46a46>
+
+SpaceX’s initial public offering was solid proof that in 2026, investors are happy to pay high prices for companies whose value lies far into the future. But what about those whose best days seem to be in the past? Bending Spoons, an Italian tech conglomerate about to go public in New York with a potential valuation of roughly $19bn, thinks that’s where real value lies.
+
+Bending Spoons is a bit like a private equity firm. It buys tattered internet businesses, guts and rebuilds them with the hope of making at least 25 per cent annualised returns on capital. But it invests its own money, and unlike buyout firms, has no intention of selling. Returns come from earnings alone. By contrast, around a quarter of private equity returns between 2010 and 2022 derived from expanded valuation multiples, McKinsey estimates.
+
+The result is essentially an emergency room for critically injured tech businesses. Bending Spoons’ engineers often reconstruct acquirees’ code almost from scratch. Products are enhanced, not hollowed out. Workforces aren’t so lucky. Of the 1,830 employees who came with has-been brands AOL, Eventbrite and Vimeo, it expects to keep “only a few hundred”.
+
+As with private equity, debt is the magic ingredient. New borrowing funded around 80 per cent of the company’s acquisitions in the first quarter of the year; net debt amounts to over four times its annual ebitda at its last quarterly run rate. That adds risk and earnings volatility. Constellation Software, a $40bn Canadian company that is somewhat comparable, carries debt of less than one turn of ebitda.
+
+And while Bending Spoons’ CEO Luca Ferrari tells a good tale about his “deep transformation” approach, it’s hard for new investors to gauge the results. Rapid growth and big swings in cash flows and tax rates obscure the portfolio’s underlying performance. More than 70 per cent of its assets were bought in the past three years, and information on individual companies is scant.
+
+Bespoke accounting doesn’t always help. Bending Spoons’ “adjusted” profit ignores fees it pays to make acquisitions and the cost of reorganising newly bought companies. That seems bold, given M&A is its lifeblood. Take these adjustments at face value and the company is currently making a return on invested capital of 18 per cent; factor in fees and costs and it falls to 11 per cent. Adjust again for profit not yet flowing from recent acquisitions and the number would no doubt be much higher.
+
+Further out, it’s not clear what kind of longevity the emergency-room treatment provides. Take online note-organising app Evernote. Its revenue has increased by 30 per cent since Bending Spoons pitched up as new owner in 2023, but monthly active user numbers look to have halved as it cut freebies and cranked up prices. That may be good for returns, but doesn’t obviously position the brand to exist a decade from now.
+
+Bending Spoons would deny that it picks lemons, squeezes them hard, and then sets out to pick some more. That’s a shame, because such a strategy could be quite refreshing, especially if generated returns of 25 per cent. Prioritising returns over growth is certainly different from current Silicon Valley groupthink. Besides, real world spoon benders make no pretence that cutlery will still be recognisable as such once they’re done.
+
+john.foley@ft.com
+
+---
+
+## VW’s Everllence sale shows even ailing carmakers have hidden charms
+
+*2026-06-25 · Gaia Freydefont · Lex · 428 words*
+
+<https://www.ft.com/content/5b8fbc5b-4369-4fdf-b47e-f7dc71feefad>
+
+Being a carmaker demands enormous manufacturing and management skills. Making engines, for example, is hard. It’s unfortunate, then, when all investors see is a dying industry. The European auto market is in a grim spot. But Volkswagen’s sale of a stake in its marine engine business shows there’s sometimes value packed away in the trunk.
+
+VW is selling a majority share of Everllence to Bain Capital, and expects to receive proceeds of €7.4bn. While it hasn’t said how much of that is equity versus debt, it seems probable that Everllence has an enterprise value of at least €10bn, or roughly 30 times its 2025 operating profit.
+
+That would be outlandishly high for a company that just made cars: VW’s overall valuation is 17 times operating profit, according to S&P Capital IQ. But engines go in other things too. Everllence reckons it has a growing market in data centres that need backup power generators. Finland’s Wärtsilä, which designs engines for large cargoes, trades at about 20 times next year’s operating profit. Caterpillar, maker of industrial engines and emergency power systems for data centres, trades at closer to 35 times.
+
+The Everllence deal, the proceeds of which amount to 17 per cent of VW’s market capitalisation, isn’t the first indication that car companies have valuable assets and skills that may not be fully apparent. Some repurposed their facilities to produce ventilators in the early days of the pandemic.
+
+Nor is it VW’s first attempt at financial tinkering to unlock value. It sold a majority stake in Renk, the German maker of gearboxes and transmissions used in the defence and civil marine industry, in 2020. Four years later, private equity buyer Triton floated Renk in Frankfurt, where it now trades at an earnings multiple far higher than that of its parent. Helped, no doubt, by the rally in defence stocks over the past five years.
+
+In theory, investors shouldn’t need to rummage through VW’s unlisted assets to unearth value. The carmaker’s stakes in listed companies — including Porsche, Traton, QuantumScape, Rivian and Gotion, among others — are together worth roughly €35bn on Thursday’s market prices, not far below VW’s entire market capitalisation. Its commitment to reduce its stake in Traton should crystallise some of that — as should any further streamlining of its footprint and portfolio.
+
+European carmakers trade at horrible valuations because their business is shrinking rapidly: the sector’s operating profit fell by more than two-thirds between 2023 and 2025, on Citigroup numbers. The ride will not be pleasant, but jettisoning valuable assets could make it a little smoother.
+
+gaia.freydefont@ft.com
+
+---
+
+## Tesco’s return to broadband should be a profitable side hustle
+
+*2026-06-25 · Louise Lucas · Lex · 390 words*
+
+<https://www.ft.com/content/060238c7-3d48-46d7-9c8d-f4d8e27e762c>
+
+Tesco’s ruminations about relaunching broadband services say as much about the UK telecoms marketplace as they do about Britain’s top retailer.
+
+Competition is rife in the highly fragmented telecoms market. The biggest providers for piping internet into homes across the UK, BT and VMO2, have been assailed by shoals of challengers, the so-called “altnets” that also build fibre networks.
+
+When it comes to mobile phone services, virtual network operators (MVNOs) that buy capacity from mobile operators and sell it on as their own branded offerings are proliferating; fintechs Revolut and Monzo being among the more recent newcomers. While Tesco Mobile continues to grow, it is ceding share, which makes an adjacent step into broadband one worth exploring.
+
+Similar dynamics apply to cheaper broadband: rising costs mean consumers are looking for savings. Bundled deals are also less common than in France and Spain, for example, where mobile and fixed broadband are often sold together. That spells opportunity.
+
+But there are also other, less helpful, similarities with the mobile market. One is new sources of competition, including Elon Musk’s Starlink. Vodafone has launched a suite of 5G broadband deals, including short-term contracts, while some of its conventional packages undercut BT.
+
+Even with that caveat, Tesco has a better than fighting chance of snagging share in broadband. It has brand recognition, a captive customer base via its Clubcard loyalty scheme and a shopkeeper’s flair for enticing special offers. Unlike banking — another side venture Tesco exited — consumers are happy to chop and change internet providers to save money.
+
+True, reselling others’ fibre networks comes with a cost: there are upfront charges to build IT platforms, billing systems and the like.
+
+Assume Tesco leases capacity from a vendor offering cheaper wholesale prices than the dominant duo, perhaps Nexfibre with which it has held preliminary talks, at £15 per month, and charges customers £25. After deducting various costs and sales taxes, the supermarket group would struggle to make an ebitda margin above 10 per cent, New Street Research reckons.
+
+That may elicit scoffs from BT — having fixed up its business, the former monopoly pulls off margins more than four times that. But it’s not bad for Tesco, whose overall business has an ebitda margin of about 7 per cent, on LSEG’s numbers. As the retailer itself might put it, every little helps.
+
+louise.lucas@ft.com
+
+---
+
+## They think it’s oil over
+
+*2026-06-25 · Katie Martin · Unhedged · 765 words*
+
+<https://www.ft.com/content/410bb8e5-dc93-459d-af41-bef7eeafdfc8>
+
+Good morning. Early yesterday, chip stock jitters appeared to be easing, following the rotten trading of Monday and Tuesday. Korea’s Kospi clawed its way to a 3.6 per cent gain. But US markets couldn’t quite sustain the recovery. The Philadelphia semiconductor index sagged at lunchtime, only to rally sharply in the last hour of trading, ending the day almost flat. After the close, though, the trillion-dollar memory chipmaker Micron reported earnings that beat expectations, and its shares leapt in after-hours trading. A calmer day today? We’re not betting on it. Email us: unhdged@ft.com.
+
+Market participants seem to have decided that the US and Israel’s war with Iran is all over bar the shouting and, while they are at it, that it is time to fade a bunch of other horrible tail risks, too.
+
+Exhibit A is the price of oil. Without any notable new news on Wednesday, Brent dropped as low as $73.22 a barrel — almost entirely wiping out the jump from when the war started at the end of February, and marking an enormous 40 per cent decline from the highest intraday point on April 30. Awkward times for the energy market doom-mongers.
+
+You can tell this matters because Exhibit B, the rates market, is whistling the same tune. The US 10-year yield dropped 9 basis points, to an even 4.4 per cent yesterday. Several of us are old enough to remember when a drop of that size was a big deal. Sure, the rate is only still threatening to poke below the tight range that has prevailed since the start of May, but a win’s a win.
+
+This is particularly notable because it comes after a surprisingly hawkish turn from new Federal Reserve chair Kevin Warsh last week. Falling yields and a rising dollar in the wake of a relatively hawkish tilt from Warsh all add up to a reasonable sign that investors think the central bank’s credibility might be safe from Trumpian interference after all.
+
+Jitters over Warsh’s new “say less” communications strategy are a different matter altogether, as our colleagues explained very neatly recently. As Jan Hatzius at Goldman Sachs put it in a note this week, “a significant reduction in Fed transparency could make financial conditions — and thus economic outcomes — more volatile as market assumptions about the Fed’s thinking become subject to fewer reality checks”.
+
+But for now, unusually, the bond market’s glass is half full. The Fed is not immediately bending, energy prices are in retreat, all is well in the world.
+
+Treasuries may be having a decent run (see above), but it looks like the really big winner is the humble UK government bond.
+
+This may be a difficult pill for some people to swallow, given the UK’s political gyrations. But the numbers don’t lie. Ten-year gilt yields have dropped 16 basis points from their closing level on Friday, with relief spreading around the market since Prime Minister Sir Keir Starmer finally lanced the boil of Labour Party infighting and stepped aside to make way for Andy Burnham to take the reins.
+
+Gilt investors continue to express worries that Burnham will represent a lurch to the left, and/or that he has a poor understanding of public finances, and/or that he could pick a new chancellor they don’t like. As ever, the potential for much more borrowing, much higher inflation, or both, looms over this market. All the same, the market took Starmer’s resignation in its stride.
+
+You can tell this because of the very (and I mean very) long-awaited launch of the so-called consolidated tape in the UK on June 22. The birth of this (almost) real-time record of bond transactions was extremely lengthy, tedious and tortured. But lo, for now we can see it in action, shedding light on the flow of UK bond trades for the first time.
+
+Zornitsa Todorova and Andrea Diaz Lafuente at Barclays used the tape to track the scale of market reaction to Starmer’s resignation. They found that . . . wait for it . . . nobody cared! The PM resigned at about 9:30am and you can see only a wee bit more trading volume then, which faded immediately. No drama.
+
+It is probably too soon to hope that the disaster tourists itching for a gilt-market blow-up will get back in their box. But if the global environment remains benign, oil prices keep falling and US yields keep tracking lower, the prospective end of UK political squabbling does point towards some decent dip-buying in gilts.
+
+Interested in your thoughts, as ever.
+
+What a decade of covering Burnham reveals.
+
+---
+
+## Patent cliffs aren’t the only driver of biotech M&A boom
+
+*2026-06-25 · Gaia Freydefont · Lex · 475 words*
+
+<https://www.ft.com/content/9e79e41b-707b-47ed-9c75-1779a7978f68>
+
+The patent cliff, a bugbear of drugmakers, set the scene for a bumper year for biotech mergers. But as deals swell, it is clear that a fear of losing exclusivity over vital treatments is not the only thing moving the needle.
+
+The 23 biotech M&A deals Bernstein research logged this year add up to $94bn, almost nearing the $103bn spent across 22 such tie-ups during the whole of last year. While some of those — such as Merck’s $6.7bn acquisition of Tern — have been to plug looming holes in revenue, other deals come with less defensive logic.
+
+Consider AbbVie’s $10.9bn acquisition of Apogee Therapeutics on Monday. AbbVie does face a cliff of sorts: its next major loss of exclusivity is Vraylar, a schizophrenia medicine that goes off patent in 2030 and accounts for about 5 per cent of total revenue. But its biggest acquisition in more than five years is more of an attempt to boost its immunology franchise, under mounting competition from Johnson & Johnson.
+
+The wave of patent expiries is a catalyst, to be sure. The amount of revenue global pharmaceutical companies face losing over the next seven years is 2.5 times more than loomed during the past 16 years. But many deals this year have been for early-stage assets. About 60 per cent of biotech M&A deal value this year has come from assets in or earlier than phase 2, the first stage where an experimental drug is tested on patients. Over the past five years, that figure averaged closer to 45 per cent, according to Bernstein.
+
+Eli Lilly, long an acquirer of early-stage science, has doubled down. It bought a phase 1 company, Ajax Therapeutics, for $2.3bn earlier this year, alongside three early-stage vaccine companies for roughly $1bn apiece. Novartis has spent $4bn this year on two early-stage biotechs. Gilead, whose expertise has long been in HIV, is bolstering other areas of its portfolio such as oncology through the acquisition of a phase 2 asset, Tubulis.
+
+Why is this happening now? For one, dealmaking has become easier. The drawn-out antitrust fight over Amgen’s 2023 acquisition of Horizon Therapeutics cast a shadow over large pharma deals involving the US during Joe Biden’s administration. Today’s more permissive antitrust stance makes conditions more favourable. And earlier agreements between pharma majors and President Donald Trump on the pricing of drugs in the US have made it easier to work out what biotech assets are worth and commit to buying them.
+
+There is plenty of cash to do so, too. Pharma and life sciences companies entered 2026 with a record $2.1tn of acquisition firepower, EY reckons. For instance, even after its Apogee deal, AbbVie could deploy more than $100bn before hitting a 3.5x net debt to ebitda ratio. The patent cliff has focused minds, but it looks like many would have gone shopping anyway.
+
+gaia.freydefont@ft.com
+
+---
+
+## Boaz Weinstein is half right on Workspace’s valuation rut
+
+*2026-06-25 · Jennifer Hughes · Lex · 452 words*
+
+<https://www.ft.com/content/5ac0f4fe-5289-4871-8e36-86ba32470600>
+
+If a fund manager takes £1 of a client’s money and turns it into 50p, it’s a strong sign that they should probably give up the day job. That’s the unassailable logic Boaz Weinstein’s Saba Capital is using in its campaign against Workspace, a London office real estate investment trust whose shares trade at a whopping discount to its net asset value.
+
+He has a point. Real estate investment trusts often trade for less than the net value of their holdings. But at Workspace, the gap is especially wide. Saba, armed with about 25 per cent of the shares and a record of recent wins against several UK investment trusts, wants to replace the Reit’s entire board at a meeting in July, and thinks Workspace should sell its £2.4bn portfolio, returning the cash to shareholders.
+
+Workspace, presumably also keen to close the discount, hasn’t been idle. In February it brought in a new boss, Charlie Green, who this month laid out plans to lift rents by improving and expanding services. Investors seem so far unconvinced by the vision of either Green or Weinstein: Workspace’s shares have fallen a fifth this year.
+
+Reits have had a rough time generally. Rising interest rates cause their prices to fall, much as the prices of bonds do. Workspace’s yield of 7 per cent is triple its 2019 levels. Commercial property has been hit particularly hard given the pressure created by the popularity of working from home. Less chance of future rent rises lowers income expectations as well as weighing on the market values of the underlying properties.
+
+That makes any speedy wind-down of Workspace — Saba had originally proposed selling the whole thing in a year, but has now modified its expectations — tricky. London’s commercial property market is lumpy and slowing, with just £1.4bn of city centre buildings changing hands in the first quarter of this year, and £7bn in the past year, according to CBRE.
+
+Nor are these the most in-demand properties or sites. Workspace’s buildings target small businesses seeking flexible short-term lets, sitting mostly on the fringes of main business areas. Its offices are also described as characterful — think converted factories and Victorian-era exteriors, some of which are protected from redevelopment.
+
+Green is in fact selling properties already, though on a small scale: £200mn by the end of next year, and perhaps another £100mn to come, with proceeds earmarked for refurbishment and debt reduction. Divert, say, £50mn to buybacks and it would take out just under a tenth of the shares at today’s price and encourage investors to think more might follow. That might help close the NAV gap somewhat, and at least weaken Saba’s case, if not dispel its logic.
+
+jennifer.hughes@ft.com
+
+---
+
+## UK takeover targets are right to set the bar high
+
+*2026-06-24 · Camilla Palladino · Lex · 542 words*
+
+<https://www.ft.com/content/53a64d7e-bb3b-4ec3-bce4-3cd4d61ac9fc>
+
+When a bid for a company unexpectedly materialises, the board’s job is to get the best possible premium, or say no. But at what point are the directors overplaying their hand? Real estate trust Segro, which has rejected a £12.6bn offer from Prologis, is the latest to put this to the test.
+
+In a simplified world where markets always get it right, takeover bids pitched at a premium of less than 30 per cent should be disdainfully rejected, and those above that level merit a closer look. When the market is temporarily dislocated, boards are wise to hold out for higher premia to depressed market values.
+
+But what happens when the “temporary” undervaluation lasts for so long that it stops feeling temporary. That is the situation at Segro, and at budget airline easyJet. Both have received bids pitched at sizeable mark-ups to where the stock was trading beforehand — and had been for some time. Both have rebuffed them robustly, amid much hand-wringing over the opportunistic tendencies of modern predators.
+
+Sometimes, this is just choreography. Bidders read the room and come back with a higher number: lawyers White & Case reckon that, over the past 12 months, the average number of “bumps” between first offer and final acceptance was somewhere from four to five.
+
+But easyJet suitor Castlelake and would-be Segro acquirer Prologis have refused to play along. They have made their offers public, a semi-hostile move designed to put boards under pressure. It isn’t hard to see why the bidders think they may be able to get some traction.
+
+Castlelake has offered easyJet a price not seen by shareholders for four years. Prologis’ all-stock bid values Segro at about net asset value. That’s a premium of well over 20 per cent to where the stock was trading before the offer was disclosed. And while Segro has been hit by fears that the Iran war would stoke inflation, it has closed at an average discount to its net asset value of almost a fifth for the past 36 months, according to analysts at Panmure Liberum. Indeed, most of the sector trades below the net value of its assets.
+
+Still, UK boards are right to hold firm. Segro, for instance, really does seem to have a pipeline of valuable real estate projects, including data centres. These are not captured in either its share price or its accounting net asset value — which Peel Hunt, a UK broker, reckons could rise by about half after it rolls out its projects. And assuming Prologis could extract some additional value from an acquisition, by cutting headquarter costs for instance, it has room to raise its bid.
+
+Rejecting bids is not a riskless strategy. If companies swat bidders away and then fail to deliver anything like what they were offered, boards end up with egg on their faces.
+
+But this time, they may have a point. The FTSE 100 is up a fifth over the past year, partly as a result of the wave of takeover interest in the country’s companies. One way of seeing that is that the UK’s gloom discount may be disappearing. If that happens, boards will be vindicated for standing firm — and investors, feeling less Eeyorish, may be happy they did.
+
+camilla.palladino@ft.com
+
+---
+
+## SpaceX stumbles
+
+*2026-06-24 · Daire MacFadden · Unhedged · 544 words*
+
+<https://www.ft.com/content/37bf4703-f441-4adf-bd68-9131299c4171>
+
+Good morning. Global stocks fell yesterday, led by a sell-off of hyperscalers and chipmakers. The reaction in Korea was extreme — the Kospi index tumbled 10 per cent. SpaceX, which lost $400bn of its market value on Monday, found its footing at around $156 a share. The SpaceX sell-off came just around the launch of its $25bn bond offering. Perhaps a reminder of the company’s massive investment needs gave investors a dose of reality. Meanwhile, the market is adjusting to a Federal Reserve that is at once more hawkish and less chatty. The Nasdaq and the S&P 500 have now gone the best part of nowhere for the past seven weeks. Is this the air coming out of the AI boom, or the market positioning for a period of tighter policy? Both? Neither? Email us: unhedged@ft.com.
+
+Programming note: We’ve corrected a portion in yesterday’s letter to make clear that a few rate increases, not cuts, needn’t scare equity investors. We apologise for the mistake.
+
+In pretty much every way you can imagine, the SpaceX listing on June 12 was no ordinary initial public offering. Instead, it was held up as a bellwether of the stock market boom and investors’ appetite for valuations divorced from fundamentals. A lot is riding on its momentum, not least the expected mega-IPOs of OpenAI and Anthropic.
+
+Elon Musk’s AI/satellites/rockets conglomerate was primed to pop in early trading. As Rob wrote last week, the unusually large allocation to retail investors, the limited float and imminent fast-track absorption into major indices all but ensured that demand would outstrip supply and squeeze the IPO price upwards. And it worked!
+
+But the good vibes have faded somewhat. In the past two days, SpaceX shares have dropped nearly 30 per cent from their post-IPO intraday peak of $225 on June 16. We’re still well above the IPO price of $135. Still, it’s rough for anyone who jumped in on day one.
+
+The valuation always seemed a tad questionable to us, but hey, investors are adults and donating hard-earned money to the noble cause of creating the world’s first trillionaire is not a crime. The risk is now that the jitters become a catalyst for a wider sell-off of anything related to AI.
+
+To get a sense of how unusual this all is, we turned in part to the work of “Mr IPO” — Professor Jay Ritter, director of the IPO Initiative at the University of Florida. He has spent more than four decades analysing the performance of thousands of new listings and his research points to several conclusions that are especially relevant here:
+
+The next big test for the SpaceX share price will be the expiration of the lock-up periods, which have been cleverly staggered. Lock-ups typically expire about 180 days after listing. But in SpaceX’s case, rather than one big lock-up expiry, early investors can sell small portions of their shareholdings starting 70 days after the IPO, and then much larger portions after the company reports its September quarter. Until then, lock-ups will continue to limit the supply of shares.
+
+SpaceX may be a biggie. Its IPO was the largest on record. But it is largely sticking to the typical script for a baby stock.
+
+The WFH battles will continue until morale improves.
+
+---
+
+## Things look bad for IT consultants — but not that bad
+
+*2026-06-23 · Louise Lucas · Lex · 513 words*
+
+<https://www.ft.com/content/619e3bb0-759d-46b6-99cd-389aa13c5480>
+
+If the sell-off of software-as-a-service stocks was the SaaSpocalypse, then this must be the consultageddon. Investors have ditched shares in IT services companies that help clients pick and deploy technology. Accenture, whose stock fell 25 per cent last week, is one of the hardest hit. But as with the earlier software rout, investors are too indiscriminate.
+
+The fear, in both cases, is that AI can replace services that at present generate ample fees. While not as unfortunate as Accenture, US group Cognizant, Europe’s Capgemini, and Tata Consultancy Services and Infosys of India are all down by a third or more. All are “systems integrators” that streamline the process of selecting, configuring and rolling out offerings from multiple vendors. AI may enable companies to do much of that themselves.
+
+For example, clients that prefer hand-holding can go directly to AI providers: some will embed engineers in customer businesses to design and deploy systems. Besides, Big AI is itself moving downstream; witness OpenAI’s acquisition of AI consultancy Tomoro last month.
+
+Any business that consultancies hang on to will suffer AI-deflated pricing. Nor is AI the only problem. Consultants have traditionally counted on the public sector for a slug of work; about $10bn worth of sales in the case of Accenture, or a seventh of the total, last year. Efficiency drives from Washington to London stand to erode this base.
+
+Yet the selldown underestimates consultants’ ability to fight back. Accenture, for example, is mirroring the acquisition strategy of those seeking its disintermediation. It has doubled its spending plans for this year to $9bn and completed four purchases, including UK-based AI services and products group Faculty, in the past quarter.
+
+OpenAI and its ilk may also have designs other than eating consultancies’ breakfast. As they head towards initial public offerings, notching up business customers is a priority, and consultants are a useful way of reaching them. OpenAI is thus teaming up with Capgemini and McKinsey and Co. Anthropic has allied with KPMG to get its Claude tools embedded in the consultant’s own systems and those of its clients.
+
+True, these deals may appear to undermine one of the consultancies’ major advantages: being vendor agnostic and able to deploy systems utilising multiple providers. But most are loose enough to preclude exclusivity while boosting orders. Accenture reckons revenue from its top 10 ecosystem partners is on track to more than double last year’s tally.
+
+There’s little credit for this in the consultancies’ share prices. Accenture, still the biggest listed firm with a market capitalisation of $80bn, is valued at under nine times next year’s earnings. That’s not even a third of the levels of four years ago. Yet analysts expect sales growth of 4 to 6 per cent, rising to 9 per cent by 2029, according to Visible Alpha. Harnessing AI helped widen Accenture’s operating profit margin to 17 per cent in the third quarter.
+
+Technology has forced IT service companies to reinvent themselves before. After all, a sector built on dishing out advice and helping put it into practice should be capable of engineering its own reinvention.
+
+louise.lucas@ft.com
+
+---
+
+## Higher rates and US stocks
+
+*2026-06-23 · Hakyung Kim · Unhedged · 902 words*
+
+<https://www.ft.com/content/7076c493-7cc7-48df-b5ca-fadd3dd90b6d>
+
+Good morning. We’re now a decade past the Brexit referendum. The anniversary, perhaps non-coincidentally, comes a day after the UK lost its sixth prime minister in 10 years. The UK markets were not fazed by the latest political transition: the 10-year gilt yield fell just slightly on the day, while the FTSE 100 rose slightly. Ho-hum. Email us: unhedged@ft.com
+
+Last week’s Fed meeting had a hawkish flavour, and the stock market didn’t like it much. The S&P 500 has since recovered most of its losses from the day of the meeting, but all the same, a series of rate hikes starting later this year and continuing in 2027 is a possibility. What would that mean for stocks? The recent history of rate-increase cycles is unsettling reading, but hardly conclusive.
+
+During the June 1999-to-January 2001 cycle, the S&P 500 went sideways, but we all remember what happened next. From June 2004 to June 2007, the market jumped by a third, but again a crash followed. On the other hand, the December 2015-to-July 2019 increase cycle was accompanied by an epic rally, brought to an end only by Covid-19. Would another sort of crash happened if the virus hadn’t? We’ll never know.
+
+One potential source of reassurance is that the real (inflation-adjusted) fed funds rate is barely above zero now, so a few increases seem unlikely to push interest rates to a brutally restrictive level. But this was also the situation in the past three cycles — and it is always possible that the neutral rate of interest is lower than we think.
+
+James Egelhof at BNP Paribas estimates the neutral real rate at about 1.75 per cent and believes a rate that’s slightly above that wouldn’t be problematic for the market. In fact, he believes some increase in rates could actually be a positive stimulus for the market, pointing out how the 30-year bond rallied after the latest Fed meeting, which
+
+As of now, the average market forecast calls for just one to two quarter-point rate increases by the first quarter of 2027, so tighter monetary policy doesn’t look like it need derail equities. Egelhof again:
+
+So long as profit growth remains strong, a few rate increases needn’t scare equity investors. But if growth slows and inflation doesn’t, higher rates will become something to worry about. A lot.
+
+(Kim)
+
+Last week, at his first press conference as Fed chair, Kevin Warsh said he wanted the committee to make greater use of real-time data, as the private sector does:
+
+It is a bit surprising that someone like Warsh, who has served on the board of directors of several companies, would present such a simplistic contrast. Yes, lots of companies get data in real time, but they often aren’t sure what it means; and even if the data itself isn’t revised, interpretations of it certainly are. The suggestion of Warsh’s comment, that the private sector has it figured out and the Fed is working with stale data out of sheer bureaucratic sclerosis, is a trite bit of Ayn Randian fantasy.
+
+It is true that many of monetary policy’s most important data inputs are backwards-looking and subject to multiple revisions. But that has more to do with the fact that those inputs relate to very big complicated things — the employment status of several hundred million people and the millions of prices in a $32tn economy — than with the Fed’s failure to keep up with the times. These are much, much more complicated systems than, say, inventory management at Walmart or the package network at UPS.
+
+And central banks are making greater use of real-time data than ever before. This includes high-frequency indicators of spending, job vacancies, credit conditions and business sentiment. A cottage industry of public and private sector “nowcasters” attempts to join up these sources into timely estimates of where the economy is before official statistics are available. But it’s not clear that has measurably improved the quality of policymaking.
+
+The really tricky thing is that monetary policy must be forward-looking. Real-time data is only useful insofar as it helps extract a signal indicating what will happen next. Just as often, high-frequency data adds to the noise. It can tell policymakers how much consumers spent on their credit cards yesterday and how many jobs are listed as vacant today. But it can’t, by itself, tell you what inflation will do in six months’ time.
+
+Warsh has also been bullish on AI’s productivity potential. Maybe those tools could improve monetary policy? A growing body of research is exploring that possibility. A Bank of England working paper published last week, for example, found that large language models can mimic households’ inflation expectations in aggregate. But the models struggled to replicate the variation in expectations across different household groups that we see in survey-based information. Another paper by George Washington University researchers last August found that AI agents could be used to simulate FOMC voting behaviour, but could not substitute for policy judgment.
+
+If Warsh truly believes in the combined power of real-time data and AI, perhaps he could go one step further and follow the lead of NetDragon, the Chinese gaming company that appointed an AI CEO. Having an AI chair might help keep costs down at the Fed, too.
+
+(MacFadden)
+
+Fatherhood.
+
+The last paragraph of this note has been corrected to make clear that a few rate increases, not cuts, needn’t scare equity investors.
+
+---
+
+## CRH digs deep for a bigger share of the US construction boom
+
+*2026-06-22 · Gaia Freydefont · Lex · 398 words*
+
+<https://www.ft.com/content/49fbcd77-28ff-4089-85b5-04f57555dae9>
+
+The US construction market has become a two-speed affair. On one hand there is residential construction, held back by high interest rates and a stagnant housing market. On the other is infrastructure and non-residential construction, booming thanks to federal investment and the build-out of data centres. And in relative terms, as the former gets more challenged, the latter becomes more valuable.
+
+CRH’s $8.5bn acquisition of construction company Arcosa, announced on Monday, looks like an example. The all-cash deal — and the largest acquisition in the Irish building materials group’s history — values Arcosa at more than 13 times its forecast ebitda, a 30 per cent premium to CRH itself. Even factoring in expected cost savings, the deal offers the buyer a post-tax return on investment of only about 5 per cent. That is no knockout.
+
+Still, it is worth doing. CRH, which in 2023 moved its listing from the UK to the US, is strengthening its competitive advantage in the US construction sector. Well over half of Arcosa’s sales come from the sand, gravel and crushed stone that are the foundation of every construction project. Because these “aggregates” are hard to transport, local producers tend to have pricing power, whether the project at stake is houses, highways or hyperscale data centres.
+
+The expected growth in US infrastructure spend increases the size of the prize. US utilities are investing $1.4tn through 2030 to improve the power grid, for instance. Already, the AI arms race has helped quadruple the number of construction “mega-projects” compared with the pre-pandemic period, according to Barclays research.
+
+CRH has more than rocks to offer, too. About a fifth of its revenue comes from infrastructure — building stuff like highways, telco towers, water utilities, and data centres, to name a few. Having the materials and the big project expertise may allow the company to capture a larger share of infrastructure spending than a pure-play aggregates producer can.
+
+Increasing its exposure to bulk building materials has another potential advantage for CRH, in that investors may start to value it closer to companies that are more exposed to aggregates. Pure-play companies such as Martin Marietta and Vulcan Materials trade on roughly 30 times forward earnings, a premium of more than 50 per cent to CRH’s 19 times according to S&P Capital IQ. Sometimes, even an imperfect swing of the hammer can hit the nail on the head.
+
+gaia.freydefont@ft.com
+
+---
+
+## EasyJet should hold out for a tad more from Castlelake
+
+*2026-06-22 · Jennifer Hughes · Lex · 508 words*
+
+<https://www.ft.com/content/b7dd6eaf-02b6-496c-863a-cb8e8fba6936>
+
+EasyJet shares are trading at about 20 per cent less than the value of a takeover approach from opportunistic suitor Castlelake. But that’s not because the US private credit fund’s mooted offer isn’t appealing. With a few more details, and a little more cash, a bid might just get off the ground.
+
+Shares in the UK budget airline barely moved on Monday after it rejected a third, 625p-a-share buyout proposal from Castlelake that would value its equity at £4.7bn. True, since Castlelake’s interest was first revealed, easyJet’s shares have rallied 30 per cent to 518p. And the remaining gap may owe much to the fact that there is currently no actual bid on the table.
+
+But investors clearly have other qualms too. Some may relate to Castlelake’s financials, and whether it can go high enough to get a board recommendation — or, failing that, muster the gumption to go properly hostile.
+
+On paper, the most recent proposal looks fairly generous. EasyJet has minimal debt and is expected to grow operating profit sevenfold from this year’s depressed level to about £1bn by 2030, on S&P Capital IQ estimates. But it is also due for some hefty capital expenditure — perhaps an extra £7bn between now and 2030, on updating its fleet.
+
+That puts a dampener on the returns a new owner could make. Say Castlelake funds half of its purchase in debt, and sells easyJet for 10 times its trailing operating profit five years hence — roughly the multiple at which it has traded over the past 15 years. It would generate an internal rate of return of just 6 per cent by Lex calculations, pretty meagre by private equity standards.
+
+Castlelake must have ideas on how to improve on that. Huge cost cuts seem unlikely, since fuel accounts for the lion’s share of easyJet’s outlays. But there could be mileage in revisiting the company’s shape. Leasing, not buying, some of the new planes could lower upfront spending.
+
+It might also take a leaf out of rival Ryanair’s book: the Irish carrier tends to eschew pricey landing slots at top airports in favour of smaller and regional locations — one reason it has an operating margin almost twice that of easyJet. And while Castlelake insists its aim is not to sell easyJet for parts, Bernstein analysts estimate that doing so could in theory justify a price 15 per cent higher than what the US fund has offered.
+
+The more pressing question is how Castlelake might win the support of easyJet’s board, or build credibility among the company’s public investors. Spelling out its plans in more detail might help since Castlelake has said it would allow investors the chance to keep some interest in a private easyJet, for example. Its “small number of co-investors” remain so far unidentified.
+
+Still, Castlelake has picked a good moment to swoop. It has offered easyJet a price not seen by shareholders for four years. So far its board remains unpersuaded, but it would not take much to get investors eyeing the nearest exit.
+
+jennifer.hughes@ft.com
+
+---
+
+## Leverage in the financial system, revisited
+
+*2026-06-22 · Robert Armstrong · Unhedged · 1022 words*
+
+<https://www.ft.com/content/8c8c090b-4a91-4de6-8d27-80c3372a59e2>
+
+Good morning. “Less transparency means more guesswork, more uncertainty, more volatility, more risk premium, more event risk.” That is the assessment from JPMorgan Asset Management’s Bob Michele (a friend of this newsletter) of Kevin Warsh’s stated plans for a quieter, more inscrutable Federal Reserve. Unhedged wonders if this is not precisely Warsh’s point: he wants a bit more uncertainty, volatility and risk in a financial system he sees as anaesthetised by government interference. He may be right, but the phrase “be careful what you wish for” springs to mind, too. Email us: unhedged@ft.com.
+
+About six months ago I wrote a piece called “How leveraged is the financial system”? That piece was inspired by an earlier discussion of the Fed’s “reserve management purchases” of bonds, which are designed to keep a healthy supply of liquidity in the financial system. One view of these purchases is that they are necessary because the system is so leveraged that if there is not loads of cash sloshing around, someone won’t be able to roll over their debt, and a nasty chain-reaction crisis will ensue.
+
+The question of leverage is even more relevant now, for a couple of reasons. The stock market is peaky and exuberant, which — Fed policy aside — tends to bring risky leverage along with it. Is leverage rising as fast as equity prices? And new Fed chair Kevin Warsh is a longtime enemy of the Fed’s big balance sheet. While the Fed remains committed to an “ample reserves” regime for now, things might look different by year end. Is excessive leverage in the system going to make Warsh’s aim of a slimmer balance sheet harder to achieve?
+
+Financial leverage is hard to track. We never know exactly who owes how much to whom, until a weakening economy or falling asset prices causes defaults in unexpected places. But we can take the general temperature using a patchwork of metrics.
+
+One smallish but growing reservoir of leverage is leveraged exchange traded funds, designed to give investors amplified market exposure. Leveraged ETFs based on the Nasdaq and the Philadelphia Semiconductor index have both shot up in popularity this year:
+
+A much larger reservoir is margin debt in investors’ securities accounts, which stood at $1.4tn as of last month, an all-time high. The annual growth rate of margin debt was over 50 per cent in April and May, a rate approaching (but not equalling) the post-Covid sugar rush and the 2007 and 1999 bubbles.
+
+Growth in hedge fund borrowing, meanwhile, is at the high end of its normal range:
+
+Surprisingly, though, volumes of “repo” or secured overnight lending — mostly short-term Treasury loans used to finance securities and derivatives trades — peaked in January, rolled over a bit, and have been stable for three months or so. Repo interest rates are stable, too.
+
+I asked Joseph Wang of Money to Macro about this. He replied that his guess is the Treasury basis trade, in which speculators bet on the converging prices of Treasuries and Treasury futures, using lots of debt to amplify the returns, has become less popular:
+
+One final statistic. According to BankRegData, US bank loans to non-depository financial institutions (“shadow banks” including mortgage lenders, private equity funds, private credit funds and others) rose 30 per cent in the first quarter from a year earlier. These loans now make up 12 per cent of all bank lending, up from 10 per cent a year ago.
+
+Our picture of leverage in the financial system is incomplete. But we know it is high, and in most cases still rising very briskly.
+
+(Armstrong)
+
+Last year, dollar dominance appeared — at least to some observers — to be waning. We didn’t believe it was fundamentally under threat, but Trump’s erratic policymaking didn’t help, and the dollar weakened sharply in the first half of 2025.
+
+It looks like investors are warming up to the greenback again. The dollar index has strengthened more than 2 per cent since the start of the Iran war, and it just hit its highest level in a year the day after last week’s Fed meeting.
+
+And our colleague Kate Duguid reported last week, bullish dollar bets in the futures market have risen to their highest level in almost a year, driven by IPO and AI hype:
+
+The dollar’s usual inverse correlation with stocks is coming back, too. This relationship is seen as reflecting the dollar’s safe-haven status — during times of uncertainty and crises, dollar assets are in demand. That relationship broke down when Trump took office, especially after the “liberation day” fiasco. But the correlation with stocks has turned negative again since the war:
+
+The overarching story is changes in global interest rate differentials. Last week’s Fed meeting reinforced the belief that in the US, rate cuts are off the table and the odds of an increase are rising. In much of the rest of the world, by contrast, the energy shock may soon fade and growth is sluggish, opening the way for stable or falling rates.
+
+How much room is there for the dollar to run higher? The dollar index still looks a ways off from its pre-Trump levels. Looking at the yield spread between the US 2-year bonds and those of other G6 developed countries — historically a good indicator of dollar movements — the dollar index could strengthen from its current level of about 100 to 102 or so, according to Elias Haddad at BBH. Chart courtesy of Haddad:
+
+Some of the dollar doomerism over the past year was clearly overblown, so some unwinding of dollar hedges and re-correlation with global rate differentials makes sense. But we are at a precarious moment. If the Iran peace deal falls apart — it already looks wobbly — European and Asian central banks could very well reconsider rate increases. Nor do we yet know very much about Warsh’s plans for the Fed. He made hawkish noises at his first press conference, as did the rest of the open market committee through the statement of economic projections. But there are four more meetings to come this year, and they should all be interesting.
+
+(Kim)
+
+Scenedesmus.
+
+---
+
+## Chart of the Week: The new Fed chair effect
+
+*2026-06-20 · Daire MacFadden · Unhedged · 357 words*
+
+<https://www.ft.com/content/fdc6c97e-c1a2-4c28-8147-a58ec6231082>
+
+Good morning. A new central bank chief can use their first press conference to establish policy credentials and a communication style. These performances can move markets — think of former European Central Bank president Mario Draghi’s pivotal “whatever it takes” moment in 2012.
+
+Kevin Warsh held his first conference as chair of the US Federal Reserve last Wednesday. He had built his candidacy for the role on lower interest rates, which President Donald Trump ardently desires. But that was before the Iran war and a run of hotter than expected economic data changed the inflation outlook. His task at the podium was to convince markets he was serious about price stability.
+
+We can assess a new Fed chair’s effectiveness as a policy communicator by looking at how fed funds futures prices — options markets’ bets on the policy moves — change in the 24 hours around that first conference. The wider the gap between the before and after lines in the charts above, the more the chair moved the market’s expectations for where rates are headed over the next 12 months.
+
+On that measure, Warsh’s debut stands out. The market priced in nearly double the number of rate increases after his press conference as it had before it. Janet Yellen and Jay Powell, by contrast, barely moved the dial. But it’s worth noting some major caveats here. The degree to which a chair needs to lean against the market’s expectations is shaped by the economic conditions they inherit. For Warsh’s immediate predecessors the challenge was not inflation but deflation. Also, Ben Bernanke’s first press conference — the Fed’s first ever — came five years into his term.
+
+Warsh has said he’d like the central bank to communicate less. The Federal Open Market Committee’s first statement on his watch was less than half the normal length and he has hinted at reducing the number of press conferences. If Wednesday is any guide, the market may hear less from Warsh, but react more.
+
+Send us your thoughts: unhedged@ft.com.
+
+Katie: Compute costs say no (FT)
+
+Daire: Archive of humiliation (New York Magazine)
+
+Rob: Flesh-eating maggots (WaPo)
+
+Hakyung: Nuclear bros (FT)
+
+---
+
+## Europe’s stocks offer a peace dividend their US peers can’t match
+
+*2026-06-20 · Jonathan Wheatley · Lex · 434 words*
+
+<https://www.ft.com/content/13deea29-7603-4c6a-bbf1-1beb57f1d149>
+
+Nobody would be much impressed if you guessed that the US Nasdaq 100 index has done almost three times as well as the Stoxx Europe 600 so far this year. But the reasons for that outperformance are less obvious than they might appear.
+
+Sure, there is some AI mania behind the Nasdaq’s return of more than 20 per cent so far in 2026. Tech stocks led the growth in the S&P 500’s first-quarter earnings — which, at 25 per cent, was more than three times faster than that of the European Stoxx 600 index, based on Bloomberg figures cited by Deutsche Bank. But US earnings growth was broad, not least because the US economy was less hard hit than Europe’s by the Iran war during the second quarter.
+
+Still, investors should not write off the old continent altogether. Strategists at Deutsche Bank and Barclays this week removed their underweight recommendations on European stocks. The postwar peace dividend, assuming war really is over, looks juicier on the European side of the pond.
+
+In earnings growth, the US advantage is fading: the Bloomberg data shows that the market expects full-year earnings growth for the S&P 500 to be lower than it was in the first quarter. Europe, meanwhile, will accelerate.
+
+In part, that’s because European companies have more to gain by way of recovery if energy shortages caused by the closure of the Strait of Hormuz ease. Higher energy prices on the continent have hit manufacturing earnings harder, and such companies weigh more heavily in the index than they do in the US.
+
+Even when it comes to government stimulus, the direction of travel favours Europe. True, Donald Trump’s One Big Beautiful Bill put cheques in the post to millions of consumers. But the European boost from Germany’s huge commitment to defence and infrastructure spending will kick in and last longer, potentially driving earnings for businesses across the continent.
+
+A final factor is the path of interest rates. The ECB raised its policy rate last week. If the war is over, and energy prices keep falling, it should not need to raise it again. The Fed, meanwhile, took a hawkish turn under new chair Kevin Warsh this week. More momentum for Europe.
+
+None of this is to say that European stocks will outperform US markets this year — just that they should no longer underperform. When it comes to expectation-defying economic data, Citigroup’s “surprise” indices show things in Europe getting much less bad in recent weeks just as they have got less good in the US. That in itself might be something of a surprise.
+
+jonathan.wheatley@ft.com
+
+---
+
+## Rathbones’ blunder boosts banks in the race for the UK’s rich
+
+*2026-06-20 · Nicholas Megaw · Lex · 459 words*
+
+<https://www.ft.com/content/38b74f7b-a075-4a5a-a8b6-647d20faa6d3>
+
+High taxes, slow growth, dismal weather — Britain’s well-off have plenty to complain about. Wealth managers can’t do much about the rain, but a growing number are trying to help navigate the first two problems. Banks, private equity firms, start-ups and established specialists are all competing for a share of the market, which FTSE 250 group Rathbones estimates includes about 4mn individuals with at least £150,000 to invest.
+
+Rathbones has been doing it longer than most, but recent issues at the 284-year-old group show that experience isn’t everything. Its stock fell 17 per cent on Tuesday after an internal review found problems, including how it implemented new consumer protection rules and onboarded certain clients. Between remediation costs, fee changes and lost business, analysts at Jefferies think next year’s earnings will be about 25 per cent below their previous estimates.
+
+Specialists like Rathbones or St James’s Place ought to have two advantages over mainstream banks. One is consistency: they have stuck with wealth management as companies like Lloyds or Barclays have hokey-cokeyed in and out. The other is their prestigious brands. The feeling of being part of an exclusive club, and one with attractive investment returns, helps attract staff as well as clients.
+
+When it comes to regulations, however, the smaller size becomes a problem. The Financial Conduct Authority expects every firm to keep up with requirements such as anti-financial crime rules and, as the minimum cost of compliance increases, the relative advantage for larger companies increases. Rathbones, which reported earnings of £112mn last year, is large for a specialist, but Barclays earns more than that each week.
+
+Banks can also invest more in technology. That’s particularly helpful for reaching the so-called “mass affluent”, who are more likely to be satisfied with an app-based service. Rathbones already skews towards the richer end of the spectrum, and is trying to win more business from them by emphasising financial planning services such as tax and inheritance advice, which are particularly important to the wealthiest clients.
+
+The strategy, under relatively new chief executive Jonathan Sorrell, makes sense; the question is whether Rathbones, its share price depleted, stays independent long enough to see it through. Investec’s large shareholding makes an opportunistic bid from someone else less likely to succeed. Still, the company could be appealing to a larger group that has resources but lacks a strong brand.
+
+The UK economy has had a problem recently with wealthy families leaving the country. If Rathbones were taken over so soon after Schroders — another of the City of London’s historic family names — it might start to look like the UK stock market has a similar issue. As things stand, the embattled wealth manager has done little to help the argument for the status quo.
+
+nicholas.megaw@ft.com
+
+---
+
+## Medallia’s collapse turns private credit into a private equity problem
+
+*2026-06-19 · Sujeet Indap · Lex · 422 words*
+
+<https://www.ft.com/content/f2add1ea-ed58-4925-8904-340ad1117043>
+
+Blackstone boss Steve Schwarzman, talking about private credit in 2023, made the burgeoning non-bank lending craze sound like something of a cake walk. If someone will give you a 12 per cent return with no prospect of loss, he told an industry conference, “that’s about the best thing you can do.” Alas, things turn out to be more complicated.
+
+Earlier this week, a Blackstone-led group of lenders took ownership of Medallia, a software company that had been acquired by the private equity firm Thoma Bravo in 2021 for $6.4bn. The company’s debt load had become unsustainable, so Thoma Bravo simply handed the company to its creditors, in the process writing off a staggering $5bn equity contribution.
+
+What was once private credit is, therefore, now private equity. That’s tolerable, if not ideal, for Schwarzman’s firm, because Blackstone made its name by buying businesses’ equity, souping up their operations and then selling them off. But not all lenders who have rushed into the $2tn private credit market can so easily call upon turnaround or restructuring skills, or have the appetite for owning companies outright.
+
+Nor did they expect they would need to. Medallia’s debts looked conservative when Thoma Bravo bought it at what turned out to be the top of the market. Yet lenders have now had to mark down what looked like safe loans at 60 to 70 cents on the dollar. With Fitch estimating that private credit default rates have reached 6 per cent, the highest reading ever, it seems certain that more Medallias will emerge.
+
+Blackstone’s misfortune does show one advantage of the private credit boom. Just as a club of elite lenders can move quickly to fund buyouts, they can also deal with distress faster than hordes of dispersed investors. Compared with a messy and expensive Chapter 11 bankruptcy process, where lawyers charge tens of millions of dollars, a private credit restructuring is a speedy and cheap transaction.
+
+Nonetheless, private lenders that once fancied themselves as passive coupon clippers — living off a reliable stream of interest payments — had better be prepared to run companies as equity owners. Those without Blackstone and Apollo Global Management’s wide-ranging capabilities will have to become experts quickly.
+
+This all means a bit more effort, even for the top tier of buyout barons such as Schwarzman’s colleagues. It’s not that he was wrong that a 12 per cent return with minimal prospect of loss should be seized with both hands — it’s just that such a prospect doesn’t exist, and probably never did.
+
+sujeet.indap@ft.com
+
+---
+
+## A reprieve for gilts
+
+*2026-06-19 · Daire MacFadden · Unhedged · 861 words*
+
+<https://www.ft.com/content/94bc7408-5be8-48a5-a0c0-b07712ce8694>
+
+Good morning. Seeing new Fed chief Kevin Warsh in hawk mode on Wednesday afternoon did not spook markets in the least. On Thursday, US stocks bubbled along nicely, led by the familiar big tech names, and bond markets were placid. The great brotation trade, on the other hand, got hit coming and going. Both SpaceX and bitcoin continued to fall. Email us: unhedged@ft.com.
+
+Here’s something we haven’t said in a while: gilts have had a good month.
+
+Sure, the news on gilts so far this year has been bad. But not that bad. Consider the below chart, which shows the total return for a broad basket of gilts in the first half of each year since 1997. This year is barely in the red (though there are still two weeks left in the first half of this year, leaving plenty of time for things to get worse), and nowhere near the shellacking that was 2022. And this chart doesn’t even capture the post-“mini”-Budget sell-off later that year.
+
+Credit where credit is due: longer-dated UK government bonds have rallied in the wake of the Iran deal and a run of soft data releases. The yield on the 10-year has fallen by about 0.4 percentage points from its mid-May peak of 5.18 per cent, the highest it had been since the global financial crisis.
+
+This isn’t a uniquely British story. Other G7 bonds have also rallied. But there’s a simple reason the fall in UK yields has been sharper. UK public finances are highly vulnerable to inflation. About a quarter of UK debt is index-linked, which is around twice as much as the second-highest G7 country. A significant proportion of the welfare bill, including the state pension, is also uprated in line with inflation. So, a change in the outlook for inflation has almost immediate effects on UK borrowing costs.
+
+It is not only the Iran deal that has reduced the risk of inflation. Recent data releases point to an economy losing steam. Output fell 0.1 per cent in April, inflation was steady but softer than expected at 2.8 per cent in May, and the labour market has continued to weaken. At its policy meeting yesterday, the Bank of England held rates at 3.75 per cent, in line with expectations. The market had been pricing two rate increases this year. That’s now fallen back to one. If the soft data continues, the BoE may be cutting rates next year.
+
+The major caveat to all this is the Makerfield by-election, which took place yesterday. The result was unknown at the time of writing, but the stakes have been clear for a month. Andy Burnham, the Labour Party mayor of Greater Manchester, was running to enter parliament and in all likelihood challenge Sir Keir Starmer for the premiership. Burnham’s vibes-based approach to politics and fiscal policy spooks everyone with an understanding of the UK’s fiscal position. And it has probably contributed to a temporarily higher risk premium on gilts.
+
+Happily, there are signs this episode of politically driven gilts volatility may be drawing to a close. If Burnham were to become prime minister, he says he would stick to the current government’s fiscal rules. The chance of higher borrowing for investment is already, to some extent, baked in. If he gets into office, he’ll discover the UK’s fiscal constraints are not just make-believe. But if Burnham plays his hand right (or has the sense to appoint smart advisers), clarity on his plans could bring some relief to the bond market. Speaking before the Iran agreement, Karen Ward of JPMorgan Asset Management said the bearishness on gilts was overdone. Political resolution and pro-growth policies within the bounds of the fiscal rules could bring yields down by up to half a percentage point, she argued.
+
+None of this makes gilts a screaming buy. Growth is still sluggish. Debt is still high. But some of the gloom around the sell-off this spring may have gone too far. If Burnham doesn’t alarm the market further, gilts could end up among the bigger market beneficiaries of the deal in Iran.
+
+[MacFadden]
+
+Asia was hit particularly hard by fuel shortages after the closing of the Strait of Hormuz. The good news is this has not led to pervasive inflation across the region. The bad news is that price pressures are still working their way through the system.
+
+CPI inflation has certainly picked up across the region, as HSBC illustrated in a recent note:
+
+But with unhappy exceptions including Australia, the Philippines and Vietnam, the increases are not much to write home about:
+
+Has oil lost its ability to spark inflation? No, Frederic Neumann at the bank says. Instead, price controls and subsidies are taking the strain. In some cases, energy price inflation has fallen, rather than risen.
+
+It’s hard to avoid the concern this is just storing up trouble, though, and there’s some evidence of inflation accelerating, albeit not (yet) at alarming levels in some places. Neumann’s conclusion: “Where are we on inflation? At the beginning.”
+
+[Martin]
+
+Lumumba Vea.
+
+* This article has been amended to correct the sentence about UK government bond yields; it is 10 years, not 30 years
+
+---
+
+## Kevin Warsh’s debut
+
+*2026-06-18 · Robert Armstrong · Unhedged · 836 words*
+
+<https://www.ft.com/content/2fb2e603-0934-4f99-af71-1c1d06d5be1e>
+
+Good morning. The stock market was a bit surprised by Kevin Warsh’s hawkish tone at his first meeting as Federal Reserve chair yesterday (more on that below). Treasury yields jumped and the S&P 500 slipped 1.2 per cent, with the sell-off intensifying during Warsh’s presser. SpaceX also had its first wobble since debuting, falling 5 per cent. That wasn’t enough to unseat its astonishing position as the fifth most valuable listed company in the US. Email us and explain: unhedged@ft.com.
+
+Coming into Warsh’s first meeting as chair of the Fed, there were four questions that the market — or at least Unhedged — badly wanted answered. They were, in order of importance:
+
+We now have answers to all four, though some are much more satisfying than others.
+
+The AI question is really a question about whether Warsh is a hawk or a dove, or rather whether he is a hawk or dove under current economic conditions (he has been both at different points in the past). Asked directly whether he thought AI was adding more to demand or supply right now, Warsh hedged a bit, saying that supply was hard to measure. But he did allow that higher demand might be the bigger effect right now, which makes the possibility that he is a wild-eyed, ideological dove seem less likely. Phew.
+
+Warsh’s handling of the ugly fact of core inflation was encouraging. He said bluntly and repeatedly that inflation was still too high, that this excess was the product of bad monetary policy, and the Federal Open Market Committee would now set things right. He gestured towards the employment side of the Fed’s mandate only when prodded. This, and the fact that half the committee put a rate increase in their policy projections, was more than enough for the market to conclude that the Fed is moving in a hawkish direction. The policy-sensitive two-year Treasury yield leapt as much as 17 basis points after the meeting.
+
+Warsh’s performance as a hawk was not perfectly convincing, however. Asked if he thought rates were currently restrictive, he replied that it varies. In the housing market, yes; in the stock market, clearly not. Part of the issue, he said, could be two different Fed tools — rates and balance sheet policy — which might be influencing different parts of the economy. But if Warsh is suggesting that the bonkers stock market is a product of a big Fed balance sheet, and so can be left out of the conversation about rates, he should explain why, when the balance sheet shrunk from $8.7tn to $6.8tn between 2023 and 2025, the stock market rose around 50 per cent.
+
+Which brings us to plans for the balance sheet policy question. The committee’s statement affirmed the commitment to an “ample reserves” regime in its second sentence, while one of the five reform task forces Warsh is setting up will address the balance sheet. Key message: no rush, but change is probably coming.
+
+The communication question was answered decisively. All forward guidance (coded talk about the Fed’s expected direction of travel) was taken out of the committee’s statement. In the press conference, Warsh flatly refused to answer questions about what the Fed’s “reaction function” (sensitivities to incoming economic data) might be under his leadership. Finally, he set a parsimonious example by not contributing a “dot” to the committee’s economic projections.
+
+This is fine. It’s not clear how much good all that verbiage did. But Warsh’s explanation of the change was nonsense. He argued that financial markets need to react to information directly, not through the filter of anticipating what the Fed’s interpretation will be. This filter, Warsh said, left the Fed “blind” to what was really going on in the economy. But of course the market will still interpret new information in light of what it thinks the Fed will do, and the likely response of the Fed will remain as important as ever. The only difference is that markets might have less information about what the central bank is inclined to do.
+
+The charitable interpretation of Warsh’s silly argument, pointed out to me by Brij Khurana of Wellington Management, is that he wants to kill the presumption that the Fed will depress volatility in the market by implicitly promising certain policy responses. That is to say, this is a tiny step towards removing the “Fed put”. If that is what Warsh really means, good. When markets are not volatile enough day-to-day, that encourages false confidence, which distorts the cost of capital and encourages recklessness.
+
+It is worth noting, however, that the withdrawal of forward guidance can serve as cover for not answering hard questions. Warsh was asked twice: if inflation is too high, and inflation is solely a matter of monetary policy, why not raise rates now? That question is pointed squarely at the past and deserves an answer, given Warsh’s otherwise hawkish posture. He treated it, unconvincingly, as an attempt to trick him into talking about future plans, and said nothing.
+
+Post-Farc.
+
+---
+
+## Three is the new two
+
+*2026-06-17 · Katie Martin · Unhedged · 1090 words*
+
+<https://www.ft.com/content/f17ea104-8386-446a-8169-2ad1250d4186>
+
+Good morning. It’s Fed day! Warm wishes to all who observe, especially as this will be the first decision and presser under the new chairmanship of Kevin Warsh. No one is expecting a shift on rates today but this is a golden opportunity for journalists to quiz him on dot plots, his preferred inflation measures, forward guidance, the balance sheet and everything in between. Plus, with former chair Jay Powell still in the building, it will be, as one investor put it yesterday, the first meeting with “two popes”. Watch the vibes, watch the communication, watch his approach to the press, and may the Warsh be with you.
+
+Tomorrow at 1pm BST, Rob and I will be hosting a live Ask the Expert Q&A on whether the market rally can last; more information can be found here.
+
+In today’s newsletter: big ideas at the FT Global Bond Summit from me, with charty bits from Daire. Send us your thoughts: unhedged@ft.com.
+
+Programming note: You may have noticed yesterday’s newsletter went out earlier than usual. We apologise for the error!
+
+Yesterday brought the start of the FT’s Global Bond Summit in London, which is “celebrating 35 years as the most iconic week in the bond market”. Big claims there and I’m biased, but it is indeed a great line-up, with UK chancellor Rachel Reeves the big draw for the day, in conversation with my excellent colleague Chris Giles.
+
+In no particular order, some highlights from the day:
+
+Do we have a 2 per cent inflation target any more? Not if you look at how long it’s been since the Federal Reserve, the European Central Bank or the Bank of England were able to meet it:
+
+There is no hard science to the 2 per cent target. Indeed, some have been arguing for a while that a slightly higher target would be a good thing. But rather than consciously change target, we may be sleepwalking into a 3 per cent inflation-targeting world. The view from the stage at the event was that this is very much the case. “Three is the new two,” as Salman Ahmed from Fidelity put it.
+
+Tentative peace may have broken out between the US and Iran, which opens the door to much more free-flowing energy supplies. But Ahmed is not at all convinced that this punctures inflation pressures for good, not least as every country on earth is now looking to fund energy supplies that are both sustainable and reliable.
+
+“I couldn’t agree more,” said Antonio Cavarero at Generali Asset Management. “Inflation is more structural.”
+
+Central bankers have been keen to assert that inflation expectations remain well-anchored, but surveys of consumers suggest otherwise. Only the ECB has been able to convince the public that inflation in five years will be near 2 per cent — the slight uptick after the Iran war notwithstanding.
+
+It’s no secret that policymakers pay relatively more attention to what financial markets think. But even there the evidence for their credibility isn’t great. The market’s expectation for the average US inflation rate over the five years starting from now — a closely watched measure of long-run inflation credibility — sits at 2.4 per cent. Again, the ECB does better at convincing its constituents of its hawkish heart. (Because of a historical quirk in UK inflation measurement, sterling inflation swaps are linked to the retail price index, so the levels are not directly comparable.)
+
+At the Bond Summit, Ahmed and Cavarero also agreed that this was not the only instance of three being the new magic number. As every good markets observer knows, the Fed has two mandates: jobs and inflation. But Ahmed and Cavarero agreed that the third leg of the mandate now was politics. Put simply, Warsh must decide whether this is a Fed that takes cues from politicians.
+
+The Fed “could come out stronger” from this, Ahmed said, if it is willing to chart its own direction. But tinkering with inflation measures or signs of deep disagreements running into the midterm elections in November would raise serious “red flags”. If that turns out to be the case, all the old rules for how we read the Fed are off. It would be, as Cavarero put it, “a totally different world”. We’re not there yet. But cast your mind back and imagine this conversation happening on a conference stage a few years ago. Hard, isn’t it?
+
+Officials from debt management offices in the UK, Germany, Italy, Canada and the EU all agreed that hedge funds are soaking up a notably larger slice of new issuance now than they did in the past.
+
+Regular readers and gilt market nerds will know this has been a big theme in the UK for a while. But Matt Emde from Canada’s bond-issuing body said this was “the biggest trend in our market in the last several years”. A decade or so ago, hedgies were barely visible in the primary market. Now they could sometimes take down 30 to 50 per cent of a new deal, he said.
+
+Like his peers in other parts of the world, he welcomed that new buyer base but with a “but”, which is that concentration risk and herding are potential concerns.
+
+Just to be clear, we did not make up this ugly new word — blame the bond market for this one.
+
+But again, just like the consensus among government debt issuers on the role of hedgies, there was broad consensus that investors are seeking to diversify away from Treasuries. Before you email to complain, no one is talking about anyone dumping US government bonds. But the urge to seek out alternatives is real. “It’s diversification,” as Jessica Pulay, CEO of the UK Debt Management Office, put it.
+
+Emde said he was finding buyers who have not been particularly into Canadian bonds in the past and there was particularly strong interest in a recent issue in US dollars. Investors still want the US currency but not always with Treasuries attached to it.
+
+Meanwhile, Siegfried Ruhl, an adviser in the directorate-general for budget of the European Commission (which is now a decent-sized issuer), recently drew in 28 per cent Asian participation in a new issue — it’s usually closer to 8 per cent from that part of the world — and 18 per cent of another recent issue went to the Middle East, which would usually account for closer to 2 per cent. Tammo Diemer from the German debt office also reported much more demand from the Gulf.
+
+Risk on the cheap (FT)
+
+---
+
+## Treasuries shrug at the ceasefire
+
+*2026-06-16 · Hakyung Kim · Unhedged · 782 words*
+
+<https://www.ft.com/content/9a39912a-9c11-42fc-9595-0b6949afbc6b>
+
+Good morning. Stock markets are celebrating the US-Iran ceasefire, despite gaps in what we know about the deal that one could (unlike the Strait of Hormuz, still) drive a supertanker through. The bond market is not quite as pleased. Meanwhile, Brent crude oil retreated further, sinking towards $80 a barrel. How did all the energy experts get it so wrong, even while the oil futures market was getting it more or less right?
+
+Speaking of wrong, in Monday’s letter Rob mixed up his billions and trillions, and should have used the latter in relation to the SpaceX IPO. Thank you if you were one of the 1.75tn people who emailed in to point this out.
+
+In today’s newsletter, I look at Treasuries’ measured response to the ceasefire, and Katie considers the tech bond avalanche. Email us: unhedged@ft.com
+
+It was no surprise that the stock market rose on the news of the US-Iran agreement yesterday. But we were a bit taken aback by the more muted reaction in the Treasury market, especially considering that just a few weeks ago yields were hitting multi-decade highs on war-driven inflation fears.
+
+Yields have come down a bit since last Thursday, when a ceasefire started to look credible. Still, the Treasury yield curve is a long way off from where it was prewar:
+
+Nor do futures markets indicate any meaningful shift in expectations for Fed policy since Thursday. Rates staying unchanged at the next two meetings has been overwhelmingly priced in. The odds of a 25-basis-point increase at the Fed’s October meeting have dipped to one in four, from about one in three on Wednesday. But before the war the odds were roughly zero.
+
+So why are Treasuries seeing the glass half empty, while stocks see it full to the brim? Three points:
+
+Treasuries are reflecting how uncertain the situation in Iran remains. Equities are in party mode.
+
+(Kim)
+
+Nvidia does not need money. It has money coming out of its ears. It sweats money. It’s worth about $5tn and it holds $42bn in net cash it could spend on M&A, buying back shares, R&D or impressionist paintings. Yet the chips monster has decided to issue $25bn or more in bonds, in maturities from two to 30 years. Why?
+
+One reason might be that, war or no war, benchmark US interest rates may be heading up and not, as previously anticipated, down. PGIM, for instance, is now looking for three quarter-point increases from the Fed this year, albeit with three cuts in 2027. So Nvidia may just want to lock in low rates now, for a project to be disclosed later.
+
+A rather less satisfying but more likely explanation: just because it can.
+
+I’m old enough to remember when companies tapped the bond markets because they needed to for some particular reason. But corporate bond markets today are full of people shouting “shut up and take my money”. It has worked for Alphabet and Amazon — those two have been issuing bonds at a blistering pace this year in a huge range of currencies and investors have gobbled it up. So, in a way, Nvidia would be foolish to turn down the cheap money on offer.
+
+Some bankers think we’re entering a golden age of big US companies issuing huge amounts in euros. The tech companies have proven the demand is there for these so-called Reverse Yankees, and the companies themselves like to mix up the currencies a bit. Ironically, this, rather than homegrown superjumbo issuance, could be the thing that forces European debt markets to scale up.
+
+As I mentioned in my column at the weekend, the tech debt binge is pulling corporate credit markets in some weird directions. But as the below chart from Man Group shows, hyperscalers’ share of the investment-grade bond market remains very small compared to the value share of the S&P 500:
+
+Usually investors balk at companies borrowing lots of money fast because the borrowers’ leverage ratios get out of hand. But these are some of the most rock-solid companies on planet Earth. Even hundreds of billions of dollars of borrowing will leave their balance sheets looking healthy.
+
+Companies are getting cheap money; are bond buyers getting a raw deal? Not necessarily. According to M&G Investments’ Richard Woolnough, some of the tech debt is weirdly cheap from the point of view of investors, too. Bond investors simply cannot absorb concentrated issuance like this in the way stock investors can, so sometimes marginal buying is constrained and the bonds trade a bit below what their credit quality would imply. His words:
+
+Bond markets are doing some weird stuff as they adjust to tech’s new reality.
+
+(Martin)
+
+We need to talk about Russia.
+
+---
+
+## SpaceX: no crying at the casino
+
+*2026-06-15 · Robert Armstrong · Unhedged · 1114 words*
+
+<https://www.ft.com/content/8e4af8b4-34df-427d-9ae5-0944c3bc2ad7>
+
+Good morning. Yesterday, Donald Trump announced that the US and Iran have reached a deal to extend their ceasefire and reopen the Strait of Hormuz. While it is always hard to be completely certain with Trump, confirmation from other parties — including officials from Iran, Pakistan and Qatar — lends some credibility to the agreement. We welcome the end to the fighting, and the markets should also welcome the reopening of the Strait. Email us: unhedged@ft.com.
+
+SpaceX’s IPO, the largest ever both by valuation and size of float, rose almost 20 per cent on its debut on Friday. This is a big deal, but a lot has been written already, so we confine ourselves to two observations.
+
+We haven’t seen anything resembling market pricing yet. Both supply of and demand for the shares are still in flux. On the demand side, waves of price-insensitive demand are coming from index-linked funds in the near future — over $16bn worth within 15 days of Friday, according to BNP Paribas (that assumes a $75bn final float; filling the $11bn “greenshoe” overallotment option will increase the passive buying). That means those who were allocated shares in the IPO could always expect an upward price “squeeze,” especially on the assumption that some buyers are Musk fanboys who will hold on to their shares for dear life. It’s not quite a guarantee of a profit (James Mackintosh of the WSJ explains some of the risks here). But it’s close.
+
+On the supply side, up to 911mn shares held by insiders become eligible for sale the day after SpaceX reports earnings for the June quarter, presumably sometime in mid-July (see the table beginning on page 258 of the prospectus here). If the share price is above $175.50 that day, the ceiling rises to 1.4bn shares. Remember, only 555mn shares were sold in the IPO. Between the second-quarter earnings report and year-end, nearly 3.3bn more shares became eligible for release, with more to follow. Price discovery is going to take a long time.
+
+Pundits are worried about SpaceX, but worries are cheap. The worrying class — that is, my class — has two related concerns about this IPO. One is that it was a massive fix by the finance industry, motivated by a mad grab for fees. This is exemplified by, for example, Nasdaq’s changing its index-inclusion rules to get SpaceX in quickly and in spite of its small free float, and JPMorgan Chase CEO Jamie Dimon’s decision to act as salesperson for the stock. The other is that putting a $1.75tn valuation on a cash-burning company in industries that are somehow both speculative and incredibly competitive is plain crazy.
+
+Fair enough on both points. If SpaceX stock collapses in the next year or so, we’ll have congressional hearings with Musk, bank CEOs and all the trimmings. But everyone knows we are riding high on an investment boom, a stock market boom, and a technological revolution. Saying “all this could end very badly” now will not count as prescience, even if all this does end very badly. It is a costless thing to say, the risks are obvious, the buyers are adults, and there’s no crying at the casino.
+
+[Armstrong]
+
+Coining a tradeable concept is difficult. It requires both wit and dumb luck. The last decade gave us a series of attempts to describe market trends in pithy nicknames or acronyms, but few caught on. During a prolonged bout of weak performance in the wider stock market, though, the Magnificent 7 emerged as an investable concept with staying power. At its peak in mid-2024, the seven megacap tech stocks in the Mag 7 accounted for 79 per cent of the S&P 500 index’s total return.
+
+But everything must come to an end. A concept that bundled together companies based on little in common beyond scale and having something to do with tech, the Mag 7 has failed to keep up. “The concept has become obsolete,” Hugh Gimber of JPMorgan Asset Management said last week. The Mag 7 is becoming the Brics of tradeable concepts*: an incongruous group with diverging fundamentals and fortunes. As the Faangs gave way to Mag 7 (who still speaks of Netflix?) the Mag 7 is starting to give way to something else, too.
+
+The overriding story here is investor discernment. In the early stages of the AI boom, in 2023, a rift opened up between the hyperscalers, which had the cloud and compute infrastructure to ride the wave, and the semiconductor companies, or rather manufacturer: Nvidia in a class of its own.
+
+While the hyperscalers (other than Meta, which had enjoyed a sharp recovery after extinguishing the Metaverse dumpster fire) have continued to move in tandem, Nvidia has split from the pack, outperforming the Mag 7 index by nearly 500 percentage points since early 2023. The Mag 7’s returns are increasingly Nvidia’s:
+
+For the first couple of years of the AI boom, this was fine. The Mag 7’s earnings growth outpaced the broader S&P 500. But now that the hyperscalers are having to invest so heavily in the AI infrastructure build-out (with gains going predominantly to Nvidia and other chipmakers), their earnings growth is falling. While the boom is showing up in Nvidia’s earnings today, there’s a very real question about when the hyperscalers’ capex spending will start to pay off. Chart courtesy of JPMorgan Asset Management:
+
+The divergence in earnings is showing up in how investors are trading these stocks too. According to analysis by JPMorgan Asset Management, the pairwise correlations of daily returns among the hyperscalers — a measure of how closely they move together — have fallen sharply, from around 0.6 in 2023 to below 0.3 today. Even the hyperscaler subset of the Mag 7 is no longer being treated as a single trade. Their chart again:
+
+Another point: Apple no longer fits with the hyperscalers Microsoft, Alphabet, Amazon and Meta, as it is, so far, sitting out the data centre capex wars.
+
+The Mag 7 concept won’t disappear tomorrow. The seven companies still make up about a third of the value of the S&P 500. One of the factors delaying the concept’s fade-out is that the S&P has decided not to fast-track SpaceX and the forthcoming IPOs of Anthropic and OpenAI into the index. But whatever else happens in the stock markets this year, Mag 7 is on the way out.
+
+A reader, Sagar Gohel, wrote to us last week with a suggestion for its successor: Mangos — Meta, Anthropic, Nvidia, Google, OpenAI, SpaceX. Wit? Present. Timing? TBD.
+
+(*You may be surprised to learn that the Brics are still part of the business studies A-level curriculum. We certainly were.)
+
+(MacFadden)
+
+China at the gym.
+
+---
+
+## Chart of the Week: US headline inflation matters to consumers
+
+*2026-06-13 · Hakyung Kim · Unhedged · 283 words*
+
+<https://www.ft.com/content/20509c5d-e995-4670-83f5-d3d705671ee1>
+
+Good morning. The latest US consumer price index reading made headlines for the big jump in the headline annual inflation rate to 4.2 per cent, the highest since April 2023, driven by rising fuel prices. Meanwhile, core inflation (which strips out volatile food and energy prices) came in at a much more tame 2.9 per cent, just 0.1 per cent above April’s level. Especially in the case of supply shocks, such as the current energy supply crisis, the core measure can be a better gauge of the underlying trend of inflation.
+
+But headline inflation is more concerning than it was in April 2023, the last time price levels were as high. Average hourly earnings growth has been weakening and has recently fallen below the headline inflation rate, meaning that real wages have dipped. The declining annual level of the personal savings rate also indicates households are sustaining spending by saving less or drawing down savings.
+
+Mike Reid of RBC Capital Markets says there is now a “two-way risk” for the Federal Reserve should inflation worsen as the conflict in the Middle East drags on. “Hiking rates to battle inflation can worsen the affordability situation for many consumers — notably those who are relying on credit to support spending. Cutting rates can fuel inflation but prop up demand in rate-sensitive sectors.”
+
+Policymakers might be happy that there was little pass-through from the energy shock on to core inflation, but they cannot afford to ignore the headline rate. Energy and food inflation are of primary importance to an increasingly stretched consumer backdrop. Send us your thoughts: unhedged@ft.com.
+
+Hakyung: Meta hallucination
+
+Katie: National treasure, RIP
+
+Rob: More on the great
+
+Daire: The fall of an ‘empire’
+
+---
+
+## The ECB tightens course
+
+*2026-06-12 · Daire MacFadden · Unhedged · 856 words*
+
+<https://www.ft.com/content/f1abefcb-387d-4da0-9586-98eff2e0a0eb>
+
+Good morning. In a few hours after this lands in your inbox, SpaceX will make its public debut. Our colleagues have reported that ahead of its IPO, orders exceed the available number of shares by at least three times. Elon Musk is clearly counting on his retail investor fandom to pull through — as evidenced by the fact he’s allocating from 20 to 30 per cent of the offering to individual investors. Will they pull through? But beyond the frenzied retail investors, there’s a quieter form of support a few weeks out from passive fund managers, who have no choice but to be exposed to SpaceX thanks to sped-up index inclusion rules.
+
+Either way, a volatile day is likely ahead of us. Email us: unhedged@ft.com.
+
+The European Central Bank raised its policy rate to 2.25 per cent yesterday, as widely expected, becoming the first of the major central banks to raise rates in response to the effects of the Iran war.
+
+Ahead of the decision, the market described this as an “insurance hike” — pre-emptive protection against inflation effects that have yet to fully materialise. President Christine Lagarde doesn’t like that terminology, but analysts have latched on to it anyway to describe this, the first rate rise in three years that has come while the potential for material second-round effects in prices and wages is still limited. Clearly, the ECB thought this was the best course of action with the Eurozone’s inflation forecast for the year already having risen to 3 per cent.
+
+Hanging over all this is the memory of 2011, when the ECB twice raised rates into an energy shock and was forced to reverse course within six months. But the ECB’s monetary policy strategy has developed significantly since then. The better comparison is to the post-Covid supply shock, when the ECB was too slow to act in response to evidence of persistent inflation — although it was not unique in making that mistake.
+
+After yesterday’s decision the risk of a policy mistake may be lower but it hasn’t gone away. If you believe the Iran war will end soon, yesterday’s decision could be a case of “one and done”. But given the uncertainty about the war’s duration, Lagarde offered little guidance on the future path of rates. Market pricing still points to one or two more rate increases before the end of the year.
+
+Robert Dishner at Neuberger Berman:
+
+The ECB moved first. Next week we’ll find out if the Federal Reserve and Bank of England will follow.
+
+(MacFadden)
+
+Unplugging the global financial system from excessive reliance on the US dollar is, to put it mildly, a tricky issue.
+
+The think pieces on this golden moment for the euro will continue until morale improves. The fact remains that without a fiscal union, and without any of the European supranational borrowers stepping up to issue in size and provide a scalable safe asset by the back door, we’re stuck. A catalyst and leadership are required, and it’s hard to see either right now. Maybe that will change, and we rather hope so, but for now, here we are.
+
+It’s all extremely similar to the debate over European tech sovereignty. The continent simply does not have its own Google, or its own Amazon Web Services, let alone its own AI champion yet, so it remains hooked into a world where we all assume the US is our friend and ignore the tiny but apocalyptic chance of some kind of vengeful switch-off.
+
+But on the financial side, it’s not all about the euro and whether it is ready for prime time. Plausible channels exist for the other biggie — the Chinese yuan — to step up in a more fragmented world too.
+
+In a new NBER working paper, a trio of academics (Felipe Benguria at the University of Kentucky, Felipe Saffie at the University of Virginia and Eugenio Rojas at the University of Florida) outlines a theory of when dollar dominance becomes fragile “because countries have inherited dollar liabilities but increasingly earn yuan-linked revenues”.
+
+China is a massive lender to a lot of developing countries, but generally in dollars rather than yuan. These loans can be pretty substantial for smaller economies, often exceeding 10 per cent of GDP.
+
+Where this plugs in to the de-dollarisation thing is when those countries switch up the currency composition of their export revenues (into yuan) while older debts are still in dollars. A few countries in Africa — Kenya, Ethiopia and Zambia — have already been linked to restructurings of those debts into yuan. At certain points, it stops being cost-effective to keep trying to finance debts in dollars. Over time and on enough of a scale, that chips away at dollar debt dominance.
+
+The paper is not arguing that we’re seeing a global wave of dollars-to-yuan restructurings, but it says, “even modest fragmentation shocks can generate large equilibrium shifts, and fragmentation may create multiplicity where dollar dominance was previously unique . . . In a sense, the future of dollar debt dominance depends on the balance between borrower balance sheets and debt-market liquidity.”
+
+(Martin)
+
+Humans prefer to walk anticlockwise.
+
+---
+
+## State-owned AI
+
+*2026-06-11 · Daire MacFadden · Unhedged · 1007 words*
+
+<https://www.ft.com/content/6212a1dc-5ebe-4037-b136-e1c29b061f8b>
+
+Good morning. In the Unhedged podcast this week, we asked listeners what we should call the (only possibly real) flight of capital out of bitcoin and into AI stocks and SpaceX. Katie’s suggestion of The BS Trade, but the current leader is the listener on Spotify who came up with “The Great Brotation”. This is your chance to rival Rob’s triumph with the Taco Trade. Heaven knows he’s been dining out on that one, so tell us yours: unhedged@ft.com.
+
+AI groups are not like other companies. By any measure — size of funding rounds, pre-IPO valuations, revenue growth — OpenAI, Anthropic and the like are exceeding historical norms. It’s also unusual for a chief executive to point out that their product might just take all the jobs and then end the world. And finally, it’s strange for some of the fastest-growing companies in the world to suggest giving stakes in their businesses to a sovereign wealth fund. And yet here we are.
+
+The idea of an AI wealth fund has gained some momentum in the past few weeks, after US senator Bernie Sanders proposed a 50 per cent tax on the profits of the AI labs, payable in shares. Donald Trump has seemingly endorsed the idea and been in talks with Sam Altman of OpenAI about a voluntary gift of the ChatGPT maker’s shares to the US public.
+
+If you’re reading this newsletter there’s a decent chance you think governments taking stakes in private companies is a bad idea. Because it usually is. But maybe not this time? Some arguments in favour:
+
+It’s industrial strategy and we all do that now. It’s 2026, and governments taking stakes in strategic sectors is very much back in play. If you’re concerned about liberal democracies winning the AI race, then maybe there’s a case for including AI companies in industrial strategy.
+
+It’s PR/damage control. The AI bros have lost a lot of goodwill telling us their tech will make us all redundant. No surprise then that the public is starting to push back. Left unchecked, the backlash could slow the tech’s adoption and limit its longer-term economic benefits. It is in the interest of Altman et al to appease the masses, who own torches and pitchforks. What better way than equity handouts, especially if they head off extortionary taxation.
+
+It’s the seeds of a compensation programme for the AI losers. Positive supply shocks always create winners and losers. In the heyday of globalisation, economists told us there was no point resisting the forces of trade integration and deindustrialisation. The best we could do was compensate the losers in the form of unemployment insurance, job retraining and relocation. But the compensation never came. If it’s true that AI is going to put us all out of work, then an AI wealth fund is one way to fund the great cost that is going to impose on the state and society.
+
+It aligns public and private incentives. OpenAI and Anthropic have origins in rather unconventional non-profit or public benefit corporate governance structures. This says something about how they think — or once thought — their technology could be harnessed for more than just private profit-seeking. Giving the broader public a stake in their companies would be a literal expression of that public purpose (Could this bind public finances to the AI valuations and disincentivise AI regulation? Absolutely).
+
+It’s socialising the profits. Yes, and so what? The US economy has already become reliant on AI investment as the engine of growth. It may be too early to call the AI companies too big to fail, but their systemic importance is rising. It’s only a matter of time before a failure in the wider AI ecosystem forces the question of government backstops and bailouts. So why not reap some of the returns while the going is good?
+
+There’s a lot we don’t know about the proposals, and there’s a lot that could go wrong. For example, would the shares be bought or donated? Would the wealth fund pay out cheques, like the Alaska Permanent Fund Dividend, or be used to reduce the federal deficit? There are good and bad ways to do this. But if AI is anywhere near as transformative as its creators say, it will require new ways of thinking about corporate governance, economic ownership and redistribution.
+
+(MacFadden)
+
+CPI inflation is rising fast and the market doesn’t much care. Yesterday the two-year Treasury, a sensitive gauge of fears about inflation and tightening monetary policy, took a look at the headline annual figure of 4.2 per cent for May and rose a near-meaningless 2 basis points. The reading, the worst in three years, was mostly a result of fuel prices, and the market has long since concluded that energy inflation will prove transitory (Disagree? Quit complaining and sell stocks, which will get clobbered if you’re right).
+
+Stripping out energy and food prices, core inflation is not getting worse. The month-over-month rate slowed, and the three-month average looks stable (the six-month average, the one we really like, is still distorted by the missing data from the end of 2025).
+
+Core goods prices fell between April and May, but that seems unsustainable, for reasons neatly laid out by Sam Tombs of Pantheon Macro: “The pass-through of tariffs to consumers likely now is complete, but the manufacturing surveys indicate that companies soon will start to pass on the hit from the energy shock.”
+
+The problem is services inflation, which is trending solidly above 3 per cent and showing no sustained improvement whatsoever:
+
+You can split the econo-pundit world into two camps. One camp thinks the services inflation will subside because real wage growth is weakening. In other words, the inflation problem will solve itself. The other thinks pandemic-era price rises were never truly beaten, looks at the recent unexpected surge in job creation and concludes the economy is reaccelerating, and inflation will follow. We will write more about this debate soon. Let us know which side you are on.
+
+(Kim and Armstrong)
+
+The new joule order.
+
+---
+
+## Gold and bitcoin: the assets the rally forgot
+
+*2026-06-10 · Katie Martin · Unhedged · 742 words*
+
+<https://www.ft.com/content/830cacfc-cda7-4da8-acde-49f6079bc524>
+
+Well, we did warn you that it would be volatile. Rather than sustaining Monday’s rebounds, tech stocks fell hard yesterday — the Philly semiconductor index was down as much as 9 per cent at one point, and the Nasdaq by 4 per cent — before recovering some ground in the afternoon. Pour one out for the momentum traders and algos, and email us: unhedged@ft.com
+
+Today, I take a look at the end (?) of the great gold rally, while Hakyung kicks the tyres on gold’s digital cousin bitcoin.
+
+There was a happy time when the gold price made a certain amount of sense.
+
+In the good old days, you could rely on it to rise in times of severe geopolitical or market stress, as people sought a haven. Sure, you can paint your own adventure on to gold, and make a case for buying it when yields are falling (less opportunity cost for buying a non-yielding asset); or when yields are rising (dollar debasement, inflation hedge); or honestly whatever you like. But you knew that gold loves fear, fear loves gold.
+
+The past year or two, however, has been weird. As I’ve written (and said), gold has been behaving much more like a risk asset, a chancy bet rather than a safe retreat. As central bank buying gave way to retail excitement, the traditional inverse correlation between gold and real interest rates broke down. Exuberance, not fear, drove gold and silver up to extraordinary heights at the start of this year — $5,500 an ounce for gold; $120 for silver. The outbreak of war in Iran seemed to play a part in breaking gold’s momentum, as it did for other risk assets.
+
+Just when you thought you were on top of gold’s last regime shift, though, it seems to have had another. Stocks recovered from the Iran shock, and then some, but gold is stuck in a rut. And in the past few days, as tech stocks have been whacked, gold has been whacked with them. Tails you lose, heads you also lose?
+
+Certainly, flows into gold ETFs have declined sharply, as this chart from the World Gold Council shows:
+
+Citi’s Max Layton makes sense of it like this:
+
+Joni Teves at UBS doesn’t see a recovery any time soon, as the old relationship with real rates reasserts itself:
+
+I’m minded to think the fizzy speculative moment has passed and it’s likely to go nowhere for a while.
+
+(Martin)
+
+Bitcoin has stabilised somewhat this week after falling below $60,000 for the first time since 2024. But at $62,000, it’s a long way from its 2025 high just above $126,000:
+
+One basic problem: money is leaving Bitcoin ETFs. Chart courtesy of Gabriel Selby at CF Benchmarks:
+
+Crypto defenders are quick to say that the sell-off is prompted by the prospect of higher-for-longer interest rates, which will kill speculative appetite. “The prime mover is macro . . . Bitcoin is trading as a high-beta read on Fed tightness, and that can persist,” according to Selby.
+
+It didn’t help that Michael Saylor’s Strategy, the largest bitcoin treasury company, sold a small amount of bitcoin last week, for the first time since 2022. It was a small amount (32 coins, for $2.5mn), but notable for a company that has repeatedly insisted that it would “Hodl,” and that you should, too (the company resumed purchases on Monday).
+
+It’s hard for us to take this argument very seriously. The increased probability of rate rises doesn’t justify the digital currency stepping off a cliff while the rest of the (rate sensitive) market powered higher in May. When we wrote about the crypto winter in December, when bitcoin was still trading at about $90,000, crypto defenders had pointed fingers for its decline at the Bank of Japan’s rate increase and the unravelling of the yen carry trade. Rates and liquidity are always the convenient explanation when bitcoin falls, but the real issue is that it has no fundamental value.
+
+Unhedged has long thought that bitcoin is a purely speculative asset. Are retail investors coming around to our view? Maybe, but a more likely explanation is that the retail risk junkies are speculating elsewhere. Last week, our colleague Jill Shah reported:
+
+In tech and AI, from SpaceX to the chip companies, there is plenty of action — and a fundamental story that, while a little inflated, at least makes basic sense. Who needs bitcoin?
+
+(Kim)
+
+“Bit mad, but there you go.”
+
+---
+
+## We’ve died and gone to volatility heaven
+
+*2026-06-09 · Robert Armstrong · Unhedged · 1107 words*
+
+<https://www.ft.com/content/8b339aea-3a57-48d0-96b5-9e7da87ca253>
+
+Good morning. Yesterday, OpenAI confidentially filed for an IPO valued at more than $1tn, joining SpaceX and Anthropic (which also filed to go public last week) in targeting 13-figure valuations. SpaceX’s public debut this Friday will give us the first glimpse of how the market will absorb the huge listings. Are the biggest winners going to be the investors, or the investment bankers? Email us: unhedged@ft.com
+
+Today, I write about the recent market volatility, and Daire takes on stablecoins.
+
+“Wall Street rebounds as traders race back to chip stocks” was the FT headline about yesterday’s stock market action. “Rebound” may be a hair too strong. Yes, the Big Tech stocks that got crushed after the jobs report and ensuing bond rout on Friday did well on Monday. But the magnitudes were different. Consider S&P 500 sector performance:
+
+Friday (dark blue) was very bad for the tech cluster (information technology and consumer discretionary) and cyclicals, and good for the classic defensives and real estate. Monday (light blue) was OK for the AI cluster but weak for everything else. And Monday’s rebound weakened as they went on.
+
+The net effect: if you zoom out only as far as the past week, there is a clear downward trend. Here is the S&P 500 and the Philly semiconductor index, which has been leading the market:
+
+The S&P 500 now sits at the same level as a month ago. The straight-to-the-moon momentum has been broken. Does this mean that the top is in and the rally is over? No. As readers of Benoit Mandelbrot know, when a market breaks its trend, it does not mean a reversal is coming. Instead, it means that more or less any damn thing can happen, until a new trend develops. That is one reason we are set up for high volatility in the weeks to come. But it is hardly the only one. Others:
+
+A bond market that does not know what to expect from the Fed. As we and others have written, a combination of above-target inflation and what looks like a resurgent job creation makes rate increases a possibility. But at the same time, real wages are flatlining, rent inflation is subdued and the unemployment rate is stable. So maybe a hold is more likely? This uncertainty has driven up volatility at the short end of the yield curve, as Ed Al-Hussainy of Columbia Threadneedle pointed out to us. And when short rates get volatile, stocks follow.
+
+The undeniable promise and irreducible uncertainty of the AI trade. We all agree that AI is a technological revolution, and that someone is going to make a lot of money from it at some point. But no one knows exactly who, or when. Maybe the barriers to entry will be low and the public will reap the benefits, while the model builders and data centre builders earn mediocre returns on their vast investments. Or maybe it’s a winner-take-all market. The fact that demand for tokens and revenues at Anthropic are both rising fast is not decisive — things will change. This means investors will be jumpy, especially considering that . . .
+
+A narrow market, in which everything is increasingly leveraged to tech and AI. Two snapshots give a flavour of this. One comes from Parag Thatte and his team at Deutsche Bank, who use options market data, fund flows, short sales, active fund return correlations and analyst targets to track investor exposure to equities. Right now, overall equity exposure is on the high end of normal, but tech exposure is extreme (the units here are standard deviations):
+
+On a downright chilling note, Charlie McElligott of Nomura offers this chart of the growth in assets in leveraged ETFs linked to the Korean and Taiwanese markets — that is, to semiconductors and memory chips. If this is at all indicative of the use of leverage in AI trades, then self-reinforcing cycles of selling and buying are going to whip the market around:
+
+All this, when secondary offerings from Google and SpaceX are adding both excitement and supply to the equity market? And with other IPOs to come? We don’t know which direction the market is going to go. But we are confident it is going to get there on a road full of switchbacks and take the corners at speed.
+
+(Armstrong)
+
+The US dollar utterly dominates the market for stablecoins. More than 99 per cent of the $320bn of stablecoins in circulation are denominated in US dollars. The euro is a very distant second, with about $650mn of stablecoins pegged to the single currency. The pound is barely worth talking about. In stablecoins, as in analogue money, the benefits accrue to the hegemon.
+
+The growth of the US stablecoin industry since the passage of the Genius Act last year has sparked a minor bout of stablecoin envy in the Old World. EU and UK regulators have been fretting about whether they’re doing enough to foster innovation in digital assets.
+
+For the Europeans, the issue is monetary sovereignty. Widescale adoption of foreign currency stablecoins would be dollarisation through the back door and weaken the central bank’s ability to control inflation. “The growing use of stablecoins may further cement the international dominance of the dollar,” the European Central Bank’s Isabel Schnabel said last week, as if that wasn’t an explicit goal of the Trump administration’s regulatory approach.
+
+The Bank of England, on the other hand, has tied itself in knots trying to decide whether stablecoins are friend or foe. Its draft regulatory framework is expected this month, after four years in development and a mild dressing down by a House of Lords report. But if there was demand for a sterling-denominated stablecoin in any material size, it would exist already.
+
+For stablecoin regulation, the only real remaining question is whether the coins are allowed to pay interest, which would obviously increase demand. The risk is this would undermine (or rather replicate with less regulation) the business model of traditional banks, which is why they’ve lobbied so hard to stop it. On this, as with everything else in this space, if the EU and UK want to compete, it will be as rule-takers rather than makers.
+
+But is this such a loss? The promise of stablecoins is that they will make payments faster and cheaper. So far, pretty much the only people who care are the crypto traders and money launderers whose transactions have been the primary use case. For the ECB and BoE, that shouldn’t be an important market. They should focus instead on fostering the development of the underlying technology and leave the currency contest to Washington.
+
+(MacFadden)
+
+Heightism.
+
+---
+
+## Did jobs just kill the bull market?
+
+*2026-06-08 · Daire MacFadden · Unhedged · 891 words*
+
+<https://www.ft.com/content/86503ff9-3535-48bf-bc2d-75d8dafb02f1>
+
+Good Morning. Well, that escalated quickly: the market reaction to Friday’s jobs report started bad and got worse. The Nasdaq closed down 4.2 per cent, the largest drop since April 2025 in the wake of “liberation day”. This might have been a bit much for good-but-not-great payroll data. But it’s not totally irrational: in theory, higher rates will push up corporate borrowing costs and slow the AI infrastructure build-out, and a higher discount rate means magical mountains of AI profits far in the future are worth less today. Plus, tighter policy rates have tended to precede bull market peaks in the past. An interesting moment, then, for news to leak that Meta is considering an equity raise. It could be that Mark Zuckerberg saw Alphabet’s $85bn share deal and wanted in on the action, or that he was listening to the Unhedged podcast last week. Straws breaking the camel’s back? Email us: unhedged@ft.com.
+
+“With a great Jobs Report, like just announced, stocks should go up, not down. That’s the way it was for 200 years.”
+
+So ran Donald Trump’s assessment of Friday’s price action. Alas, he did not get his way.
+
+Price corrections are part and parcel of the market cycle. What prompts them is anyone’s guess — sometimes it’s earnings coming in below expectations, other times it’s the unilateral declaration of a trade war. This time it was non-farm payrolls signalling that monetary policy may need tightening up.
+
+Data on Friday showed the US added 172,000 jobs in May, more than double the consensus expectation of around 85,000. That’s the third positive jobs report in a row, and it also included upward revisions to the initial estimates for March and April. The labour market is looking more resilient than it did a few months ago, although it’s still too early to say it’s getting hot.
+
+The largest share of new jobs was in leisure and hospitality, which added 70,000 workers. That’s far above that sector’s 12-month average of 14,000 new jobs per month. A likely explanation is that we’re a week away from the US hosting the World Cup. So, that’s not especially surprising, or a sign of strong job growth continuing into the future. While it’s a good sign that the report wasn’t overly dependent on gains in healthcare and government, the 55,000 jobs added in local government are doing some heavy lifting and are harder to explain. Altogether, there is some evidence of a reaccelerating jobs market here, but it’s not overwhelming.
+
+The market was overwhelmed, though. Treasuries sold off and the yield on the two-year benchmark jumped 11 basis points to 4.15 per cent. Bitcoin, a measure of speculative fervour if (literally) nothing else, tumbled under $60,000. The Nasdaq fell hard. Drops in the Philadelphia Semiconductor Index and individual chip stocks were even more extreme. Traders are now pricing in one, possibly two, rate increases by the Federal Reserve later this year.
+
+The Fed may well need to raise rates, but we don’t think this jobs report provides enough of a reason. At least two factors point against this labour market being inflationary. First, three good reports in a row have done little to lower the unemployment rate, which remains stuck at around 4.3 per cent since February. Second, annual wage growth slowed to 3.4 per cent, which is below inflation and therefore marks a small real-terms pay cut for workers.
+
+The idea of tighter policy shouldn’t have come as news. Bond markets have been warning since March that the likely direction for rates is up not down. But until Friday, the stock markets had been treating their elder siblings in bonds as a wet blanket.
+
+Much scarier is the idea that Friday was a reaction to more than just rate expectations. Let’s not forget that if the Strait of Hormuz does not reopen this summer — and we really mean it now — the stagflationary impact will be much worse than anything currently in the jobs data.
+
+And with all that in the background, is the market really clamouring for a wave of supersized IPO announcements? We’re not really in the business of giving stock tips but the spectacle of Elon Musk heading to trillionaire status with the listing of SpaceX, held aloft by friendly index providers and the helping hand of Jamie Dimon, does feel somewhat excessive. Add in the announcements of massive equity issuance by Alphabet and, possibly, Meta, is this the whiff of a last hurrah for the AI mania starting to set in?
+
+As an aside, some may be looking to the jobs data for evidence of AI’s impact on the economy, especially considering its invisibility in other statistics. If AI is present in this report — and that’s a big “if” — it’s in the financial services and information job losses. These are two of the most AI-exposed sectors. Financial services has shed 107,000 jobs since May 2025.
+
+Kevin Warsh had seemingly been looking forward to his first move as Fed chair being an interest rate cut. There’s a cute irony to the idea that it might be to raise rates. But we don’t think this is the only thing at play. Just a normal correction ahead, or a turning point in the cycle?
+
+Good luck out there.
+
+“Human language is going to become more and more imitative of LLM-speak” (LRB)
+
+---
+
+## Chart of the Week: Pricing the oil inventory drawdown
+
+*2026-06-06 · Hakyung Kim · Unhedged · 224 words*
+
+<https://www.ft.com/content/c9b5b0d3-e9f8-489f-b85a-835ded2837a6>
+
+Good morning. We’re now entering the fourth month since the start of the Iran war, and the Strait of Hormuz has been blocked for nearly as long. The biggest question on everyone’s mind is where oil prices are headed. Many observers have been surprised that Brent crude hasn't risen more; it averaged around $104 per barrel in May.
+
+But a look at prices in the context of commercial inventories shows there is a clear pattern. The two variables have a very high inverse correlation, and May’s average Brent crude oil price fit the historical trend.
+
+However, as Hamad Hussain at Capital Economics pointed out to Unhedged, if the supply shock continued and commercial inventories continued to fall at about 100mn barrels per month — as they did in April and May — oil prices could average between $130 and $140 per barrel in June, and possibly even higher.
+
+China’s dramatic reduction in crude oil imports has cushioned some of the supply shock, as has the release of strategic oil reserves by the US and other countries. But these aren’t sustainable responses; the US’s oil stocks have already fallen to a 22-year low. The oil supply crunch will be hard to cushion for much longer. Let us know your thoughts: unhedged@ft.com.
+
+Hakyung: A normal stomach
+
+Rob: Katie’s culture
+
+Katie: The new mercenaries
+
+Daire: American “declinism”
+
+---
+
+## The CPG blues
+
+*2026-06-05 · Robert Armstrong · Unhedged · 957 words*
+
+<https://www.ft.com/content/d7d701b9-ead3-4a45-b213-3cc183b9b1f7>
+
+Good morning. Two AI stories struck us yesterday. The first was shares in Broadcom, the chipmaker, falling 12.6 per cent after it forecast that revenue in its next quarter would grow just 84 per cent — more than Wall Street’s official expectations but (apparently) less than the unofficial ones. File that under: no room for error in this market. The second was Bloomberg reporting that Jamie Dimon, CEO of JPMorgan Chase, “plans to discuss the upcoming SpaceX initial public offering with thousands of the bank’s high-net-worth clients . . . joined by . . . a pair of SpaceX executives”. Bloomberg said that this unusual event “underscores the massive demand for what is likely to be the biggest ever market debut”. Didn’t they mean massive “supply of”, not “demand for” the shares? In any case, we’ll file that under: we all work for Elon Musk now. Email us: unhedged@ft.com
+
+Some weeks ago I added “columnist” to my job description — every Thursday, or most Thursdays, I now have a thought piece in the FT’s opinion pages. The column format gives me a chance to present broad arguments about the very biggest issues in business and finance, which is great. But it does not allow me to pile on the details, numbers and charts, which is what I like about newsletter writing. What follows is an experiment with presenting a sort of supplement to my columns here in Unhedged. Let me know what you think.
+
+My column yesterday focused on the woes of the once-mighty consumer packaged goods industry, and what they say about the US economy. The industry (which includes companies from Pepsi to Colgate-Palmolive to Estée Lauder) is suffering from low population growth, a stressed consumer in the middle and lower parts of the income spectrum, much tougher competition from independent and store brands, and self-inflicted injuries in the form of too many cost cuts and post-Covid price increases. I think of all this as a prism on the US economy outside of tech: viciously competitive and not growing much.
+
+It wasn’t always this way, though! From 1999 to 2011, the various CPG sub-industries massively outperformed the S&P 500:
+
+But since 2011, the story has reversed and then some. The industry underperformed in relative terms from 2012 to 2021, and has gone basically nowhere in absolute terms since then:
+
+These charts show two things. The first is that CPG industry market underperformance has a cyclical element. If you look closely at the first of the two charts above, you will notice that the industry does much better, relative to the S&P, after a major blow-up à la 2000 and 2008, and that the strong performance fades as those blow-ups recede into the past. That pattern holds today. It’s not the whole story, but it is part of it.
+
+(An aside: another aspect of the current underperformance was suggested to me by Peter Grom of UBS. In the age of high-frequency trading and high-frequency data on consumption trends, CPG stocks have become more volatile. They move more on news and earnings reports than they did. And it used to be that some investors owned CPG stocks as ballast in a portfolio, even if they didn’t generate the best returns. Now that they are more volatile, they no longer play that role.)
+
+The other thing the two charts show is that the industry’s problems did not begin with the industry’s post-Covid experiment with wildly aggressive pricing, nor with GLP-1 weight-loss drugs killing demand for snacks. The trouble set in earlier. McKinsey has two excellent reports that offer various explanations of what went wrong. In one of them they offer this assessment of the food and drink industry:
+
+That is: if your products are neither better than those of the competition, nor cheaper, you have a problem. My broad diagnosis is that what happened to this industry is that its corner of the US (and possibly global) economy got tougher at the same moment management teams increased their focus on short-term profit maximisation (cost cutting, restructuring, pricing, whatever). Maybe the tough economy caused the short-sightedness; I don’t know. But in any case the industry lost sight of the fact that in the long term, the three options for any brand are (a) better, (b) cheaper, and (c) gone.
+
+On pricing, using data gathered by Adam Josephson of Sakonnet Research, we can look at how, even as sales volumes collapsed (after the initial “let’s stay in, clean things and eat cookies” burst of early 2020) the industry went bananas with price increases, unwilling to give even an inch on margins. Just looking at this chart makes me not want to buy branded goods:
+
+It is worth noting just how futile the violent cost-cutting of the past decade or two has been. One industry observer described it as the “burn the furniture to make your quarter” approach. It did increase the margins of some companies quite dramatically for a while (one thinks of Kraft Heinz here). But the changes do not seem to have made the industry fundamentally leaner. I was surprised to discover, for example, that over the past 20 years or so, at many of the leading companies in the industry, asset turnover (how many dollars of revenue they squeeze out of each dollar of tangible assets) has actually gone down:
+
+What is next for the industry and the stocks? McKinsey thinks the industry can get back to 3 per cent organic volume growth — with a combination of more premium products for the US market, bigger exposure to developing countries, and smarter use of data, of which more and more is available. Maybe, but it’s going to be a hard climb back.
+
+No one could have predicted this.
+
+---
+
+## Japan’s bonds
+
+*2026-06-04 · Katie Martin · Unhedged · 1072 words*
+
+<https://www.ft.com/content/6d67410c-0445-4d3b-abb1-42489e2b9af6>
+
+Good morning. Vanguard’s S&P 500 ETF has become the first tracker to reach $1tn in assets. That’s one indication of how much appetite there is going to be for the expected AI IPOs, because the industry has made sure those IPOs will be jammed into the S&P as fast and hard as possible. But it’s also an important reminder that the astronomical valuations of SpaceX and friends are not altogether out of the ordinary in today’s fevered market. Have passive investors ever had it so good? Email us: unhedged@ft.com.
+
+Today, I ask whether Japan’s bonds are everyone’s problem, and Daire looks at what’s troubling India.
+
+The big drop in global government bond prices that started in March this year caught a lot of the supposed smart money off guard. Bonds normally love a bit of bad news, and a war in Iran certainly fits that bill, so it’s curious that on this occasion, inflation fears have dominated and shoved bond yields higher.
+
+Those yields have come off the boil a bit. But unlike stocks, bonds have not fully recovered — far from it — reflecting the expectation that central banks will try to snuff out impending inflation with rate increases. That’s the easy explanation and the biggest driver. But there are some important wrinkles.
+
+As we’ve written before, the violence of the immediate shake-out in the UK and Europe was amplified by the oversized role of hedge funds in markets that are, let’s face it, tiddly in comparison to the US. An additional source of weakness is the gnawing concern that governments will try to spend their way out of trouble. The bond vigilantes are waking from their slumber.
+
+Another line of thought is: blame Japan.
+
+Japan’s once moribund government bond market has always been a latent threat to global debt. In theory, as yields there pick up, Japanese investors will feel less need to invest overseas and will pull money home, denting markets for Treasuries and Eurozone govies. Foreign investors could also develop a taste for Japanese government bonds.
+
+In a note last month, HSBC’s Frederic Neumann and colleagues described this as “my JGBs, your problem”. Japan did not really have a fiscal problem, he wrote. The issue, rather, is that “a rise in Japanese yields ultimately adds pressure on government bond markets elsewhere”.
+
+Have people made this argument before, only to watch as nothing happened? Sure. But that doesn’t mean it’s not playing a role on the margin now. “Here, then, is a fundamental shift in the making: as bond yields rise in Japan, they end up pushing up funding costs not only locally, but across the world, too,” he wrote. “Those JGB yields . . . ultimately everybody’s problem.” Those yields, as they stand, are 2.5 per cent on the 10-years and 3.8 on the 30s.
+
+But there’s another curious angle here.
+
+Robin Brooks, a senior fellow at the Brookings Institution, argued in a blog post this week that Japan’s efforts to support the yen in recent weeks “will be adding upwards pressure to US Treasury yields because Japan will be selling Treasuries to get its hands on dollars that it then sells to buy its own currency in the vain hope that this will stop the yen from falling”.
+
+He continues:
+
+The latest warnings from Prime Minister Sanae Takaichi that she’s keeping a close eye on the ever-weakening yen suggest more intervention could be coming, which makes this line of thinking all the more pertinent.
+
+Brooks could well be on to something here. My JGBs, and my currency, your problem.
+
+We wrote recently about how emerging markets are weathering the current crisis. TLDR: not as badly as we expected. But it’s not all rosy. One of the more troubled cases is India, where inflation is up, the rupee is down and foreign investors have been fleeing. With the Reserve Bank of India meeting to set rates this week, we thought we’d take a look.
+
+India has been one of the bright spots in the global economy since Covid. It grew by more than 7 per cent every year since 2022, and in 2023 it overtook China in population size. In 2024, its stock market indices were among the best performing in Asia and EMs.
+
+Since the start of the war in Iran, however, inflationary pressures have ticked up. The main reason is that the country’s growth has been propelled by an appetite for energy imports second only to China’s. The surge in oil prices has slowed manufacturing. Until recently, consumers were protected by fuel subsidies. But last month, the government raised pump prices four times, increasing the price by 8-9 per cent in total.
+
+With energy prices up, the last thing a net energy importer needs is a falling currency. And in May, the rupee fell to its lowest ever level against the dollar. It’s since come back up a bit — probably thanks to RBI interventions — but it’s still down more than 6 per cent this year. India’s foreign exchange reserves, down about $50bn from $728bn just before the start of the war in Iran, are fortunately still among the largest in the world.
+
+None of this is helped by the large, sustained outflow of foreign investment from the Indian stock market. The sell-off started in late 2024, gathered pace in 2025 and accelerated after the start of the Iran war this year. According to Goldman Sachs, foreign institutional investors have sold a record $53bn, or 0.9 per cent of Indian market cap, since September 2024, surpassing the outflows seen during the global financial crisis in 2008-09. Its chart:
+
+One reason for the outflows has to be AI. India has a big business process outsourcing industry and those companies are now highly exposed to disruption by AI. Indian IT and software stocks are down 25 per cent this year, according to Capital Economics. Now that money’s flowing into chip stocks in Korea and Taiwan.
+
+The RBI could stem the outflows — and defend the rupee — by raising rates above their current 5.25 per cent. Markets are expecting two rate increases this year, but with the full impact of inflation yet to show up in the data, the first probably won’t come this week. What will come is a growth downgrade, and with that, Prime Minister Narendra Modi’s vision of a developed country by 2047 may be slipping out of reach.
+
+A currency at a crossroads.
+
+---
+
+## Hyperscalers and the equity tap: more to come
+
+*2026-06-03 · Hakyung Kim · Unhedged · 884 words*
+
+<https://www.ft.com/content/c9d562d6-1448-4a40-8198-0cb1f0dc2032>
+
+Good morning. David Solomon of Goldman Sachs yesterday said he thinks “there’s more greed than fear” in the markets. “That’s one of the reasons why people that need this capital are coming to the markets. Because the capital’s available,” he added. It’s a good reminder of the dangers of front-loaded, irrational exuberance, especially if the promises of AI productivity gains take longer to materialise than we expect. More on some of the new equity entering the market below. Email us: unhedged@ft.com.
+
+Alphabet on Monday announced plans to issue $80bn in equity to fund its AI spending spree. The Google owner has raised about $86bn in debt over the past 12 months to fund its capex expansion, including 100-year bonds, but this is its first share offering in more than 20 years. The last time any of the Magnificent 7 tech stocks sold equity to raise money was Meta in 2013.
+
+Alphabet shares dipped a bit less than 4 per cent yesterday, more than the dilution of current shareholders from the offering itself — so a signal of investor disapproval, but a mild one.
+
+Will more of the “hyperscalers” follow suit and tap equity markets? Given the breakneck pace of AI capex spending plans they’ve announced over the past year, they ought to consider it. Issuing debt has become expensive. For Alphabet, the yield on its 30-year bond is trading at 5.65 per cent, or 69 basis points above the 30-year Treasury. That’s much more expensive capital than selling shares at a multiple of 30 times earnings.
+
+The chart below, from Lotfi Karoui at Pimco, shows the 10-year/30-year yield curves for the investment-grade hyperscalers: Microsoft, Alphabet, Amazon, Meta, Apple and Oracle, which has a lower triple B rating. Both curves have steepened, even as curves flattened for other non-financial companies issuing debt:
+
+Equity is tempting, then. But the market might not be as receptive to other hyperscalers as it was to Alphabet. The Google owner is very likely benefiting from a first-mover advantage (as well as announcing this ahead of the big IPOs to come later this year). “They want to be opportunistic and take advantage by coming before, which makes it difficult for others trying to suck up liquidity,” said Divyaunsh Divatia at Janus Henderson.
+
+Investors are becoming more discerning about AI capex spending. Alphabet has a strong cloud services unit; by contrast, Meta’s AI business is unclear. The difference is reflected in a recent divergence in the valuation of the two companies.
+
+Relative to Alphabet’s $4.4tn market cap, $80bn in equity issuance is tiny. The same will probably hold for any hyperscalers that might follow suit. But the company’s move signifies a significant change in approach. Thomas Shipp from LPL Financial explains:
+
+The headlines around ex-BP chair Albert Manifold’s abrupt ousting last week put a spotlight on corporate culture, which is hard to quantify and thus usually ignored by investors until it blows up in their faces. The BP drama centres around allegations of bullying on Manifold’s part, which he denies. There’s a very good chance there’s more to this than what has been reported thus far, but that’s not in our lane.
+
+We were curious, however, as to whether corporate culture matters for returns. It’s clear that BP’s boardroom upheaval has amplified the company’s “ungovernable” reputation, causing concern for investors. Shares are down about 6 per cent since Manifold’s sacking. However, how ‘good’ culture affects share performance is not as straightforward. Defining good culture itself is a subjective process. High employee satisfaction, which generally indicates a company’s values align well with its practices, is a good proxy.
+
+Jillian Grennan of Emory University, who has interviewed 1,300 chief executives anonymously. They overwhelmingly named corporate culture as the top long-term driver of company value — showing that the idea of “culture over strategy” prevails. More tangibly, Grennan also tracked the stock performance of 200 companies whose CEOs disclosed their identities and found that they were significantly more likely to deliver positive earnings per share surprises.
+
+Cultural fit and alignment also rears its head during M&A deals. According to Grennan, more than a quarter of the CEOs she interviewed said they would discount their M&A offer price by 20 per cent for a culturally misaligned target.
+
+For investors — particularly retail investors who have less insight into corporate culture matters than, say, institutional groups — bad culture materialises more obviously (or publicly) than good culture does in financial performance. Namely, it shows up in the risk premium. As Rupert Younger of Oxford University tells Unhedged:
+
+There’s an interesting attempt at trying to gauge whether companies with good culture are actually more successful by Onveston Global Research in 2022, which built a portfolio from the 100 best companies to work for on Glassdoor and Great Place To Work and compared them against the S&P 500. What’s striking from the results is the outperformance of the “good culture” index during general economic crisis years such as 2009 and 2013 after the Eurozone crisis:
+
+There are some flaws to the methodology, such as the issue of survivorship bias (Onveston rebalanced the index every year according to the changes in the 100 best list). But it does raise a convincing argument for investors to keep an eye on the efforts companies make towards improving corporate culture.
+
+What we carry.
+
+---
+
+## IPO boom, market doom?
+
+*2026-06-02 · Katie Martin · Unhedged · 903 words*
+
+<https://www.ft.com/content/ec8324c1-f55b-4ea0-8372-e32c6fca0386>
+
+Good morning. Markets are bored to the back teeth of Iran. We seem to get a headline about an imminent breakthrough or additional bust-up every half hour. Markets’ responses, understandably, become steadily weaker and shorter.
+
+Meanwhile, Anthropic has offered access to its Mythos AI model to the EU — a source of comfort to those of us who worry about advanced AI as a threat to financial stability. The more official eyes on this thing, the better. Does this go far enough, though? If something goes wrong, it is governments (ie taxpayers, ie you) that will pay for the clean-up. Your thoughts are welcome as ever: unhedged@ft.com.
+
+Readers of this newsletter know that we are about to get a run of supersized, monster, massive stock market listings in the US — led by a trifecta of SpaceX, OpenAI and Anthropic, the last of which filed confidentially for a $1tn-plus listing on Monday. A bumper payday for company insiders, lawyers and equity capital markets bankers then, and we are all of course thrilled about that. But is it a cause for concern among the rest of us?
+
+Anyone with even vague memories of the dotcom boom and bust is certainly alert to the possibility that IPO hype can lead to market bust. As Dario Perkins at TS Lombard pointed out in a note on Monday, Alan Greenspan gets a fair amount of flak for the crash of early 2000, because of his role in raising Federal Reserve rates at the start of the millennium. But some blame also falls on a rash of late-cycle IPOs at the time, which gave insiders “the chance to dump their stocks on a wildly overexuberant public”.
+
+Perkins points to some of the classic top-of-the-cycle IPOs around that time — VA Linux, Pets.com, AskJeeves (which, surprisingly, died only in May this year) and Webvan. Most of those listings came with a lock-up for insiders, limiting their ability to dump shares for six months. Those lock-ups expired from around October 1999 to April 2000, which is suspiciously close to the point at which markets turned.
+
+Why might this be the case? Perkins says:
+
+See for example Blackstone Group going public in 2007 just before the property sector went splat, and Glencore in 2011, ringing the bell at the top of the commodities supercycle. Are there exceptions? Sure. But the rhyme with today’s AI gold rush is disconcerting. Perkins adds:
+
+One thing they do know, as I wrote in a column at the weekend, is that they have a new and improved super-swift route into the central nervous system of normie passive investment flows, thanks to rule changes at big index providers. I struggle to see how this is a good idea. Maybe it will help to dull the impact of a wave of locked-up stock hitting the market, by providing a ready-made buyer base? But is that good? We’re about to find out.
+
+The scale of lock-up flows we are talking about here could end up being pretty daunting. Goldman Sachs has crunched the numbers on this, and it’s worth rewinding a little on the top-line numbers on what’s going on with US IPOs this year. The short version of that is that IPOs are back, baby. After four slow years, 40 deals worth a combined $28bn have hit the market this year, the highest tally to the end of May since 2021, which, if you remember, was bonkers.
+
+The number of IPOs is not that much to write home about — we’re probably on pace for the historical annual average of 100, compared to 250 in 2021 and nearly 400 in 1999. But in dollar terms, the class of 2026 is right up there. Goldman has upped its forecast for the year’s IPO volume to $225bn, from $160bn, and it expects $675bn including follow-ons and other issuance. The question of how much new supply might come from lock-up expiries is tricky. It’s impossible to say how much the insiders will offload, after all. But looking back at previous examples of big IPOs with floats under 10 per cent, history shows those floats reach an average of 46 per cent a year later. A back-of-an-envelope calculation suggests that could mean nearly $500bn in potential supply from expiring lock-ups in 2026.
+
+It’s helpful to see this in chart form:
+
+Whee!
+
+Even if you look at that as a percentage of the size of the market, rather than in nominal terms, which is sensible, it’s still punchy:
+
+So, eyes on the insiders please, folks.
+
+Fertiliser costs are high. We have the Iran war to thank for that. So what would be really unhelpful now is super weird weather that harms crops and pushes up food prices still further. Well, guess what? Yup, it’s “Godzilla El Niño”.
+
+As Bryce Elder unpacked in detail over on FT Alphaville, meteorologists are pretty much nailing on the chance of a warming phase in the Pacific Ocean by July, with “potentially the most violent El Niño-Southern Oscillation on record”. Clearly the most important threat here is hunger and destruction. We’re not monsters, we get that. But in addition, tiresome finance people like us also worry about inflation, central bank reaction functions and asset prices.
+
+Hakan Kaya, a commodities portfolio manager at Neuberger, highlights cocoa, sugar, coffee and wheat as particularly vulnerable to supply shortages, adding (with our highlight):
+
+We are all weather watchers now.
+
+What China threat?
+
+---
+
+## Unavailable (paywalled — free-ft rewrite did not apply)
+
+- Magnificent Seven stocks shed $2.2tn in Wall Street tech rotation (2026-06-30) — https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174
+- BT’s turnaround is in the home stretch (2026-06-29) — https://www.ft.com/content/a8d3173c-127a-444d-8701-7e2faff6f8a7
+- Why keeping Europe cool need not be a luxury (2026-06-28) — https://www.ft.com/content/e66860fe-bc24-40c2-93f6-400a9e28ea2a
+- Struggling European carmakers have options, none of them good (2026-06-24) — https://www.ft.com/content/d6af558d-c6ff-4f1e-a92d-91b46084f405
+- SpaceX tests its reality-warping powers on bond market (2026-06-23) — https://www.ft.com/content/9669a946-be26-4790-b52a-3ca7df055cd4
+- Getty Images shows the inimitable value of an OpenAI photobomb (2026-06-23) — https://www.ft.com/content/8bf60277-d0c0-4ed8-b9b0-5fd3ec640f6b
+- Workers are emerging as the next big AI logjam (2026-06-21) — https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c
