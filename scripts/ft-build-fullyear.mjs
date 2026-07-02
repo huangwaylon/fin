@@ -34,11 +34,28 @@ if (existsSync(DIR + 'batches')) {
     ingest(Array.isArray(d) ? d : d.records, 'mcp:' + f);
   }
 }
-// 2. console-extractor parts from Downloads
+// 2. console-extractor downloads from Downloads (v1 parts + v2 single dump)
 if (existsSync(DL)) {
-  for (const f of readdirSync(DL).filter((f) => /^ft-fulltext-part-.*\.json$/.test(f))) {
-    ingest(JSON.parse(readFileSync(DL + '/' + f, 'utf8')), 'console:' + f);
+  for (const f of readdirSync(DL).filter((f) => /^ft-fullyear-all.*\.json$/.test(f) || /^ft-fulltext-part-.*\.json$/.test(f))) {
+    try { ingest(JSON.parse(readFileSync(DL + '/' + f, 'utf8')), 'console:' + f); } catch (e) { console.error('skip ' + f + ': ' + e.message); }
   }
+}
+// 3. the earlier "recent ~4 weeks" full-text run (ft-fulltext.json), keyed by url->uuid
+if (existsSync(DIR + 'ft-fulltext.json')) {
+  const prev = JSON.parse(readFileSync(DIR + 'ft-fulltext.json', 'utf8'));
+  ingest(
+    (prev.articles || []).map((a) => ({
+      uuid: (a.url || '').split('/content/')[1],
+      ok: true,
+      headline: a.headline,
+      author: a.author,
+      date: a.date,
+      section: (a.columns || [])[0] || null,
+      words: a.words,
+      body: a.body,
+    })),
+    'recent:ft-fulltext.json'
+  );
 }
 
 const rows = [];
